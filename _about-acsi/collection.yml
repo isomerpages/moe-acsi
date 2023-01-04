@@ -2,6 +2,5 @@ collections:
   about-acsi:
     output: true
     order:
-      - About ()/.keep
       - School Profile/School Profile.md
       - School Profile/.keep
