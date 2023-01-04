@@ -20,10 +20,10 @@ The IP allows students to progress from secondary to pre-university education wi
 
 The core purpose of our school remains to nurture ACSians to be catalysts for change with Godly values and robust character, equipped and willing to serve and lead in the family, nation and the global community. Our mission is to be a world-class institution, a beacon of truth and light, through the holistic development of our students.
 
-Our school vision for Years 1 – 4 students is:
-Every ACSian a Scholar, Officer, Gentleman
+Our school vision for Years 1 – 4 students is:   
+Every ACSian a Scholar, Officer, Gentleman   
 For God & Humanity
 
-Our school vision for Years 5 and 6 students is:
-Every ACSian a Scholar, Leader, Global Citizen
+Our school vision for Years 5 and 6 students is:   
+Every ACSian a Scholar, Leader, Global Citizen   
 For God & Humanity
