@@ -4,6 +4,9 @@ permalink: /about-acs-independent/heritage/our-crest-2/
 description: ""
 third_nav_title: Heritage
 ---
+<img src="/images/About%20ACS(I)/Heritage/Crest-2021.png" style="width:50%">
+
+
 The upper part of the crest\* shows a creature with a lion head, eagle wings and a dragon body with claws, symbolising the fact that the school was founded when Singapore was a British colony, by the American Methodist Mission, and during the Manchu dynasty in China.
 
 The lower part the crest comprises two panels in blue and gold; these which represent heaven and earth, and also symbolise spiritual and material accomplishment. The letters “ACS” in red symbolise life bridging heaven and earth, as well as the blood of Christ uniting heaven and earth.
