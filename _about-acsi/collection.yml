@@ -2,8 +2,8 @@ collections:
   about-acsi:
     output: true
     order:
-      - School Profile/Desired ACSian Outcomes.md
       - School Profile/.keep
       - School Profile/School Profile.md
       - School Profile/School Philosophy.md
       - School Profile/School Values.md
+      - School Profile/Desired ACSian Outcomes.md
