@@ -2,6 +2,6 @@ collections:
   about-acsi:
     output: true
     order:
-      - School Profile/School Philosophy.md
-      - School Profile/School Profile.md
       - School Profile/.keep
+      - School Profile/School Profile.md
+      - School Profile/School Philosophy.md
