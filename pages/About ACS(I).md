@@ -4,7 +4,7 @@ permalink: /about-acs-independent/
 description: ""
 ---
 |   |   |   |
-|---|---|---|
+|:---:|:---:|:---:|
 |   |   |   |
 |   |   |   |
 |   |   |   |
