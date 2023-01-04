@@ -12,8 +12,6 @@ Our ideal is Christlikeness, and we are inspired by the values espoused from the
 
 The purpose of a shield is to guard and protect.  We believe that living by our school values – represented by the acronym – SHIELD – will serve to guide and guard ACSians in their relationships, judgment and decision-making as they navigate through the complexities of life.
 
-<a href="/files/Announcement/2022-Term-2-Class-Timetable-10032022.pdf" target = "_blank"> <img src="/images/Announcements/3241389-200.png"
-     style="width:50%"></a>
+<a href="/images/About%20ACS(I)/School%20Profile/School%20Values/shield-11.png"> <img src="/images/About%20ACS(I)/School%20Profile/School%20Values/shield-11.png" style="width:100%"></a>
 		 
-<a href="/files/Announcement/2022-Term-2-Class-Timetable-10032022.pdf" target = "_blank"> <img src="/images/Announcements/3241389-200.png"
-     style="width:50%"></a>
+<a href="/images/About%20ACS(I)/School%20Profile/School%20Values/schoolvalues.png"> <img src="/images/About%20ACS(I)/School%20Profile/School%20Values/schoolvalues.png" style="width:80%"></a>
