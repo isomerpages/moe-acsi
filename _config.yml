@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d270c0tj2w26u.amplifyapp.com
 prod: https://master.d270c0tj2w26u.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: /images/cropped-Anglo-Chinese-School-Independent-PhotoRoom.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
