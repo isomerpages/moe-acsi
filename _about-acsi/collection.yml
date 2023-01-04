@@ -2,10 +2,10 @@ collections:
   about-acsi:
     output: true
     order:
-      - Heritage/Our Crest.md
+      - Heritage/.keep
       - Heritage/Heritage.md
       - Heritage/Origins.md
-      - Heritage/.keep
+      - Heritage/Our Crest.md
       - School Profile/.keep
       - School Profile/School Profile.md
       - School Profile/School Philosophy.md
