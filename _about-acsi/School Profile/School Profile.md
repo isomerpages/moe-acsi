@@ -8,7 +8,7 @@ third_nav_title: School Profile
 
 Anglo-Chinese School (ACS) was founded by Methodist Bishop William Fitzjames Oldham in 1886 with the purpose of nurturing students to be of service “for God and Humanity”.
 
-In January 1988, ACS became among the first schools to turn independent as part of the Ministry of Education’s initiative to diversify the national education landscape[1]() and subsequently the school was renamed ACS (Independent).
+In January 1988, ACS became among the first schools to turn independent as part of the Ministry of Education’s initiative to diversify the national education landscape <a id="#ftn1"></a><a href="#ftn2">[1]</a> and subsequently the school was renamed ACS (Independent).
 
 A Methodist institution, ACS (Independent) has a strong foundation in spiritual values, a tradition of excellence and a global perspective. It was authorised as an International Baccalaureate (IB) World School in 2005 and is the pioneer national school to offer the IB Diploma Programme. Today the school offers two academic tracks:
 
@@ -28,7 +28,7 @@ Every ACSian a Scholar, Leader, Global Citizen
 For God & Humanity
 
 
-<a id="#ftn1">[1]</a> [https://eresources.nlb.gov.sg/infopedia/articles/SIP\_2018-10-09\_152727.html](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2018-10-09_152727.html)
+<a id="#ftn2"></a><a href="#ftn1">[1]</a> [https://eresources.nlb.gov.sg/infopedia/articles/SIP\_2018-10-09\_152727.html](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2018-10-09_152727.html)
 
 <a href="/files/About%20ACS(I)/School%20Profile/ACSI-School-Profile-2022_final-compressed.pdf" target="_blank">To download our School Profile, click here.</a>
 
