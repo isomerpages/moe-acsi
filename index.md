@@ -4,14 +4,10 @@ title: Anglo Chinese School (Independent)
 description: Brief site description here
 image: /images/cropped-Anglo-Chinese-School-Independent-PhotoRoom.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      background: /images/Homepage/Homepage Main Image.jpg
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
@@ -29,6 +25,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
-
