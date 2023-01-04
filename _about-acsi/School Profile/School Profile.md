@@ -13,7 +13,7 @@ In January 1988, ACS became among the first schools to turn independent as part 
 
 A Methodist institution, ACS (Independent) has a strong foundation in spiritual values, a tradition of excellence and a global perspective. It was authorised as an International Baccalaureate (IB) World School in 2005 and is the pioneer national school to offer the IB Diploma Programme. Today the school offers two academic tracks:
 
-– the four-year Express programme leading to the GCE O-Level Examinations, and
+– the four-year Express programme leading to the GCE O-Level Examinations, and   
 – the six-year Integrated Programme (IP) leading to the IB Diploma programme.
 
 The IP allows students to progress from secondary to pre-university education without the requirement to sit the GCE O-Level Examinations.
