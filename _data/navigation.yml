@@ -1,6 +1,4 @@
 logo: /images/cropped-Anglo-Chinese-School-Independent-PhotoRoom.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: "About ACS(I) "
+    collection: about-acsi
