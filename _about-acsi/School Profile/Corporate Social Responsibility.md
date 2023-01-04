@@ -12,7 +12,7 @@ Our school’s Corporate Social Responsibility (CSR) is derived from our core pu
 
 Guided by our school’s core values SHIELD, in particular, that of Empathy, our staff and students are committed to actively contribute to and create a positive impact on the community and environment in two main areas of focus:
 
-[![](https://www.acsindep.moe.edu.sg/wp-content/uploads/2017/10/schoolprofilediagram09-1024x282.png)](https://www.acsindep.moe.edu.sg/wp-content/uploads/2017/10/schoolprofilediagram09.png)
+<a href="/images/About%20ACS(I)/School%20Profile/schoolprofilediagram09.png"> <img src="/images/About%20ACS(I)/School%20Profile/schoolprofilediagram09.png"></a>
 
 **Empathy for the Community**
 
