@@ -2,9 +2,9 @@ collections:
   about-acsi:
     output: true
     order:
-      - VENUE HIRE/Performing Arts.md
-      - VENUE HIRE/Venue Hire.md
       - VENUE HIRE/.keep
+      - VENUE HIRE/Venue Hire.md
+      - VENUE HIRE/Performing Arts.md
       - SCHOOL PROFILE/.keep
       - SCHOOL PROFILE/School Profile.md
       - SCHOOL PROFILE/School Philosophy.md
