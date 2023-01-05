@@ -2,6 +2,7 @@ collections:
   about-acsi:
     output: true
     order:
+      - BOARDING SCHOOL/Boarding School.md
       - BOARDING SCHOOL/.keep
       - SCHOOL PROFILE/.keep
       - SCHOOL PROFILE/School Profile.md
