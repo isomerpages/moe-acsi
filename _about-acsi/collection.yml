@@ -2,6 +2,7 @@ collections:
   about-acsi:
     output: true
     order:
+      - SCHOOL FEES/Financial Assistance.md
       - SCHOOL FEES/.keep
       - SCHOOL FEES/School Fees.md
       - SCHOOL FEES/GIRO Collection.md
