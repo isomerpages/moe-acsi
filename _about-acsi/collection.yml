@@ -2,7 +2,6 @@ collections:
   about-acsi:
     output: true
     order:
-      - BOARDING SCHOOL/Boarding School Newsletter.md
       - BOARDING SCHOOL/.keep
       - BOARDING SCHOOL/Boarding School.md
       - BOARDING SCHOOL/Management.md
@@ -14,6 +13,7 @@ collections:
       - BOARDING SCHOOL/FAQs.md
       - BOARDING SCHOOL/Boarders’ Application.md
       - BOARDING SCHOOL/Accommodations for NUS students.md
+      - BOARDING SCHOOL/Boarding School Newsletter.md
       - SCHOOL PROFILE/.keep
       - SCHOOL PROFILE/School Profile.md
       - SCHOOL PROFILE/School Philosophy.md
