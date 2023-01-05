@@ -2,6 +2,12 @@ collections:
   about-acsi:
     output: true
     order:
+      - School Profile/.keep
+      - School Profile/School Profile.md
+      - School Profile/School Philosophy.md
+      - School Profile/School Values.md
+      - School Profile/Desired ACSian Outcomes.md
+      - School Profile/Corporate Social Responsibility.md
       - Heritage/.keep
       - Heritage/Heritage.md
       - Heritage/Origins.md
@@ -11,9 +17,3 @@ collections:
       - Heritage/Terms and Conditions of the ACS Online Heritage Photo Gallery.md
       - Heritage/ACS Magazines.md
       - Heritage/Exhibition Catalogues.md
-      - School Profile/.keep
-      - School Profile/School Profile.md
-      - School Profile/School Philosophy.md
-      - School Profile/School Values.md
-      - School Profile/Desired ACSian Outcomes.md
-      - School Profile/Corporate Social Responsibility.md
