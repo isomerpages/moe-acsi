@@ -52,7 +52,7 @@ Once approved, the ISB will provide the benefits shown in the table below:
 <td width="340">
 <p>● 100% subsidy of school and miscellaneous fees</p>
 <p>● Free textbooks and school attire at Secondary level; Annual bursary of $1,200 at Pre-University level</p>
-<p>● Full subsidy of exam fees&nbsp;<a name="_ednref1"></a><a href="https://www.acsindep.moe.edu.sg/about-acs-independent/fee/financial-assistance/#_edn1">[i]</a></p>
+<p>● Full subsidy of exam fees&nbsp;<a name="_ednref1"></a><a href="/about-acs-independent/fee/financial-assistance/#_edn1">[i]</a></p>
 <p>● Transport subsidy: $17 per month from the month of approval, up to $204 per annum* (for students taking public transport)</p>
 <p>● School meal subsidies of $3.50 per meal for 10</p>
 <p>meals per school week for secondary level</p>
@@ -79,8 +79,8 @@ Once approved, the ISB will provide the benefits shown in the table below:
 </tr>
 </tbody>
 </table>
-
-[\[i\]](https://www.acsindep.moe.edu.sg/about-acs-independent/fee/financial-assistance/#_ednref1) Applicable for students enrolled in the IB Diploma Programme only. Exam fees for GCE ‘O’ and ‘A’ levels have been waived for all Singapore citizens in Government-funded schools from 2015.
+<a id="_edn1"></a>
+[\[i\]](/about-acs-independent/fee/financial-assistance/#_ednref1) Applicable for students enrolled in the IB Diploma Programme only. Exam fees for GCE ‘O’ and ‘A’ levels have been waived for all Singapore citizens in Government-funded schools from 2015.
 
 \* The public transport subsidy will be based on the number of remaining months in the calendar year in which your application is approved.
 
