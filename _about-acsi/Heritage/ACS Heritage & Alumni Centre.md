@@ -10,6 +10,14 @@ To mark ACS’ 135th anniversary in 2021, the school opened the ACS Heritage & A
 
 ![](/images/About%20ACS(I)/Heritage/History.jpg)
 
-Interior of the ACS Heritage & Alumni Centre
+<center><b>Interior of the ACS Heritage & Alumni Centre</b></center>
 
 ![](/images/About%20ACS(I)/Heritage/History-2.jpg)
+
+<center><b>1 March 2021 – Opening of Heritage & Alumni Centre by Dr Lee Suan Yew, Chairman ACS(I) Board of Management 1990 – 1995</b></center>
+
+**ACS Online Heritage Photo Gallery**
+
+You can visit the ACS Online Heritage Photo Gallery [here](https://acsheritage.smugmug.com/).
+
+Terms and Conditions of the ACS Online Heritage Photo Gallery can be found [here](/about-acs-independent/heritage/terms-and-conditions-of-the-acs-online-heritage-photo-gallery/).
