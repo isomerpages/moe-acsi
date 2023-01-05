@@ -2,7 +2,6 @@ collections:
   about-acsi:
     output: true
     order:
-      - Board of Governors.md
       - School Profile/.keep
       - School Profile/School Profile.md
       - School Profile/School Philosophy.md
@@ -19,3 +18,4 @@ collections:
       - Heritage/ACS Magazines.md
       - Heritage/Exhibition Catalogues.md
       - The Principal’s Message in Echo.md
+      - Board of Governors.md
