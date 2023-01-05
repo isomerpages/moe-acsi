@@ -1,4 +1,5 @@
 collections:
   the-acsi-experience:
     output: true
-    order: []
+    order:
+      - The ACS(I) Experience.md
