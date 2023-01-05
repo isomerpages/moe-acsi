@@ -53,4 +53,4 @@ description: ""
 *   [July 2012](https://www.acsindep.moe.edu.sg/wp-content/uploads/2017/11/Principals_Msg_July_2012.pdf)<a href="/files/About%20ACS(I)/Principal’s%20Message%20in%20Echo/" target="_blank"></a>
 *   [March 2012](https://www.acsindep.moe.edu.sg/wp-content/uploads/2017/11/PrincipalMsg_Mar2012.pdf)<a href="/files/About%20ACS(I)/Principal’s%20Message%20in%20Echo/" target="_blank"></a>
 *   [October 2011](https://www.acsindep.moe.edu.sg/wp-content/uploads/2017/11/PrincipalMsg_Oct_2011.pdf)<a href="/files/About%20ACS(I)/Principal’s%20Message%20in%20Echo/" target="_blank"></a>
-*   [August/September 2011](https://www.acsindep.moe.edu.sg/wp-content/uploads/2017/11/echo2011AugSepissuePrincipalMsg.pdf)<a href="/files/About%20ACS(I)/Principal’s%20Message%20in%20Echo/" target="_blank"></a>
+*  <a href="/files/About%20ACS(I)/Principal’s%20Message%20in%20Echo/echo2011AugSepissuePrincipalMsg.pdf" target="_blank">August/September 2011</a>
