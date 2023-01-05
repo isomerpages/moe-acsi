@@ -2,7 +2,6 @@ collections:
   about-acsi:
     output: true
     order:
-      - The Principal’s Message in Echo.md
       - School Profile/.keep
       - School Profile/School Profile.md
       - School Profile/School Philosophy.md
@@ -18,3 +17,4 @@ collections:
       - Heritage/Terms and Conditions of the ACS Online Heritage Photo Gallery.md
       - Heritage/ACS Magazines.md
       - Heritage/Exhibition Catalogues.md
+      - The Principal’s Message in Echo.md
