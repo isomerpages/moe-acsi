@@ -2,12 +2,12 @@ collections:
   about-acsi:
     output: true
     order:
-      - Heritage/ACS Heritage & Alumni Centre.md
       - Heritage/.keep
       - Heritage/Heritage.md
       - Heritage/Origins.md
       - Heritage/Our Crest.md
       - Heritage/Our Anthem.md
+      - Heritage/ACS Heritage & Alumni Centre.md
       - School Profile/.keep
       - School Profile/School Profile.md
       - School Profile/School Philosophy.md
