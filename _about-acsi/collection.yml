@@ -2,7 +2,6 @@ collections:
   about-acsi:
     output: true
     order:
-      - Careers.md
       - SCHOOL PROFILE/.keep
       - SCHOOL PROFILE/School Profile.md
       - SCHOOL PROFILE/School Philosophy.md
@@ -41,3 +40,4 @@ collections:
       - BOARDING SCHOOL/Boarding School Newsletter.md
       - Affiliated Institutions.md
       - Contact Us.md
+      - Careers.md
