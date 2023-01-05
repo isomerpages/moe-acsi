@@ -2,12 +2,6 @@ collections:
   about-acsi:
     output: true
     order:
-      - VENUE HIRE/.keep
-      - VENUE HIRE/Venue Hire.md
-      - VENUE HIRE/Performing Arts.md
-      - VENUE HIRE/Summary Info & Pricing.md
-      - VENUE HIRE/Terms & Conditions.md
-      - VENUE HIRE/Contact Us.md
       - SCHOOL PROFILE/.keep
       - SCHOOL PROFILE/School Profile.md
       - SCHOOL PROFILE/School Philosophy.md
@@ -51,3 +45,9 @@ collections:
       - SCHOOL FEES/School Fees.md
       - SCHOOL FEES/GIRO Collection.md
       - SCHOOL FEES/Financial Assistance.md
+      - VENUE HIRE/.keep
+      - VENUE HIRE/Venue Hire.md
+      - VENUE HIRE/Performing Arts.md
+      - VENUE HIRE/Summary Info & Pricing.md
+      - VENUE HIRE/Terms & Conditions.md
+      - VENUE HIRE/Contact Us.md
