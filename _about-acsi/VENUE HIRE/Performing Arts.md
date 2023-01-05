@@ -22,8 +22,8 @@ third_nav_title: VENUE HIRE
 
 # Centre for Performing Arts 1
 
-<a href=""><img src="" style="width:25%;float:left;padding:5px"></a>
-<a href=""><img src="" style="width:25%;float:left;padding:5px"></a>
+<a href="/images/About%20ACS(I)/Venue%20Hire/Performing%20Arts/03cpa1_people-e1458522613362.jpg"><img src="/images/About%20ACS(I)/Venue%20Hire/Performing%20Arts/03cpa1_people-e1458522613362.jpg" style="width:25%;float:left;padding:5px"></a>
+<a href="/images/About%20ACS(I)/Venue%20Hire/Performing%20Arts/03cpa1-e1458522641545.jpg"><img src="/images/About%20ACS(I)/Venue%20Hire/Performing%20Arts/03cpa1-e1458522641545.jpg" style="width:25%;float:left;padding:5px"></a>
 <br clear="left">
 
 # Centre for Performing Arts 2
