@@ -52,3 +52,41 @@ Additional fees for vacation stay during the school holidays will be charged at 
 </tr>
 </tbody>
 </table>
+
+**FOR ACS (INTERNATIONAL) BOARDERS**
+
+All registered ACS (International) students either Local or Foreign will be allowed to apply for residence. Boarding School fees are charged by the Semester. New applicants will be charged a non-refundable admin fee of $80, along with a non-refundable application fee of $200 which is deductible from the 1st payment.
+
+Additional fees for vacation stay during the school holidays will be charged at weekly fees depending on the duration of stay.
+
+A deposit of $1,000 will be collected and refunded only after the completion of stay and upon full compliance of Terms and Conditions.
+
+<table border="1" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" colspan="3" width="126"><strong>(All fees quoted are&nbsp;<u>exclusive</u>&nbsp;of GST):</strong></td>
+</tr>
+<tr>
+<td width="126"><strong>Room Type</strong></td>
+<td width="95"><strong>Per Semester</strong></td>
+<td width="86"><strong>Per Week</strong></td>
+</tr>
+<tr>
+<td width="126">Single (Super Deluxe) &ndash; 12sqm
+<p>Private Toilet</p>
+</td>
+<td width="95">$9,900</td>
+<td width="86">$495</td>
+</tr>
+<tr>
+<td width="126">Single &ndash; 15sqm</td>
+<td width="95">$9,000</td>
+<td width="86">$450</td>
+</tr>
+<tr>
+<td width="126">Double &ndash; 30sqm</td>
+<td width="95">$8,000</td>
+<td width="86">$400</td>
+</tr>
+</tbody>
+</table>
