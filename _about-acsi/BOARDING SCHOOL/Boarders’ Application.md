@@ -6,8 +6,8 @@ third_nav_title: BOARDING SCHOOL
 ---
 ACS (Independent) and ACS (International Students) should submit your applications using the forms below.
 
-*   **[Boarding School Application Form](https://forms.office.com/r/bTRQx2xiPy)**
-*   **[Boarding School Application Form – ACS International](https://forms.office.com/r/RfnnmNMHLT)**
+*   **[Boarding School Application Form]<a href="" target="_blank"></a>(https://forms.office.com/r/bTRQx2xiPy)**
+*   **[Boarding School Application Form – ACS International]<a href="" target="_blank"></a>(https://forms.office.com/r/RfnnmNMHLT)**
 
 Completed application forms should be submitted to:
 
