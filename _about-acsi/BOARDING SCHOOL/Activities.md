@@ -32,4 +32,7 @@ There are also weekly fellowship meetings known as ‘Koinonia’, in which insp
 
 |   |   |   |
 |:---:|:---:|:-----:|
-|   |   |   |
+| ![](/images/About%20ACS(I)/Boarding%20School/Hall-Based-Koinonia_1.jpg)  | ![](/images/About%20ACS(I)/Boarding%20School/Hall-Based-Koinonia_2-scaled.jpg)  | ![](/images/About%20ACS(I)/Boarding%20School/Hall-Based-Koinonia_3-scaled.jpg)  |
+
+<center><i>Hall-Based Koinonia</i></center>
+
