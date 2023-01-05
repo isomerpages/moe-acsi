@@ -2,18 +2,6 @@ collections:
   about-acsi:
     output: true
     order:
-      - BOARDING SCHOOL/.keep
-      - BOARDING SCHOOL/Boarding School.md
-      - BOARDING SCHOOL/Management.md
-      - BOARDING SCHOOL/Rooms.md
-      - BOARDING SCHOOL/Fees.md
-      - BOARDING SCHOOL/Facilities.md
-      - BOARDING SCHOOL/Activities.md
-      - BOARDING SCHOOL/Discipline.md
-      - BOARDING SCHOOL/FAQs.md
-      - BOARDING SCHOOL/Boarders’ Application.md
-      - BOARDING SCHOOL/Accommodations for NUS students.md
-      - BOARDING SCHOOL/Boarding School Newsletter.md
       - SCHOOL PROFILE/.keep
       - SCHOOL PROFILE/School Profile.md
       - SCHOOL PROFILE/School Philosophy.md
@@ -38,3 +26,15 @@ collections:
       - STAFF LIST/Dean & Directors.md
       - STAFF LIST/Executive & Support Staff.md
       - Financial Information.md
+      - BOARDING SCHOOL/.keep
+      - BOARDING SCHOOL/Boarding School.md
+      - BOARDING SCHOOL/Management.md
+      - BOARDING SCHOOL/Rooms.md
+      - BOARDING SCHOOL/Fees.md
+      - BOARDING SCHOOL/Facilities.md
+      - BOARDING SCHOOL/Activities.md
+      - BOARDING SCHOOL/Discipline.md
+      - BOARDING SCHOOL/FAQs.md
+      - BOARDING SCHOOL/Boarders’ Application.md
+      - BOARDING SCHOOL/Accommodations for NUS students.md
+      - BOARDING SCHOOL/Boarding School Newsletter.md
