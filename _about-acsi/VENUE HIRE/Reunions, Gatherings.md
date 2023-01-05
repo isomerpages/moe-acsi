@@ -8,6 +8,11 @@ Organise your reunions and special occasions in school and recreate a unique exp
 
 # Dining Hall 1
 
+<a href=""><img src="" style="width:25%;float:left;padding:5px"></a>
+<a href=""><img src="" style="width:25%;float:left;padding:5px"></a>
+<a href=""><img src="" style="width:25%;float:left;padding:5px"></a>
+<a href=""><img src="" style="width:25%;float:left;padding:5px"></a>
+<br clear="left">
 # Dining Hall 2
 
 <a href=""><img src="" style="width:25%;float:left;padding:5px"></a>
@@ -15,7 +20,11 @@ Organise your reunions and special occasions in school and recreate a unique exp
 <br clear="left">
 
 # SAC
-
+<a href=""><img src="" style="width:25%;float:left;padding:5px"></a>
+<a href=""><img src="" style="width:25%;float:left;padding:5px"></a>
+<a href=""><img src="" style="width:25%;float:left;padding:5px"></a>
+<a href=""><img src="" style="width:25%;float:left;padding:5px"></a>
+<br clear="left">
 # Foyer (Non-Aircon)
 
 <a href=""><img src="" style="width:25%;float:left;padding:5px"></a>
