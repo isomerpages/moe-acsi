@@ -34,3 +34,30 @@ Once approved, the ISB will provide the benefits shown in the table below:
 ~ GGAS fee comprises school fee, standard miscellaneous fee and maximum 2nd tier miscellaneous fee payable by Singapore Citizen students in a GGAS.
 
 Should there be a requirement for any further subsidy for any other school activity/programme, parents should write directly to our Deputy Principal, Mr Patrick Soo ([patrick@acsindep.edu.sg](mailto:patrick@acsindep.edu.sg)) and complete the relevant application forms. Full disclosure is necessary for applications to be processed.
+
+
+**UPLIFT Scholarship**
+
+The UPLIFT scholarship for Independent Schools provides a monetary award of $800 per year for Singapore citizens who
+
+*   are admitted through the Direct School Admission and/or qualify for the Edusave Scholarship, **and**
+*   qualify for 100% fee subsidy under the ISB.
+
+The UPLIFT scholarship is automatically awarded to eligible students and no separate application is needed. For more information please refer to [https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships](https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships)
+
+<a id="top"></a>
+**Apart from the MOE ISB, our school has following scholarships, bursaries and assistance scheme in place:** 
+
+a) School-based scholarships:
+
+*   Khoo Yang Tin Scholarships
+*   Leong Family Scholarships
+*   Wong Hin Sun Scholarships
+
+b) School-based bursaries:
+
+*   The ACS Class of 78 Bursary, The Earnest Lau Bursary, and The Hee Chit Lim and Chu Yung Yung Bursary
+*   Chou Family Bursary
+*   Ho Poh Huat Bursary
+
+c) The ACS (Independent) Pocket Money Fund
