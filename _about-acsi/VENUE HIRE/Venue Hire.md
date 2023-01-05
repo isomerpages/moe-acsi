@@ -8,4 +8,12 @@ Located centrally at Dover Road, our school provides a convenient and ideal loca
 
 Churches, affiliated schools and alumni enjoy preferential rates.
 
+|   |   |
+|---|---|
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+
+
 For enquires on booking and other facilities, please contact [venue@acsindep.edu.sg](mailto:venue@acsindep.edu.sg)
