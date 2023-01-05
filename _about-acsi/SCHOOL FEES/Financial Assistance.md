@@ -18,4 +18,10 @@ Application forms are available from the Front Office and [Parents’ Portal](h
 
 Omission may result in a delay in the processing of the application and in turn, a delay in the awarding of the ISB.  Students should pay the full amount of school fees until their application for the ISB has been processed and have received written advice from the School.
 
-Applications may be made throughout the year as exigencies of each family’s financial situation demand.  However, each MOE ISB award is effective from the month the application is approved and may not  be back-dated. Approved ISBs are valid till December of the year. Fresh applications will have to be submitted for each subsequent academic year.
+Applications may be made throughout the year as exigencies of each family’s financial situation demand.  However, each MOE ISB award is effective from the month the application is approved and <u>may not</u>  be back-dated. Approved ISBs are valid till December of the year. Fresh applications will have to be submitted for each subsequent academic year.
+
+**Income Limits & Benefits**
+
+The student needs only satisfy either the Gross Household Income (GHI) or the Per Capita Income (PCI) criterion. PCI is computed based on the GHI divided by the number of members in the household.
+
+Once approved, the ISB will provide the benefits shown in the table below:
