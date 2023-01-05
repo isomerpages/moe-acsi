@@ -2,6 +2,7 @@ collections:
   about-acsi:
     output: true
     order:
+      - About ACS(I).md
       - SCHOOL PROFILE/.keep
       - SCHOOL PROFILE/School Profile.md
       - SCHOOL PROFILE/School Philosophy.md
