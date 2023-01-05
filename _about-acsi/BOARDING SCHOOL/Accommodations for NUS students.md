@@ -4,5 +4,6 @@ permalink: /accommodations-for-nus-students/
 description: ""
 third_nav_title: BOARDING SCHOOL
 ---
-[Link](https://forms.office.com/r/jamsLQMLBP) to Application form
+<a href="https://forms.office.com/r/jamsLQMLBP" target="_blank">Link</a> to Application form
 
+![](/images/About%20ACS(I)/Boarding%20School/ACSI-Boarding-School-Flyer_updated-email.jpg)
