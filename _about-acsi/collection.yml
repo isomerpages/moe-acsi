@@ -2,6 +2,7 @@ collections:
   about-acsi:
     output: true
     order:
+      - Heritage/ACS Heritage & Alumni Centre.md
       - Heritage/.keep
       - Heritage/Heritage.md
       - Heritage/Origins.md
