@@ -14,3 +14,19 @@ third_nav_title: VENUE HIRE
 | **Centre for Performing Arts 2** \*                                                                                                  | 1,036                    | $3,781.00     | $1,418.00                 |
 | **Auditorium 1** \*                                                                                                                  | 1,919                    | $2,578.00     | $1,203.00                 |
 | **Auditorium 2** \*                                                                                                                  | 2,510-2,710              | $5,156.00     | $2,234.00                 |
+
+**\* Equipment available for CPA 1 & 2, Auditorium 1 & 2:**
+
+*   Overhead projectors and screens; audio and video
+*   Production lighting system
+*   Dressing rooms
+*   2 wireless and 2 podium microphones
+*   Rostrum (available upon request and subject to availability).
+
+_Updated as of September 2022._
+
+\*\*\*
+
+Hire of facilities and use of equipment must be accompanied by the hire of our school’s technician services. **Above prices are not inclusive of manpower costs and are for venue charges only.**
+
+All prices are subject to prevailing GST.
