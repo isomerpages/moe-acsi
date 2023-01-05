@@ -4,7 +4,7 @@ permalink: /about-acs-independent/boarding-school/
 description: ""
 third_nav_title: BOARDING SCHOOL
 ---
-
+![](/images/About%20ACS(I)/Boarding%20School/ACSI-Boarding-School-banner.png)
 
 Established in 1994, the ACS (Independent) Boarding School is home to about 500 students and staff. Each hall has carefully selected resident staff who provide a balance of academic and pastoral support.
 
