@@ -2,6 +2,7 @@ collections:
   about-acsi:
     output: true
     order:
+      - Heritage/Exhibition Catalogues.md
       - Heritage/.keep
       - Heritage/Heritage.md
       - Heritage/Origins.md
