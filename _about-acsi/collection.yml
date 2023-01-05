@@ -2,6 +2,7 @@ collections:
   about-acsi:
     output: true
     order:
+      - STAFF LIST/Staff List.md
       - STAFF LIST/.keep
       - School Profile/.keep
       - School Profile/School Profile.md
