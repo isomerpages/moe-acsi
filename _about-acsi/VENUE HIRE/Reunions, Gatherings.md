@@ -38,8 +38,8 @@ Organise your reunions and special occasions in school and recreate a unique exp
 
 # Outside CPA1 (For reception)
 
-<a href=""><img src="" style="width:25%;float:left;padding:5px"></a>
-<a href=""><img src="" style="width:25%;float:left;padding:5px"></a>
+<a href="/images/About%20ACS(I)/Venue%20Hire/Reunions,%20Gatherings/Outside-CPA1_01-300x200.jpg"><img src="/images/About%20ACS(I)/Venue%20Hire/Reunions,%20Gatherings/Outside-CPA1_01-300x200.jpg" style="width:25%;float:left;padding:5px"></a>
+<a href="/images/About%20ACS(I)/Venue%20Hire/Reunions,%20Gatherings/Outside-CPA1_02-300x200.jpg"><img src="/images/About%20ACS(I)/Venue%20Hire/Reunions,%20Gatherings/Outside-CPA1_02-300x200.jpg" style="width:25%;float:left;padding:5px"></a>
 <br clear="left">
 
 *   Tables and other furniture are not provided. Cost is inclusive of air conditioning, lighting and electricity
