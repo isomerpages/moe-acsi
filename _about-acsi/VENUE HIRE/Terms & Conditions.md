@@ -71,8 +71,8 @@ third_nav_title: VENUE HIRE
 26\. ACS (Independent) reserves the right to refuse the use of the Facilities in the event of any breach of the terms and conditions herein. No request for refund of prepaid rental will be entertained in such circumstances.
 
 27\. For rental of the auditoriums, the following will be provided:  
-1) Fixed ceiling projector  
-2) Projector screen  
-3) AV System  
-4) Use of 2 wireless + 2 podium microphone. Hirers are advised to bring in their own technicians if additional equipment is required.  
-5) Rostrum (Upon request and subject to availability)
+1\) Fixed ceiling projector  
+2\) Projector screen  
+3\) AV System  
+4\) Use of 2 wireless + 2 podium microphone. Hirers are advised to bring in their own technicians if additional equipment is required.  
+5\) Rostrum (Upon request and subject to availability)
