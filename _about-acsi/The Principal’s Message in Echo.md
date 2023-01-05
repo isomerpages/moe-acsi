@@ -28,7 +28,7 @@ description: ""
 *   <a href="/files/About%20ACS(I)/Principal’s%20Message%20in%20Echo/Principals-Message-Jan-Feb-2019.pdf" target="_blank">January/February 2019</a>
 *   <a href="/files/About%20ACS(I)/Principal’s%20Message%20in%20Echo/Principals-message-Oct-2018.pdf" target="_blank">October/November 2018</a>
 *   <a href="/files/About%20ACS(I)/Principal’s%20Message%20in%20Echo/principals-msgl-May.pdf" target="_blank">May/June 2018</a>
-*   <a href="/files/About%20ACS(I)/Principal’s%20Message%20in%20Echo/Princapals-message-Feb-2018.pdf" target="_blank">February 2018</a>)
+*   <a href="/files/About%20ACS(I)/Principal’s%20Message%20in%20Echo/Princapals-message-Feb-2018.pdf" target="_blank">February 2018</a>
 *   <a href="/files/About%20ACS(I)/Principal’s%20Message%20in%20Echo/Principals-Message-Oct-2017.pdf" target="_blank">October/November 2017</a>
 *   <a href="/files/About%20ACS(I)/Principal’s%20Message%20in%20Echo/Principal-August-September-2017.pdf" target="_blank">August-September 2017</a>
 *   <a href="/files/About%20ACS(I)/Principal’s%20Message%20in%20Echo/Principal-MayJune-2017.pdf" target="_blank">May-June 2017</a>
