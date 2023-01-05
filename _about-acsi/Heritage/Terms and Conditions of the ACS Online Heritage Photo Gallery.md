@@ -4,4 +4,4 @@ permalink: /about-acs-independent/heritage/terms-and-conditions-of-the-acs-onlin
 description: ""
 third_nav_title: Heritage
 ---
-Terms and Conditions of the ACS Online Heritage Photo Gallery
+Terms and Conditions of the <a href="https://acsheritage.smugmug.com/" target="_blank">ACS Online Heritage Photo Gallery</a>
