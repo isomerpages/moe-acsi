@@ -2,6 +2,7 @@ collections:
   about-acsi:
     output: true
     order:
+      - Heritage/Terms and Conditions of the ACS Online Heritage Photo Gallery.md
       - Heritage/.keep
       - Heritage/Heritage.md
       - Heritage/Origins.md
