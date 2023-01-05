@@ -26,6 +26,59 @@ The student needs only satisfy either the Gross Household Income (GHI) or the Pe
 
 Once approved, the ISB will provide the benefits shown in the table below:
 
+<table border="1" width="100%">
+<tbody>
+<tr>
+<td colspan="2" width="312"><strong>Income Limits</strong>
+<p><strong>(Meet one of the following criteria)</strong></p>
+</td>
+<td rowspan="2" width="340">
+<p><strong>Benefits with effect from 1 January 2023</strong></p>
+</td>
+</tr>
+<tr>
+<td width="179"><strong>Monthly Gross</strong>
+<p><strong>Household Income (GHI)</strong></p>
+</td>
+<td width="132"><strong>Per Capita Income (PCI)</strong></td>
+</tr>
+<tr>
+<td width="179">
+<p>Not exceeding $3,000</p>
+</td>
+<td width="132">
+<p>Not exceeding $750</p>
+</td>
+<td width="340">
+<p>● 100% subsidy of school and miscellaneous fees</p>
+<p>● Free textbooks and school attire at Secondary level; Annual bursary of $1,200 at Pre-University level</p>
+<p>● Full subsidy of exam fees&nbsp;<a name="_ednref1"></a><a href="https://www.acsindep.moe.edu.sg/about-acs-independent/fee/financial-assistance/#_edn1">[i]</a></p>
+<p>● Transport subsidy: $17 per month from the month of approval, up to $204 per annum* (for students taking public transport)</p>
+<p>● School meal subsidies of $3.50 per meal for 10</p>
+<p>meals per school week for secondary level</p>
+</td>
+</tr>
+<tr>
+<td width="179">
+<p>$3,001 &ndash; $4,400</p>
+</td>
+<td width="132">
+<p>$751 &ndash; $1,100</p>
+</td>
+<td width="340">Subsidy such that student pays the same fee as student studying in government and government-aided schools (GGAS)</td>
+</tr>
+<tr>
+<td width="179">$4,401 &ndash; $7,500</td>
+<td width="132">$1,101 &ndash; $1,875</td>
+<td width="340">Subsidy such that student pays 1.5 x GGAS fee</td>
+</tr>
+<tr>
+<td width="179">$7,501 &ndash; $10,000</td>
+<td width="132">$1,876 &ndash; $2,500</td>
+<td width="340">33% subsidy of school and miscellaneous fees</td>
+</tr>
+</tbody>
+</table>
 
 [\[i\]](https://www.acsindep.moe.edu.sg/about-acs-independent/fee/financial-assistance/#_ednref1) Applicable for students enrolled in the IB Diploma Programme only. Exam fees for GCE ‘O’ and ‘A’ levels have been waived for all Singapore citizens in Government-funded schools from 2015.
 
