@@ -2,10 +2,10 @@ collections:
   about-acsi:
     output: true
     order:
-      - VENUE HIRE/Terms & Conditions.md
       - VENUE HIRE/.keep
       - VENUE HIRE/Venue Hire.md
       - VENUE HIRE/Performing Arts.md
+      - VENUE HIRE/Terms & Conditions.md
       - VENUE HIRE/Contact Us.md
       - SCHOOL PROFILE/.keep
       - SCHOOL PROFILE/School Profile.md
