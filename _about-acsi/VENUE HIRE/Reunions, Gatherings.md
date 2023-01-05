@@ -8,7 +8,7 @@ Organise your reunions and special occasions in school and recreate a unique exp
 
 # Dining Hall 1
 
-<a href="/images/About%20ACS(I)/Venue%20Hire/Reunions,%20Gatherings/Dining-hall-300x225.jpg"><img src="/images/About%20ACS(I)/Venue%20Hire/Reunions,%20Gatherings/Dining-hall-300x225.jpg" style="width:215px;height:130px; float:left;padding:5px"></a>
+<a href="/images/About%20ACS(I)/Venue%20Hire/Reunions,%20Gatherings/Dining-hall-300x200.jpg"><img src="/images/About%20ACS(I)/Venue%20Hire/Reunions,%20Gatherings/Dining-hall-300x200.jpg" style="width:25%; float:left;padding:5px"></a>
 <a href="/images/About%20ACS(I)/Venue%20Hire/Reunions,%20Gatherings/BS-Dining-Hall_01-300x200.jpg"><img src="/images/About%20ACS(I)/Venue%20Hire/Reunions,%20Gatherings/BS-Dining-Hall_01-300x200.jpg" style="width:25%;float:left;padding:5px"></a>
 <a href="/images/About%20ACS(I)/Venue%20Hire/Reunions,%20Gatherings/BS-Dining-Hall_02-300x200.jpg"><img src="/images/About%20ACS(I)/Venue%20Hire/Reunions,%20Gatherings/BS-Dining-Hall_02-300x200.jpg" style="width:25%;float:left;padding:5px"></a>
 <a href="/images/About%20ACS(I)/Venue%20Hire/Reunions,%20Gatherings/BS-Dining-Hall_03-300x200.jpg"><img src="/images/About%20ACS(I)/Venue%20Hire/Reunions,%20Gatherings/BS-Dining-Hall_03-300x200.jpg" style="width:25%;float:left;padding:5px"></a>
