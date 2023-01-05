@@ -20,12 +20,12 @@ Our fully air-conditioned classrooms seat up to 40 (classroom style) and are equ
 
 # Lecture Theatre
 
-<a href=""><img src="" style="width:25%;float:left;padding:5px"></a>
-<a href=""><img src="" style="width:25%;float:left;padding:5px"></a>
+<a href="/images/About%20ACS(I)/Venue%20Hire/Classes,%20Workshops,%20Seminars/LT1_01-5-300x200.jpg"><img src="/images/About%20ACS(I)/Venue%20Hire/Classes,%20Workshops,%20Seminars/LT1_01-5-300x200.jpg" style="width:25%;float:left;padding:5px"></a>
+<a href="/images/About%20ACS(I)/Venue%20Hire/Classes,%20Workshops,%20Seminars/LT4_02-1-300x200.jpg"><img src="/images/About%20ACS(I)/Venue%20Hire/Classes,%20Workshops,%20Seminars/LT4_02-1-300x200.jpg" style="width:25%;float:left;padding:5px"></a>
 <br clear="left">
 
 # Seminar Room
 
-<a href=""><img src="" style="width:25%;float:left;padding:5px"></a>
-<a href=""><img src="" style="width:25%;float:left;padding:5px"></a>
+<a href="/images/About%20ACS(I)/Venue%20Hire/Classes,%20Workshops,%20Seminars/Humanities-Room_02-300x200.jpg"><img src="/images/About%20ACS(I)/Venue%20Hire/Classes,%20Workshops,%20Seminars/Humanities-Room_02-300x200.jpg" style="width:25%;float:left;padding:5px"></a>
+<a href="/images/About%20ACS(I)/Venue%20Hire/Classes,%20Workshops,%20Seminars/Humanities-Room_01-300x200.jpg"><img src="/images/About%20ACS(I)/Venue%20Hire/Classes,%20Workshops,%20Seminars/Humanities-Room_01-300x200.jpg" style="width:25%;float:left;padding:5px"></a>
 <br clear="left">
