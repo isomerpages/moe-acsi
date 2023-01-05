@@ -6,7 +6,7 @@ third_nav_title: VENUE HIRE
 ---
 # Auditorium 1
 
-<img src="/images/About%20ACS(I)/Venue%20Hire/Performing%20Arts/02audi1_people-e1458522687789-1.jpg" style="width:25%;float:left;padding:5px"><br clear="left">
+<a href="/images/About%20ACS(I)/Venue%20Hire/Performing%20Arts/02audi1_people-e1458522687789-1.jpg" target = "_blank"><img src="/images/About%20ACS(I)/Venue%20Hire/Performing%20Arts/02audi1_people-e1458522687789-1.jpg" style="width:25%;float:left;padding:5px"></a><br clear="left">
 
 # Auditorium 2
 
