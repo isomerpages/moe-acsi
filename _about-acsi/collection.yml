@@ -2,6 +2,7 @@ collections:
   about-acsi:
     output: true
     order:
+      - BOARDING SCHOOL/Discipline.md
       - BOARDING SCHOOL/Activities.md
       - BOARDING SCHOOL/.keep
       - BOARDING SCHOOL/Boarding School.md
