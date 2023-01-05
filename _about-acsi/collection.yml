@@ -2,7 +2,6 @@ collections:
   about-acsi:
     output: true
     order:
-      - Affiliated Institutions.md
       - SCHOOL PROFILE/.keep
       - SCHOOL PROFILE/School Profile.md
       - SCHOOL PROFILE/School Philosophy.md
@@ -39,3 +38,4 @@ collections:
       - BOARDING SCHOOL/Boarders’ Application.md
       - BOARDING SCHOOL/Accommodations for NUS students.md
       - BOARDING SCHOOL/Boarding School Newsletter.md
+      - Affiliated Institutions.md
