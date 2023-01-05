@@ -6,7 +6,7 @@ description: ""
 # <u>Latest</u>
 
 
-# [The Principal’s Message in Echo (July-October 2022)](https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/10/2022-ACSPRESS-Principal-Message-July-Oct-2022.pdf)
+# <a href="/files/About%20ACS(I)/Principal’s%20Message%20in%20Echo/2022-ACSPRESS-Principal-Message-July-Oct-2022.pdf" target="_blank">The Principal’s Message in Echo (July-October 2022)</a>
 
 
 ### <u>Archive</u>
