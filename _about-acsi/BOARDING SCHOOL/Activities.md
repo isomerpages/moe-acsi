@@ -10,3 +10,8 @@ Life in the Boarding School is rich and fulfilling. The Junior Common Room Commi
 *   High Table Dinner
 *   International Night
 *   Thanksgiving Dinner.
+
+
+<center><i>Welcome Night 2021</i></center>
+
+The JCRC committee also organises interhall activities ranging from sports-related to bonding activities to enrich the interactions between boarders, such as ACSpecial 2022
