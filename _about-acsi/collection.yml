@@ -2,7 +2,6 @@ collections:
   about-acsi:
     output: true
     order:
-      - Personal Data Protection Act.md
       - SCHOOL PROFILE/.keep
       - SCHOOL PROFILE/School Profile.md
       - SCHOOL PROFILE/School Philosophy.md
@@ -54,3 +53,4 @@ collections:
       - VENUE HIRE/Summary Info & Pricing.md
       - VENUE HIRE/Terms & Conditions.md
       - VENUE HIRE/Contact Us.md
+      - Personal Data Protection Act.md
