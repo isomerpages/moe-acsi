@@ -79,8 +79,8 @@ Once approved, the ISB will provide the benefits shown in the table below:
 </tr>
 </tbody>
 </table>
-<a id="_edn1"></a>
-[\[i\]](/about-acs-independent/fee/financial-assistance/#_ednref1) Applicable for students enrolled in the IB Diploma Programme only. Exam fees for GCE ‘O’ and ‘A’ levels have been waived for all Singapore citizens in Government-funded schools from 2015.
+
+<a id="_edn1"></a>[\[i\]](/about-acs-independent/fee/financial-assistance/#_ednref1) Applicable for students enrolled in the IB Diploma Programme only. Exam fees for GCE ‘O’ and ‘A’ levels have been waived for all Singapore citizens in Government-funded schools from 2015.
 
 \* The public transport subsidy will be based on the number of remaining months in the calendar year in which your application is approved.
 
