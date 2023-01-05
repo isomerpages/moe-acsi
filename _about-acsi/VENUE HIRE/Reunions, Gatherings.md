@@ -10,13 +10,28 @@ Organise your reunions and special occasions in school and recreate a unique exp
 
 # Dining Hall 2
 
+<a href=""><img src="" style="width:25%;float:left;padding:5px"></a>
+<a href=""><img src="" style="width:25%;float:left;padding:5px"></a>
+<br clear="left">
+
 # SAC
 
 # Foyer (Non-Aircon)
 
+<a href=""><img src="" style="width:25%;float:left;padding:5px"></a>
+<br clear="left">
+
 # Space Frame (Open Space)
 
+<a href=""><img src="" style="width:25%;float:left;padding:5px"></a>
+<a href=""><img src="" style="width:25%;float:left;padding:5px"></a>
+<br clear="left">
+
 # Outside CPA1 (For reception)
+
+<a href=""><img src="" style="width:25%;float:left;padding:5px"></a>
+<a href=""><img src="" style="width:25%;float:left;padding:5px"></a>
+<br clear="left">
 
 *   Tables and other furniture are not provided. Cost is inclusive of air conditioning, lighting and electricity
 *   A technician (charged separately) is required for all performances and rehearsals.
