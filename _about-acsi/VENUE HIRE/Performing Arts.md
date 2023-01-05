@@ -16,9 +16,18 @@ third_nav_title: VENUE HIRE
 <a href="/images/About%20ACS(I)/Venue%20Hire/Performing%20Arts/IMG_6907-1.jpg"><img src="/images/About%20ACS(I)/Venue%20Hire/Performing%20Arts/IMG_6907-1.jpg" style="width:25%;float:left;padding:5px"></a>
 <a href="/images/About%20ACS(I)/Venue%20Hire/Performing%20Arts/IMG_9247_edited-1.jpg" ><img src="/images/About%20ACS(I)/Venue%20Hire/Performing%20Arts/IMG_9247_edited-1.jpg" style="width:25%;float:left;padding:5px"></a>
 <a href="/images/About%20ACS(I)/Venue%20Hire/Performing%20Arts/IMG_9311_edited-1.jpg"><img src="/images/About%20ACS(I)/Venue%20Hire/Performing%20Arts/IMG_9311_edited-1.jpg" style="width:25%;float:left;padding:5px"></a>
-<a href="/images/About%20ACS(I)/Venue%20Hire/Performing%20Arts/IMG_9250_edited-2.jpg" ><img src="/images/About%20ACS(I)/Venue%20Hire/Performing%20Arts/IMG_9250_edited-2.jpg" style="width:25%;float:left;padding:5px"></a><br clear="left">
+<a href="/images/About%20ACS(I)/Venue%20Hire/Performing%20Arts/IMG_9250_edited-2.jpg" ><img src="/images/About%20ACS(I)/Venue%20Hire/Performing%20Arts/IMG_9250_edited-2.jpg" style="width:25%;float:left;padding:5px"></a>
+<br clear="left">
 
 
 # Centre for Performing Arts 1
 
+<a href=""><img src="" style="width:25%;float:left;padding:5px"></a>
+<a href=""><img src="" style="width:25%;float:left;padding:5px"></a>
+<br clear="left">
+
 # Centre for Performing Arts 2
+
+<a href=""><img src="" style="width:25%;float:left;padding:5px"></a>
+<a href=""><img src="" style="width:25%;float:left;padding:5px"></a>
+<a href=""><img src="" style="width:25%;float:left;padding:5px"></a><br clear="left">
