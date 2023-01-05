@@ -2,6 +2,7 @@ collections:
   about-acsi:
     output: true
     order:
+      - BOARDING SCHOOL/Fees.md
       - BOARDING SCHOOL/.keep
       - BOARDING SCHOOL/Boarding School.md
       - BOARDING SCHOOL/Management.md
