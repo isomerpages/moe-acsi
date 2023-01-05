@@ -48,9 +48,9 @@ description: ""
 *   [August/September 2013](https://www.acsindep.moe.edu.sg/wp-content/uploads/2017/11/ACSPress_July_2013_Issue_Principle_Message.pdf)<a href="/files/About%20ACS(I)/Principal’s%20Message%20in%20Echo/" target="_blank"></a>
 *   [May 2013](https://www.acsindep.moe.edu.sg/wp-content/uploads/2017/11/ACSPress_May_2013_Issue_Principle_Message.pdf)<a href="/files/About%20ACS(I)/Principal’s%20Message%20in%20Echo/" target="_blank"></a>
 *   [March 2013](https://www.acsindep.moe.edu.sg/wp-content/uploads/2017/11/ACSPress_March_2013_Issue_Principle_Message.pdf)<a href="/files/About%20ACS(I)/Principal’s%20Message%20in%20Echo/" target="_blank"></a>
-*   [October/November 2012]<a href="/files/About%20ACS(I)/Principal’s%20Message%20in%20Echo/" target="_blank"></a>(https://www.acsindep.moe.edu.sg/wp-content/uploads/2017/11/Deputy_Principal_Mrs_Tan_ECHO_message_OctNovember_2012.pdf)
-*   [August 2012](https://www.acsindep.moe.edu.sg/wp-content/uploads/2017/11/Principal_Msg_AugustSept2012.pdf)<a href="/files/About%20ACS(I)/Principal’s%20Message%20in%20Echo/" target="_blank"></a>
-*   [July 2012](https://www.acsindep.moe.edu.sg/wp-content/uploads/2017/11/Principals_Msg_July_2012.pdf)<a href="/files/About%20ACS(I)/Principal’s%20Message%20in%20Echo/" target="_blank"></a>
+*   <a href="/files/About%20ACS(I)/Principal’s%20Message%20in%20Echo/Deputy_Principal_Mrs_Tan_ECHO_message_OctNovember_2012.pdf" target="_blank">October/November 2012</a>
+*   <a href="/files/About%20ACS(I)/Principal’s%20Message%20in%20Echo/Principal_Msg_AugustSept2012.pdf" target="_blank">August 2012</a>
+*   <a href="/files/About%20ACS(I)/Principal’s%20Message%20in%20Echo/Principals_Msg_July_2012.pdf" target="_blank">July 2012</a>
 *   <a href="/files/About%20ACS(I)/Principal’s%20Message%20in%20Echo/PrincipalMsg_Mar2012.pdf" target="_blank">March 2012</a>
 *   <a href="/files/About%20ACS(I)/Principal’s%20Message%20in%20Echo/PrincipalMsg_Oct_2011.pdf" target="_blank">October 2011</a>
 *  <a href="/files/About%20ACS(I)/Principal’s%20Message%20in%20Echo/echo2011AugSepissuePrincipalMsg.pdf" target="_blank">August/September 2011</a>
