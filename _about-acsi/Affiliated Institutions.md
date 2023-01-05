@@ -3,16 +3,16 @@ title: Affiliated Institutions
 permalink: /about-acs-independent/affiliated-institutions/
 description: ""
 ---
-[Anglo-Chinese School (Primary)]<a href=""></a>(http://www.acspri.moe.edu.sg/ "Anglo-Chinese School (Primary)")
+<a href="http://www.acspri.moe.edu.sg/">Anglo-Chinese School (Primary)</a>
 
-[Anglo-Chinese School (Junior)](http://acsj.moe.edu.sg/ "Anglo-Chinese School (Junior)")<a href=""></a>
+<a href="http://acsj.moe.edu.sg/">Anglo-Chinese School (Junior)</a>
 
-[Anglo-Chinese School (Barker Road)]<a href=""></a>(http://acsbr.moe.edu.sg/ "Anglo-Chinese School (Barker Road)")
+<a href="http://acsbr.moe.edu.sg/">Anglo-Chinese School (Barker Road)</a>
 
-[Anglo-Chinese School (International)]<a href=""></a>(http://www.acsinternational.com.sg/ "Anglo-Chinese School (International)")
+<a href="http://www.acsinternational.com.sg/">Anglo-Chinese School (International)</a>
 
-[Anglo-Chinese Junior College](https://acjc.moe.edu.sg/ "Anglo-Chinese Junior College")<a href=""></a>
+<a href="https://acjc.moe.edu.sg/">Anglo-Chinese Junior College</a>
 
-[ACSOBA](http://www.acsoba.net/ "ACSOBA")<a href=""></a>
+<a href="http://www.acsoba.net/">ACSOBA</a>
 
 <a href="http://livingwatersmc.org.sg/ ">Living Waters Methodist Church</a>
