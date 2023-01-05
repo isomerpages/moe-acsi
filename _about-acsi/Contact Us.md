@@ -12,7 +12,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td>If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/5d09f4ede6ca2a00111f25ac" >here</a>.<br><br><iframe id="iframe" style="width: 100%; height: 2000px;" src="https://form.gov.sg/5d09f4ede6ca2a00111f25ac"></iframe></td>
+    <td>If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/5d09f4ede6ca2a00111f25ac" >here</a>.<br><br><iframe id="iframe" style="width: 400px; height: 2000px;" src="https://form.gov.sg/5d09f4ede6ca2a00111f25ac"></iframe></td>
     <td>Address: <a href="https://goo.gl/maps/9FUTabVfPKR2">121 Dover Road, Singapore 139650</a>
 
 Telephone: (65) 6773 1633
