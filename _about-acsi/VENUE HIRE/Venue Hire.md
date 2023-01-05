@@ -10,7 +10,7 @@ Churches, affiliated schools and alumni enjoy preferential rates.
 
 |   |   |
 |---|---|
-|   |   |
+|   | <u><b>Performing Arts</b></u><br>Our school has two centres for performing arts (CPA). The CPA accommodates up to 1,000 seating capacity, comprising stall and two circle levels. Professionally equipped with a complete sound, video and production lighting system, the CPAs have hosted a wide range of events such as art performances, seminars and theatre.  |
 |   |   |
 |   |   |
 |   |   |
