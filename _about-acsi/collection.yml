@@ -2,7 +2,6 @@ collections:
   about-acsi:
     output: true
     order:
-      - Financial Information.md
       - School Profile/.keep
       - School Profile/School Profile.md
       - School Profile/School Philosophy.md
@@ -26,3 +25,4 @@ collections:
       - STAFF LIST/Senior Administration.md
       - STAFF LIST/Dean & Directors.md
       - STAFF LIST/Executive & Support Staff.md
+      - Financial Information.md
