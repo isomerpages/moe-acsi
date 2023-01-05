@@ -2,7 +2,6 @@ collections:
   about-acsi:
     output: true
     order:
-      - Heritage/Exhibition Catalogues.md
       - Heritage/.keep
       - Heritage/Heritage.md
       - Heritage/Origins.md
@@ -11,6 +10,7 @@ collections:
       - Heritage/ACS Heritage & Alumni Centre.md
       - Heritage/Terms and Conditions of the ACS Online Heritage Photo Gallery.md
       - Heritage/ACS Magazines.md
+      - Heritage/Exhibition Catalogues.md
       - School Profile/.keep
       - School Profile/School Profile.md
       - School Profile/School Philosophy.md
