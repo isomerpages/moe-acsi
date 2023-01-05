@@ -6,10 +6,10 @@ description: ""
 # <u>Latest</u>
 
 
-[The Principal’s Message in Echo (July-October 2022)](https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/10/2022-ACSPRESS-Principal-Message-July-Oct-2022.pdf)
-===================================================================================================================================================================
+# [The Principal’s Message in Echo (July-October 2022)](https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/10/2022-ACSPRESS-Principal-Message-July-Oct-2022.pdf)
 
-### Archive
+
+### <u>Archive</u>
 
 *   [June 2022](https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/07/2022-ACSPRESS-Principal-Message-May-July-2022.pdf)
 *   [May 2022](https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/04/2022-ACSPRESS-Principal-Message-Feb-May-2022.pdf)
