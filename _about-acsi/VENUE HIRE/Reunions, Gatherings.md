@@ -27,13 +27,13 @@ Organise your reunions and special occasions in school and recreate a unique exp
 <br clear="left">
 # Foyer (Non-Aircon)
 
-<a href=""><img src="" style="width:25%;float:left;padding:5px"></a>
+<a href="/images/About%20ACS(I)/Venue%20Hire/Reunions,%20Gatherings/06foyer-300x199.jpg"><img src="/images/About%20ACS(I)/Venue%20Hire/Reunions,%20Gatherings/06foyer-300x199.jpg" style="width:25%;float:left;padding:5px"></a>
 <br clear="left">
 
 # Space Frame (Open Space)
 
-<a href=""><img src="" style="width:25%;float:left;padding:5px"></a>
-<a href=""><img src="" style="width:25%;float:left;padding:5px"></a>
+<a href="/images/About%20ACS(I)/Venue%20Hire/Reunions,%20Gatherings/08spaceframe_people_1-1-300x199.jpg"><img src="/images/About%20ACS(I)/Venue%20Hire/Reunions,%20Gatherings/08spaceframe_people_1-1-300x199.jpg" style="width:25%;float:left;padding:5px"></a>
+<a href="/images/About%20ACS(I)/Venue%20Hire/Reunions,%20Gatherings/08spaceframe_people_2-1-300x199.jpg"><img src="/images/About%20ACS(I)/Venue%20Hire/Reunions,%20Gatherings/08spaceframe_people_2-1-300x199.jpg" style="width:25%;float:left;padding:5px"></a>
 <br clear="left">
 
 # Outside CPA1 (For reception)
