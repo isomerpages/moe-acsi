@@ -5,3 +5,5 @@ description: ""
 third_nav_title: VENUE HIRE
 ---
 # Auditorium 1
+
+# Auditorium 2
