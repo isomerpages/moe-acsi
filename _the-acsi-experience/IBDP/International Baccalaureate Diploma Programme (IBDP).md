@@ -4,7 +4,6 @@ permalink: /the-acs-independent-experience/ibdp/
 description: ""
 third_nav_title: IBDP
 ---
-
 The lB programme created in 1968, is a demanding two-year pre-university course of study that leads to examinations. The programme has earned a reputation for rigorous assessment, giving IB diploma holders access to the world’s leading universities.
 
 Anglo-Chinese School (Independent) was authorised as an IB World School in 2005 and is at present one of the few national schools in Singapore to offer the International Baccalaureate (IB) Diploma Programme.
@@ -17,7 +16,7 @@ For additional resources and some recent features of our latest graduating cohor
 
 ***
 
-ACS(I) IB Page: [/the-acs-independent-experience/international-baccalaureate-diploma-programme-ibdp/](https://www.acsindep.moe.edu.sg/the-acs-independent-experience/international-baccalaureate-diploma-programme-ibdp/)
+ACS(I) IB Page: [/the-acs-independent-experience/international-baccalaureate-diploma-programme-ibdp/](/the-acs-independent-experience/ibdp/)
 
 Latest News:
 
