@@ -2,10 +2,6 @@ collections:
   the-acsi-experience:
     output: true
     order:
-      - PCCG/.keep
-      - PCCG/Pastoral Care & Career Guidance (PCCG).md
-      - PCCG/Well being Education.md
-      - PCCG/MOE Sexuality Education in Schools.md
       - The ACS(I) Experience.md
       - Approach.md
       - EXPRESS PROGRAMME/.keep
@@ -18,3 +14,7 @@ collections:
       - SCHOOL BASED GIFTED EDUCATION/.keep
       - SCHOOL BASED GIFTED EDUCATION/School Based Gifted Education (SBGE).md
       - SCHOOL BASED GIFTED EDUCATION/Programme.md
+      - PCCG/.keep
+      - PCCG/Pastoral Care & Career Guidance (PCCG).md
+      - PCCG/Well being Education.md
+      - PCCG/MOE Sexuality Education in Schools.md
