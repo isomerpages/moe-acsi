@@ -2,7 +2,6 @@ collections:
   our-departments:
     output: true
     order:
-      - AESTHETICS/IB Music Syllabus & Assessment.md
       - AESTHETICS/.keep
       - AESTHETICS/Aesthetics.md
       - AESTHETICS/Staff.md
@@ -17,4 +16,5 @@ collections:
       - AESTHETICS/Syllabus & Assessment.md
       - AESTHETICS/Entry Requirements.md
       - AESTHETICS/IBDP Higher Level (HL) Music.md
+      - AESTHETICS/IB Music Syllabus & Assessment.md
       - Our Departments.md
