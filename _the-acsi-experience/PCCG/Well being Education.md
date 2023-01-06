@@ -50,3 +50,10 @@ The Second Domain – Character strengths are capacities humans have for thinkin
 The Third Domain – Building on Martin Seligman’s Well-being Theory (Seligman, 2012), the six elements of well-being are positive emotion, engagement, relationship, meaning, accomplishment and health **(PERMAH)**.  Each of these six elements will contribute towards an individual experiencing the best life, as supported by psychology research and science.
 
 The Fourth Domain – Finally, as we move to the outermost circle of the Well-being Education Model, we see the repeated phrases “Learn, Live, Teach, Embed” (Norrish, 2015).  To bring our model from rhetoric to reality, the school will need to engage students, staff and stakeholders such as parents on all four levels, as elaborated in the “Learn, Live, Teach, Embed” framework in <u>Figure 2</u>.
+
+
+![](/images/The%20ACS(I)%20Experience/Well-being-Education-2-1024x439.png)
+
+<center><u>Figure 2: Learn, Live, Teach, Embed</u></center>
+
+ACS’s mission is to be a ‘**_Beacon of Truth and Light_**’.  As a school family, ACS is called to shine our light before others, so that many may see the good works and give glory to God.  By focusing on well-being, it is our hope that the school community will inspire, radiate and be a blessing in our family, nation and the global community.
