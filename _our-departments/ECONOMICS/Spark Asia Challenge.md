@@ -19,3 +19,21 @@ The details of the National Finals of Spark Asia Challenge are as follows:
 **Presentation by Catholic JC**
 
 **Winner of “Most Innovative Approach”**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-7kqU08Y-oo" title="Presentation by Catholic JC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**Presentation by Nanyang JC**
+
+**Winner of “Best Performance in the Presentation Round” & “People’s Choice Award”**
+
+
+
+**Presentation by Raffles Institution**
+
+**Winner of “Good to Grow Award”**
+
+**Presentation by Victoria JC**
+
+**Winner of “Excellent Demonstration of Content”**
+
+**Fireside Chat with Mr Rayner Loi (Co-Founder and CEO of Lumitics)**
