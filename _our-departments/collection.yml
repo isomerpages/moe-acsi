@@ -2,7 +2,6 @@ collections:
   our-departments:
     output: true
     order:
-      - AESTHETICS/Programme Highlights.md
       - AESTHETICS/.keep
       - AESTHETICS/Aesthetics.md
       - AESTHETICS/Staff.md
@@ -13,4 +12,5 @@ collections:
       - AESTHETICS/Music.md
       - AESTHETICS/General Music Programme (GMP).md
       - AESTHETICS/Music Elective Programme.md
+      - AESTHETICS/Programme Highlights.md
       - Our Departments.md
