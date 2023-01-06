@@ -22,7 +22,7 @@ description: ""
   <tr>
     <td style ="text-align:center"><a href="/departments/health-physical-education-and-recreation/"> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i>Health, Physical Education and Recreation</i></a></td>
     <td style ="text-align:center"><a href="/departments/humanities/"> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i>Humanities</i></a></td>
-    <td style ="text-align:center"><a href=""> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i></i></a></td>
+    <td style ="text-align:center"><a href="/departments/mathematics/"> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i>Mathematics</i></a></td>
   </tr>
   <tr>
     <td style ="text-align:center"><a href=""> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i></i></a></td>
