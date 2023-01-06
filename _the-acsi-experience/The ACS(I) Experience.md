@@ -18,10 +18,9 @@ description: ""
     <td style ="text-align:center"><a href="/the-acs-independent-experience/integrated-programme/"> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i>Integrated Programme</i></a></td>
   </tr>
 	  <tr>
-    <td style ="text-align:center"><a href="/the-acs-independent-experience/international-baccalaureate-diploma-programme-ibdp/"> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i>International Baccalaureate Diploma Programme (IBDP)</i></a></td>
+    <td style ="text-align:center"><a href="/the-acs-independent-experience/ibdp/"> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i>International Baccalaureate Diploma Programme (IBDP)</i></a></td>
     <td style ="text-align:center"><a href="/the-acs-independent-experience/school-based-gifted-education-sbge/"> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i>School-Based Gifted Education (SBGE)</i></a></td>
     <td style ="text-align:center"><a href="/the-acs-independent-experience/pastoral-care-career-guidance-pccg/"> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i>Pastoral Care & Career Guidance (PCCG)</i></a></td>
   </tr>
 </tbody>
 </table>
-
