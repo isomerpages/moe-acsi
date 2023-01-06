@@ -2,7 +2,6 @@ collections:
   our-departments:
     output: true
     order:
-      - AESTHETICS/Syllabus & Assessment.md
       - AESTHETICS/.keep
       - AESTHETICS/Aesthetics.md
       - AESTHETICS/Staff.md
@@ -14,4 +13,5 @@ collections:
       - AESTHETICS/General Music Programme (GMP).md
       - AESTHETICS/Music Elective Programme.md
       - AESTHETICS/Programme Highlights.md
+      - AESTHETICS/Syllabus & Assessment.md
       - Our Departments.md
