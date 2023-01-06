@@ -2,9 +2,9 @@ collections:
   our-departments:
     output: true
     order:
-      - AESTHETICS/Art & Design – Years 1 & 2 Art.md
       - AESTHETICS/.keep
       - AESTHETICS/Aesthetics.md
       - AESTHETICS/Staff.md
       - AESTHETICS/Art & Design.md
+      - AESTHETICS/Art & Design – Years 1 & 2 Art.md
       - Our Departments.md
