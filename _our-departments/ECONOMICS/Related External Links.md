@@ -6,3 +6,38 @@ third_nav_title: ECONOMICS
 ---
 Related External Links
 ----------------------
+
+[Contact Singapore](http://www.contactsingapore.org.sg/)
+
+[International Enterprise Singapore](http://www.iesingapore.gov.sg/)
+
+[Jurong Town Corporation, Singapore](http://www.jtc.gov.sg/Pages/default.aspx)
+
+[Competition Commission, Singapore](http://www.ccs.gov.sg/content/ccs/en.html)
+
+[Economic Development Board](http://www.edb.gov.sg/content/edb/en.html?cmpid=edb_en38)
+
+[Department of Statistics, Singapore](http://www.singstat.gov.sg/)
+
+[The Ministry of Trade and Industry, Singapore](http://www.mti.gov.sg/Pages/home.aspx)
+
+[The Monetary Authority of Singapore (MAS)](http://www.mas.gov.sg/)
+
+**Other Related External Links**
+--------------------------------
+
+[International Monetary Fund](http://www.imf.org/)
+
+[The Organisation for Economic Co-operation and Development (OCD)](http://www.oecd.org/)
+
+[World Trade Organisation](http://www.wto.org/)
+
+[The World Bank](http://www.worldbank.org/)
+
+[International Labour Organisation](http://www.ilo.org/)
+
+[Exchange Rates](http://www.x-rates.com/)
+
+[International Trade Centre](http://www.intracen.org/)
+
+[The Access Initiatives](http://earthtrends.wri.org/)
