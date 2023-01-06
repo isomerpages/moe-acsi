@@ -77,6 +77,6 @@ The content for the Study of Visual Arts is organised along three broad themes. 
 
  The grading system and rules of award for Higher Art are as follows:
 
-1\.  A candidate must achieve grade 1 or 2 in each of the three components to be awarded Distinction in Higher Art
-2\.  A candidate must achieve grade 6 or higher in each of the three components to be awarded Merit in Higher Art
+1\.  A candidate must achieve grade 1 or 2 in each of the three components to be awarded Distinction in Higher Art   
+2\.  A candidate must achieve grade 6 or higher in each of the three components to be awarded Merit in Higher Art   
 3\.  A candidate who achieves grade 7 or lower in one or more components will not be awarded with a grade in Higher Art. The candidate will be awarded a grade in ‘O’ level Art only.
