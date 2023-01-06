@@ -65,3 +65,10 @@ The content for the Study of Visual Arts is organised along three broad themes. 
 **EXAMINATION REQUIREMENTS**
 
  Candidates taking the GCE ‘O’ level Higher Art Syllabus Examinations will be required to offer Paper 1: Coursework and Paper 4: Visual Arts Task, with _either_ Paper 2: Drawing and Painting, or Paper 3: Study of Visual Arts
+ 
+ | Paper                     | Description          | Examination Duration | Weighting | Requirement                      |
+|-------|------------|----------|-----------|---------|
+| Paper 1                   | Coursework           | Not Applicable       | 60%       | Compulsory                       |
+| Paper 2 or<br><br>Paper 3 | Drawing and Painting | 3 hours              | 40%       | Choose one out of the two papers |
+|                           | Study of Visual Arts | 2 hours              |           |                                  |
+| Paper 4                   | Visual Arts Task     | Not Applicable       |           | Compulsory                       |
