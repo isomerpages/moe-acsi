@@ -25,8 +25,7 @@ The course aims to:
 
 **Unit 1: Introduction to Economics**
 
-1.1 What is economics?
-
+1.1 What is economics?   
 1.2 How do economists approach the world?
 
 **Unit 2: Microeconomics**
