@@ -15,8 +15,7 @@ In the MEP, there are many opportunities to perform solo and ensemble repertoire
 **3) Workshops, Masterclasses and Excursions**   
 MEP students have various opportunities to learn more about different aspects of music in a stimulating and engaging manner, via workshops, talks and masterclasses conducted by locally and internationally renowned musicians. Students can also look forward to learning journeys with their MEP class to attend 1-2 concerts a year.
 
-**4) Fee Subsidy for ACS (Independent) Students**
-
+**4) Fee Subsidy for ACS (Independent) Students**   
 Students who are admitted into the MEP are eligible for a fee subsidy up to a cap of $2400 per student per year. This is applicable for all MEP students regardless of nationality. However, it should be noted that MEP students who also qualify for other Singapore-MOE Awards, such as the Edusave Scholarship for Independent Schools (EESIS) are entitled to only one award i.e. either the MEP subsidy or the EESIS.
 
 **5) ACS (Independent) MEP Day**  
