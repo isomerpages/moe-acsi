@@ -2,9 +2,6 @@ collections:
   the-acsi-experience:
     output: true
     order:
-      - School Based Gifted Education/.keep
-      - School Based Gifted Education/School Based Gifted Education (SBGE).md
-      - School Based Gifted Education/Programme.md
       - The ACS(I) Experience.md
       - Approach.md
       - EXPRESS PROGRAMME/.keep
@@ -14,3 +11,6 @@ collections:
       - INTEGRATED PROGRAMME/Integrated Programme.md
       - INTEGRATED PROGRAMME/Curriculum Overview.md
       - INTEGRATED PROGRAMME/Assessment Modes.md
+      - School Based Gifted Education/.keep
+      - School Based Gifted Education/School Based Gifted Education (SBGE).md
+      - School Based Gifted Education/Programme.md
