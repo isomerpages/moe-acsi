@@ -2,6 +2,7 @@ collections:
   our-departments:
     output: true
     order:
+      - AESTHETICS/Art & Design – Years 3 & 4 Higher Art.md
       - AESTHETICS/.keep
       - AESTHETICS/Aesthetics.md
       - AESTHETICS/Staff.md
