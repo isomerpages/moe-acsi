@@ -2,6 +2,7 @@ collections:
   the-acsi-experience:
     output: true
     order:
+      - EXPRESS PROGRAMME/Curriculum Overview.md
       - EXPRESS PROGRAMME/Express Programme.md
       - EXPRESS PROGRAMME/.keep
       - The ACS(I) Experience.md
