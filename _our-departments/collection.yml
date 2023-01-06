@@ -2,7 +2,6 @@ collections:
   our-departments:
     output: true
     order:
-      - AESTHETICS/General Music Programme (GMP).md
       - AESTHETICS/.keep
       - AESTHETICS/Aesthetics.md
       - AESTHETICS/Staff.md
@@ -11,4 +10,5 @@ collections:
       - AESTHETICS/Art & Design – Years 3 & 4 Higher Art.md
       - AESTHETICS/Art & Design – Years 3 – 4 IP and Years 5 – 6 IB.md
       - AESTHETICS/Music.md
+      - AESTHETICS/General Music Programme (GMP).md
       - Our Departments.md
