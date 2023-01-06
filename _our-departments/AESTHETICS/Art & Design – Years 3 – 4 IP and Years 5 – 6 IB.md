@@ -15,26 +15,15 @@ The objective of the **IP/IB Visual Art Programme** is to unlock powerful new 
 
 ####  **The aims of the syllabus are:**
 
- …developing and facilitating **creative, analytical, and critical thinking skills,**
-
-…beckoning young minds **to navigate uncharted territory**,
-
-…spawning **a new dimension of imagination**,
-
-…engaging the mind to **forge new links to creative expression**,
-
-…enabling the creative mind to **explore/respond to its surrounding visual stimuli,**
-
-…producing **seeds of change,**
-
-…fueling creative engines into vast **new territories**,
-
-…driving the creative mind to **continually search an ever-changing landscape,**
-
- …awaking to and connecting with **the influences from within the landscape of history, culture, society, and the physical world,**
-
-…transporting the mind **in new directions to unexpected destinations**,
-
-…unlocking **new dimensions of vision and imagination**,
-
+ …developing and facilitating **creative, analytical, and critical thinking skills,**   
+…beckoning young minds **to navigate uncharted territory**,   
+…spawning **a new dimension of imagination**,   
+…engaging the mind to **forge new links to creative expression**,   
+…enabling the creative mind to **explore/respond to its surrounding visual stimuli,**   
+…producing **seeds of change,**   
+…fueling creative engines into vast **new territories**,   
+…driving the creative mind to **continually search an ever-changing landscape,**   
+ …awaking to and connecting with **the influences from within the landscape of history, culture, society, and the physical world,**   
+…transporting the mind **in new directions to unexpected destinations**,   
+…unlocking **new dimensions of vision and imagination**,   
 **…**ushering **creative minds  into  a new world of possibilities in the 21st century.**
