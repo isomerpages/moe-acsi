@@ -12,8 +12,8 @@ In the MEP, there are many opportunities to perform solo and ensemble repertoire
 
 <a href="https://www.youtube.com/channel/UCZKeDbIbqa7heH2zyd7AM8g/featured" target="_blank">Here</a> are the performances from the EMP and MEP Showcase 2020.
 
-**3) Workshops, Masterclasses and Excursions  
-**MEP students have various opportunities to learn more about different aspects of music in a stimulating and engaging manner, via workshops, talks and masterclasses conducted by locally and internationally renowned musicians. Students can also look forward to learning journeys with their MEP class to attend 1-2 concerts a year.
+**3) Workshops, Masterclasses and Excursions**   
+MEP students have various opportunities to learn more about different aspects of music in a stimulating and engaging manner, via workshops, talks and masterclasses conducted by locally and internationally renowned musicians. Students can also look forward to learning journeys with their MEP class to attend 1-2 concerts a year.
 
 **4) Fee Subsidy for ACS (Independent) Students**
 
