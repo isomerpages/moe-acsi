@@ -25,9 +25,9 @@ description: ""
     <td style ="text-align:center"><a href="/departments/mathematics/"> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i>Mathematics</i></a></td>
   </tr>
   <tr>
-    <td style ="text-align:center"><a href=""> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i></i></a></td>
-    <td style ="text-align:center"><a href=""> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i></i></a></td>
-    <td style ="text-align:center"><a href=""> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i></i></a></td>
+    <td style ="text-align:center"><a href="/departments/mother-tongue/"> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i>Mother Tongue</i></a></td>
+    <td style ="text-align:center"><a href="/departments/science/"> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i>Science</i></a></td>
+    <td style ="text-align:center"><a href="/departments/theory-of-knowledge/"> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i>Theory of Knowledge</i></a></td>
   </tr>
 </tbody>
 </table>
