@@ -6,7 +6,7 @@ third_nav_title: PCCG
 ---
 **<u>Well-being Education @ ACS (Independent)</u>**
 
-On 1 March 1886, Reverend William Fitzjames Oldham founded Anglo-Chinese School (ACS) with the purpose of nurturing students to be of service “for God and humanity <a id="_ftnref1"></a>[\[1\]](/pastoral-care-career-guidance-pccg/well-being-education/#_ftn1).”
+On 1 March 1886, Reverend William Fitzjames Oldham founded Anglo-Chinese School (ACS) with the purpose of nurturing students to be of service “for God and humanity <a id="_ftnref1"></a><a href="/pastoral-care-career-guidance-pccg/well-being-education/#_ftn1">[1]</a>.”
 
 Bishop Oldham’s vision was for ACS to not only provide good academic education, but that the school should also strive to educate students with good morals and habits consistent with Christian values.
 
