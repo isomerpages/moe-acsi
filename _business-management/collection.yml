@@ -1,4 +1,5 @@
 collections:
   business-management:
     output: true
-    order: []
+    order:
+      - Business Management Current Syllabus (last assessment in 2023).md
