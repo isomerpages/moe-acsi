@@ -2,6 +2,7 @@ collections:
   the-acsi-experience:
     output: true
     order:
+      - INTEGRATED PROGRAMME/Curriculum Overview.md
       - INTEGRATED PROGRAMME/Integrated Programme.md
       - INTEGRATED PROGRAMME/.keep
       - The ACS(I) Experience.md
