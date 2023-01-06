@@ -2,7 +2,6 @@ collections:
   our-departments:
     output: true
     order:
-      - AESTHETICS/2022 Aesthetics e Symposium.md
       - AESTHETICS/.keep
       - AESTHETICS/Aesthetics.md
       - AESTHETICS/Staff.md
@@ -20,4 +19,5 @@ collections:
       - AESTHETICS/IB Music Syllabus & Assessment.md
       - AESTHETICS/IB Music Programme Entry Requirements.md
       - AESTHETICS/MEP Centre (for external students).md
+      - AESTHETICS/2022 Aesthetics e Symposium.md
       - Our Departments.md
