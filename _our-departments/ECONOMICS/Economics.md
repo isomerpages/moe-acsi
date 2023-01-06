@@ -116,6 +116,6 @@ Paper 3
 
  A background in Economics can lead to advanced study and research in fields such as Finance, Public Policy, Business & Management as well as International Studies.  It is also useful in the study of Law, Medicine and many other disciplines.
 
-Do note that some top overseas universities require a good score in HL Mathematics as a pre-requisite in order to pursue Economics as a major.
+Do note that some top overseas universities require a good score in <u>HL Mathematics</u> as a pre-requisite in order to pursue Economics as a major.
 
 _Materials for this webpage are taken from the IBO official website. For more information, kindly speak to the friendly teachers from the Economics Business Management Department._
