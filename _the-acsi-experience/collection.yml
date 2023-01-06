@@ -2,9 +2,9 @@ collections:
   the-acsi-experience:
     output: true
     order:
-      - PCCG/Well being Education.md
-      - PCCG/Pastoral Care & Career Guidance (PCCG).md
       - PCCG/.keep
+      - PCCG/Pastoral Care & Career Guidance (PCCG).md
+      - PCCG/Well being Education.md
       - The ACS(I) Experience.md
       - Approach.md
       - EXPRESS PROGRAMME/.keep
