@@ -20,7 +20,7 @@ The programme aims to nurture
 </thead>
 <tbody>
 	  <tr>
-    <td colspan="3" style="text-align: center;"><b>Leaders</b><br>Champions of the arts with the passion to drive their vision for music and the arts in Singapore</td>
+    <td colspan="3" style="text-align: center;"><b>Leaders</b><br><br>Champions of the arts with the passion to drive their vision for music and the arts in Singapore</td>
   </tr>
   <tr>
     <td style="text-align: center;"><b>Scholars</b><br><br>Well-informed musicians with a deep knowledge of music and its role in the society; passionate about learning and appreciative of music and other art forms</td>
