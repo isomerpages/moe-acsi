@@ -6,7 +6,7 @@ third_nav_title: AESTHETICS
 ---
 |   |   |   |
 |---|---|---|
-| ![](/images/Our%20Departments/general_clip_image006.png)  |  ![](/images/Our%20Departments/general_clip_image004-144x150.png) |  ![](/images/Our%20Departments/general_clip_image002.png) |
+| ![](/images/Our%20Departments/general_clip_image006.png)  | <br> ![](/images/Our%20Departments/general_clip_image004-144x150.png) |  ![](/images/Our%20Departments/general_clip_image002.png) |
 
 The General Music Programme curriculum is a compulsory curriculum component for Year 1 & 2 students. The curriculum aims to cultivate students’ love for music while furthering their musical knowledge and aptitude.
 
