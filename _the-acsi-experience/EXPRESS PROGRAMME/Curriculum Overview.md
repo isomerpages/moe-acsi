@@ -19,7 +19,7 @@ At Years 3 and 4, students take up to a maximum of 8 subjects to enable him to
 7.  Science: Physics/Chemistry/Biology
 8.  Science: Physics/Chemistry/Biology
 
-An option for a 9th subject is allowed only if the student is able to cope well in all the 9 subjects.
+An option for a 9<sup>th</sup> subject is allowed only if the student is able to cope well in all the 9 subjects.
 
 The Music Elective Programme (MEP) and Regional Studies Programme (RSP) are special electives also offered in the Express Programme. Both programmes take in academically able students with an aptitude for either music or 3rd Language/culture.
 
