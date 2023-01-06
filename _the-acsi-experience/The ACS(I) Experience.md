@@ -6,9 +6,9 @@ description: ""
 <table>
 <thead>
   <tr>
-    <th></th>
-    <th></th>
-    <th></th>
+    <th style="width:273px"></th>
+    <th style="width:273px"></th>
+    <th style="width:273px"></th>
   </tr>
 </thead>
 <tbody>
