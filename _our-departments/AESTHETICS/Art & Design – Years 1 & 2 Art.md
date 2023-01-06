@@ -63,6 +63,7 @@ third_nav_title: AESTHETICS
 <tr>
 <td width="167">LO3 Generate questions and ideas from visuals</td>
 <td></td>
+<td></td>
 <td width="167">LO8 Work with others to make art, present art, and solve visual and other problems</td>
 <td width="167">CGC 3 Displays socio-cultural and religious sensitivity and awareness</td>
 <td width="161">CIT 3 Manages complexities and ambiguities</td>
