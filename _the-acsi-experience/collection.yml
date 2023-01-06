@@ -2,10 +2,10 @@ collections:
   the-acsi-experience:
     output: true
     order:
-      - PCCG/MOE Sexuality Education in Schools.md
       - PCCG/.keep
       - PCCG/Pastoral Care & Career Guidance (PCCG).md
       - PCCG/Well being Education.md
+      - PCCG/MOE Sexuality Education in Schools.md
       - The ACS(I) Experience.md
       - Approach.md
       - EXPRESS PROGRAMME/.keep
