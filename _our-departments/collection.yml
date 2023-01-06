@@ -2,9 +2,9 @@ collections:
   our-departments:
     output: true
     order:
-      - ECONOMICS/Business Management.md
-      - ECONOMICS/Economics.md
       - ECONOMICS/.keep
+      - ECONOMICS/Economics.md
+      - ECONOMICS/Business Management.md
       - Our Departments.md
       - AESTHETICS/.keep
       - AESTHETICS/Aesthetics.md
