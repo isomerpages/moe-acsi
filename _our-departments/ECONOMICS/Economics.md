@@ -31,70 +31,44 @@ The course aims to:
 
 **Unit 2: Microeconomics**
 
-2.1 Demand
-
-2.2 Supply
-
-2.3 Competitive market equilibrium
-
-2.4 Critique of the maximizing behaviour of consumers and producers
-
-2.5 Elasticity of demand
-
-2.6 Elasticity of supply
-
-2.7 Role of government in microeconomics
-
-2.8 Market failure—externalities and common pool or common access resources
-
+2.1 Demand   
+2.2 Supply   
+2.3 Competitive market equilibrium   
+2.4 Critique of the maximizing behaviour of consumers and producers   
+2.5 Elasticity of demand   
+2.6 Elasticity of supply   
+2.7 Role of government in microeconomics   
+2.8 Market failure—externalities and common pool or common access resources   
 2.9 Market failure—public goods
 
 **The following are added to the HL syllabus**
 
-2.10Market failure—asymmetric information
-
-2.11 Market failure—market power
-
+2.10Market failure—asymmetric information   
+2.11 Market failure—market power   
 2.12 The market’s inability to achieve equity
 
  **Unit 3: Macroeconomics**
 
-3.1 Measuring economic activity and illustrating its variations
-
-3.2 Variations in economic activity— aggregate demand and aggregate supply
-
-3.3 Macroeconomic objectives
-
-3.4 Economics of inequality and poverty
-
-3.5 Demand management (demand-side policies)—monetary policy
-
-3.6 Demand management—fiscal policy
-
+3.1 Measuring economic activity and illustrating its variations   
+3.2 Variations in economic activity— aggregate demand and aggregate supply   
+3.3 Macroeconomic objectives   
+3.4 Economics of inequality and poverty   
+3.5 Demand management (demand-side policies)—monetary policy   
+3.6 Demand management—fiscal policy   
 3.7 Supply-side policies
 
 **Unit 4: The global economy**
 
-4.1 Benefits of international trade
-
-4.2 Types of trade protection
-
-4.3 Arguments for and against trade control/protection
-
-4.4 Economic integration
-
-4.5 Exchange rates
-
-4.6 Balance of payments
-
-4.7 Sustainable development
-
-4.8 Measuring development
-
-4.9 Barriers to economic growth and/or economic development
-
-4.10 Economic growth and/or economic
-
+4.1 Benefits of international trade   
+4.2 Types of trade protection   
+4.3 Arguments for and against trade control/protection   
+4.4 Economic integration   
+4.5 Exchange rates   
+4.6 Balance of payments   
+4.7 Sustainable development   
+4.8 Measuring development   
+4.9 Barriers to economic growth and/or economic development   
+4.10 Economic growth and/or economic   
 development strategies
 
 **Sample Questions**
