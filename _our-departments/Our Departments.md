@@ -15,7 +15,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td style ="text-align:center"><a href=""> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i></i></a></td>
+    <td style ="text-align:center"><a href="/departments/aesthetics/"> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i>Aesthetics</i></a></td>
     <td style ="text-align:center"><a href=""> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i></i></a></td>
     <td style ="text-align:center"><a href=""> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i></i></a></td>
   </tr>
