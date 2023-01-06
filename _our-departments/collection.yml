@@ -2,6 +2,7 @@ collections:
   our-departments:
     output: true
     order:
+      - AESTHETICS/2022 Aesthetics e Symposium.md
       - AESTHETICS/.keep
       - AESTHETICS/Aesthetics.md
       - AESTHETICS/Staff.md
