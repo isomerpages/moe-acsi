@@ -2,6 +2,7 @@ collections:
   our-departments:
     output: true
     order:
+      - AESTHETICS/Art & Design – Years 3 – 4 IP and Years 5 – 6 IB.md
       - AESTHETICS/.keep
       - AESTHETICS/Aesthetics.md
       - AESTHETICS/Staff.md
