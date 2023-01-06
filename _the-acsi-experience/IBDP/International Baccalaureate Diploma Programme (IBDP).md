@@ -16,7 +16,7 @@ For additional resources and some recent features of our latest graduating cohor
 
 ***
 
-ACS(I) IB Page: [/the-acs-independent-experience/international-baccalaureate-diploma-programme-ibdp/](/the-acs-independent-experience/ibdp/)
+ACS(I) IB Page: [/the-acs-independent-experience/ibdp/](/the-acs-independent-experience/ibdp/)
 
 Latest News:
 
