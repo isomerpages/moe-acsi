@@ -8,7 +8,7 @@ The IB Diploma Programme has proved to be a compelling pre-university course of 
 
 The IB Curriculum structure is represented by a hexagon model with six academic subjects surrounding a core.
 
-<a href="/images/The%20ACS(I)%20Experience/IB-Model.jpg" target = "_blank"> <img src="/images/The%20ACS(I)%20Experience/IB-Model.jpg" style="width:40%; float:left; padding:10px"></a>
+<a href="/images/The%20ACS(I)%20Experience/IB-Model.jpg"> <img src="/images/The%20ACS(I)%20Experience/IB-Model.jpg" style="width:40%; float:left; padding:10px"></a>
 
 Diploma students study six subjects from six subject groups, concurrently over two years, as well as the core elements of the programme (Theory of Knowledge, the extended essay and creativity, action, service). The six subject groups represent the major domains of learning across all subject disciplines of a curriculum. 
 
