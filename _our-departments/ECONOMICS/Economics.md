@@ -10,6 +10,7 @@ The course, at both HL and SL, uses economic theories, models and key concepts t
 
 It allows students to explore models, theories and key concepts, and apply them, using empirical data, through the examination of real-world issues. The nine key concepts are as follow
 
+<img src="/images/Our%20Departments/Economics.jpg" style="width:50%">
 
 **Course Content**
 
