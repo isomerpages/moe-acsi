@@ -9,6 +9,7 @@ third_nav_title: ECONOMICS
 Related External Links
 ----------------------
 
+
 <a href="http://www.contactsingapore.org.sg/" target="_blank">Contact Singapore</a>
 
 <a href="http://www.iesingapore.gov.sg/" target="_blank">International Enterprise Singapore</a>
