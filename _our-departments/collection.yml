@@ -2,8 +2,6 @@ collections:
   our-departments:
     output: true
     order:
-      - AESTHETICS/MEP Centre (for external students).md
-      - AESTHETICS/IB Music Programme Entry Requirements.md
       - AESTHETICS/.keep
       - AESTHETICS/Aesthetics.md
       - AESTHETICS/Staff.md
@@ -19,4 +17,6 @@ collections:
       - AESTHETICS/Entry Requirements.md
       - AESTHETICS/IBDP Higher Level (HL) Music.md
       - AESTHETICS/IB Music Syllabus & Assessment.md
+      - AESTHETICS/IB Music Programme Entry Requirements.md
+      - AESTHETICS/MEP Centre (for external students).md
       - Our Departments.md
