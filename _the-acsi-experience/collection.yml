@@ -2,6 +2,7 @@ collections:
   the-acsi-experience:
     output: true
     order:
+      - INTEGRATED PROGRAMME/.keep
       - The ACS(I) Experience.md
       - Approach.md
       - EXPRESS PROGRAMME/.keep
