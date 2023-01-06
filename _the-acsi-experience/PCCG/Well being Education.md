@@ -6,7 +6,7 @@ third_nav_title: PCCG
 ---
 **<u>Well-being Education @ ACS (Independent)</u>**
 
-On 1 March 1886, Reverend William Fitzjames Oldham founded Anglo-Chinese School (ACS) with the purpose of nurturing students to be of service “for God and humanity <a id="_ftnref1"></a>[\[1\]](https://www.acsindep.moe.edu.sg/the-acs-independent-experience/pastoral-care-career-guidance-pccg/well-being-education/#_ftn1).”
+On 1 March 1886, Reverend William Fitzjames Oldham founded Anglo-Chinese School (ACS) with the purpose of nurturing students to be of service “for God and humanity <a id="_ftnref1"></a>[\[1\]](/pastoral-care-career-guidance-pccg/well-being-education/#_ftn1).”
 
 Bishop Oldham’s vision was for ACS to not only provide good academic education, but that the school should also strive to educate students with good morals and habits consistent with Christian values.
 
@@ -60,4 +60,4 @@ ACS’s mission is to be a ‘***Beacon of Truth and Light***’.  As a school 
 
 ***
 <a id="_ftn1"></a>
-[\[1\]](https://www.acsindep.moe.edu.sg/the-acs-independent-experience/pastoral-care-career-guidance-pccg/well-being-education/#_ftnref1) Testimonial Dinner Address of Bishop William Fitzjames Oldham at the Broad Street Methodist Episcopal Church, Columbus, Ohio.  December 17, 1929.
+[\[1\]](/pastoral-care-career-guidance-pccg/well-being-education/#_ftnref1) Testimonial Dinner Address of Bishop William Fitzjames Oldham at the Broad Street Methodist Episcopal Church, Columbus, Ohio.  December 17, 1929.
