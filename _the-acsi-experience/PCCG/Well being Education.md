@@ -35,3 +35,18 @@ Through WE, ACS (Independent) aims to provide its students with an enhanced capa
 **<u>ACS (Independent) Well-being Education Model</u>**
 
 In order to embed WE in the school community, a conceptual and applied model was developed as a roadmap for everyone to understand how well-being can be conscientiously and deliberately nurtured within the school family.  <u>Figure 1</u> shows the **ACS (Independent) WE Model** which consists of four domains.
+
+![](/images/The%20ACS(I)%20Experience/Well-being-Education.jpg)
+
+<center><u>Figure 1: ACS (Independent) Well-being Education (WE) Model</u></center>
+
+The First Domain – Starting with the inside of the model, we see a “Shield” and the ACS’s motto, “The Best is yet to Be.”  The desired outcome we have for the students, staff, parents, alumni and our wider community is that they will experience the **Best Life** and flourish.  Living the best life is simply a combination of feeling good and doing good (Norrish, 2015).  
+
+*   _Feeling good_ refers to a wide range of emotions such as love, gratitude, passion and hope. It also represents a healthy acceptance of negative experiences with the willingness to grow and learn. 
+*   _Doing good_ refers to caring for others, nurturing positive and strong relationships, and using one’s knowledge and skills to make a difference in the family, nation and the global community.
+
+The Second Domain – Character strengths are capacities humans have for thinking, feeling and behaving.  Specifically, they are the psychological ingredient for displaying virtues or human goodness (VIA Institute of Character, 2015).
+
+The Third Domain – Building on Martin Seligman’s Well-being Theory (Seligman, 2012), the six elements of well-being are positive emotion, engagement, relationship, meaning, accomplishment and health **(PERMAH)**.  Each of these six elements will contribute towards an individual experiencing the best life, as supported by psychology research and science.
+
+The Fourth Domain – Finally, as we move to the outermost circle of the Well-being Education Model, we see the repeated phrases “Learn, Live, Teach, Embed” (Norrish, 2015).  To bring our model from rhetoric to reality, the school will need to engage students, staff and stakeholders such as parents on all four levels, as elaborated in the “Learn, Live, Teach, Embed” framework in <u>Figure 2</u>.
