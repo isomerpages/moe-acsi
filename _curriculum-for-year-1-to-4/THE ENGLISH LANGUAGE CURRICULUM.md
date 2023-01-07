@@ -47,17 +47,17 @@ Fundamental to the rich incidental learning promoted by our unique ACSian Learni
 
 **CLLIPS****,** which refers to the principles of EL teaching and learning, directs teachers to apply knowledge of the disciplinarity of EL to guide our students towards a deeper understanding of the language and its use, and facilitate the transfer of learning.
 
-**C****ontextualization** involves designing learning tasks and activities for students to learn the language in an authentic and meaningful context.
+**Contextualization** involves designing learning tasks and activities for students to learn the language in an authentic and meaningful context.
 
-**L****earner-centredness** puts students at the heart of the teaching and learning process and empowers them.  It also requires employing effective pedagogies to engage students, strengthen their language development and stretch their potential.
+**Learner-centredness** puts students at the heart of the teaching and learning process and empowers them.  It also requires employing effective pedagogies to engage students, strengthen their language development and stretch their potential.
 
-**L****earning-focused interaction** entails providing a rich and responsive learning environment for communication. It explicitly fosters oral communication skills and focuses on achieving learner and learning outcomes. It actively engages students by encouraging participation, interaction and boosting their confidence in the use of language.
+**Learning-focused interaction** entails providing a rich and responsive learning environment for communication. It explicitly fosters oral communication skills and focuses on achieving learner and learning outcomes. It actively engages students by encouraging participation, interaction and boosting their confidence in the use of language.
 
-**I****ntegration** involves teaching the receptive skills, productive skills, grammar and vocabulary in an integrated way, with one set of skills building on another, using texts from relevant print, non-print and digital networked sources, to provide different perspectives and meaningful connections, including to the wider contexts of language use.
+**Integration** involves teaching the receptive skills, productive skills, grammar and vocabulary in an integrated way, with one set of skills building on another, using texts from relevant print, non-print and digital networked sources, to provide different perspectives and meaningful connections, including to the wider contexts of language use.
 
-**P****rocess Orientation** sees the teacher modelling, scaffolding and students differentiating the learning processes for the development of language skills and knowledge about language, while guiding learners to put together their final spoken, written and/or multimodal products.
+**Process Orientation** sees the teacher modelling, scaffolding and students differentiating the learning processes for the development of language skills and knowledge about language, while guiding learners to put together their final spoken, written and/or multimodal products.
 
-**S****piral Progression** is achieved when the teacher instructs and revises and revisits to reinforce learning skills, grammatical items, structures and various types and forms of texts, including multimodal and hybrid texts, at increasing levels of difficulty and sophistication.
+**Spiral Progression** is achieved when the teacher instructs and revises and revisits to reinforce learning skills, grammatical items, structures and various types and forms of texts, including multimodal and hybrid texts, at increasing levels of difficulty and sophistication.
 
 **ACoLADE** refers to EL teaching processes that guide teachers in the design of instruction and enactment of learning experiences in the 21st century EL classroom.  It is the process of raising **A**wareness, structuring **Co**nsolidation, facilitating assessment for **L**earning, enabling **A**pplication, guiding **D**iscovery, and instructing **E**xplicitly.
 
