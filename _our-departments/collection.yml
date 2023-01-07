@@ -2,6 +2,7 @@ collections:
   our-departments:
     output: true
     order:
+      - HUMANITIES/Humanities.md
       - HUMANITIES/.keep
       - Our Departments.md
       - AESTHETICS/.keep
