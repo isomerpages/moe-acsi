@@ -27,8 +27,8 @@ description: ""
     <td style ="text-align:center"><a href="/talent-development/dr-goh-keng-swee-nation-building-series/"> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i>Dr Goh Keng Swee Nation Building Series</i></a></td>
   </tr>
   <tr>
-    <td style ="text-align:center"><a href=""> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i></i></a></td>
-    <td style ="text-align:center"><a href=""> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i></i></a></td>
+    <td style ="text-align:center"><a href="/talent-development/dr-lee-li-eng-speaker-of-the-year-award/"> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i>Dr Lee Li Eng Speaker of the Year Series</i></a></td>
+    <td style ="text-align:center"><a href="/talent-development/dr-lee-suan-yew-speaker-of-the-year-award/"> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i>Dr Lee Suan Yew Speaker of the Year Series</i></a></td>
     <td style ="text-align:center"><a href=""> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i></i></a></td>
   </tr>
   <tr>
