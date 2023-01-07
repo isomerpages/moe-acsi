@@ -10,6 +10,6 @@ third_nav_title: ENGLISH LANGUAGE & LITERATURE
 
 To God be the Glory! The Best is Yet to Be!
 
-_**“The seminar was a great experience as we were able to learn much from the experts and also used the chance to analyse more interesting and complex mediums that would otherwise not be possible during curriculum time.”**_
+<p style="color:#00205c"><b><i>“The seminar was a great experience as we were able to learn much from the experts and also used the chance to analyse more interesting and complex mediums that would otherwise not be possible during curriculum time.”</i></b></p>
 
-_**(Jonathan Yeoh, Thura Zaw, Abhishek Routray, 4.09 Elijah; Mentor: Ms Goretti Pereira)**_
+<p style="color:#00205c"><b><i>(Jonathan Yeoh, Thura Zaw, Abhishek Routray, 4.09 Elijah; Mentor: Ms Goretti Pereira)</i></b></p>
