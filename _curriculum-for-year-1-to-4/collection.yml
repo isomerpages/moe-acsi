@@ -2,5 +2,5 @@ collections:
   curriculum-for-year-1-to-4:
     output: true
     order:
-      - THE ENGLISH LANGUAGE CURRICULUM.md
       - THE LITERATURE IN ENGLISH CURRICULUM.md
+      - THE ENGLISH LANGUAGE CURRICULUM.md
