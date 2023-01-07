@@ -2,10 +2,6 @@ collections:
   our-departments:
     output: true
     order:
-      - THEORY OF KNOWLEDGE/.keep
-      - THEORY OF KNOWLEDGE/Theory of Knowledge.md
-      - THEORY OF KNOWLEDGE/Staff.md
-      - THEORY OF KNOWLEDGE/Assessment Modes.md
       - MOTHER TONGUE/.keep
       - MOTHER TONGUE/Mother Tongue.md
       - MOTHER TONGUE/HIGHER MOTHER TONGUE LANGUAGE (HMTL).md
@@ -68,3 +64,7 @@ collections:
       - MATHEMATICS/Mathematics.md
       - MATHEMATICS/Math Department Highlights.md
       - MATHEMATICS/Resources.md
+      - THEORY OF KNOWLEDGE/.keep
+      - THEORY OF KNOWLEDGE/Theory of Knowledge.md
+      - THEORY OF KNOWLEDGE/Staff.md
+      - THEORY OF KNOWLEDGE/Assessment Modes.md
