@@ -70,3 +70,7 @@ Topics to be covered in the course include: 
 5.9 Management information systems (HL only)
 
 The students will also be introduced to a **Business Toolkit** which will help them in their analysis and business decision making. This toolkit will include:
+
+
+
+<img src="/images/Our%20Departments/BM-2024_1.png" style="width:50%">
