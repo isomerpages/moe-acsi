@@ -37,8 +37,8 @@ description: ""
     <td style ="text-align:center"><a href="/talent-development/pathfinder/"> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i>Pathfinder</i></a></td>
   </tr>
   <tr>
-    <td style ="text-align:center"><a href=""> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i></i></a></td>
-    <td style ="text-align:center"><a href=""> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i></i></a></td>
+    <td style ="text-align:center"><a href="/talent-development/regional-studies-programme/"> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i>Regional Studies Programme</i></a></td>
+    <td style ="text-align:center"><a href="/talent-development/trailblazer/"> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i>Trailblazer</i></a></td>
     <td style ="text-align:center"></td>
   </tr>
 </tbody>
