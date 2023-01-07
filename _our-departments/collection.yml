@@ -2,7 +2,6 @@ collections:
   our-departments:
     output: true
     order:
-      - MOTHER TONGUE/Blog.md
       - MOTHER TONGUE/.keep
       - MOTHER TONGUE/2022年教师阵容.md
       - MOTHER TONGUE/Mother Tongue.md
@@ -11,6 +10,7 @@ collections:
       - MOTHER TONGUE/Chinese.md
       - MOTHER TONGUE/勤思敏行.md
       - MOTHER TONGUE/Malay.md
+      - MOTHER TONGUE/Blog.md
       - Our Departments.md
       - AESTHETICS/.keep
       - AESTHETICS/Aesthetics.md
