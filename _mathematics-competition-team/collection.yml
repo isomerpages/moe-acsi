@@ -2,4 +2,5 @@ collections:
   mathematics-competition-team:
     output: true
     order:
+      - Calendar.md
       - Mathematics Competition Team.md
