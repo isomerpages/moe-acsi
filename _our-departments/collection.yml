@@ -2,6 +2,7 @@ collections:
   our-departments:
     output: true
     order:
+      - THEORY OF KNOWLEDGE/Staff.md
       - THEORY OF KNOWLEDGE/Theory of Knowledge.md
       - THEORY OF KNOWLEDGE/.keep
       - MOTHER TONGUE/.keep
