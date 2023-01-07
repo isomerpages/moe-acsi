@@ -1,4 +1,5 @@
 collections:
   curriculum-for-year-1-to-4:
     output: true
-    order: []
+    order:
+      - THE LITERATURE IN ENGLISH CURRICULUM.md
