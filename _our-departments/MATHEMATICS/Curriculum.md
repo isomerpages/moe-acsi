@@ -35,6 +35,6 @@ Click on the course options to read more about the types of Mathematics offered 
 
 **Syllabus**
 
-
+<a href="/images/Our%20Departments/Diploma-Programme-Model-1024x911-1024x911.jpg"> <img src="/images/Our%20Departments/Diploma-Programme-Model-1024x911-1024x911.jpg"></a>
 
 Six groups of subjects in the IB Diploma programme.
