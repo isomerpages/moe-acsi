@@ -7,4 +7,4 @@ description: ""
 
 <p style="text-align: justify;">The course is designed to provide for students’ progression to higher education. The teaching of   the   subject is   supported   through case studies and examples from newspaper/online articles and real-world resources.  Emphasis is placed on the six concepts of <b>change</b>, <b>culture</b>, <b>ethics</b>, <b>innovation</b>, <b>strategy</b> and <b>globalization</b> in relationship to businesses. The relationship between concepts, context   and content can be summarized as below:</p>
 
-<img src="/images/Our%20Departments/BM.png" style="width:50%">
+<img src="/images/Our%20Departments/BM.png" style="width:40%">
