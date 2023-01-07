@@ -82,4 +82,9 @@ The students will also be introduced to a **Business Toolkit** which will help
 | Business Plan    | Hofstede’s Cultural Dimensions (HL) |
 | Gantt Chart (HL) | Porter’s Generic Strategies (HL)    |
 
+<p style="text-align: justify;">Throughout the course the students would examine how the internal and external environment would impact organization and its stakeholders. The course is designed to provide for students’ progression to   higher education.</p>
+
+<p style="text-align: justify;">The teaching   of   the   subject is supported through case studies and examples from newspaper articles and real-world resources. As such the course is focused on <u>inquiry-based teaching and learning</u>, where students are given the opportunity to explore business tools and theories using case studies and create their own questions and formulate their own solutions to problems or issues facing an organization. The approach can be summarized as follows:</p>
+
 <img src="/images/Our%20Departments/BM-2024_1.png" style="width:50%">
+
