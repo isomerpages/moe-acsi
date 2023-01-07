@@ -2,9 +2,9 @@ collections:
   our-departments:
     output: true
     order:
-      - MOTHER TONGUE/HIGHER MOTHER TONGUE LANGUAGE (HMTL).md
-      - MOTHER TONGUE/Mother Tongue.md
       - MOTHER TONGUE/.keep
+      - MOTHER TONGUE/Mother Tongue.md
+      - MOTHER TONGUE/HIGHER MOTHER TONGUE LANGUAGE (HMTL).md
       - Our Departments.md
       - AESTHETICS/.keep
       - AESTHETICS/Aesthetics.md
