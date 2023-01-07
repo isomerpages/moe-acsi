@@ -2,12 +2,12 @@ collections:
   our-departments:
     output: true
     order:
-      - MATHEMATICS/Resources.md
       - MATHEMATICS/.keep
       - MATHEMATICS/Staff.md
       - MATHEMATICS/Curriculum.md
       - MATHEMATICS/Mathematics.md
       - MATHEMATICS/Math Department Highlights.md
+      - MATHEMATICS/Resources.md
       - Our Departments.md
       - AESTHETICS/.keep
       - AESTHETICS/Aesthetics.md
