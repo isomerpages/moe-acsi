@@ -17,6 +17,6 @@ third_nav_title: HUMANITIES
 9.  <a href="https://www.acsindep.moe.edu.sg/wp-content/uploads/2023/01/ISY3-Subject-Brochure-v2023.pdf" target="_blank">International Studies Upper Sec IP</a>
 10.  <a href="https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/02/IB-Geography-Brochure-2022-1.pdf" target="_blank">Geography IB HL and SL</a>
 11.  [History IB HL and SL]<a href="" target="_blank"></a>(https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/02/IB-History-Brochure-2022-1.pdf)
-12.  [Humanities (Social Studies, Geography)]<a href="" target="_blank"></a>(https://www.acsindep.moe.edu.sg/wp-content/uploads/2019/01/Humanities-SS-Geo.pdf)
+12.  <a href="/files/Our%20Departments/Humanities/Humanities-SS-Geo.pdf" target="_blank">Humanities (Social Studies, Geography)</a>
 13.  <a href="/files/Our%20Departments/Humanities/Humanities-SS-and-History.pdf" target="_blank">Humanities (Social Studies, History)</a>
 14.  <a href="https://www.acsindep.moe.edu.sg/uploads/2019/01/Humanities-SS-and-Literature.pdf" target="_blank">Humanities (Social Studies, Literature in English)</a>
