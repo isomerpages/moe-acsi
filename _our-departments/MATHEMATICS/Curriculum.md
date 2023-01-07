@@ -20,18 +20,18 @@ Click on the course options to read more about the types of Mathematics offered 
 Click on the course options to read more about the types of Mathematics offered in ACS(Independent).
 
 *   [Year 1 Enriched Mathematics]<a href="/files/Our%20Departments/Mathematics/" target="_blank"></a>(https://www.acsindep.moe.edu.sg/wp-content/uploads/2021/01/Year-1-Enriched-Mathematics.pdf)
-*   [Year 2 Enriched Mathematics]<a href="/files/Our%20Departments/Mathematics/" target="_blank"></a>(https://www.acsindep.moe.edu.sg/wp-content/uploads/2021/01/Year-2-Enriched-Mathematics-Course-Outline.pdf)
-*   [Year 3 Core Mathematics]<a href="/files/Our%20Departments/Mathematics/" target="_blank"></a>(https://www.acsindep.moe.edu.sg/wp-content/uploads/2020/01/Year-3IP-Core-Mathematics.pdf)
-*   [Year 3 Advanced Mathematics]<a href="/files/Our%20Departments/Mathematics/" target="_blank"></a>(https://www.acsindep.moe.edu.sg/wp-content/uploads/2018/11/Y3IP_Advanced-Math.pdf)
-*   [Year 4 Core Mathematics]<a href="/files/Our%20Departments/Mathematics/" target="_blank"></a>(https://www.acsindep.moe.edu.sg/wp-content/uploads/2020/01/Year-4IP-Core-Mathematics.pdf)
-*   [Year 4 Advanced Mathematics]<a href="/files/Our%20Departments/Mathematics/" target="_blank"></a>(https://www.acsindep.moe.edu.sg/wp-content/uploads/2020/01/Year-4IP-Advanced-Mathematics.pdf)
+*   <a href="/files/Our%20Departments/Mathematics/Year-2-Enriched-Mathematics-Course-Outline.pdf" target="_blank">Year 2 Enriched Mathematics</a>
+*   <a href="/files/Our%20Departments/Mathematics/Year-3IP-Core-Mathematics.pdf" target="_blank">Year 3 Core Mathematics</a>
+*   <a href="/files/Our%20Departments/Mathematics/Y3IP_Advanced-Math.pdf" target="_blank">Year 3 Advanced Mathematics</a>
+*   <a href="/files/Our%20Departments/Mathematics/Year-4IP-Core-Mathematics.pdf" target="_blank">Year 4 Core Mathematics</a>
+*   <a href="/files/Our%20Departments/Mathematics/Year-4IP-Advanced-Mathematics.pdf" target="_blank">Year 4 Advanced Mathematics</a>
 
 ### International Baccalaureate Diploma Programme (Year 5 to 6)
 
 Click on the course options to read more about the types of Mathematics offered in ACS(Independent).
 
-*   [Mathematics Analysis & Approaches HL and SL]<a href="/files/Our%20Departments/Mathematics/" target="_blank"></a>(https://www.acsindep.moe.edu.sg/wp-content/uploads/2020/01/subject-brief-dp-math-analysis-and-approaches-en.pdf)
-*   [FAQs about Mathematics Analysis & Approaches]<a href="/files/Our%20Departments/Mathematics/" target="_blank"></a>(https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/02/FAQ-on-Maths-AA.pdf)
+*   <a href="/files/Our%20Departments/Mathematics/subject-brief-dp-math-analysis-and-approaches-en.pdf" target="_blank">Mathematics Analysis & Approaches HL and SL</a>
+*   <a href="/files/Our%20Departments/Mathematics/FAQ-on-Maths-AA.pdf" target="_blank">FAQs about Mathematics Analysis & Approaches</a>
 
 **Syllabus**
 
