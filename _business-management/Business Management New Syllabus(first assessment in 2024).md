@@ -112,7 +112,7 @@ The 1800-word research project is to be written with the help of 3-5 supporting 
 
 **Assessment Weightage:** HL 25% SL 35%
 
-**Time:** 1 hour 30 mins **(**for both HL and SL)
+**Time:** 1 hour 30 mins (for both HL and SL)
 
 Based on a <u>pre-released statement</u> that specifies the context and background for an unseen case study.
 
