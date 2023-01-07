@@ -20,8 +20,7 @@ Year 1 Bahasa Melayu
 Year 1 Malay Special Programme  
 Cikgu Martinah memegang ijazah Master in Education (Secondary) dan Bachelor of Arts (Education) with Specialization in Malay Language and Literature.  
 
-**Tan Hui Ming  
-**
+**Tan Hui Ming**
 
 Kelas:  
 Tahun 4 Bahasa Melayu  
