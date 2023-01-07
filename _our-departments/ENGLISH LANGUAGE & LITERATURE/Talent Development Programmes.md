@@ -4,6 +4,8 @@ permalink: /departments/ell-home/talent-development-programmes/
 description: ""
 third_nav_title: ENGLISH LANGUAGE & LITERATURE
 ---
+# https://www.moe.gov.sg/programmes/gifted-education/special-programmes link broken
+
 **Dr Lee Suan Yew Speaker of the Year Awards**
 
 The Dr Lee Suan Yew Speaker of the Year Award is the signature programme of the English Language and Literature Department.   It was back in 1994 that Dr Lee Suan Yew’s generous donation went towards purchasing the challenge shield for the inaugural oratorical competition, which is now eponymously known as the Dr Lee Suan Yew Speaker of the Year Award. Since then, the competition has had several iterations, shifting from an annual event to a biennial event, and having its format evolve alongside the changing communicative challenges brought about by  the technological advancements of the 21st Century.  Now, once every two years, the whole school gathers to witness a dazzling display of ACSian eloquence, wit and stage charisma.  Nine finalists are selected from a highly contested auditions and they battle it out for the prestigious award in their respective categories.  It is our firm believe that the art of public speaking is a powerful and necessary skill to master. The greatest speakers have the ability to influence and alter mindsets.  Hence on the afternoon of the competition, our finalists aim to influence and alter the mindsets of the 3000-strong audience and compete in the Prepared Speech and the Visual Impromptu Speech rounds.
