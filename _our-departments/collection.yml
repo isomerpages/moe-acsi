@@ -2,6 +2,7 @@ collections:
   our-departments:
     output: true
     order:
+      - ENGLISH LANGUAGE & LITERATURE/Curriculum for Year 1 – 4.md
       - ENGLISH LANGUAGE & LITERATURE/.keep
       - ENGLISH LANGUAGE & LITERATURE/English Language & Literature.md
       - ENGLISH LANGUAGE & LITERATURE/Staff.md
