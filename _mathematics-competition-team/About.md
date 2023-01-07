@@ -14,3 +14,11 @@ Our trainings (twice per week, usually Monday and Tuesday, 1.5 to 2 hours per se
 | 3. | Online e-Training | (Access to members only. Training videos, documents, past paper solutions and quizzes for all levels.) |
 
 Students are trained in topics such as COMBINATORICS, NUMBER THEORY, GEOMETRY, TRIGONOMETRY, FUNCTIONS etc., beyond the secondary and IBDP syllabus.
+
+**Teachers-in-charge**
+
+| Teacher                | Extension Number | Email (please add @acsindep.edu.sg behind) |
+|----------|------------------|-----------------------|
+| Mr. Hong Lee Kiat (IC) | 529              | hongleekiat                                |
+| Mrs. Chua Chia Pei     | 203              | chiapei                                    |
+| Mr. Jonas Chow         | 489              | jonaschowjl                                |
