@@ -48,25 +48,25 @@ Mandarin _ab initio\*_
 
  **<u>Entry Criteria for Group 2: Language Acquisition subjects</u>**
 
-**1.** Students who obtained at least a D7 for GCE ‘O’ Level Higher MT
+**1\.** Students who obtained at least a D7 for GCE ‘O’ Level Higher MT
 
 *   Allowed to study any Group 2: Language Acquisition subject (i.e., Language B or Language ab initio).
 
-**2.** Students who did not meet the criteria of at least D7 for GCE ‘O’ Level Higher MT
+**2\.** Students who did not meet the criteria of at least D7 for GCE ‘O’ Level Higher MT
 
 *   Allowed to study Group 2 Language B (Mother Tongue Languages).
 *   If students wish to offer Group 2 Language ab Initio subject, they must study on their own and sit for the GCE ‘A’ Level H1 MT subject ((i.e. CL/ML/TL including Non-Tamil Indian Language and MT which are Foreign Language/Asian Language) in Year 5 or Year 6 in order to fulfill the admission criteria to local universities.
 
-**3.** Students who studied MT Syllabus B at the Secondary School
+**3\.** Students who studied MT Syllabus B at the Secondary School
 
 *   Allowed to study any Group 2 subject with consultation from the MT Dean.
 *   If students wish to offer Group 2 Language ab Initio they must study on their own and sit for the GCE ‘A’ Level MT Syllabus B exam in Year 5 or Year 6 to fulfil the admission criteria to local universities.
 
-**4.** Students who are exempted from the official MT languages
+**4\.** Students who are exempted from the official MT languages
 
 *   Allowed to study any Group 2 subject.
 
-**5.** PRC scholars and international students whose 1st language is Chinese.
+**5\.** PRC scholars and international students whose 1st language is Chinese.
 
 *   Not allowed to study Chinese B but to study Language ab initio.
 
