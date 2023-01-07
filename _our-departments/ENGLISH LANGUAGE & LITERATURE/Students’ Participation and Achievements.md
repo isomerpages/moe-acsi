@@ -6,7 +6,7 @@ third_nav_title: ENGLISH LANGUAGE & LITERATURE
 ---
 **Literature Seminar**
 
-On 21 August 2021, 5 groups of students from 3.16 Habakkuk, 4.09 Elijah, and 4.11 Stephen presented their Literary Research during the Literature Seminar. Organised by the Gifted Education Branch (GEB) of MOE, this programme aims to stimulate students’ interest in Literature by exposing them to literary issues beyond our normal curriculum and classroom content. This experience also presented them with the opportunity to enrich their understanding of the literary discipline. The English Language and Literature Department is proud of all the teams for their sterling efforts!
+<p style="text-align: justify;">On 21 August 2021, 5 groups of students from 3.16 Habakkuk, 4.09 Elijah, and 4.11 Stephen presented their Literary Research during the Literature Seminar. Organised by the Gifted Education Branch (GEB) of MOE, this programme aims to stimulate students’ interest in Literature by exposing them to literary issues beyond our normal curriculum and classroom content. This experience also presented them with the opportunity to enrich their understanding of the literary discipline. The English Language and Literature Department is proud of all the teams for their sterling efforts!</p>
 
 To God be the Glory! The Best is Yet to Be!
 
