@@ -82,3 +82,13 @@ A research project that allows students to demonstrate the application of their 
 |                                     | HL                   | SL  |
 |  Paper 1 (Pre-issued Case Study)<br><br>Section A: 2 out of 3<br><br>Section B: 1 compulsory question<br><br>Section C: 1 compulsory question (HL only)   | 35%                  | 30% |
 |  Paper 2 (Structured Questions)<br><br>Section A: 1 out of 2<br><br>Section B: 1 out of 3 (SL)<br><br>Section B: 2 out of 3 (HL)<br><br>Section C: 1 out of 3 | 40%                  | 45% |
+
+**University Courses and Careers**
+
+A background in business is helpful in a wide variety of disciplines, particularly in the study of Law, International Studies, Political Sciences, a wide range of business-related courses, and certain Engineering courses.
+
+For more detailed information please click below:
+
+_[Business Management FAQs](https://www.acsindep.moe.edu.sg/wp-content/uploads/2021/01/Business-Management-FAQs.pdf)_
+
+_[IB Business Management Syllabus](https://www.ibo.org/programmes/diploma-programme/curriculum/individuals-and-societies/business-and-management/)_
