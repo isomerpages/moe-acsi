@@ -20,7 +20,8 @@ To God be the Glory! The Best is Yet to Be!
 
 <p style="color:#00205c"><b><i>(Quek Teck Yong, John Lagman, 4.11 Stephen; Mentor: Mrs Andriany Tee)</i></b></p>
 
-
+![](/images/Our%20Departments/ELL/Group-3-1024x463.jpg)
 
 <p style="color:#00205c"><b><i></i></b></p>
+
 ![](/images/Our%20Departments/ELL/Group-1-1024x432.jpg)
