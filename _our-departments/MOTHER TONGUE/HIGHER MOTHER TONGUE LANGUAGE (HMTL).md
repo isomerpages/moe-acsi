@@ -32,3 +32,17 @@ may opt to study MTL or HMTL at secondary level.
 **10.** IP students who choose to offer HMTL will sit for the HMTL GCE ‘O’ Level Examination at the end of Year 4.
 
 **11.** Please note the minimum grades for MT and MTL ‘B’ for entry to IBDP and local universities.
+
+|              | Mother Tongue         | MT ‘B’ Syllabus       |
+|-----------|----------|---------------------|
+| IP (Y1-Y4)   | For entry to IBDP<br><br>– a D7 in MTL/ MTL in-lieu at the   GCE ‘O’ levels<br>– To meet the school promotion criteria for all Y4 IP students.                                                                                                                                                                                                                                                   | For entry to IBDP<br><br>–  a pass in MTL ‘B’ at GCE ‘O’ Levels  (for Y1-Y3 Lessons are conducted in MOE MTL’B’ centres outside the school)<br>– To meet the school promotion criteria for all Y4 IP students.                                                                                                                                     |
+| IBDP (Y5-Y6) | For entry to local university<br><br>– a Pass in Language B MTL (SL or HL) or<br>– S grade in H1 MTL at GCE ‘A’ Level for MTL students who wish to offer Languages ab initio (foreign languages at introductory level, eg. French/ Malay/ Spanish) instead of Language B MTL at IBDP. In this case, students are to study H1 MTL by their own as A Level subjects are not offered in our school. | For entry to local university<br><br>– a Pass in Language B MTL (SL or HL) or<br>– a pass in MTL ‘B’ at GCE ‘A’ level for students who offer Languages ab initio (foreign languages at introductory level, eg. French/ Malay/ Spanish). In this case, students are to study MTL’B’ by their own as A Level subjects are not offered in our school. |
+
+
+**TRANSFERING FROM HMTL to MTL**
+
+**12.** Students who wish to change from HMTL offer MTL instead may only do so at the start of each academic year.
+
+**13.** Change of subject mid-way through term will not be allowed, unless there are extenuating circumstances.
+
+Updated as of 24 January 2018
