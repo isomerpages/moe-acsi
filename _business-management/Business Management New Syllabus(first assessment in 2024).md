@@ -112,7 +112,7 @@ The 1800-word research project is to be written with the help of 3-5 supporting 
 
 **Assessment Weightage:** HL 25% SL 35%
 
-**Time:** 1 hour 30 mins (for both HL and SL)
+**Time:** 1 hour 30 mins <b>(</b>for both HL and SL)
 
 Based on a <u>pre-released statement</u> that specifies the context and background for an unseen case study.
 
@@ -151,3 +151,7 @@ Based on unseen stimulus material about a social enterprise. Curriculum time wil
 Syllabus content: Unit 1–5 including HL extension topics
 
 Student answer <u>one</u> compulsory question based on the unseen stimulus material (25 marks)
+
+<a href="/files/Our%20Departments/BM-FAQ-New-Syllabus.pdf" target="_blank"><i>Business Management FAQ (New Syllabus)</i></a>
+
+<a href="https://www.ibo.org/programmes/diploma-programme/curriculum/individuals-and-societies/business-and-management/" target="_blank"><i>Business Management Subject Guide (New Syllabus)</i></a>
