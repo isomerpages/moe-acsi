@@ -4,8 +4,8 @@ permalink: /departments/ell-home/curriculum-for-year-1-4/
 description: ""
 third_nav_title: ENGLISH LANGUAGE & LITERATURE
 ---
-[THE LITERATURE IN ENGLISH CURRICULUM](https://www.acsindep.moe.edu.sg/departments/ell-home/curriculum-for-year-1-4/the-literature-in-english-curriculum/)
+<a href="/departments/ell-home/curriculum-for-year-1-4/the-literature-in-english-curriculum/" target="_blank">THE LITERATURE IN ENGLISH CURRICULUM</a>
 
-[THE ENGLISH LANGUAGE CURRICULUM](https://www.acsindep.moe.edu.sg/departments/ell-home/curriculum-for-year-1-4/the-english-language-curriculum/)
+<a href="/departments/ell-home/curriculum-for-year-1-4/the-english-language-curriculum/" target="_blank">THE ENGLISH LANGUAGE CURRICULUM</a>
 
-[THE LANGUAGE ARTS CURRICULUM](https://www.acsindep.moe.edu.sg/departments/ell-home/curriculum-for-year-1-4/the-language-arts-curriculum/)
+<a href="/departments/ell-home/curriculum-for-year-1-4/the-language-arts-curriculum/" target="_blank">THE LANGUAGE ARTS CURRICULUM</a>
