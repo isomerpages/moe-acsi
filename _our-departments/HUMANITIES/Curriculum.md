@@ -4,7 +4,7 @@ permalink: /departments/humanities/curriculum/
 description: ""
 third_nav_title: HUMANITIES
 ---
-# items 1,3,4,6,7,8,14, >5mb
+# items 1,3,4,6,7,8,10,14, >5mb
 
 1.  <a href="https://www.acsindep.moe.edu.sg/wp-content/uploads/2017/11/Geography-Lower-Sec-Exp.pdf" target="_blank">Geography Lower Sec Exp</a>
 2.  <a href="/files/Our%20Departments/Humanities/Geography-Lower-Sec-IP.pdf" target="_blank">Geography Lower Sec IP</a>
