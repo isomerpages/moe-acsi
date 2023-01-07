@@ -9,7 +9,7 @@ third_nav_title: HUMANITIES
 1.  <a href="https://www.acsindep.moe.edu.sg/wp-content/uploads/2017/11/Geography-Lower-Sec-Exp.pdf" target="_blank">Geography Lower Sec Exp</a>
 2.  <a href="/files/Our%20Departments/Humanities/Geography-Lower-Sec-IP.pdf" target="_blank">Geography Lower Sec IP</a>
 3.  <a href="https://www.acsindep.moe.edu.sg/wp-content/uploads/2017/11/Geography-Core-Upper-Sec-Exp.pdf" target="_blank">Geography Upper Sec Exp</a>
-4.  [Geography Upper Sec IP]<a href="" target="_blank"></a>(https://www.acsindep.moe.edu.sg/wp-content/uploads/2017/11/Geography-Upper-Sec-IP.pdf)
+4.  <a href="https://www.acsindep.moe.edu.sg/wp-content/uploads/2017/11/Geography-Upper-Sec-IP.pdf" target="_blank">Geography Upper Sec IP</a>
 5.  [History Lower Sec Exp]<a href="" target="_blank"></a>(https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/02/Years-1-and-2-Express-history-2021.pdf)
 6.  [History and Current Affairs Lower Sec IP]<a href="" target="_blank"></a>(https://www.acsindep.moe.edu.sg/wp-content/uploads/2017/11/History-and-Current-Affairs-Lower-Sec-IP.pdf)
 7.  [History Upper Sec Exp]<a href="" target="_blank"></a>(https://www.acsindep.moe.edu.sg/wp-content/uploads/2017/11/History-Core-Upper-Sec-Exp.pdf)
