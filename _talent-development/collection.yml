@@ -1,4 +1,5 @@
 collections:
   talent-development:
     output: true
-    order: []
+    order:
+      - Talent Development.md
