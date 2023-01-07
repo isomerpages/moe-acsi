@@ -25,7 +25,7 @@ may opt to study MTL or HMTL at secondary level.
 
 **8.** the end of Secondary Three, an O Level pupil studying HMTL will be allowed to sit for the GCE ‘O’ Level MTL paper. If the pupil is unable to cope with both English and HMTL, he will be allowed to switch to English and MTL.
 
-**IP Students**
+**<u>IP Students</u>**
 
 **9.** IP students who choose to offer MTL will sit for the MTL GCE ‘O’ level Examination at the Mid-Year of Year 4.
 
