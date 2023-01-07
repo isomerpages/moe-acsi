@@ -2,15 +2,6 @@ collections:
   our-departments:
     output: true
     order:
-      - HEALTH, PE AND RECREATION/Health, Physical Education and Recreation.md
-      - HEALTH, PE AND RECREATION/.keep
-      - ENGLISH LANGUAGE & LITERATURE/.keep
-      - ENGLISH LANGUAGE & LITERATURE/English Language & Literature.md
-      - ENGLISH LANGUAGE & LITERATURE/Staff.md
-      - ENGLISH LANGUAGE & LITERATURE/Curriculum for Year 1 – 4.md
-      - ENGLISH LANGUAGE & LITERATURE/Group 1 IB subjects.md
-      - ENGLISH LANGUAGE & LITERATURE/Talent Development Programmes.md
-      - ENGLISH LANGUAGE & LITERATURE/Students’ Participation and Achievements.md
       - Our Departments.md
       - AESTHETICS/.keep
       - AESTHETICS/Aesthetics.md
@@ -37,3 +28,12 @@ collections:
       - ECONOMICS/Staff.md
       - ECONOMICS/Curriculum.md
       - ECONOMICS/Related External Links.md
+      - ENGLISH LANGUAGE & LITERATURE/.keep
+      - ENGLISH LANGUAGE & LITERATURE/English Language & Literature.md
+      - ENGLISH LANGUAGE & LITERATURE/Staff.md
+      - ENGLISH LANGUAGE & LITERATURE/Curriculum for Year 1 – 4.md
+      - ENGLISH LANGUAGE & LITERATURE/Group 1 IB subjects.md
+      - ENGLISH LANGUAGE & LITERATURE/Talent Development Programmes.md
+      - ENGLISH LANGUAGE & LITERATURE/Students’ Participation and Achievements.md
+      - HEALTH, PE AND RECREATION/.keep
+      - HEALTH, PE AND RECREATION/Health, Physical Education and Recreation.md
