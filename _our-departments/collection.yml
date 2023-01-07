@@ -2,9 +2,9 @@ collections:
   our-departments:
     output: true
     order:
-      - ENGLISH LANGUAGE & LITERATURE/Staff.md
-      - ENGLISH LANGUAGE & LITERATURE/English Language & Literature.md
       - ENGLISH LANGUAGE & LITERATURE/.keep
+      - ENGLISH LANGUAGE & LITERATURE/English Language & Literature.md
+      - ENGLISH LANGUAGE & LITERATURE/Staff.md
       - Our Departments.md
       - AESTHETICS/.keep
       - AESTHETICS/Aesthetics.md
