@@ -88,3 +88,6 @@ The students will also be introduced to a **Business Toolkit** which will help
 
 <img src="/images/Our%20Departments/BM-2024_1.png" style="width:50%">
 
+# University Courses and Careers
+
+A background in business is helpful in a wide variety of disciplines including the study of Law, International Studies, Political Sciences, business-related courses, and certain Engineering courses.
