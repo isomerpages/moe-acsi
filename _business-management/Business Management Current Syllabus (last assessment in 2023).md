@@ -76,3 +76,9 @@ A research project that allows students to demonstrate the application of their 
 *   Produce a report of not more than 2000 words based on the research proposal.
 
  **Assessment: External Assessment (25%)**
+ 
+ |                  | Assessment weightage |     |
+|------------|-----------|-----|
+|                                     | HL                   | SL  |
+|  Paper 1 (Pre-issued Case Study)<br><br>Section A: 2 out of 3<br><br>Section B: 1 compulsory question<br><br>Section C: 1 compulsory question (HL only)   | 35%                  | 30% |
+|  Paper 2 (Structured Questions)<br><br>Section A: 1 out of 2<br><br>Section B: 1 out of 3 (SL)<br><br>Section B: 2 out of 3 (HL)<br><br>Section C: 1 out of 3 | 40%                  | 45% |
