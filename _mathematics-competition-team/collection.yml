@@ -2,9 +2,9 @@ collections:
   mathematics-competition-team:
     output: true
     order:
-      - Gallery.md
       - Mathematics Competition Team.md
       - Calendar.md
       - Competitions.md
       - Training MTC.md
       - Achievements MTC.md
+      - Gallery.md
