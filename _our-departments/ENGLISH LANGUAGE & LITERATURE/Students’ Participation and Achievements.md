@@ -57,7 +57,9 @@ Introduction written by: John Lagman and Bryan Sim (3.11 Elisha 2020)
 
 **The Black Student – Bryan Cheung Jia Jie (3.11 Elisha)**
 
-
+<iframe width="556" height="311" src="https://www.youtube.com/embed/eHOSkb2GRlo" title="Bryan Cheung - The Black Student" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 **Joseph’s Dreams – Ryan Daniel Chua (3.14 Obadiah)**
+
+<iframe width="556" height="311" src="https://www.youtube.com/embed/4jOr5o6RBBY" title="Ryan Daniel Chua - Joseph's Dreams" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
