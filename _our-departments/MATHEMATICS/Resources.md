@@ -4,9 +4,11 @@ permalink: /departments/mathematics/resources/
 description: ""
 third_nav_title: MATHEMATICS
 ---
+# Sketchcast
+
 You may want to explore the following interesting sites related to mathematics competition
 
-[Mathematics competition resources](https://www.acsindep.moe.edu.sg/mathcompetition/announcements/)
+[Mathematics competition resources](/mathcompetition/announcements/)
 
 [National Library of Virtual Manipulatives](http://nlvm.usu.edu/en/nav/vlibrary.html)
 
