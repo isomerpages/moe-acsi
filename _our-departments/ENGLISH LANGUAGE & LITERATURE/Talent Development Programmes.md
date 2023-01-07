@@ -22,9 +22,9 @@ The IBDP Language and Literature Symposium is another signature programme of the
 [Poetry: _O to the Infinite_ by Elizabeth Ip Xin En 5.18 (2021)](/files/Our%20Departments/ELL/Poetry-O-to-the-Infinite-by-Elizabeth-Ip-Xin-En-518-2021.pdf)   
 [Poetry: _Reunion Dinner_ by Gabriel Wong 2.01 (2021)](/files/Our%20Departments/ELL/Poetry-Reunion-Dinner-by-Gabriel-Wong-201-2021.pdf)   
 [Prose: _Destruction and Renewal_ by Ruby Tsoi 5.07 (2021)](/files/Our%20Departments/ELL/Prose-Destruction-and-Renewal-by-Ruby-Tsoi-507-2021.pdf)   
-[Prose: _Just Infinity Portfolio_ by Ganesan Gabashini 5.12 (2021)](https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/01/Prose-Just-Infinity-Portfolio-by-Ganesan-Gabashini-5.12-2021.pdf)   
-[Prose: _Pizza_ by Wilson Lourdu Xavier Garrison Joshua 3.16 (2021)](https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/01/Prose-Pizza-by-Wilson-Lourdu-Xavier-Garrison-Joshua-3.16-2021.pdf)   
-[Prose: _Sous La Lune_ by Timothy Lagman 3.16 (2021)](https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/01/Prose-Sous-La-Lune-by-Timothy-Lagman-3.16-2021.pdf)
+[Prose: _Just Infinity Portfolio_ by Ganesan Gabashini 5.12 (2021)](/files/Our%20Departments/ELL/Prose-Just-Infinity-Portfolio-by-Ganesan-Gabashini-512-2021.pdf)   
+[Prose: _Pizza_ by Wilson Lourdu Xavier Garrison Joshua 3.16 (2021)](/files/Our%20Departments/ELL/Prose-Pizza-by-Wilson-Lourdu-Xavier-Garrison-Joshua-316-2021.pdf)   
+[Prose: _Sous La Lune_ by Timothy Lagman 3.16 (2021)](/files/Our%20Departments/ELL/Prose-Sous-La-Lune-by-Timothy-Lagman-316-2021.pdf)
 
 
 **Literature Seminar:** Organised by the GE branch of MOE, this programme aims to stimulate students’ interest in Literature by exposing them to literary issues beyond normal curriculum and classroom content, enabling them to enrich their understanding of the literary discipline. Students will submit a literary inquiry project to apply. Successful applicants will attend a one-day seminar, where they get to attend sessions conducted by guest facilitators, as well as their peers.
