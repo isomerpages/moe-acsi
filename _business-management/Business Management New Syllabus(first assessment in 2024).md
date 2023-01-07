@@ -91,3 +91,17 @@ The students will also be introduced to a **Business Toolkit** which will help
 # University Courses and Careers
 
 A background in business is helpful in a wide variety of disciplines including the study of Law, International Studies, Political Sciences, business-related courses, and certain Engineering courses.
+
+# <u>Assessments</u>
+
+ **Internal** **Assessment for HL and SL:**     
+ **Business Research Project (20 hours)**   
+**Assessment Weightage:** HL 20% SL 30%
+
+A research project where students are expected to apply appropriate business management tools and theories to a real organizational issue.
+
+The issue analyzed should be related to **one** of the four concepts of <u>Change, Creativity, Ethics or Sustainability</u>.
+
+The research project would be mainly secondary research driven. Primary research is allowed as well.
+
+The 1800-word research project is to be written with the help of 3-5 supporting documents (to be attached)
