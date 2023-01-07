@@ -4,6 +4,8 @@ permalink: /departments/mother-tongue/
 description: ""
 third_nav_title: MOTHER TONGUE
 ---
+# http://www.moe.gov.sg/education/syllabuses/mother-tongue-languages/ link broken
+
 **Mother Tongue Language Policy**
 
 **1\.** The Ministry of Education’s Mother Tongue Language (MTL) policy requires all students who are Singaporeans or Singapore Permanent Residents to study their respective official MTL: Chinese, Malay and Tamil.
