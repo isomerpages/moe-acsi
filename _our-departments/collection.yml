@@ -2,11 +2,11 @@ collections:
   our-departments:
     output: true
     order:
-      - HUMANITIES/Special Programmes.md
       - HUMANITIES/.keep
       - HUMANITIES/Humanities.md
       - HUMANITIES/Staff.md
       - HUMANITIES/Curriculum.md
+      - HUMANITIES/Special Programmes.md
       - Our Departments.md
       - AESTHETICS/.keep
       - AESTHETICS/Aesthetics.md
