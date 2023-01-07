@@ -2,11 +2,6 @@ collections:
   our-departments:
     output: true
     order:
-      - HUMANITIES/.keep
-      - HUMANITIES/Humanities.md
-      - HUMANITIES/Staff.md
-      - HUMANITIES/Curriculum.md
-      - HUMANITIES/Special Programmes.md
       - Our Departments.md
       - AESTHETICS/.keep
       - AESTHETICS/Aesthetics.md
@@ -46,3 +41,8 @@ collections:
       - HEALTH, PE AND RECREATION/Programmes & School Events.md
       - HEALTH, PE AND RECREATION/Health & Safety.md
       - HEALTH, PE AND RECREATION/Resources.md
+      - HUMANITIES/.keep
+      - HUMANITIES/Humanities.md
+      - HUMANITIES/Staff.md
+      - HUMANITIES/Curriculum.md
+      - HUMANITIES/Special Programmes.md
