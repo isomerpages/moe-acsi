@@ -71,6 +71,15 @@ Topics to be covered in the course include: 
 
 The students will also be introduced to a **Business Toolkit** which will help them in their analysis and business decision making. This toolkit will include:
 
-
+|                  |                                     |
+|------------------|-------------------------------------|
+| SWOT             | Force Field Analysis                |
+| STEEPLE          | Descriptive Statistics              |
+| BCG Matrix       | Circular Business Models            |
+| Decision Trees   | Contribution Analysis (HL)          |
+| Ansoff Matrix    | Simple Linear Regression (HL)       |
+| Statistics       | Critical Path Analysis (HL          |
+| Business Plan    | Hofstede’s Cultural Dimensions (HL) |
+| Gantt Chart (HL) | Porter’s Generic Strategies (HL)    |
 
 <img src="/images/Our%20Departments/BM-2024_1.png" style="width:50%">
