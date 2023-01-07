@@ -34,3 +34,7 @@ Click on the course options to read more about the types of Mathematics offered 
 *   [FAQs about Mathematics Analysis & Approaches](https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/02/FAQ-on-Maths-AA.pdf)
 
 **Syllabus**
+
+
+
+Six groups of subjects in the IB Diploma programme.
