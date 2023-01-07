@@ -15,19 +15,11 @@ The IBDP Language and Literature Symposium is another signature programme of the
 **Creative Arts Programme (CAP):** Jointly organised by the GE branch of MOE and Yale-NUS College, this programme aims to nurture talented young writers. Students will submit a portfolio to apply. Successful applicants will have the opportunity to attend writing workshops, plenary sessions and forums as well as performance workshops, all of which give the participants the opportunity to learn from established writers and be exposed to exciting issues on writing and the arts. For more information: [https://capsingapore.wordpress.com/](https://capsingapore.wordpress.com/)
 
 
-**Student Submissions:**
-
-[Poetry: _Legacy of Language_ by Joy Huang Si Xuan 5.18 (2021)](https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/01/Poetry-Legacy-of-Language-by-Joy-Huang-Si-Xuan-5.18-2021.pdf)
-
-[Poetry: _O to the Infinite_ by Elizabeth Ip Xin En 5.18 (2021)](https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/01/Poetry-O-to-the-Infinite-by-Elizabeth-Ip-Xin-En-5.18-2021.pdf)
-
-[Poetry: _Reunion Dinner_ by Gabriel Wong 2.01 (2021)](https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/01/Poetry-Reunion-Dinner-by-Gabriel-Wong-2.01-2021.pdf)
-
-[Prose: _Destruction and Renewal_ by Ruby Tsoi 5.07 (2021)](https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/01/Prose-Destruction-and-Renewal-by-Ruby-Tsoi-5.07-2021.pdf)
-
-[Prose: _Just Infinity Portfolio_ by Ganesan Gabashini 5.12 (2021)](https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/01/Prose-Just-Infinity-Portfolio-by-Ganesan-Gabashini-5.12-2021.pdf)
-
-[Prose: _Pizza_ by Wilson Lourdu Xavier Garrison Joshua 3.16 (2021)](https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/01/Prose-Pizza-by-Wilson-Lourdu-Xavier-Garrison-Joshua-3.16-2021.pdf)
-
+**Student Submissions:**   
+[Poetry: _Legacy of Language_ by Joy Huang Si Xuan 5.18 (2021)](https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/01/Poetry-Legacy-of-Language-by-Joy-Huang-Si-Xuan-5.18-2021.pdf)   
+[Poetry: _O to the Infinite_ by Elizabeth Ip Xin En 5.18 (2021)](https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/01/Poetry-O-to-the-Infinite-by-Elizabeth-Ip-Xin-En-5.18-2021.pdf)   
+[Poetry: _Reunion Dinner_ by Gabriel Wong 2.01 (2021)](https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/01/Poetry-Reunion-Dinner-by-Gabriel-Wong-2.01-2021.pdf)   
+[Prose: _Destruction and Renewal_ by Ruby Tsoi 5.07 (2021)](https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/01/Prose-Destruction-and-Renewal-by-Ruby-Tsoi-5.07-2021.pdf)   
+[Prose: _Just Infinity Portfolio_ by Ganesan Gabashini 5.12 (2021)](https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/01/Prose-Just-Infinity-Portfolio-by-Ganesan-Gabashini-5.12-2021.pdf)   
+[Prose: _Pizza_ by Wilson Lourdu Xavier Garrison Joshua 3.16 (2021)](https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/01/Prose-Pizza-by-Wilson-Lourdu-Xavier-Garrison-Joshua-3.16-2021.pdf)   
 [Prose: _Sous La Lune_ by Timothy Lagman 3.16 (2021)](https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/01/Prose-Sous-La-Lune-by-Timothy-Lagman-3.16-2021.pdf)
-
