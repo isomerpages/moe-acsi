@@ -22,23 +22,26 @@ To God be the Glory! The Best is Yet to Be!
 
 ![](/images/Our%20Departments/ELL/Group-3-1024x463.jpg)
 
-“The Literature Seminar was a great learning experience as we had the opportunity to listen to sessions conducted by writers and academics as well as receive feedback from them on our presentations. The interesting student research presentations were deeply thought-provoking and gave us further insights about Literature.”
+<p style="color:#00205c"><b><i>“The Literature Seminar was a great learning experience as we had the opportunity to listen to sessions conducted by writers and academics as well as receive feedback from them on our presentations. The interesting student research presentations were deeply thought-provoking and gave us further insights about Literature.”</i></b></p>
 
-(Isaac Chow, Jordan Tan, Tilak Manu, Benjamin Lee, Garrison Joshua, 3.16 Habakkuk; Mentor: Mr Shawn Lim)
+<p style="color:#00205c"><b><i>(Isaac Chow, Jordan Tan, Tilak Manu, Benjamin Lee, Garrison Joshua, 3.16 Habakkuk; Mentor: Mr Shawn Lim)</i></b></p>
+
 
 ![](/images/Our%20Departments/ELL/Group-4.jpg)
 
-<p style="color:#00205c"><b><i></i></b></p>
+<p style="color:#00205c"><b><i>“The 2021 Literature Seminar was a fruitful and interesting experience. Overall, we learnt a lot about Literature and gained a further appreciation for the subject over the course of the seminar.”</i></b></p>
 
-“The 2021 Literature Seminar was a fruitful and interesting experience. Overall, we learnt a lot about Literature and gained a further appreciation for the subject over the course of the seminar.”
+<p style="color:#00205c"><b><i>(Gareth Tham, Raynen Ngoh, Kieran Ong, Zachary Khoo, 3.16 Habakkuk; Mentors: Mr Ferdinand Quek & Mr Aloysius Lim)</i></b></p>
 
-(Gareth Tham, Raynen Ngoh, Kieran Ong, Zachary Khoo, 3.16 Habakkuk; Mentors: Mr Ferdinand Quek & Mr Aloysius Lim)
+
+
 
 ![](/images/Our%20Departments/ELL/Group-1-1024x432.jpg)
 
-“Through the Literature Seminar, we were able to expand our knowledge on Literature through exploring its different forms, from books, plays, short stories, to movies. Overall, we were able to learn a lot from the experts and had an enjoyable time.”
 
-(Elijah Ling, Ethan Chng, David Wong, Samuel Robson, 3.16 Habakkuk; Mentor: Mrs Andriany Tee)
+<p style="color:#00205c"><b><i>“Through the Literature Seminar, we were able to expand our knowledge on Literature through exploring its different forms, from books, plays, short stories, to movies. Overall, we were able to learn a lot from the experts and had an enjoyable time.”</i></b></p>
+
+<p style="color:#00205c"><b><i>(Elijah Ling, Ethan Chng, David Wong, Samuel Robson, 3.16 Habakkuk; Mentor: Mrs Andriany Tee)</i></b></p>
 
 ![](/images/Our%20Departments/ELL/Group-2-1024x466.jpg)
 
