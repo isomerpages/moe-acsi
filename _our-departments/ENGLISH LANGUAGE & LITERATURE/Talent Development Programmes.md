@@ -13,3 +13,21 @@ The Dr Lee Suan Yew Speaker of the Year Award is the signature programme of the 
 The IBDP Language and Literature Symposium is another signature programme of the English Language and Literature Department.  Held on alternate years, the aim of the symposium is to provide IBDP English A students a thought-provoking platform to explore real-world workings and functions of language and text types in various industries. With its focus on awareness and appreciation of various text types, students will have an opportunity to meet and engage with practitioners in various industries and explore language in a particular cultural context and understand how language reflects and affects issues concerning gender, community, power, bias etc. The event will feature an eminent keynote speaker followed by breakout sessions.  This event is also attended by students of other IB schools in Singapore and their participation broadens the discussion and the greatly enriches the experiences for all involved.
 
 **Creative Arts Programme (CAP):** Jointly organised by the GE branch of MOE and Yale-NUS College, this programme aims to nurture talented young writers. Students will submit a portfolio to apply. Successful applicants will have the opportunity to attend writing workshops, plenary sessions and forums as well as performance workshops, all of which give the participants the opportunity to learn from established writers and be exposed to exciting issues on writing and the arts. For more information: [https://capsingapore.wordpress.com/](https://capsingapore.wordpress.com/)
+
+
+**Student Submissions:**
+
+[Poetry: _Legacy of Language_ by Joy Huang Si Xuan 5.18 (2021)](https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/01/Poetry-Legacy-of-Language-by-Joy-Huang-Si-Xuan-5.18-2021.pdf)
+
+[Poetry: _O to the Infinite_ by Elizabeth Ip Xin En 5.18 (2021)](https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/01/Poetry-O-to-the-Infinite-by-Elizabeth-Ip-Xin-En-5.18-2021.pdf)
+
+[Poetry: _Reunion Dinner_ by Gabriel Wong 2.01 (2021)](https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/01/Poetry-Reunion-Dinner-by-Gabriel-Wong-2.01-2021.pdf)
+
+[Prose: _Destruction and Renewal_ by Ruby Tsoi 5.07 (2021)](https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/01/Prose-Destruction-and-Renewal-by-Ruby-Tsoi-5.07-2021.pdf)
+
+[Prose: _Just Infinity Portfolio_ by Ganesan Gabashini 5.12 (2021)](https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/01/Prose-Just-Infinity-Portfolio-by-Ganesan-Gabashini-5.12-2021.pdf)
+
+[Prose: _Pizza_ by Wilson Lourdu Xavier Garrison Joshua 3.16 (2021)](https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/01/Prose-Pizza-by-Wilson-Lourdu-Xavier-Garrison-Joshua-3.16-2021.pdf)
+
+[Prose: _Sous La Lune_ by Timothy Lagman 3.16 (2021)](https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/01/Prose-Sous-La-Lune-by-Timothy-Lagman-3.16-2021.pdf)
+
