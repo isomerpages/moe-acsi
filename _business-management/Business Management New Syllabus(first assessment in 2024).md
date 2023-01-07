@@ -114,13 +114,13 @@ The 1800-word research project is to be written with the help of 3-5 supporting 
 
 **Time:** 1 hour 30 mins **(**for both HL and SL)
 
-Based on a pre-released statement that specifies the context and background for an unseen case study.
+Based on a <u>pre-released statement</u> that specifies the context and background for an unseen case study.
 
-Section A (20 marks)
+<u>Section A (20 marks)</u>
 
 Syllabus content: Units 1–5 excluding HL extension topics. Students to answer all structured questions
 
-Section B (10 marks)
+<u>Section B (10 marks)</u>
 
 Syllabus content: Units 1–5 excluding HL extension topics. Students to answer one out of two extended response questions
 
@@ -138,7 +138,7 @@ Syllabus content: Units 1–5 including HL extension topics for the HL Paper. St
 
 Section B (20 marks)
 
-Syllabus content: Units 1–5 including HL extension topics for the HL paper. Student (HL and SL) to answer one out of two structured questions.
+Syllabus content: Units 1–5 including HL extension topics for the HL paper. Student (HL and SL) to answer <u>one out of two</u> structured questions.
 
 **Paper 3 : Social Enterprise Paper  (HL only)**
 
@@ -150,4 +150,4 @@ Based on unseen stimulus material about a social enterprise. Curriculum time wil
 
 Syllabus content: Unit 1–5 including HL extension topics
 
-Student answer one compulsory question based on the unseen stimulus material (25 marks)
+Student answer <u>one</u> compulsory question based on the unseen stimulus material (25 marks)
