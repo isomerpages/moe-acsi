@@ -3,11 +3,11 @@ title: THE LITERATURE IN ENGLISH CURRICULUM
 permalink: /departments/ell-home/curriculum-for-year-1-4/the-literature-in-english-curriculum/
 description: ""
 ---
- **INTRODUCTION**
+**INTRODUCTION**
 
 The Literature in English curriculum offered at ACS (Independent) to the students in the Express Stream takes reference from the syllabus prescribed by the Ministry of Education. The details of the syllabus can be found at this link:
 
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2021syllabus/2065\_y21\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2021syllabus/2065_y21_sy.pdf)
+<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2021syllabus/2065_y21_sy.pdf" target="_blank">https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2021syllabus/2065_y21_sy.pdf</a>
 
 As mentioned in the syllabus document, here at ACS (Independent) we share the belief that the study of Literature empowers learners to make meaning of texts, and see themselves and the world from diverse perspectives.
 
