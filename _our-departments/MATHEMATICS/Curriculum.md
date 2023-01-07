@@ -30,8 +30,8 @@ Click on the course options to read more about the types of Mathematics offered 
 
 Click on the course options to read more about the types of Mathematics offered in ACS(Independent).
 
-*   [Mathematics Analysis & Approaches HL and SL](https://www.acsindep.moe.edu.sg/wp-content/uploads/2020/01/subject-brief-dp-math-analysis-and-approaches-en.pdf)
-*   [FAQs about Mathematics Analysis & Approaches](https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/02/FAQ-on-Maths-AA.pdf)
+*   [Mathematics Analysis & Approaches HL and SL]<a href="/files/Our%20Departments/Mathematics/" target="_blank"></a>(https://www.acsindep.moe.edu.sg/wp-content/uploads/2020/01/subject-brief-dp-math-analysis-and-approaches-en.pdf)
+*   [FAQs about Mathematics Analysis & Approaches]<a href="/files/Our%20Departments/Mathematics/" target="_blank"></a>(https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/02/FAQ-on-Maths-AA.pdf)
 
 **Syllabus**
 
