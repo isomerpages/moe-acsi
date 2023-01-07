@@ -4,3 +4,33 @@ permalink: /departments/mathematics/curriculum/
 description: ""
 third_nav_title: MATHEMATICS
 ---
+### Express (Year 1 to 4)
+
+Click on the course options to read more about the types of Mathematics offered in ACS(Independent).
+
+*   [Year 1 Mathematics](https://www.acsindep.moe.edu.sg/wp-content/uploads/2021/01/Year-1-Express-Mathematics.pdf)
+*   [Year 2 Mathematics](https://www.acsindep.moe.edu.sg/wp-content/uploads/2021/01/Year-2-Express-Mathematics-Course-Outline.pdf)
+*   [Year 3 Mathematics](https://www.acsindep.moe.edu.sg/wp-content/uploads/2020/01/Year-3-Express-Mathematics.pdf)
+*   [Year 3 Additional Mathematics](https://www.acsindep.moe.edu.sg/wp-content/uploads/2020/01/Year-3-Express-Additional-Mathematics.pdf)
+*   [Year 4 Mathematics](https://www.acsindep.moe.edu.sg/wp-content/uploads/2021/01/Year-4-Express-Mathematics.pdf)
+*   [Year 4 Additional Mathematics](https://www.acsindep.moe.edu.sg/wp-content/uploads/2021/01/Year-4-Express-A-Maths.pdf)
+
+### Integrated Programme (Year 1 to 4)
+
+Click on the course options to read more about the types of Mathematics offered in ACS(Independent).
+
+*   [Year 1 Enriched Mathematics](https://www.acsindep.moe.edu.sg/wp-content/uploads/2021/01/Year-1-Enriched-Mathematics.pdf)
+*   [Year 2 Enriched Mathematics](https://www.acsindep.moe.edu.sg/wp-content/uploads/2021/01/Year-2-Enriched-Mathematics-Course-Outline.pdf)
+*   [Year 3 Core Mathematics](https://www.acsindep.moe.edu.sg/wp-content/uploads/2020/01/Year-3IP-Core-Mathematics.pdf)
+*   [Year 3 Advanced Mathematics](https://www.acsindep.moe.edu.sg/wp-content/uploads/2018/11/Y3IP_Advanced-Math.pdf)
+*   [Year 4 Core Mathematics](https://www.acsindep.moe.edu.sg/wp-content/uploads/2020/01/Year-4IP-Core-Mathematics.pdf)
+*   [Year 4 Advanced Mathematics](https://www.acsindep.moe.edu.sg/wp-content/uploads/2020/01/Year-4IP-Advanced-Mathematics.pdf)
+
+### International Baccalaureate Diploma Programme (Year 5 to 6)
+
+Click on the course options to read more about the types of Mathematics offered in ACS(Independent).
+
+*   [Mathematics Analysis & Approaches HL and SL](https://www.acsindep.moe.edu.sg/wp-content/uploads/2020/01/subject-brief-dp-math-analysis-and-approaches-en.pdf)
+*   [FAQs about Mathematics Analysis & Approaches](https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/02/FAQ-on-Maths-AA.pdf)
+
+**Syllabus**
