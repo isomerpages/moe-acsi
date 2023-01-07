@@ -92,3 +92,5 @@ For more detailed information please click below:
 <i><a href="/files/Our%20Departments/Business-Management-FAQs.pdf" target="_blank">Business Management FAQs</a></i>
 
 <i><a href="https://www.ibo.org/programmes/diploma-programme/curriculum/individuals-and-societies/business-and-management/" target="_blank">IB Business Management Syllabus</a></i>
+
+# upload video to youtube
