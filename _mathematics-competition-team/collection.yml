@@ -2,8 +2,8 @@ collections:
   mathematics-competition-team:
     output: true
     order:
-      - Achievements MTC.md
       - Mathematics Competition Team.md
       - Calendar.md
       - Competitions.md
       - Training MTC.md
+      - Achievements MTC.md
