@@ -7,7 +7,7 @@ description: ""
 
 The English Language Curriculum offered at ACS (Independent) to the students in the Express Stream take reference from the syllabus prescribed by the Ministry of Education.  The details of the syllabus can be found at this link:
 
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2021syllabus/1128\_y21\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2021syllabus/1128_y21_sy.pdf).
+<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2021syllabus/1128_y21_sy.pdf" target="_blank">https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2021syllabus/1128_y21_sy.pdf</a>.
 
 As mentioned in the syllabus document, here at ACS (Independent), we are committed to developing 21st Century competencies in our students, especially in terms of developing Language and communicative skills, to a more sophisticated level.
 
@@ -45,7 +45,7 @@ In the English Language classroom, language learning and application is brought 
 
 Fundamental to the rich incidental learning promoted by our unique ACSian Learning Environment is the teaching and learning that happens in the English Language classrooms.  As expressed in the MOE EL Syllabus, the teaching and learning adopts the CLLIPS and ACoLADE principles and practices.
 
-**CLLIPS****,** which refers to the principles of EL teaching and learning, directs teachers to apply knowledge of the disciplinarity of EL to guide our students towards a deeper understanding of the language and its use, and facilitate the transfer of learning.
+**CLLIPS,** which refers to the principles of EL teaching and learning, directs teachers to apply knowledge of the disciplinarity of EL to guide our students towards a deeper understanding of the language and its use, and facilitate the transfer of learning.
 
 **Contextualization** involves designing learning tasks and activities for students to learn the language in an authentic and meaningful context.
 
