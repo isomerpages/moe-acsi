@@ -22,6 +22,17 @@ To God be the Glory! The Best is Yet to Be!
 
 ![](/images/Our%20Departments/ELL/Group-3-1024x463.jpg)
 
+“The Literature Seminar was a great learning experience as we had the opportunity to listen to sessions conducted by writers and academics as well as receive feedback from them on our presentations. The interesting student research presentations were deeply thought-provoking and gave us further insights about Literature.”
+
+(Isaac Chow, Jordan Tan, Tilak Manu, Benjamin Lee, Garrison Joshua, 3.16 Habakkuk; Mentor: Mr Shawn Lim)
+
+![](/images/Our%20Departments/ELL/Group-4.jpg)
+
 <p style="color:#00205c"><b><i></i></b></p>
 
+“The 2021 Literature Seminar was a fruitful and interesting experience. Overall, we learnt a lot about Literature and gained a further appreciation for the subject over the course of the seminar.”
+
+(Gareth Tham, Raynen Ngoh, Kieran Ong, Zachary Khoo, 3.16 Habakkuk; Mentors: Mr Ferdinand Quek & Mr Aloysius Lim)
+
 ![](/images/Our%20Departments/ELL/Group-1-1024x432.jpg)
+
