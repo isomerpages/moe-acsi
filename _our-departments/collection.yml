@@ -2,6 +2,7 @@ collections:
   our-departments:
     output: true
     order:
+      - MATHEMATICS/Mathematics.md
       - MATHEMATICS/.keep
       - Our Departments.md
       - AESTHETICS/.keep
