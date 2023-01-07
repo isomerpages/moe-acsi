@@ -1,4 +1,5 @@
 collections:
   mathematics-competition-team:
     output: true
-    order: []
+    order:
+      - Mathematics Competition Team.md
