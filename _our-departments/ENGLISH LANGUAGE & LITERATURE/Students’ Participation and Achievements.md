@@ -36,3 +36,16 @@ To God be the Glory! The Best is Yet to Be!
 
 ![](/images/Our%20Departments/ELL/Group-1-1024x432.jpg)
 
+“Through the Literature Seminar, we were able to expand our knowledge on Literature through exploring its different forms, from books, plays, short stories, to movies. Overall, we were able to learn a lot from the experts and had an enjoyable time.”
+
+(Elijah Ling, Ethan Chng, David Wong, Samuel Robson, 3.16 Habakkuk; Mentor: Mrs Andriany Tee)
+
+![](/images/Our%20Departments/ELL/Group-2-1024x466.jpg)
+
+*** 
+
+**Year 3 Individual Oral Presentation: Digital Story-telling**
+
+<p style="text-align: justify;">The Individual Oral Presentation (IOP) was an assignment given to the 2020 Year 3 cohort of Anglo-Chinese School (Independent) in July. This project consisted of a 100-150 word poem and an accompanying video of 2-3 minutes. We are proud to say that after weeks of sleepless nights, battling the crutches of an eager Hypnos, some of our students blew our socks (but not our masks!) off. Their creative pieces were displayed in Clementi Public Library, as well as Jurong West Public Library. Below, you will find pictures of the exhibitions, as well as two videos by Bryan Cheung Jia Jie (3.11 Elisha) and Ryan Daniel Chua (3.14 Obadiah). We hope you enjoy.</p>
+
+Introduction written by: John Lagman and Bryan Sim (3.11 Elisha 2020)
