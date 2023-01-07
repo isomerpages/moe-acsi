@@ -6,15 +6,15 @@ third_nav_title: MOTHER TONGUE
 ---
 **Mother Tongue Language Policy**
 
-**1.** The Ministry of Education’s Mother Tongue Language (MTL) policy requires all students who are Singaporeans or Singapore Permanent Residents to study their respective official MTL: Chinese, Malay and Tamil.
+**1\.** The Ministry of Education’s Mother Tongue Language (MTL) policy requires all students who are Singaporeans or Singapore Permanent Residents to study their respective official MTL: Chinese, Malay and Tamil.
 
-**2.** Students will offer their respective MTLs at the GCE ‘O’, ‘A’ and IBDP examinations. Please note that local publicly funded universities require minimum grades for MTL to be eligible for admission.
+**2\.** Students will offer their respective MTLs at the GCE ‘O’, ‘A’ and IBDP examinations. Please note that local publicly funded universities require minimum grades for MTL to be eligible for admission.
 
 **MTL at Anglo-Chinese School (Independent)**
 
-**3.** ACS (Independent) offers the following MTL / Language Acquisition subjects:
+**3\.** ACS (Independent) offers the following MTL / Language Acquisition subjects:
 
-**For Years 1 – 4**
+**<u>For Years 1 – 4</u>**
 
 *   CHINESE, HIGHER CHINESE, CHINESE B\* (Chinese B is only conducted in school for Year 4 and otherwise conducted outside of school and in designated MOE centres)
 *   MALAY, HIGHER MALAY, MALAY B\*
@@ -24,7 +24,7 @@ third_nav_title: MOTHER TONGUE
 
 Please refer to [http://www.moe.gov.sg/education/syllabuses/mother-tongue-languages/](http://www.moe.gov.sg/education/syllabuses/mother-tongue-languages/) for subject syllabuses.
 
-**For Years 5 – 6**
+**<u>For Years 5 – 6</u>**
 
 Under MOE’s Bilingual Policy,
 
@@ -46,7 +46,7 @@ Mandarin _ab initio\*_
 
  \* To offer Language ab initio, students must have obtained a D7 grade or better for the GCE ‘O’ Level Higher MT exam. Otherwise they will be required to sit for the GCE ‘A’ Level H1 MT exam.
 
- **Entry Criteria for Group 2: Language Acquisition subjects**
+ **<u>Entry Criteria for Group 2: Language Acquisition subjects</u>**
 
 **1.** Students who obtained at least a D7 for GCE ‘O’ Level Higher MT
 
