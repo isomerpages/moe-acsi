@@ -94,8 +94,10 @@ A background in business is helpful in a wide variety of disciplines including t
 
 # <u>Assessments</u>
 
- **Internal** **Assessment for HL and SL:**     
+ **Internal** **Assessment for HL and SL:**    
+ 
  **Business Research Project (20 hours)**   
+ 
 **Assessment Weightage:** HL 20% SL 30%
 
 A research project where students are expected to apply appropriate business management tools and theories to a real organizational issue.
