@@ -53,6 +53,9 @@ To God be the Glory! The Best is Yet to Be!
 
 Introduction written by: John Lagman and Bryan Sim (3.11 Elisha 2020)
 
+|   |   |
+|---|---|
+|  ![](/images/Our%20Departments/ELL/ELL2.jpg) | ![](/images/Our%20Departments/ELL/ELL.jpg)  |
 
 
 **The Black Student – Bryan Cheung Jia Jie (3.11 Elisha)**
