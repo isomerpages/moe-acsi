@@ -89,6 +89,6 @@ A background in business is helpful in a wide variety of disciplines, particular
 
 For more detailed information please click below:
 
-_[Business Management FAQs](https://www.acsindep.moe.edu.sg/wp-content/uploads/2021/01/Business-Management-FAQs.pdf)_
+<i><a href="" target="_blank">Business Management FAQs</a>(https://www.acsindep.moe.edu.sg/wp-content/uploads/2021/01/Business-Management-FAQs.pdf)</i>
 
-_[IB Business Management Syllabus](https://www.ibo.org/programmes/diploma-programme/curriculum/individuals-and-societies/business-and-management/)_
+<i><a href="https://www.ibo.org/programmes/diploma-programme/curriculum/individuals-and-societies/business-and-management/" target="_blank">IB Business Management Syllabus</a></i>
