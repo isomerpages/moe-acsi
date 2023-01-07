@@ -105,3 +105,49 @@ The issue analyzed should be related to **one** of the four concepts of <u>Ch
 The research project would be mainly secondary research driven. Primary research is allowed as well.
 
 The 1800-word research project is to be written with the help of 3-5 supporting documents (to be attached)
+
+**External Assessment: HL and SL**
+
+ **Paper 1: Case Study Paper**
+
+**Assessment Weightage:** HL 25% SL 35%
+
+**Time:** 1 hour 30 mins **(**for both HL and SL)
+
+Based on a pre-released statement that specifies the context and background for an unseen case study.
+
+Section A (20 marks)
+
+Syllabus content: Units 1–5 excluding HL extension topics. Students to answer all structured questions
+
+Section B (10 marks)
+
+Syllabus content: Units 1–5 excluding HL extension topics. Students to answer one out of two extended response questions
+
+**Paper 2: Quantitative Focus Paper**
+
+**Assessment Weightage:** HL 30% SL 35%
+
+**Time:** HL 1hour 45 mins, SL 1 hour 30 mins
+
+Based on unseen stimulus material with quantitative focus. The paper is different for HL and SL.
+
+Section A (20 marks)
+
+Syllabus content: Units 1–5 including HL extension topics for the HL Paper. Students (HL and SL) to answer all structured questions
+
+Section B (20 marks)
+
+Syllabus content: Units 1–5 including HL extension topics for the HL paper. Student (HL and SL) to answer one out of two structured questions.
+
+**Paper 3 : Social Enterprise Paper  (HL only)**
+
+**Assessment Weightage:** HL 25%
+
+**Time**:  1 hour 15 mins
+
+Based on unseen stimulus material about a social enterprise. Curriculum time will be allocated for the discussions and research into social enterprises.
+
+Syllabus content: Unit 1–5 including HL extension topics
+
+Student answer one compulsory question based on the unseen stimulus material (25 marks)
