@@ -2,10 +2,10 @@ collections:
   talent-development:
     output: true
     order:
-      - EXPERIENTIAL LEARNING/Outdoor Adventure Experiential Programme (OAEP).md
       - EXPERIENTIAL LEARNING/.keep
       - EXPERIENTIAL LEARNING/Experiential Learning.md
       - EXPERIENTIAL LEARNING/BOTS Camp.md
+      - EXPERIENTIAL LEARNING/Outdoor Adventure Experiential Programme (OAEP).md
       - Talent Development.md
       - ACH/.keep
       - "ACH/ACH: Accelerated Class for Humanities.md"
