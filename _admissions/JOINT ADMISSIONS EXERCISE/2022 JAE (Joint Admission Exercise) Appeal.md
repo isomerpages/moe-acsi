@@ -14,6 +14,6 @@ DSA-JC students are not eligible to participate in the JAE appeal exercise as th
 
 Students who wish to appeal for a place must meet the L1R5 cut-off point to be considered.
 
-To submit your appeal, please click [**here**](https://site1.acsindep.edu.sg/Appls/Y5AdmissionAppeal/AppealForm.aspx).
+To submit your appeal, please click <a href="https://site1.acsindep.edu.sg/Appls/Y5AdmissionAppeal/AppealForm.aspx" target="_blank"><b>here</b></a>.
 
 **Successful appeal applicants will be contacted via telephone by Thursday, 10 February 2022, 5 pm.**
