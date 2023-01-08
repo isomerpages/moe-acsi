@@ -2,10 +2,10 @@ collections:
   talent-development:
     output: true
     order:
-      - "ACS: Accelerated Class for Science.md"
       - Talent Development.md
       - ACH/.keep
       - "ACH/ACH: Accelerated Class for Humanities.md"
       - ACH/Subjects Offered.md
       - ACH/Programmes.md
       - ACH/Frequently Asked Questions.md
+      - "ACS: Accelerated Class for Science.md"
