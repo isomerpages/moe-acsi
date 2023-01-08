@@ -35,7 +35,7 @@ The Orientation Package contains crucial information and details for school. Ple
 
 | Items          | Source                 | Remarks                                         |
 |----------------|------------------------|-------------------------------------------------|
-| Textbooks      | Popular Book Company   | Anglo Chinese School (Independent) (moe.edu.sg) |
+| Textbooks      | Popular Book Company   | [Anglo Chinese School (Independent) (moe.edu.sg)](/for-students/textbook/) |
 | School uniform | BiBi and BaBa          | Click here                                      |
 |                | Finest Fashion Pte Ltd |                                                 |
 
