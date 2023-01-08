@@ -2,7 +2,7 @@ collections:
   biology:
     output: true
     order:
-      - Biology Extended Essay.md
       - Biology.md
       - Staff.md
       - Curriculum.md
+      - Biology Extended Essay.md
