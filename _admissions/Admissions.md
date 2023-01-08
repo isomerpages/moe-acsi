@@ -13,9 +13,9 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td style ="text-align:center"><a href=""> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i></i></a></td>
-    <td style ="text-align:center"><a href=""> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i></i></a></td>
-    <td style ="text-align:center"><a href=""> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i></i></a></td>
+    <td style ="text-align:center"><a href="/admissions/application-for-admission-into-year-3-ip/"> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i>Application for Admission into Year 3 IP</i></a></td>
+    <td style ="text-align:center"><a href="/admissions/admission-exam/"> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i>Admission Examination for Enrolment into Years 2, 3 and 5</i></a></td>
+    <td style ="text-align:center"><a href="/admissions/dsa-year-1/"> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i>Direct School Admission Secondary (Year 1)</i></a></td>
   </tr>
   <tr>
     <td style ="text-align:center"><a href="/admissions/dsa-year-5/"> <img src="/images/logo-high-res-colour-01-copy-e1424065325994.png" style="width:273px"> <i>Direct School Admission Junior College (Year 5)</i></a></td>
