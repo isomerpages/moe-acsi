@@ -28,7 +28,7 @@ At the heart of every school are its students and its’ activities.
 
 Founded and run by students, Independent Online (IO) is a one-stop for all the latest news and happenings in ACS(I).
 
-
+<a href="https://www.facebook.com/acindeponline" target = "_blank"> <img src="/images/Picture2-300x300.png" style="width:40%"></a>
 
 <center>Facebook: <a href="https://www.facebook.com/acindeponline" >https://www.facebook.com/acindeponline</a> <br>
 Instagram: <a href="https://www.instagram.com/indeponline/">https://www.instagram.com/indeponline/</a></center>
