@@ -11,6 +11,21 @@ Incoming 2023 Year 1 students, please complete **<u>ALL three steps</u>** belo
 
 <p style="color: #000080;"><b>Step 1: Registration for 2023 – ONLINE ONLY</b></p>
 
+Students posted to ACS(I) need not report to the school after the release of school posting results. However, **ALL** incoming 2023 Year 1 students, including DSA students, **MUST** register online using the school’s registration portal. Registration is done online only.
+
+The ACS(I) online registration portal will be opened from **1pm, Wednesday, 21 December 2022 to 10am, Friday, 23 December 2022. The link will be provided below from 1pm, Wednesday, 21 December 2022.**
+
+Parents with no Internet access may register using the laptop in our front office, which will be available from 8.00 am to 4.00 pm during these days. The front office will be open from 8am – 4pm (21 – 23 December 2022).
+
+To register, please follow these steps:
+
+*   Clear the browser cache
+*   Enable the Windows pop-up
+*   **Click on the Registration link: [https://site1.acsindep.edu.sg/links/Y1Posting\_Student.aspx](https://site1.acsindep.edu.sg/links/Y1Posting_Student.aspx)**
+
+
+<p style="color: #000080;"><b>Step 2: Downloading of Year 1 Orientation Package 2023</b></p>
+
 
 **Appeals**
 
