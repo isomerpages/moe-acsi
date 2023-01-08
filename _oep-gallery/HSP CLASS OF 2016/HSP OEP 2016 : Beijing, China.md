@@ -42,7 +42,7 @@ third_nav_title: HSP CLASS OF 2016
     <td style ="text-align:center"><a href="/images/OEP%20Gallery/2016/Beijing/City-Planning.jpg"> <img src="/images/OEP%20Gallery/2016/Beijing/City-Planning.jpg" style="width:200px"></a></td>
     <td style ="text-align:center"><a href="/images/OEP%20Gallery/2016/Beijing/Birthday-in-China.jpg"> <img src="/images/OEP%20Gallery/2016/Beijing/Birthday-in-China.jpg" style="width:200px"></a></td>
     <td style ="text-align:center"><a href="/images/OEP%20Gallery/2016/Beijing/Arm-Wrestling-Match.jpg"> <img src="/images/OEP%20Gallery/2016/Beijing/Arm-Wrestling-Match.jpg" style="width:200px"></a></td>
-    <td style ="text-align:center"><a href="/images/OEP%20Gallery/2016/Beijing/Arm-wrestling-between-the-giants.jpg"> <img src="/images/OEP%20Gallery/2016/Beijing/Arm-wrestling-between-the-giants.jpg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/OEP%20Gallery/2016/Beijing/Arm-wrestling-between-the-giants.jpg"> <img src="/images/OEP%20Gallery/2016/Beijing/Arm-wrestling-between-the-giants.jpg" style="width:200px;height:130px"></a></td>
   </tr>
 </tbody>
 </table>
