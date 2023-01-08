@@ -26,6 +26,13 @@ To register, please follow these steps:
 
 <p style="color: #000080;"><b>Step 2: Downloading of Year 1 Orientation Package 2023</b></p>
 
+The Orientation Package contains crucial information and details for school. Please download and read through the package using the link below.
+
+**Click on the Orientation Package link:** **[https://sites.acsindep.edu.sg/Year 1 Registration/Year 1.zip](https://sites.acsindep.edu.sg/Year%201%20Registration/Year%201.zip)**
+
+
+<p style="color: #000080;"><b>Step 3: Purchase of items for school</b></p>
+
 
 **Appeals**
 
