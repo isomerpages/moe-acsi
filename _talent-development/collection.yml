@@ -2,6 +2,7 @@ collections:
   talent-development:
     output: true
     order:
+      - Hi F(IV)E Programme.md
       - Talent Development.md
       - ACH/.keep
       - "ACH/ACH: Accelerated Class for Humanities.md"
