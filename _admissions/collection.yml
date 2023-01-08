@@ -2,9 +2,9 @@ collections:
   admissions:
     output: true
     order:
-      - JOINT ADMISSIONS EXERCISE/2022 JAE (Joint Admission Exercise) Appeal.md
-      - JOINT ADMISSIONS EXERCISE/Joint Admissions Exercise.md
       - JOINT ADMISSIONS EXERCISE/.keep
+      - JOINT ADMISSIONS EXERCISE/Joint Admissions Exercise.md
+      - JOINT ADMISSIONS EXERCISE/2022 JAE (Joint Admission Exercise) Appeal.md
       - Application for Admission into Year 3 IP.md
       - Admission Examination for Enrolment into Years 2, 3 and 5.md
       - Direct School Admission Secondary (Year 1).md
