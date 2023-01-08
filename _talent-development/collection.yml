@@ -2,7 +2,6 @@ collections:
   talent-development:
     output: true
     order:
-      - ACSians In Action.md
       - Talent Development.md
       - ACH/.keep
       - "ACH/ACH: Accelerated Class for Humanities.md"
@@ -12,3 +11,4 @@ collections:
       - "ACS: Accelerated Class for Science.md"
       - ADVANCED SCIENCE PROGRAMME/.keep
       - ADVANCED SCIENCE PROGRAMME/Advanced Science Programme.md
+      - ACSians In Action.md
