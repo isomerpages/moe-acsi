@@ -2,5 +2,5 @@ collections:
   chemistry:
     output: true
     order:
-      - Staff.md
       - Chemistry.md
+      - Staff.md
