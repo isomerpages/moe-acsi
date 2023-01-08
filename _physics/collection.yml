@@ -2,6 +2,7 @@ collections:
   physics:
     output: true
     order:
+      - Useful Resources.md
       - Physics.md
       - Staff.md
       - Curriculum.md
