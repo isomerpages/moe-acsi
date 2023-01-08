@@ -2,6 +2,7 @@ collections:
   talent-development:
     output: true
     order:
+      - Dr Lee Suan Yew Speaker of the Year Series.md
       - Talent Development.md
       - ACH/.keep
       - "ACH/ACH: Accelerated Class for Humanities.md"
