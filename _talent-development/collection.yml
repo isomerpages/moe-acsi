@@ -2,9 +2,9 @@ collections:
   talent-development:
     output: true
     order:
-      - REGIONAL STUDIES PROGRAMME/Curriculum.md
-      - REGIONAL STUDIES PROGRAMME/Regional Studies Programme.md
       - REGIONAL STUDIES PROGRAMME/.keep
+      - REGIONAL STUDIES PROGRAMME/Regional Studies Programme.md
+      - REGIONAL STUDIES PROGRAMME/Curriculum.md
       - Talent Development.md
       - ACH/.keep
       - "ACH/ACH: Accelerated Class for Humanities.md"
