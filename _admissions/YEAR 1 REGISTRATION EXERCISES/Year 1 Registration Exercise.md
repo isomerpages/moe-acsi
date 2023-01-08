@@ -9,7 +9,7 @@ As communicated by MOE, the S1 Posting Results are released on Wednesday, 21 Dec
 Incoming 2023 Year 1 students, please complete **<u>ALL three steps</u>** below, in the order as shown, to ensure you do not miss out on any important administrative procedure and are well prepared for the new school year.
 
 
-<span style="color: #000080;"><strong>Step 1: Registration for 2023 – ONLINE ONLY</strong></span>
+<p style="color: #000080;"><b>Step 1: Registration for 2023 – ONLINE ONLY</b></p>
 
 
 **Appeals**
