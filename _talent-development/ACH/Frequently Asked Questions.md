@@ -82,9 +82,9 @@ If a Singaporean ACH student remains passionate about the humanities, applicatio
 12.  #### **How are the Humanities subjects differentiated?**
     
 
-Please refer to the respective subject brochures found in the [Subjects Offered](https://www.acsindep.moe.edu.sg/talent-development/accelerated-class-for-humanities-ach/subjects-offered/) section.
+<p style="text-align: justify;">Please refer to the respective subject brochures found in the <a href="/talent-development/accelerated-class-for-humanities-ach/subjects-offered/" target="_blank">Subjects Offered</a> section.</p>
 
 13.  #### **What is the mentoring programme?**
     
 
-The mentoring programme is a two-year mentoring programme that is available to ACH students and provides academic support, and coaching by the Year 5 and 6 students of the Humanities Scholarship Programme (HSP).  When a student joins the ACH in Year 3, he will be assigned to a Year 5 student who is in the HSP.  There will be scheduled mentoring sessions during which the senior students will make themselves available to offer academic advice and assistance.
+<p style="text-align: justify;">The mentoring programme is a two-year mentoring programme that is available to ACH students and provides academic support, and coaching by the Year 5 and 6 students of the Humanities Scholarship Programme (HSP).  When a student joins the ACH in Year 3, he will be assigned to a Year 5 student who is in the HSP.  There will be scheduled mentoring sessions during which the senior students will make themselves available to offer academic advice and assistance.</p>
