@@ -2,13 +2,6 @@ collections:
   talent-development:
     output: true
     order:
-      - HSP/.keep
-      - HSP/Humanities Scholarship and Programme.md
-      - HSP/MOE Application Details.md
-      - HSP/Subject Combination.md
-      - HSP/Signature Programmes.md
-      - HSP/The HSP Class.md
-      - HSP/Overseas Enrichment Programme Gallery.md
       - Talent Development.md
       - ACH/.keep
       - "ACH/ACH: Accelerated Class for Humanities.md"
@@ -27,3 +20,10 @@ collections:
       - Dr Lee Li Eng Speaker of the Year Series.md
       - Dr Lee Suan Yew Speaker of the Year Series.md
       - Hi F(IV)E Programme.md
+      - HSP/.keep
+      - HSP/Humanities Scholarship and Programme.md
+      - HSP/MOE Application Details.md
+      - HSP/Subject Combination.md
+      - HSP/Signature Programmes.md
+      - HSP/The HSP Class.md
+      - HSP/Overseas Enrichment Programme Gallery.md
