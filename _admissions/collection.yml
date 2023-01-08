@@ -2,6 +2,7 @@ collections:
   admissions:
     output: true
     order:
+      - Explore ACS(I).md
       - JOINT ADMISSIONS EXERCISE/.keep
       - JOINT ADMISSIONS EXERCISE/Joint Admissions Exercise.md
       - JOINT ADMISSIONS EXERCISE/2022 JAE (Joint Admission Exercise) Appeal.md
