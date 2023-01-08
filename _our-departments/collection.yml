@@ -2,7 +2,6 @@ collections:
   our-departments:
     output: true
     order:
-      - MOTHER TONGUE/Special Programmes.md
       - MOTHER TONGUE/.keep
       - MOTHER TONGUE/Mother Tongue.md
       - MOTHER TONGUE/HIGHER MOTHER TONGUE LANGUAGE (HMTL).md
@@ -24,6 +23,7 @@ collections:
       - MOTHER TONGUE/IBDP Essay book 1.md
       - MOTHER TONGUE/Work of our Students.md
       - MOTHER TONGUE/Gallery.md
+      - MOTHER TONGUE/Special Programmes.md
       - Our Departments.md
       - AESTHETICS/.keep
       - AESTHETICS/Aesthetics.md
