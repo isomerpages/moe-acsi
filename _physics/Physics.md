@@ -3,6 +3,9 @@ title: Physics
 permalink: /departments/science/physics/
 description: ""
 ---
+<img src="/images/Our%20Departments/Picture2-1024x546-300x160.png" style="width:35%">
+
+
 The Physics Department manages two subjects: Physics and Computer Science.
 
 ### Physics
