@@ -15,7 +15,7 @@ third_nav_title: HSP CLASS OF 2016
 </thead>
 <tbody>
   <tr>
-    <td style ="text-align:center"><a href=""> <img src="" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/OEP%20Gallery/2016/Beijing/Tian-An-Men-Group.jpg"> <img src="/images/OEP%20Gallery/2016/Beijing/Tian-An-Men-Group.jpg" style="width:200px"></a></td>
     <td style ="text-align:center"><a href=""> <img src="" style="width:200px"></a></td>
     <td style ="text-align:center"><a href=""> <img src="" style="width:200px"></a></td>
     <td style ="text-align:center"><a href=""> <img src="" style="width:200px"></a></td>
