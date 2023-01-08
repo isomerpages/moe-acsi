@@ -2,7 +2,7 @@ collections:
   chemistry:
     output: true
     order:
-      - Useful Links.md
       - Chemistry.md
       - Staff.md
       - Curriculum.md
+      - Useful Links.md
