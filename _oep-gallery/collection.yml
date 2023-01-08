@@ -2,6 +2,6 @@ collections:
   oep-gallery:
     output: true
     order:
-      - "HSP OEP Class of 2018: China – Wuhan, Nanjing & Shanghai.md"
       - HSP OEP Class of 2020.md
       - "HSP OEP Class of 2019: Japan.md"
+      - "HSP OEP Class of 2018: China – Wuhan, Nanjing & Shanghai.md"
