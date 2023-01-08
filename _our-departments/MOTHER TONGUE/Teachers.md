@@ -6,7 +6,7 @@ third_nav_title: MOTHER TONGUE
 ---
 #### Our Teachers
 
-######  Mr. Mohamed Shariff  
+**Mr. Mohamed Shariff**   
 Deputy Dean (Malay & Tamil Languages)  
 Coordinator IBDP Hindi Language
 
@@ -14,7 +14,7 @@ Mr Shariff has been teaching at ACS (Independent) for over two decades, and had 
 
 School Contact No.: 68700467/ 67731633
 
-###### Madam. Alagurani Venkatesan  
+**Madam. Alagurani Venkatesan**    
 Coordinator (Upper Secondary),  
 Tamil Language Department
 
@@ -22,7 +22,7 @@ Madam Rani has the teaching experience of two decades, and is the Tamil language
 
 School Contact No.: 68700436/ 67731633
 
-###### Madam. Vimaldevi,  
+**Madam. Vimaldevi,**   
 Coordinator (Lower Secondary),  
 Tamil Language Department
 
