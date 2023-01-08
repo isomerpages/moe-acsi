@@ -2,6 +2,6 @@ collections:
   biology:
     output: true
     order:
-      - Curriculum.md
       - Biology.md
       - Staff.md
+      - Curriculum.md
