@@ -30,19 +30,19 @@ third_nav_title: HSP CLASS OF 2016
     <td style ="text-align:center"><a href="/images/OEP%20Gallery/2016/Beijing/Great-Wall.jpg"> <img src="/images/OEP%20Gallery/2016/Beijing/Great-Wall.jpg" style="width:200px height:130px"></a></td>
     <td style ="text-align:center"><a href="/images/OEP%20Gallery/2016/Beijing/Great-Wall-Group-Photo.jpg"> <img src="/images/OEP%20Gallery/2016/Beijing/Great-Wall-Group-Photo.jpg" style="width:200px"></a></td>
     <td style ="text-align:center"><a href="/images/OEP%20Gallery/2016/Beijing/great-wall-cable-car.jpg"> <img src="/images/OEP%20Gallery/2016/Beijing/great-wall-cable-car.jpg" style="width:200px"></a></td>
-    <td style ="text-align:center"><a href="/images/OEP%20Gallery/2016/Beijing/Gals-at-Nine-Dragons.jpg"> <img src="/images/OEP%20Gallery/2016/Beijing/Gals-at-Nine-Dragons.jpg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/OEP%20Gallery/2016/Beijing/Gals-at-Nine-Dragons.jpg"> <img src="/images/OEP%20Gallery/2016/Beijing/Gals-at-Nine-Dragons.jpg" style="width:200px;height:130px"></a></td>
   </tr>
   <tr>
-    <td style ="text-align:center"><a href=""> <img src="" style="width:200px"></a></td>
-    <td style ="text-align:center"><a href=""> <img src="" style="width:200px"></a></td>
-    <td style ="text-align:center"><a href=""> <img src="" style="width:200px"></a></td>
-    <td style ="text-align:center"><a href=""> <img src="" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/OEP%20Gallery/2016/Beijing/Forbidden-City.jpg"> <img src="/images/OEP%20Gallery/2016/Beijing/Forbidden-City.jpg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/OEP%20Gallery/2016/Beijing/Forbidden-City-Group.jpg"> <img src="/images/OEP%20Gallery/2016/Beijing/Forbidden-City-Group.jpg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/OEP%20Gallery/2016/Beijing/Forbidden-City-1.jpg"> <img src="/images/OEP%20Gallery/2016/Beijing/Forbidden-City-1.jpg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/OEP%20Gallery/2016/Beijing/Debrief.jpg"> <img src="/images/OEP%20Gallery/2016/Beijing/Debrief.jpg" style="width:200px"></a></td>
   </tr>
   <tr>
-    <td style ="text-align:center"><a href=""> <img src="" style="width:200px"></a></td>
-    <td style ="text-align:center"><a href=""> <img src="" style="width:200px"></a></td>
-    <td style ="text-align:center"><a href=""> <img src="" style="width:200px"></a></td>
-    <td style ="text-align:center"><a href=""> <img src="" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/OEP%20Gallery/2016/Beijing/City-Planning.jpg"> <img src="/images/OEP%20Gallery/2016/Beijing/City-Planning.jpg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/OEP%20Gallery/2016/Beijing/Birthday-in-China.jpg"> <img src="/images/OEP%20Gallery/2016/Beijing/Birthday-in-China.jpg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/OEP%20Gallery/2016/Beijing/Arm-Wrestling-Match.jpg"> <img src="/images/OEP%20Gallery/2016/Beijing/Arm-Wrestling-Match.jpg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/OEP%20Gallery/2016/Beijing/Arm-wrestling-between-the-giants.jpg"> <img src="/images/OEP%20Gallery/2016/Beijing/Arm-wrestling-between-the-giants.jpg" style="width:200px"></a></td>
   </tr>
 </tbody>
 </table>
