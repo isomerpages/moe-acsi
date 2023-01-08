@@ -2,6 +2,7 @@ collections:
   physics:
     output: true
     order:
+      - IB Physics Bot (Trial).md
       - Physics.md
       - Staff.md
       - Curriculum.md
