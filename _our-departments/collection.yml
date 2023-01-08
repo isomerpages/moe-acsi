@@ -2,28 +2,6 @@ collections:
   our-departments:
     output: true
     order:
-      - MOTHER TONGUE/.keep
-      - MOTHER TONGUE/Mother Tongue.md
-      - MOTHER TONGUE/HIGHER MOTHER TONGUE LANGUAGE (HMTL).md
-      - MOTHER TONGUE/MTL FAQ.md
-      - MOTHER TONGUE/Chinese.md
-      - MOTHER TONGUE/勤思敏行.md
-      - MOTHER TONGUE/2022年教师阵容.md
-      - MOTHER TONGUE/部门活动.md
-      - MOTHER TONGUE/英华文萃.md
-      - MOTHER TONGUE/Malay.md
-      - MOTHER TONGUE/Blog.md
-      - MOTHER TONGUE/Tenaga Kami.md
-      - MOTHER TONGUE/Tamil.md
-      - MOTHER TONGUE/Welcome.md
-      - MOTHER TONGUE/Teachers.md
-      - MOTHER TONGUE/Students’ Participation and Achievements.md
-      - MOTHER TONGUE/Katrathum Karpithathum.md
-      - MOTHER TONGUE/Sitruligalin Sinthanai Sidharalgal.md
-      - MOTHER TONGUE/IBDP Essay book 1.md
-      - MOTHER TONGUE/Work of our Students.md
-      - MOTHER TONGUE/Gallery.md
-      - MOTHER TONGUE/Special Programmes.md
       - Our Departments.md
       - AESTHETICS/.keep
       - AESTHETICS/Aesthetics.md
@@ -74,6 +52,28 @@ collections:
       - MATHEMATICS/Mathematics.md
       - MATHEMATICS/Math Department Highlights.md
       - MATHEMATICS/Resources.md
+      - MOTHER TONGUE/.keep
+      - MOTHER TONGUE/Mother Tongue.md
+      - MOTHER TONGUE/HIGHER MOTHER TONGUE LANGUAGE (HMTL).md
+      - MOTHER TONGUE/MTL FAQ.md
+      - MOTHER TONGUE/Chinese.md
+      - MOTHER TONGUE/勤思敏行.md
+      - MOTHER TONGUE/2022年教师阵容.md
+      - MOTHER TONGUE/部门活动.md
+      - MOTHER TONGUE/英华文萃.md
+      - MOTHER TONGUE/Malay.md
+      - MOTHER TONGUE/Blog.md
+      - MOTHER TONGUE/Tenaga Kami.md
+      - MOTHER TONGUE/Tamil.md
+      - MOTHER TONGUE/Welcome.md
+      - MOTHER TONGUE/Teachers.md
+      - MOTHER TONGUE/Students’ Participation and Achievements.md
+      - MOTHER TONGUE/Katrathum Karpithathum.md
+      - MOTHER TONGUE/Sitruligalin Sinthanai Sidharalgal.md
+      - MOTHER TONGUE/IBDP Essay book 1.md
+      - MOTHER TONGUE/Work of our Students.md
+      - MOTHER TONGUE/Gallery.md
+      - MOTHER TONGUE/Special Programmes.md
       - THEORY OF KNOWLEDGE/.keep
       - THEORY OF KNOWLEDGE/Theory of Knowledge.md
       - THEORY OF KNOWLEDGE/Staff.md
