@@ -2,7 +2,6 @@ collections:
   our-departments:
     output: true
     order:
-      - MOTHER TONGUE/IBDP Essay book 1.md
       - MOTHER TONGUE/.keep
       - MOTHER TONGUE/Mother Tongue.md
       - MOTHER TONGUE/HIGHER MOTHER TONGUE LANGUAGE (HMTL).md
@@ -21,6 +20,7 @@ collections:
       - MOTHER TONGUE/Students’ Participation and Achievements.md
       - MOTHER TONGUE/Katrathum Karpithathum.md
       - MOTHER TONGUE/Sitruligalin Sinthanai Sidharalgal.md
+      - MOTHER TONGUE/IBDP Essay book 1.md
       - Our Departments.md
       - AESTHETICS/.keep
       - AESTHETICS/Aesthetics.md
