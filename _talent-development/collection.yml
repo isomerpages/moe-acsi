@@ -2,7 +2,6 @@ collections:
   talent-development:
     output: true
     order:
-      - Trailblazer.md
       - Talent Development.md
       - ACH/.keep
       - "ACH/ACH: Accelerated Class for Humanities.md"
@@ -36,3 +35,4 @@ collections:
       - REGIONAL STUDIES PROGRAMME/Regional Studies Programme.md
       - REGIONAL STUDIES PROGRAMME/Curriculum.md
       - REGIONAL STUDIES PROGRAMME/Scholarships.md
+      - Trailblazer.md
