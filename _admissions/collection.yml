@@ -2,6 +2,7 @@ collections:
   admissions:
     output: true
     order:
+      - JOINT ADMISSIONS EXERCISE/2022 JAE (Joint Admission Exercise) Appeal.md
       - JOINT ADMISSIONS EXERCISE/Joint Admissions Exercise.md
       - JOINT ADMISSIONS EXERCISE/.keep
       - Application for Admission into Year 3 IP.md
