@@ -2,5 +2,6 @@ collections:
   events:
     output: true
     order:
+      - OPEN HOUSE/.keep
       - Events.md
       - School Calendar.md
