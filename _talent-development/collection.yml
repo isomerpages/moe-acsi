@@ -2,7 +2,6 @@ collections:
   talent-development:
     output: true
     order:
-      - Music Elective Programme.md
       - Talent Development.md
       - ACH/.keep
       - "ACH/ACH: Accelerated Class for Humanities.md"
@@ -28,3 +27,4 @@ collections:
       - HSP/Signature Programmes.md
       - HSP/The HSP Class.md
       - HSP/Overseas Enrichment Programme Gallery.md
+      - Music Elective Programme.md
