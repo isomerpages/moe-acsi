@@ -2,6 +2,6 @@ collections:
   physics:
     output: true
     order:
-      - Curriculum.md
       - Physics.md
       - Staff.md
+      - Curriculum.md
