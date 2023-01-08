@@ -1,4 +1,5 @@
 collections:
   physics:
     output: true
-    order: []
+    order:
+      - Physics.md
