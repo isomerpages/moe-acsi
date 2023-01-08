@@ -2,7 +2,6 @@ collections:
   talent-development:
     output: true
     order:
-      - Hi F(IV)E Programme.md
       - Talent Development.md
       - ACH/.keep
       - "ACH/ACH: Accelerated Class for Humanities.md"
@@ -20,3 +19,4 @@ collections:
       - Dr Goh Keng Swee Nation Building Series.md
       - Dr Lee Li Eng Speaker of the Year Series.md
       - Dr Lee Suan Yew Speaker of the Year Series.md
+      - Hi F(IV)E Programme.md
