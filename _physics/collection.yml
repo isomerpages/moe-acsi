@@ -2,9 +2,9 @@ collections:
   physics:
     output: true
     order:
-      - IB Physics Bot (Trial).md
       - Physics.md
       - Staff.md
       - Curriculum.md
       - Science Research Challenge.md
       - Useful Resources.md
+      - IB Physics Bot (Trial).md
