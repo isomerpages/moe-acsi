@@ -13,7 +13,7 @@ Use our Virtual Tour to discover spaces where our student study, hang-out with t
 
 # widget cannot be embedded
 
-[For a full-screen immersive experience, please click here](https://vthere.at/acsi)
+<a href="https://vthere.at/acsi" target="_blank">For a full-screen immersive experience, please click here</a>
 
 **“Our ACS Forever” Video**
 
