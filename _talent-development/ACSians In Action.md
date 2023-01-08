@@ -12,3 +12,21 @@ Teams whose projects have been approved typically embark on service learning tri
 Click on the links to read about each project.
 
 ![](/images/Talent%20Development/AIA-768x512.jpg)
+
+_A bicultural exchange night with the [Happy Hearts children on our final day in Siem Reap, Cambodia](https://www.acsindep.moe.edu.sg/wp-content/uploads/2019/04/ACSians-In-Action-Siem-Reap-Cambodia.pdf) began with a homecooked dinner prepared by the students, followed by a night of song and dance._
+
+![](/images/Talent%20Development/AIA-1.jpg)
+
+Ukulele lessons are part of the fun at [Wisdom Nest School, a social enterprise in Kampong Thom Province](https://www.acsindep.moe.edu.sg/wp-content/uploads/2019/04/ACSians-In-Action-Baray-Cambodia-Trip_Website.pdf)
+
+![](/images/Talent%20Development/AIA-2-768x576.jpg)
+
+Repainting the shed roof at [New Light Community Development Centre in Baan Nam Kem, Thailand](https://www.acsindep.moe.edu.sg/wp-content/uploads/2019/04/ACSians-In-Action-Phuket-Thailand.pdf)
+
+![](/images/Talent%20Development/AIA-3-768x512.jpg)
+
+Learning English and Chinese through fun activities and interactive games in [Wuhan, China](https://www.acsindep.moe.edu.sg/wp-content/uploads/2019/04/ACSians-in-Action-Wuhan-China.pdf)
+
+![](/images/Talent%20Development/AIA-4-768x572.jpg)
+
+Raising funds to purchase cattle for our friends at [Bina Putra in Yogyakarta, Indonesia](https://www.acsindep.moe.edu.sg/wp-content/uploads/2019/04/ACSians-in-Action-Yogyakarta-Indonesia-.pdf) was arguably the highlight of the trip
