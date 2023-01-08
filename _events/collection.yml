@@ -2,4 +2,5 @@ collections:
   events:
     output: true
     order:
+      - School Calendar.md
       - Events.md
