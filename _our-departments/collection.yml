@@ -2,7 +2,6 @@ collections:
   our-departments:
     output: true
     order:
-      - MOTHER TONGUE/Tamil.md
       - MOTHER TONGUE/.keep
       - MOTHER TONGUE/Mother Tongue.md
       - MOTHER TONGUE/HIGHER MOTHER TONGUE LANGUAGE (HMTL).md
@@ -15,6 +14,7 @@ collections:
       - MOTHER TONGUE/Malay.md
       - MOTHER TONGUE/Blog.md
       - MOTHER TONGUE/Tenaga Kami.md
+      - MOTHER TONGUE/Tamil.md
       - Our Departments.md
       - AESTHETICS/.keep
       - AESTHETICS/Aesthetics.md
