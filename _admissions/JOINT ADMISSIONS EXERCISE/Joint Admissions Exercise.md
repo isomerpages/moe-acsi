@@ -18,4 +18,4 @@ All posted students are to report to school on 7 February 2022. Please report at
 
 Students who wish to appeal for admission into 2022 IBDP after the release of the Joint Admission Exercise (JAE) posting may do so from 8 am on Friday, 4 February 2022, to 12 pm on Thursday, 10 February 2022.
 
-For more information on appeals, please visit [/admissions/joint-admissions-exercise/appeals/](https://www.acsindep.moe.edu.sg/admissions/joint-admissions-exercise/appeals/).
+For more information on appeals, please visit [/admissions/joint-admissions-exercise/appeals/](/admissions/joint-admissions-exercise/appeals/).
