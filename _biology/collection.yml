@@ -2,6 +2,7 @@ collections:
   biology:
     output: true
     order:
+      - Biology research focus.md
       - Biology.md
       - Staff.md
       - Curriculum.md
