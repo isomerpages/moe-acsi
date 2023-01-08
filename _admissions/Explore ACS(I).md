@@ -20,3 +20,15 @@ Use our Virtual Tour to discover spaces where our student study, hang-out with t
 This film, shot by our Year 5 student Hanson Lu, offers a glimpse into our beloved ACS (Independent) campus that we call HOME. The school campus is captured as the primary subject in this work, and it was filmed during COVID-19. Year 5 student Collier Ow, inspired by the ACS Anthem, wrote an original composition and it forms the motif and aural background in this first-ever aerial feature of the school.
 
 <iframe width="700" height="570" src="https://www.youtube.com/embed/F8jKxGumCTk" title="Our ACS Forever - ACS (Independent) e-Open House 2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+**Life at ACS(I) – Independent Online (IO)**
+
+At the heart of every school are its students and its’ activities.
+
+Founded and run by students, Independent Online (IO) is a one-stop for all the latest news and happenings in ACS(I).
+
+
+
+<center>Facebook: <a href="https://www.facebook.com/acindeponline" >https://www.facebook.com/acindeponline</a> <br>
+Instagram: <a href="https://www.instagram.com/indeponline/">https://www.instagram.com/indeponline/</a></center>
