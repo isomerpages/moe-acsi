@@ -1,5 +1,5 @@
 collections:
-  oepg:
+  oep-gallery:
     output: true
     order:
       - HSP OEP Class of 2020.md
