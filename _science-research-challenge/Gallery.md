@@ -14,7 +14,7 @@ description: ""
 
 |   |   |
 |---|---|
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+| ![](/images/Science%20Research%20Challenge/Top-Institution-for-CB-Paul-300x208.jpg)  | ![](/images/Science%20Research%20Challenge/SSEF2018-300x225.jpg) |
+| ![](/images/Science%20Research%20Challenge/Singapore-Junior-Water-Prize-1-300x225.jpg)  |  ![](/images/Science%20Research%20Challenge/SSEF-Silver-Award-300x200.jpg) |
+| ![](/images/Science%20Research%20Challenge/img_1374_36101885820_o-300x200.jpg)  | ![](/images/Science%20Research%20Challenge/img_9331_36105760260_o-300x176.jpg)  |
+|  ![](/images/Science%20Research%20Challenge/SSEF1-300x200.jpg) |   |
