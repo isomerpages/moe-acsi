@@ -5,7 +5,7 @@ description: ""
 ---
 #### Please click on the links below for more information on the syllabi:
 
-[Y1 and 2 Express](/files/Our%20Departments/Biology/2020/06/2020-Y1-and-2-Express-outline-for-website-29062020.pdf)   
+[Y1 and 2 Express](/files/Our%20Departments/Biology/2020-Y1-and-2-Express-outline-for-website-29062020.pdf)   
 [Y1 and 2 IP](/files/Our%20Departments/Biology/2020-Y1-and-2-IP-outline-for-website-29062020-1.pdf)   
 [Y3 and 4 Express Stream](/files/Our%20Departments/Biology/2020-Y3-and-4-Express-Stream.pdf)   
 [Y3 and Y4 IP stream](/files/Our%20Departments/Biology/2020-Y3-and-Y4-IP-stream.pdf)   
