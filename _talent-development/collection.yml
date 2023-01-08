@@ -2,6 +2,7 @@ collections:
   talent-development:
     output: true
     order:
+      - ACSians In Action.md
       - Talent Development.md
       - ACH/.keep
       - "ACH/ACH: Accelerated Class for Humanities.md"
