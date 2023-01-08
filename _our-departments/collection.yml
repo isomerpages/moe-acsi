@@ -2,7 +2,6 @@ collections:
   our-departments:
     output: true
     order:
-      - MOTHER TONGUE/Students’ Participation and Achievements.md
       - MOTHER TONGUE/.keep
       - MOTHER TONGUE/Mother Tongue.md
       - MOTHER TONGUE/HIGHER MOTHER TONGUE LANGUAGE (HMTL).md
@@ -18,6 +17,7 @@ collections:
       - MOTHER TONGUE/Tamil.md
       - MOTHER TONGUE/Welcome.md
       - MOTHER TONGUE/Teachers.md
+      - MOTHER TONGUE/Students’ Participation and Achievements.md
       - Our Departments.md
       - AESTHETICS/.keep
       - AESTHETICS/Aesthetics.md
