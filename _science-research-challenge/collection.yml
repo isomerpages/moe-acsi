@@ -2,6 +2,7 @@ collections:
   science-research-challenge:
     output: true
     order:
+      - List of Competition, Science Fair, Research Programme.md
       - Science Research Challenge.md
       - Teachers.md
       - Executive Committee.md
