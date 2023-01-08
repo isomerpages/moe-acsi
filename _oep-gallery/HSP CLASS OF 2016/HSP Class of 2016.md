@@ -31,9 +31,9 @@ HSP WOW 2016 : Sapa, Vietnam
   </tr>
   <tr>
     <td style ="text-align:center"><a href=""> <img src="" style="width:200px"></a></td>
-    <td style ="text-align:center"><a href=""> <img src="" style="width:200px"></a></td>
-    <td style ="text-align:center"><a href=""> <img src="" style="width:200px"></a></td>
-    <td style ="text-align:center"><a href=""> <img src="" style="width:200px"></a></td>
+    <td style ="text-align:center"></td>
+    <td style ="text-align:center"></td>
+    <td style ="text-align:center"></td>
   </tr>
 </tbody>
 </table>
