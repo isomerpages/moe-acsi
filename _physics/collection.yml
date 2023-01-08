@@ -2,5 +2,5 @@ collections:
   physics:
     output: true
     order:
-      - Staff.md
       - Physics.md
+      - Staff.md
