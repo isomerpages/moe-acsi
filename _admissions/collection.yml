@@ -2,5 +2,6 @@ collections:
   admissions:
     output: true
     order:
+      - Direct School Admission Secondary (Year 1).md
       - Application for Admission into Year 3 IP.md
       - Admission Examination for Enrolment into Years 2, 3 and 5.md
