@@ -2,8 +2,6 @@ collections:
   talent-development:
     output: true
     order:
-      - ADVANCED SCIENCE PROGRAMME/Advanced Science Programme.md
-      - ADVANCED SCIENCE PROGRAMME/.keep
       - Talent Development.md
       - ACH/.keep
       - "ACH/ACH: Accelerated Class for Humanities.md"
@@ -11,3 +9,5 @@ collections:
       - ACH/Programmes.md
       - ACH/Frequently Asked Questions.md
       - "ACS: Accelerated Class for Science.md"
+      - ADVANCED SCIENCE PROGRAMME/.keep
+      - ADVANCED SCIENCE PROGRAMME/Advanced Science Programme.md
