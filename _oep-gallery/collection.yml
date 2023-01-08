@@ -2,6 +2,7 @@ collections:
   oep-gallery:
     output: true
     order:
+      - "HSP CLASS OF 2015/HSP OEP 2015 : Shanghai & Nanjing, China.md"
       - HSP CLASS OF 2015/HSP Class of 2015.md
       - HSP CLASS OF 2015/.keep
       - HSP OEP Class of 2020.md
