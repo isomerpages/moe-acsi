@@ -2,7 +2,6 @@ collections:
   talent-development:
     output: true
     order:
-      - Dr Lee Li Eng Speaker of the Year Series.md
       - Talent Development.md
       - ACH/.keep
       - "ACH/ACH: Accelerated Class for Humanities.md"
@@ -18,3 +17,4 @@ collections:
       - EXPERIENTIAL LEARNING/BOTS Camp.md
       - EXPERIENTIAL LEARNING/Outdoor Adventure Experiential Programme (OAEP).md
       - Dr Goh Keng Swee Nation Building Series.md
+      - Dr Lee Li Eng Speaker of the Year Series.md
