@@ -6,7 +6,7 @@ third_nav_title: MOTHER TONGUE
 ---
 The ACS (Independent) Tamil Language Department takes pride in nurturing our students and developing their creativity. Displayed below is a collection of the work of our students over the past few years.
 
-மத நல்லிணக்கம்
+<center><u>மத நல்லிணக்கம்</u></center>
 
             அன்பும் மரியாதையும் நிறைந்த நிதி அமைச்சர், திரு. தர்மன் ஷண்முகரத்தினம் அவர்களுக்கும், பண்புசால் ஆங்கிலோ சீனத் தன்னாட்சிப் பள்ளி தலைமை ஆசிரியருக்கும், இப்பேரவையின்கண் அமர்ந்திருக்கும் அனைவருக்கும் எனது பணிவுமிக்க வணக்கங்கள் உரித்தாகட்டும். இங்கு நான் பேசுவதற்கு எடுத்துக்கொண்ட தலைப்பு “சமய நல்லிணக்கம்” என்பதாகும். எனது பேச்சில் குற்றம் குறைகள் இருந்தால் மன்னித்தருள வேண்டுகிறேன்.
 
