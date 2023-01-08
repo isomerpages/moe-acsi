@@ -11,7 +11,7 @@ Humanities scholars in ACS (Independent) will be required to do the compulsory m
 
 |     | Subject     | Group         |
 |-----|----------------|----------|
-| HL1 | English A: Literature                                                       | Group 1 – Language A                |
+| HL1 |  • [English A: Literature](https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/02/IB-English-Literature-Brochure-2022.pdf)                                                       | Group 1 – Language A                |
 | HL2 | Economics                                                                   | Group 3 – Individuals and Societies |
 | HL3 | History or Geography                                                        | Group 3 – Individuals and Societies |
 | SL1 | Biology<br>Chemistry<br>Physics                                             | Group 4 – Experimental Sciences     |
