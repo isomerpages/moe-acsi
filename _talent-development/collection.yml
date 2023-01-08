@@ -2,10 +2,10 @@ collections:
   talent-development:
     output: true
     order:
-      - HSP/Subject Combination.md
       - HSP/.keep
       - HSP/Humanities Scholarship and Programme.md
       - HSP/MOE Application Details.md
+      - HSP/Subject Combination.md
       - Talent Development.md
       - ACH/.keep
       - "ACH/ACH: Accelerated Class for Humanities.md"
