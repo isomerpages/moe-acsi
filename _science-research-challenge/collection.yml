@@ -2,4 +2,5 @@ collections:
   science-research-challenge:
     output: true
     order:
+      - Teachers.md
       - Science Research Challenge.md
