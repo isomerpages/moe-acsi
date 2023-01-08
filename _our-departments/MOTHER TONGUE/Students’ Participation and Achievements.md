@@ -51,8 +51,8 @@ Round 2: _Best Individual Speaker_
 
 25th Annual Raffles Institution Tamil Language Literacy Competitions 2016  
 Poetry Competition: _1st Prize_  
-Lower Sec Essay Writing Competition: _2nd and 4th Prizes  
-_Upper Sec Essay Writing Competition: _4th Prize_  
+Lower Sec Essay Writing Competition: _2nd and 4th Prizes_
+Upper Sec Essay Writing Competition: _4th Prize_  
 Lower Sec Oratorical Competition: 3rd _Prize_
 
 Sigaram Victoria-Cedar Alliance Tamil All Arts Competition 2016  
