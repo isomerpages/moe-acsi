@@ -2,6 +2,7 @@ collections:
   our-departments:
     output: true
     order:
+      - MOTHER TONGUE/Gallery.md
       - MOTHER TONGUE/.keep
       - MOTHER TONGUE/Mother Tongue.md
       - MOTHER TONGUE/HIGHER MOTHER TONGUE LANGUAGE (HMTL).md
