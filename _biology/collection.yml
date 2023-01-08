@@ -2,5 +2,5 @@ collections:
   biology:
     output: true
     order:
-      - Staff.md
       - Biology.md
+      - Staff.md
