@@ -5,8 +5,8 @@ description: ""
 ---
 |   |   |   |
 |---|---|---|
-|   |   |   |
-|   |   |   |
+| ![](/images/Science%20Research%20Challenge/DSA-Science-Workshop_Heart-Dissection-2-225x300.jpg)  | ![](/images/Science%20Research%20Challenge/DSA-Science-Workshop_Human-Heart-300x225.jpg)   |  ![](/images/Science%20Research%20Challenge/DSA-Science-Workshop_Heart-Dissection-1-300x225.jpg) |
+|   |  ![](/images/Science%20Research%20Challenge/Singapore-Junior-Biology-Olympiad-Workshops-300x225.jpg)  |    ![](/images/Science%20Research%20Challenge/2019-Biomedical-Quiz-Overall-Champion-300x225.jpg)   |
 
 |   |   |   |
 |---|---|---|
