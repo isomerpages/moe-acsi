@@ -2,9 +2,9 @@ collections:
   talent-development:
     output: true
     order:
-      - PATHFINDER/Pathfinder Course Selection.md
-      - PATHFINDER/Pathfinder.md
       - PATHFINDER/.keep
+      - PATHFINDER/Pathfinder.md
+      - PATHFINDER/Pathfinder Course Selection.md
       - Talent Development.md
       - ACH/.keep
       - "ACH/ACH: Accelerated Class for Humanities.md"
