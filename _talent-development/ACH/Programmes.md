@@ -4,6 +4,9 @@ permalink: /talent-development/accelerated-class-for-humanities-ach/programmes/
 description: ""
 third_nav_title: ACH
 ---
+|   |   |
+|---|---|
+|   |  **Talent Development Programmes**<br><br>Students in the ACH will participate in programmes designed to nurture their talents in the Humanities.  These may include:<br><br>• Creative Arts Programme<br><br>•  Literature Seminar<br><br>• Humanities and Social Sciences Research Programme<br><br>• International Model United Nations Conference<br><br>• Moot Parliament Programme<br><br>• Humanities Overseas Education & Community Service Programme |
 
 
 **Mentoring Programme**
