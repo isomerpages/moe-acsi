@@ -2,9 +2,9 @@ collections:
   talent-development:
     output: true
     order:
-      - EXPERIENTIAL LEARNING/BOTS Camp.md
-      - EXPERIENTIAL LEARNING/Experiential Learning.md
       - EXPERIENTIAL LEARNING/.keep
+      - EXPERIENTIAL LEARNING/Experiential Learning.md
+      - EXPERIENTIAL LEARNING/BOTS Camp.md
       - Talent Development.md
       - ACH/.keep
       - "ACH/ACH: Accelerated Class for Humanities.md"
