@@ -4,3 +4,5 @@ permalink: /talent-development/humanities-scholarship-programme/overseasexposure
 description: ""
 third_nav_title: HSP CLASS OF 2016
 ---
+HSP WOW 2016 : Sapa, Vietnam
+----------------------------
