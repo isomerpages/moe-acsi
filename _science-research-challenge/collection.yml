@@ -1,4 +1,5 @@
 collections:
   science-research-challenge:
     output: true
-    order: []
+    order:
+      - Science Research Challenge.md
