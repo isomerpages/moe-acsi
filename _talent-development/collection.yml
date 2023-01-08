@@ -2,5 +2,6 @@ collections:
   talent-development:
     output: true
     order:
+      - "ACH/ACH: Accelerated Class for Humanities.md"
       - ACH/.keep
       - Talent Development.md
