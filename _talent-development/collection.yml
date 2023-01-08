@@ -2,6 +2,7 @@ collections:
   talent-development:
     output: true
     order:
+      - HSP/The HSP Class.md
       - HSP/.keep
       - HSP/Humanities Scholarship and Programme.md
       - HSP/MOE Application Details.md
