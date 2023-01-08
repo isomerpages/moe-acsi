@@ -2,10 +2,6 @@ collections:
   talent-development:
     output: true
     order:
-      - REGIONAL STUDIES PROGRAMME/.keep
-      - REGIONAL STUDIES PROGRAMME/Regional Studies Programme.md
-      - REGIONAL STUDIES PROGRAMME/Curriculum.md
-      - REGIONAL STUDIES PROGRAMME/Scholarships.md
       - Talent Development.md
       - ACH/.keep
       - "ACH/ACH: Accelerated Class for Humanities.md"
@@ -35,3 +31,7 @@ collections:
       - PATHFINDER/.keep
       - PATHFINDER/Pathfinder.md
       - PATHFINDER/Pathfinder Course Selection.md
+      - REGIONAL STUDIES PROGRAMME/.keep
+      - REGIONAL STUDIES PROGRAMME/Regional Studies Programme.md
+      - REGIONAL STUDIES PROGRAMME/Curriculum.md
+      - REGIONAL STUDIES PROGRAMME/Scholarships.md
