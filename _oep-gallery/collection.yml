@@ -2,9 +2,9 @@ collections:
   oep-gallery:
     output: true
     order:
-      - HSP CLASS OF 2016/HSP Class of 2016.md
-      - HSP CLASS OF 2016/.keep
       - HSP OEP Class of 2020.md
       - "HSP OEP Class of 2019: Japan.md"
       - "HSP OEP Class of 2018: China – Wuhan, Nanjing & Shanghai.md"
       - "HSP OEP 2017 : South Korea.md"
+      - HSP CLASS OF 2016/.keep
+      - HSP CLASS OF 2016/HSP Class of 2016.md
