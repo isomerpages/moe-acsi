@@ -2,8 +2,8 @@ collections:
   physics:
     output: true
     order:
-      - Useful Resources.md
       - Physics.md
       - Staff.md
       - Curriculum.md
       - Science Research Challenge.md
+      - Useful Resources.md
