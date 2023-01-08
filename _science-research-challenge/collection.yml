@@ -2,6 +2,7 @@ collections:
   science-research-challenge:
     output: true
     order:
+      - Awards.md
       - Science Research Challenge.md
       - Teachers.md
       - Executive Committee.md
