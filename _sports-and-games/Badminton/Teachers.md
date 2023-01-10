@@ -40,3 +40,7 @@ third_nav_title: Badminton
   </tr>
 </tbody>
 </table>
+
+
+<img src="/images/WorldSchool.jpg" 
+     style="width:25%">
