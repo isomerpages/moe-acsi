@@ -2,6 +2,7 @@ collections:
   sports-and-games:
     output: true
     order:
+      - Tennis/.keep
       - Swimming/.keep
       - Squash/.keep
       - Softball/.keep
