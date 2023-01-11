@@ -2,10 +2,10 @@ collections:
   sports-and-games:
     output: true
     order:
-      - Badminton/Gallery.md
-      - Badminton/Achievements and Awards.md
-      - Badminton/Schedule.md
-      - Badminton/Student Committee & Exco.md
-      - Badminton/Teachers.md
-      - Badminton/Badminton.md
       - Badminton/.keep
+      - Badminton/Badminton.md
+      - Badminton/Teachers.md
+      - Badminton/Student Committee & Exco.md
+      - Badminton/Schedule.md
+      - Badminton/Achievements and Awards.md
+      - Badminton/Gallery.md
