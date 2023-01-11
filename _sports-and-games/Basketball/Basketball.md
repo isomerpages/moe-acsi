@@ -10,4 +10,3 @@ Welcome to ACS(I) Basketball CCA, a young club with big hoop dreams! We train ha
 
 <img src="/images/WorldSchool.jpg" 
      style="width:25%">
-		 
