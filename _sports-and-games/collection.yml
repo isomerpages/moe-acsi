@@ -2,13 +2,6 @@ collections:
   sports-and-games:
     output: true
     order:
-      - Basketball/.keep
-      - Bowling/.keep
-      - Bowling/Bowling.md
-      - Bowling/Teachers.md
-      - Bowling/Student Committee & Exco.md
-      - Bowling/Schedule.md
-      - Bowling/Gallery.md
       - Badminton/.keep
       - Badminton/Badminton.md
       - Badminton/Teachers.md
@@ -16,3 +9,10 @@ collections:
       - Badminton/Schedule.md
       - Badminton/Achievements and Awards.md
       - Badminton/Gallery.md
+      - Bowling/.keep
+      - Bowling/Bowling.md
+      - Bowling/Teachers.md
+      - Bowling/Student Committee & Exco.md
+      - Bowling/Schedule.md
+      - Bowling/Gallery.md
+      - Basketball/.keep
