@@ -2,22 +2,6 @@ collections:
   sports-and-games:
     output: true
     order:
-      - Water Polo/.keep
-      - Track and Field/.keep
-      - Tennis/.keep
-      - Swimming/.keep
-      - Squash/.keep
-      - Softball/.keep
-      - Shooting/.keep
-      - Sailing/.keep
-      - Rugby/.keep
-      - Golf/.keep
-      - Frisbee/.keep
-      - Floorball/.keep
-      - Football/.keep
-      - Cross Country/.keep
-      - Cricket/.keep
-      - Canoeing/.keep
       - Badminton/.keep
       - Badminton/Badminton.md
       - Badminton/Teachers.md
@@ -31,8 +15,24 @@ collections:
       - Bowling/Student Committee & Exco.md
       - Bowling/Schedule.md
       - Bowling/Gallery.md
+      - Basketball/.keep
       - Basketball/Photo Gallery.md
       - Basketball/Schedule.md
       - Basketball/Teachers.md
       - Basketball/Basketball.md
-      - Basketball/.keep
+      - Canoeing/.keep
+      - Cricket/.keep
+      - Cross Country/.keep
+      - Football/.keep
+      - Floorball/.keep
+      - Frisbee/.keep
+      - Golf/.keep
+      - Rugby/.keep
+      - Sailing/.keep
+      - Shooting/.keep
+      - Softball/.keep
+      - Squash/.keep
+      - Swimming/.keep
+      - Tennis/.keep
+      - Track and Field/.keep
+      - Water Polo/.keep
