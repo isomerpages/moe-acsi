@@ -2,6 +2,7 @@ collections:
   sports-and-games:
     output: true
     order:
+      - Golf/.keep
       - Frisbee/.keep
       - Floorball/.keep
       - Football/.keep
