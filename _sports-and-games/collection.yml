@@ -2,6 +2,7 @@ collections:
   sports-and-games:
     output: true
     order:
+      - Canoeing/.keep
       - Badminton/.keep
       - Badminton/Badminton.md
       - Badminton/Teachers.md
