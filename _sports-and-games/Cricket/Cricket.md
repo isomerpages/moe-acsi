@@ -8,3 +8,10 @@ Cricket continues to be one of ACS (Independent)’s Pride for the past 80 years
 
 <img src="/images/IMG_67142-300x179-300x179.jpg" 
      style="width:60%">
+		 
+The ACS (Independent) Cricket has produced many notable sportsmen of character, who continue to excel, coach and lead as individuals.
+
+The school welcomes Cricketers with outstanding skills and with a passion for the sport. Outstanding sportsmen are also sent for national and international competitions.
+
+The ACS (Independent) Cricket participates in the National Cricket Championships in A, B and C Divisions annually and is honoured to be in the top three positions for the past decade.
+
