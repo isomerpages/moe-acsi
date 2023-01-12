@@ -402,5 +402,57 @@ I was selected by the interest level that I had, and also the fact that the coac
 During training periods, most of the homework I had was done in school during the switching of lessons or free time. The 1 month break that we have before exams was enough to finish revision of all my subjects as well. Self-training was usually just static exercises that could be done in my room, and in PE I usually pushed harder than what was required when we were doing physical fitness training.
 
 From canoeing I have learnt many things, the most important to me being discipline learnt from training and the importance of hard work. Discipline has helped me to manage my studies with training, making use of my free time. Canoeing has showed me multiple times how hard work far surpasses any talent and can not only be applied in the field of sports but studies as well. However, the greatest benefit from canoeing is my important teammates who I know will stick with me through thick and thin and is the reason why I managed to stay in canoeing until today.
-<img src="/images/canoe%2017.png" 
+
+<img src="/images/canoe%2018.png" 
      style="width:40%">
+		 
+#### Hup Jun Jie (5.01 – 2018)
+
+Before joining Canoeing, in my primary school I was not in a sport CCA and even though I loved sports, I was not playing any sports at a competitive level.
+
+I thought it was interesting and I wanted to join a sport. I was selected with no prerequisite.
+
+Canoeing is a taxing sport. Very often I come back home from training being very lethargic and very lazy. However, this has also taught me to handle high workloads when I grew older and even though many people see this as a problem, I would view this as a lesson to prepare us for the future.
+
+Canoeing has taught me many things, from values such as resilience, determination to things such as lifelong friendship. Canoeing is a once in a lifetime opportunity and I am very happy that I seized that opportunity.
+
+<img src="/images/canoe%2019.png" 
+     style="width:40%">
+		 
+*** 
+#### Sean Becker (6.11 – 2018)
+
+I joined rugby in primary 1 but I didn’t enjoy it very much so I quit in primary 3. Then I was without a CCA for the rest of primary school. At the very most I would do some light gym exercises to keep active but honestly aside from natural fitness I wasn’t doing very much in terms of exercise or any sort of sports.
+
+I was intrigued by the sport on CCA day as I hadn’t heard about it before but one of the seniors signed me up because I was bigger than the other Sec 1s and on the day of the selection I just felt like trying something new so I figured I would give it a try
+
+It’s a tough time trying to manage all my work especially in IB when our schedules don’t permit us much time outside of school. I thought it best that I focus on completing as much work as possible during school hours and then completely focusing on training after that. At night it was also difficult to complete much work as I also needed sufficient sleep so I had to prioritise whenever I faced a tough decision.
+
+During exam periods I did my best to maintain a healthy balance between these commitments even when races and examinations clashed. To do my best in both would be a difficult task but that was no excuse not to do so.
+
+I sincerely believe that Canoeing has taught me the value of hard work. I was never immediately the best but only through dedication and profound belief did I progress to a much higher level than I ever thought possible.
+
+It has also greatly and in a positive manner enhanced my confidence and given me the tools I need to overcome any problem I encounter and welcome adversity which I feel will help in the long run
+
+<img src="/images/canoe%2020.png" 
+     style="width:40%">
+		 
+***
+
+#### Ray Chua (6.15 – 2017)
+
+Never before have I regarded myself as a sportsman, having absolutely no sporting background whatsoever in my primary school days. I was your typical unfit primary school kid, struggling to pass his NAPFA tests, dreading P.E lessons, or basically any activity that required a heightened level of physical exertion. Despite this, much to my surprise, Canoeing took me in during the Sports Bazaar, the programme in the Sec 1 Orientation Camp which lets you try out most sports in the school. I admit, I was skeptical. One of the most physically demanding sports in the school wanted me on their team. I admit, I was afraid. The training schedule seemed intense, and I feared that I could not handle the stress.
+
+I was entering into completely unknown territory, a stark change from the relaxed days of primary school. It was a frightening decision that I had to make as a Sec 1 kid, and for awhile, I kept looking back and wondering if it was indeed the right choice I made to join the team.
+
+Six years down the road, as an alumni of this school and team, I can safely say that it was the best decision that I had made in my life.
+
+The culture in this team is unrivaled by any other, the sheer brotherhood and camaraderie shared between our members creates strong bonds, bonds that last an eternity. Whoever you were before in primary school, it doesn’t matter, it never matters. We embrace all who show commitment and interest with open arms. Here in this team, you are not short or tall or fat or skinny, you are a canoeist, and you are given as equal as a chance as anyone else to succeed.
+
+Canoeing has imparted to me essential life skills. The competitive environment that I was exposed to, has instilled in me the necessary perseverance and fervour to push beyond my zone of comfort, and be better equipped to pursue my goals. The intensity of the trainings, being 4 times a week, has taught me self-discipline, allowing me to manage my time properly, an invaluable skill given the stress of the IB programme. The physical training itself, has allowed me to change who I am, making me fitter, stronger, healthier, and boosting my self-confidence in this regard. Overall, Canoeing has played an integral role in shaping who I am as a person, and really cannot imagine a life without it.
+
+I understand that for many, choosing a school and a CCA might be a tremendous responsibility, especially for a 12 year old. I strongly urge you to consider AC Canoeing and give it a chance. So many of us have before, and few have ever regretted it.
+
+<img src="/images/canoe%2021.png" 
+     style="width:40%">
+		 
