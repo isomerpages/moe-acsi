@@ -28,12 +28,12 @@ collections:
       - Canoeing/Testimonials.md
       - Canoeing/Additional Information.md
       - Canoeing/Gallery.md
-      - Cricket/Gallery.md
-      - Cricket/Accolades.md
-      - Cricket/Schedule.md
-      - Cricket/Teachers.md
-      - Cricket/Cricket.md
       - Cricket/.keep
+      - Cricket/Cricket.md
+      - Cricket/Teachers.md
+      - Cricket/Schedule.md
+      - Cricket/Accolades.md
+      - Cricket/Gallery.md
       - Cross Country/.keep
       - Football/.keep
       - Floorball/.keep
