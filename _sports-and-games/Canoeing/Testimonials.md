@@ -135,3 +135,115 @@ I managed my time by doing homework whenever I had some free time instead of pla
 
 <img src="/images/canoe%204.png" 
      style="width:40%">
+		 
+***
+
+#### Kendrick Ang (1.09 – 2018)
+
+I’m Kendrick Ang from class 1.09 and I was originally in ACS(P). In my primary school, I took up football as my CCA. However, since I was not committed to the sport and often did not attend the sessions, my level of fitness and skill was poor compared to my teammates.
+
+During the first week of school in ACS(I), I got to try out Canoeing and many other sports. When I tried Canoeing for the first time, it piqued my interest and realised that it would be a good opportunity for me to improve on my fitness and try out something new. At first, I joined Shooting as I found it interesting with Canoeing only as my second option. However, after a week of training, I realised that it was not the right sport for me and decided to seek out Mr Jeffrey Tan, the teacher-in-charge, to request to change my CCA to Canoeing.
+
+Compared to CCAs in primary school, Canoeing has trainings 4 times a week. This means that I would have less time to complete my school homework. To ensure that I am able to finish my homework by the deadlines and keep up with the curriculum, I set up a schedule to catch up on all my homework after trainings at night or during days where there is no training.
+
+Overall, from all the trainings I have had, I have learnt the importance of perseverance, teamwork and responsibility. It is easier to get through trainings if I form a sense of camaraderie with my teammates and encourage each other to do our best. I have learnt many important values and life skills from Canoeing and I will continue training hard.
+
+<img src="/images/canoe%205.png" 
+     style="width:40%">
+		 
+***
+
+#### Justin Lee (1.11 – 2017)
+
+Before I joined canoeing I was not very sporty with swimming being the only sport I had ever done. Even so, I had stopped swimming lessons a long time ago and therefore had minimal exercise.
+
+When I first joined ACS(I) I decided that I would try out a sport instead of a club and society for my CCA as it would be a new experience. As canoeing was the only sports CCA without any trials, it was the only sport that would accept me.
+
+I managed to balance my training and studies by listening attentively in class and by good time management. I would often do my homework in any pockets of time I have like the time in between periods. I also spent the 6 weeks breaks wisely often staying in the library after school.
+
+Overall I think canoeing helped develop my fitness and help me to manage my time better.
+
+<img src="/images/canoe%206.png" 
+     style="width:40%">
+		 
+***
+
+#### Joshua Prince (2.01 – 2022)
+
+My name is Joshua Prince and I am a member of the ACS(I) Canoeing Team. This testimonial is about my personal experience in this CCA.
+
+When I was in primary school, I was in a badminton CCA. At that point of time, badminton was my all time favorite sport. I would play badminton at least 4 times a week. Despite being in a CCA such as badminton, I never really did any exercise rather than the sport itself, which made me very unfit.
+
+When I was in secondary 1, I was devastated when I was not accepted into the badminton CCA. Me personally, I prefer sport CCAs over clubs and societies. During the sports bazaar, that was when I was exposed to the canoeing sport. Since I had no other option, I thought I would give this sport a shot. I have never regretted that decision.
+
+Initially, there was a physical test that I had to pass in order to join the CCA. Due to my lack of physical fitness, I was unable to pass the test. However, the coaches and teachers in charge gave me a chance to be in the CCA. Given this opportunity, I tried to ensure that the coaches and teachers in charge would not regret letting me in the CCA.
+
+Given the number of training days a week, keeping up with my studies was definitely a problem. However, like most things in life, managing my time properly came with practice. After trying a few methods and ways to save more time wherever I could, I was able to keep up with my studies.
+
+After going for so many trainings, I have definitely benefited from them. From this CCA alone, I have learnt how to manage my time better, how to push myself to my limits, how to work efficiently, and how to work as one Canoeing team. Not only that, but my fitness level and my leadership skills have improved tremendously. Joining the ACS(I) Canoeing team was the best decision I have made.
+
+* * *
+
+#### Valen Ng (2.01 – 2022)
+
+I am Valen Ng from 2.01 and I was from ACS(J), which I transferred to from a neighborhood school in Primary 5. In Primary School, I took up Modern Dance and Tennis as my CCAs in my old neighborhood school and ACS(J) respectively. Although I was in a Sports CCA, I was extremely unfit as I was not committed to attending Tennis CCA due to my laziness, only attending training twice per month instead of twice per week. Despite having run with my father since Primary 1, I lost the will to run anymore in Primary 5, causing my stamina to decline rapidly. Further worsened by an unhealthy lifestyle, eating fast food at least twice a week, I became fat and extremely out of shape. This could be shown from being able to run 1.6km in 8.16 minutes in my Primary 4 NAPFA test to being unable to jog 3 rounds around the track without being exhausted after the first round at the start of Secondary 1.
+
+During the Sports Bazaar in the Secondary 1 Orientation Camp for the first week of school, I was shown a video displaying what Canoeing was about. Mixed with the seniors mention that Canoeing was beginner friendly, I soon felt that this CCA was the right one for me to join. Although I was selected for trial for other CCAs such as Track and Field as well as Air Rifle, I knew that there were faster runners who trained much more than me in Primary School and that there were more gifted people than me at Air Rifle. The fact that Canoeing catered to beginners and that it showed improvement in one’s physical fitness truly made me want to become a member of this CCA team.
+
+Originally, at the CCA trial for Canoeing, I was one of the worst participants, being one of the extremely unfit ones. I performed very poorly compared to others in terms of my physical fitness, not being able to do pull-ups while others could or do many pushups whereas I could do only a few of improper form. Therefore, I was rejected initially to join the Canoeing team. However, I really wanted to join Canoeing as it was a sport like no other, so I made an appeal to the teacher-in-charge, Mr Jeffery Tan. After consideration from him, I managed to join the team.
+
+Canoeing is a CCA that you really need to commit to perform well in the sport, with training 4 times a week which lasts around 3 hours each training. This was a drastic change to my slothful attitude towards CCA training. This caused me to lag my classmates in assignments and work, leading to a drop in my results in the first term of my Secondary 1 year. I knew that if I wanted to do well in this CCA, I had to get my studies and schedule up to fully commit. I started cutting down time spent on playing games or lazing around after training to add more time for my studies and revision. As well as increasing the amount of time to focus on my studies, I focused on efficiency during study sessions, by studying more with my friends who could help me in areas I was lacking. This improved my studies in submitting work and results while ingraining in me self-discipline and time management.
+
+Canoeing has given me many benefits. Firstly, I have made many friends in this team, be it my seniors or my fellow cohort teammates. Many amazing memories have been made in Canoeing such as new PBs or joyful times. Secondly, I am much more physically fit than before. I grew an extreme amount from 149cm at the start of Secondary 1 to 162cm to present day alongside having slimmed down for the better. Fitness wise, from being exhausted after jogging 1 round around the track, I can now run 9km with my father once again and have a PB of 10.07 minutes for 2.4km in my NAPFA test. From not being able to even lift myself 1cm from hanging on the pullup bar, I can now do 5 and increasing. I can now do proper pushups continuously, formerly which I would cry after doing 10 pushups which were improperly done. Lastly, Canoeing has taught and instilled in me many important life lessons like teamwork, comradery, responsibility and my personal leadership and communication skills.
+
+Overall, Canoeing has profoundly changed my life, making my experience in Secondary School much more fruitful and worthwhile. I am glad to have persevered no matter the low points and to seize the opportunity to join Canoeing as my first choice of CCA. Even if I were fit and strong from the start of Secondary School, undoubtedly, I would still join the ACS(I) Canoeing team.
+
+* * *
+
+#### Jerry Zhang (2.13 – 2022)
+
+In primary school I was pretty involved in sports. I was in a sports CCA from Pri 1 all the way to Pri 5. In Pri 1 I joined the swimming CCA as I generally liked water sports and I enjoyed swimming. Then in Pri 2 I was selected to join the Rugby CCA through a trial that everyone had to go through since ACSP was a rugby school. In Pri 5 I joined basketball, and in half a year I made it to the developmental team, which was the future school team.
+
+My fitness was not the best when I first started my sporting journey. I was a chubby, slightly overweight kid for half of my time in primary school. Somehow, I slimmed down and got fit during Pri 3 to Pri 4, probably due to rugby training. After that, my fitness level became one of the best, and my running stamina was top notch.
+
+Coming into secondary school, I was at a loss for what sports to choose. I knew I would not go for rugby or basketball since I no longer loved the sport. My mom suggested that I try out canoeing since it wasn’t an option in primary school. I thought about how every time we go to MacRitchie Reservoir to hike, we would always see the students training in the reservoir, capping in the bay area, their joyful shouts and screams filling the morning air. Furthermore, I enjoyed doing recreational kayaking in the reservoirs, coupled with the unmatched scenery in the reservoir, it was an easy choice. During the sports bazaar I went straight for canoeing, turning down the repeated offer from the rugby coach, as well as many others. I knew I only wanted to join canoeing, and no other CCAs enticed me. I tried my best in both the fitness test, as well as the practical test on site in MacRitchie, and got accepted into the sport.
+
+Getting into the sport was the easy part, the responsibilities needed to continue with the CCA was the hard part. There are 4 training sessions per week, and we are expected to turn up to all these training sessions. This was made clear to us by our teacher in charge on the first day of CCA. Training would usually end at 6:30 while the other CCAs would end at 5:30, as we needed time to travel to the reservoir for training. This had a mental toll on us as we knew that while we were still hard at training, every other CCA was already released, going home and relaxing. Moreover, we had an hour less after school each day to catch up on schoolwork and revision, or to spend time relaxing. The training pushing us to the limits every session did not help either as after training I would sometimes collapse on the bed and fall asleep before getting anything done.
+
+Suddenly getting thrown into this was a culture shock. The first month or two were the hardest to get accustomed to. The seniors were tough on us, trying to push us past our limits and make us disciplined, to not give up. We tried our best, but that was not enough, they wanted us to try harder, to go above our limits. Some of us quit in the end, but most of us continued to love the sport. After the honeymoon period, getting used to the hectic schedule, everything was much easier to handle. I started to become wiser in my time management, choosing to do work in the mornings when I reach school instead of playing on my phone. Before we go to training, I would also do some homework on the bus or while waiting for the bus, so that I would not have to cram at night. This allowed me to get enough sleep almost every day, as well as time to relax and play games with my friends. My solution worked for the most part, however, occasionally I would still hand in my work late and get scolded by my teachers.
+
+My experience in Canoeing has been an overall positive experience. The seniors at the beginning of my journey helped me to get out of my comfort zone. It instilled discipline and a good work ethic in me, teaching me to not be lazy and to always strive for better. This was the first sports CCA that I did not lose motivation to get better even after a long time. Moreover, this CCA has also allowed me to forge friendships that I treasure to this day. Going through ups and downs together with my teammates strengthened my friendship with them, especially while doing crew-boats together. Coming to training and paddling together in one boat, setting PRs together, and improving together, was one of my fondest memories in this sport. My favorite memory during my time in canoeing was going to NSG (National School Games) with my partner, and both of us being able to achieve 3rd place in an event that we did not train much for. Getting 2nd place in dragon boat with 10 of my other teammates is another memory that I will treasure. Before training the members in my boat would all go and eat lunch together, hang out at Kallang wave mall, and have an amazing time.
+
+We also had amazing coaches to guide us on our way. The coaches would set an example for all of us to follow, and would always expect the best from us. They would steer us in the right direction if we were doing anything wrong, and encourage us when we do something right. They are usually very nice to us, always smiling and joking with us before training, but get serious during training. When we do something that they repeatedly told us not to do, they would reprimand us, re-enforcing the level that they expect us to perform at. This way, we would not get used to being spoon-fed what to do, becoming independent and more efficient.
+
+My time in the canoeing CCA was something that I will not forget for a long time. The experiences and values that I have taken from this CCA are invaluable. I would have never thought that joining canoeing would have given me so much, but between the sport, the coaches, the teachers, the friends, the self-improvement, and the adventures that I have experienced, I could not have asked for more from a CCA.
+
+* * *
+
+#### Daniel Boh (2.05 – 2017)
+
+I used to be overweight in primary school. I joined Canoeing to try a sport and to become fitter. Many Canoeist welcomed me to join as I was tall and told me that I had much potential.
+
+While in the CCA I would spend 45mins to 1hr after I got back from training for revision and homework.
+
+I have become fitter and healthier, and gained many new friends in the process. I am very thankful for the support provided by the Canoeing teachers and coaches.
+
+<img src="/images/canoe%207.png" 
+     style="width:40%">
+		 
+***
+
+#### Fang Hao (2.05 – 2017)
+
+In primary school I was not very involved in sports as my CCA then was robotics. I rarely did sports in primary school and the most I did was attend PE. I was relatively unfit due to my low level of sports involvement and I rarely played sports even during recess.
+
+I wanted to join canoeing as I thought that it would be a fun, new and interesting sport. I also wanted to do a sport in secondary school instead of joining a CCA like robotics as I did not really find it particularly fun or interesting CCA in primary school.
+
+There was no selection process when I wanted to join canoeing, there was simply just an introduction to canoeing before they allowed everyone that wanted to join to sign up. There were no special qualifications that were needed for me to join canoeing.
+
+Training was not very invasive in terms of study time as there was always a two week break before every major exam. Besides that time management is also quite important as sometimes 2 weeks may not be enough to prepare for exams.
+
+I have benefited from canoeing in many ways. For example, after joining canoeing I became much fitter as well as stronger. I also met many friends in my time in canoeing from those in my year as well as seniors from older years.
+
+<img src="/images/canoe%208.png" 
+     style="width:40%">
