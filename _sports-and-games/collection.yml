@@ -20,14 +20,14 @@ collections:
       - Basketball/Schedule.md
       - Basketball/Teachers.md
       - Basketball/Basketball.md
-      - Canoeing/Gallery.md
-      - Canoeing/Additional Information.md
-      - Canoeing/Testimonials.md
-      - Canoeing/Awards.md
-      - Canoeing/Schedule.md
-      - Canoeing/Teachers.md
-      - Canoeing/Canoeing.md
       - Canoeing/.keep
+      - Canoeing/Canoeing.md
+      - Canoeing/Teachers.md
+      - Canoeing/Schedule.md
+      - Canoeing/Awards.md
+      - Canoeing/Testimonials.md
+      - Canoeing/Additional Information.md
+      - Canoeing/Gallery.md
       - Cricket/.keep
       - Cross Country/.keep
       - Football/.keep
