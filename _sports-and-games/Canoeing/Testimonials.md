@@ -247,3 +247,69 @@ I have benefited from canoeing in many ways. For example, after joining canoeing
 
 <img src="/images/canoe%208.png" 
      style="width:40%">
+		 
+*** 
+
+#### Marcus Toh (2.11 – 2019)
+
+I’m Marcus Toh from 2.11. In primary school, I was in football CCA which generally made my fitness level around average. However, I was not committed to the sport as I found the drills grueling and demanding, thus I often skipped training to laze around at home and play with console games.
+
+I remember on the day of sports bazaar, I actually missed the canoeing tryouts but during the CCA selection date, I realized that one of my close friends was joining canoeing, and thus made a rash decision to join canoeing to follow my friend, have fun while having the mindset that I could always drop out of it if I didn’t like it.
+
+Canoeing is a taxing sport as there are 4 training sessions a week. Most of the time, I would come home lethargic. However, through this, canoeing has actually improved me as a person as it cultivated the routine of finishing the important things first and not procrastinate.
+
+What draws me to the sport canoeing is that mostly everyone starts at the same level in secondary school, as there isn’t a Canoeing CCA in Primary schools, thus giving us an opportunity to win if we put in the hard work.  
+I undoubtedly learned many core values from the Canoeing experience in ACS(I) such as Time Management when juggling rest and homework, Excellence when putting in hard work and Team Work when pushing with other CCA members to the limit.
+
+<img src="/images/canoe%209.png" 
+     style="width:40%">
+
+***
+
+#### Lucas Teo (2.12 – 2017)
+
+I was from ACS(P), and most of my time there was spent doing badminton. I made it into the school team, though I was considered one of the less valued player in the team. I got to play some games, and it was fun, but I had no true satisfaction, because most of the time, whatever achievements I got were from others hard work. Trophies were given out on a team basis, and even though I lost many matches, I still got trophies when my friends won theirs.
+
+I wasn’t very motivated to improve myself, didn’t look forward to every training, and didn’t give my best or push myself as hard as I could. Going for training was more of a routine, and getting to my friends levels seemed almost impossible.
+
+Coming to secondary school, I decided to join Canoeing, because I thought it was very interesting, and was inspired by my brother, who was previously in the sport. I remember seeing him paddle and I was instantly captivated. Canoeing also seemed like an opportunity for me to have a chance at winning, because everyone started at the same age. This hope of winning was what kept me going, and made me try to do my best.
+
+Applying for the sport was very easy, and there were no selection trials at all. All I needed to do was to express my interest in the sport, and by the end of the discovery camp, I was notified that I had been accepted into the sport.
+
+When I first started secondary school, I was rather bad at time management, and often did not pay attention in class, thinking that I could always go back home to find out what the teacher had been talking about in school. My mindset changed however, when the number of trainings increased. I came back late on several days, and only had enough time to finish my homework, and sometimes a bit more. This forced me to listen in class more attentively, and to do more consistent work rather than trying to cram all the information the night before the exams. I then realized, that my study method had been wrong this whole time, and started to see that studies weren’t supposed to take up so much of your time at home.
+
+This realization let me to do more efficient learning, and allowed me to have more time to do other things when there were no trainings. This part of efficient learning, I feel, is one thing that I brought home from canoeing so far.
+
+Another thing that canoeing has taught me was to strive for what I wanted. In primary school, I did many things such as studying because I was forced to, and had no other choice. However, one thing about canoeing changed my attitude. Many canoeing trainings such as to going to the gym were optional, and this unique part of canoeing made me see the importance of your attitude, which influences your drive and ultimately, success. The voluntary aspect of canoeing also taught me to treasure my time, and emphasized to me the relevance of the phrase “quality over quantity”.
+
+<img src="/images/canoe%2010.png" 
+     style="width:40%">
+		 
+***
+
+#### Aaron Tan (3.03 – 2017)
+
+I am Aaron from 3.03. I came from Anglo Chinese School (junior), where I played football for school. I wouldn’t say I was fit but as a footballer I ran quite a bit so I wasn’t too unfit either. However, despite my sports background, I did not have fantastic eating habits and I was not satisfied with my chubby physique.
+
+In secondary school, I could have chosen between football and exploring a new CCA. I chose the latter, of course. Canoeing appealed to me as it was something completely different, seemed fun and the canoeing seniors assured that we would acquire a high level of fitness. I was a little hesitant at first as I did not know anything about the sport and I was worried that the nature of the sport would stunt my already vertically challenged frame. Managing between 2 CCAs and studies was another worry. Nevertheless, I chose Canoeing; which has been one of the best decisions of my life.
+
+Coping academically while training 4 times a week has been tough. There have been times where I come home from training too exhausted to lift a pen. That has improved, though. Over the past years, canoeing has instilled a strong sense of discipline and time management in me, allowing me to balance both my sporting and academic life well. Besides becoming fitter, taller and developing my character, canoeing has also helped me build strong friendships with my peers whom I have spent countless of hours with. Sure, there have been ups and downs throughout this 3 years of my secondary school life. But at the end of the day, canoeing has been a fruitful and life changing experience for me.
+
+<img src="/images/canoe%2011.png" 
+     style="width:40%">
+		 
+***
+
+#### Anthony Goh (3.08 – 2017)
+
+During my primary school days, I never managed to stick to a particular CCA, much less a sports CCA. In total, I joined 4 different CCA’s, only one of which was a sports CCA. However, it was purely recreational. I was below average in all aspects when it came to sports, and physical activities were unappealing to me.
+
+By secondary school, I knew that I wanted to join a sports CCA to become more physically fit. I went forth with the encouragement of my parents, taking part in all the CCA trials available and unfortunately failing spectacularly at all of them. Canoeing was the only sports CCA that willingly accepted me. Another reason it appealed to me was that it was new and exciting. Those around me and those that I competed against would have just as much experience as me. This even footing made it ideal for someone who had wasted 6 years of their CCAs, like me.
+
+There were no real test or trials for anyone to join Canoeing. As a competitive CCA, Canoeing stood out because of that. We were all given a chance to try out the ergometers, kayaking simulators, and were introduced to the various equipment we would be using. The only necessity to join was interest in the CCA, and willingness to commit. Following the Sports Bazaar, I was told that I was accepted into the CCA.
+
+Managing my studies took a lot of discipline. Initially, I fell behind in studies, as I often procrastinated or ignored assignments after my training. In time, I learnt to follow a stricter routine, and put aside my hobbies in favour of studying. I also began to appreciate free time more. Often, before the start of school or during breaks between lessons I would study or train. This efficient use of time enabled me to maintain good standards in both CCA and academics.
+
+Canoeing has changed my life radically and benefitted me in many ways. I am much more physically fit, and have of course learned to manage my time well. Furthermore, I have made many friends in the team. Through our years of training together, we have forged strong bonds and relationships, and there is an undeniable camaraderie amongst the team. Canoeing has also developed me as a leader, from the many opportunities during training. When the year 4 express cohort left, many of the responsibilities fell to the year 3’s. We quickly learnt how to lead the team, under the guidance and teaching of our seniors.
+
+![](/images/canoe%2012.png)
