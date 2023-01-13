@@ -146,3 +146,41 @@ After achieving the C.M. Phillips Award from HQ NCC in 2014, the unit started 20
 
 For Founder’s Day Parade 2015, the unit formed the Guard of Honour contingent in No. 1 uniform for the Guest-of-Honour, Mr Tan Chuan-Jin, currently Minister for Social & Family Development. Cadets also participated in competitions (Mini-League Challenge, Freestyle Drill Competition, Precision Drill Squad Competition, Orienteering Competition & Shooting Competition) to give them the opportunity to push themselves physically and mentally and for character building.
 
+![](/images/NCC-Land-GOH-contingent-after-the-Founders-Day-Parade.jpg)
+
+As the unit grows from strength to strength, we continue to strive for greater heights and excel in every aspect. To God Be The Glory, The Best Is Yet To Be.
+
+2SG Joshua Chia Teck Yeung
+
+Class 4.10 Samuel (2015)
+
+![](/images/CM-Phillips-Award-for-the-unit.jpg)
+
+Principal receiving the CM Philips Award for the unit from C/LTA Brandon Lim during NCC Day 2014.
+
+![](/images/Jeremy-Ong-CLTA-Brandon-Lim-with-Appointment-Holders-2014.jpg)
+
+2014 Appointment holders (third from left: SSG Md Fatris, MSG Kevin Tan, SSG Md Faiz, SSG Arvindh & MSG Benjamin Lew) with (from left) Jeremy Ong and C/LTA Brandon Lim.
+
+The National Cadet Corps (Land) unit had a fruitful year where our cadets have done the unit proud. We have broken boundaries, surpassed standards, and have stayed true to our purpose of building character in our cadets.
+
+After achieving the Gold Award in the HQ NCC Best Unit Competition (BUC) for 10 consecutive years, the unit was honoured with the C.M. Phillips Award by HQ NCC, which is a testament of the continued excellence in the unit.
+
+In addition, our cadets continue to receive individual awards (Most Outstanding Cadet Award) and improve in their performances in competitions (Freestyle Drill, Mini-League Challenge, Orienteering, Annual Shooting Competitions).
+
+To broaden the cadets’ horizons, HQ NCC offers opportunities for selected cadets to go for training with SAF.  C/2LT Raymond Sukanto and C/LTA Brandon Lim (Class 6.14 Joppa), had participated in the Basic Airborne Course in June 2013, to attain their silver wings as parachutists as well as a once in a lifetime experience. C/2LT Raymond Sukanto also participated in the Basic Diving Course in Nov 2014.
+
+Throughout the year 2014, our unit has started strong, stayed steady and finished the year well. To God Be The Glory, The Best Is Yet To Be.
+
+MSG Kevin Tan Hao En (Class 4.09 Elijah)
+
+Unit Sergeant Major (2014)
+
+![](/images/CLTA-Jeremy-Ong-SSG-Raymond-Sukanto-after-Change-of-Command-Parade-2013.jpg)
+
+2013 began with a great start for Anglo-Chinese School (Independent) National Cadet Corps (Land), where our unit was represented by C/LTA Jeremy Ong (2012 IB graduate) and SSG Raymond Sukanto (Class 4.09 Elijah) holding parade appointments of Parade Second-in-Command and Conducting Specialist respectively at the Change of Command Parade at NCC HQ on the 11th of January. This event welcomes the new NCC Commandant LTC Johnny Yeo Yew Kuan and was widely participated by cadets from various schools in the Guard-of-Honor contingent, as well as supporting contingents.
+
+![](/images/NCC-Land_0003-1D-X.jpg)
+
+Cadet Leaders (Year 3s) and Senior Cadet Leaders (Year 4s) commemorated the school’s 127th Founder’s Day with a parade and it was an enriching experience for cadets.  2013 will be a memorable year for the unit as the cadets enrich themselves in the various courses (Specialist, Senior Specialist, Orienteering), camps (STEEL, FORGE) and competitions (Freestyle Drill, Orienteering, Street Soccer, Shooting).
+
