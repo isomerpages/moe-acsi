@@ -77,3 +77,71 @@ third_nav_title: Cross Country
   </tr>
 </tbody>
 </table>
+
+![](/images/20220518-850_4469-scaled.jpg)
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">“B” Division Boys: 3rd Runners-up</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>2nd</td>
+    <td>Ferrell</td>
+  </tr>
+  <tr>
+    <td>12th</td>
+    <td>Brandon</td>
+  </tr>
+  <tr>
+    <td>36th</td>
+    <td>Sean</td>
+  </tr>
+  <tr>
+    <td>60th</td>
+    <td>Keith</td>
+  </tr>
+  <tr>
+    <td>77th</td>
+    <td>Kavan</td>
+  </tr>
+</tbody>
+</table>
+
+![](/images/20220518-850_4711-2-1-scaled.jpg)
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">“C” Division Boys: Champions</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>1st</td>
+    <td>Akid</td>
+  </tr>
+  <tr>
+    <td>2nd</td>
+    <td>Reuben</td>
+  </tr>
+  <tr>
+    <td>4th</td>
+    <td>Wee Jin</td>
+  </tr>
+  <tr>
+    <td>6th</td>
+    <td>Sebastian</td>
+  </tr>
+  <tr>
+    <td>8th</td>
+    <td>Luca</td>
+  </tr>
+  <tr>
+    <td>15th</td>
+    <td>Nevin</td>
+  </tr>
+</tbody>
+</table>
