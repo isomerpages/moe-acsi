@@ -2,6 +2,7 @@ collections:
   uniformed-groups:
     output: true
     order:
+      - National Police Cadet Corps/.keep
       - NCDCC/.keep
       - NCDCC/National Civil Defence Cadet Corps (NCDCC).md
       - NCDCC/Teachers.md
