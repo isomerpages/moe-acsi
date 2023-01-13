@@ -138,3 +138,93 @@ Founder’s Award (Y4) : 19 Recipients<br>
 President’s Award (Y6) : 2 Recipients<br>
 BB Week : Gold Honour Roll, Highest Collector<br>
 J.M. Fraser Award Gold, Best Company in Singapore
+
+### 2006
+
+Adventure Quest : Gold Honour Roll  <br>
+Character Quest : 4th placing / Gold Honour Roll<br>
+Founder’s Award (Y4) : 7 Recipients<br>
+President’s Award (Y6) : 0 Recipients<br>
+BB Week : Gold Honour Roll, Highest Collector<br>
+J.M. Fraser Award Gold, Best Company in Singapore
+
+### 2005
+
+Adventure Quest : Silver Honour Roll  <br>
+Character Quest : 2nd placing / Gold Honour Roll<br>
+Founder’s Award (Y4) : 20 Recipients<br>
+President’s Award : – (First Batch of President’s Awards Recipients)<br>
+BB Week : Gold Honour Roll<br>
+J.M. Fraser Award Gold, Best Company in Singapore
+
+### 2004
+
+Adventure Quest : Silver Honour Roll  <br>
+Character Quest : 2nd placing / Gold Honour Roll<br>
+Founder’s Award (Y4) : 7 Recipients<br>
+BB Week : Gold Honour Roll, Highest Collector<br>
+J.M. Fraser Award Gold, Best Company in Singapore
+
+### 2003
+
+Adventure Quest : –  <br>
+Character Quest : 2nd placing / Gold Honour Roll<br>
+Founder’s Award (Y4) : 12 Recipients<br>
+BB Week : Gold Honour Roll, Highest Collector<br>
+J.M. Fraser Award Gold, Best Company in Singapore<br>
+Cross of Heroism awarded to WO Jeffrey Jiang
+
+### 2002
+
+Adventure Quest : 6th placing / Gold Honour Roll (First Year of BB Adventure Quest)  <br>
+Character Quest : Silver Honour Roll<br>
+Founder’s Award (Y4) : 5 Recipients<br>
+BB Week : Silver Honour Roll<br>
+J.M. Fraser Award Gold, Best Company in Singapore
+
+### 2001
+
+Character Quest : 10th Placing<br>
+Founder’s Award (Y4) : 0 Recipients<br>
+BB Week : Gold Honour Roll<br>
+J.M. Fraser Award : No Record (Restructuring of J.M.F. Award)
+
+### 2000
+
+Character Quest : –<br>
+Founder’s Award (Y4) : 0 Recipients<br>
+BB Week : –<br>
+J.M. Fraser Award Bronze
+
+### 1999
+
+Character Quest : 2nd Placing<br>
+Founder’s Award (Y4) : 3 Recipients<br>
+BB Week : –<br>
+J.M. Fraser Award : –
+
+### 1998
+
+Character Quest : 7th Placing<br>
+Founder’s Award (Y4) : 0 Recipients<br>
+BB Week : –<br>
+J.M. Fraser Award : –
+
+### 1997
+
+Character Quest : 4th Placing<br>
+Founder’s Award (Y4) : 0 Recipients<br>
+BB Week : –<br>
+J.M. Fraser Award : (First Year of J.M.F. Award)
+
+### 1996
+
+Character Quest :3rd and 4th Placing<br>
+Founder’s Award (Y4) : 0 Recipients<br>
+BB Week : –
+
+### 1995
+
+Character Quest : –<br>
+Founder’s Award (Y4) : 0 Recipients<br>
+BB Week : (First Year of BB Week Award)
