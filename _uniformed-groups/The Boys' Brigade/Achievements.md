@@ -100,3 +100,22 @@ Character Quest : 1st, 2nd, 3rd and 10th Placing / Gold Honour Roll <br>
 Founders Award (Y4) : 10 recipients <br>
 Presidents’ Award (Y6) : 2 recipients <br>
 J.M. Fraser Award Gold, Best Company in Singapore 2011
+
+### 2010
+
+Adventure Quest : 8th Placing / Gold Honour Roll<br>
+Character Quest : 6th and 11th Placing / Gold Honour Roll<br>
+Founders Award (Y4) : 15 recipients<br>
+Presidents’ Award (Y6) : 4 recipients  <br>
+Pipes & Drums Festival : Solo piping Cat A Champion, Miniature Band Cat B, 1st runner up<br>
+J.M. Fraser Award Gold, Best Company in Singapore 2011
+
+### 2009
+
+Adventure Quest : Gold Honour Roll  <br>
+Character Quest : 2nd and 10th placing / Gold Honour Roll<br>
+Founder’s Award (Y4) : 22 Recipients<br>
+President’s Award (Y6) : 5 Recipients<br>
+BB Week : Gold Honour Roll, Highest Collector<br>
+Pipes & Drums Festival : 2nd (Category A)<br>
+J.M. Fraser Award Gold
