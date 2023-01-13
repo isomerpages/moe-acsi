@@ -2,6 +2,7 @@ collections:
   uniformed-groups:
     output: true
     order:
+      - National Cadet Corps (Air)/National Cadet Corps (Air).md
       - National Cadet Corps (Air)/.keep
       - The Boys’ Brigade Bagpipe Band/.keep
       - The Boys’ Brigade Bagpipe Band/The Boys’ Brigade Bagpipe Band.md
