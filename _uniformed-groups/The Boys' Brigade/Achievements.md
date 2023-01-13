@@ -119,3 +119,22 @@ President’s Award (Y6) : 5 Recipients<br>
 BB Week : Gold Honour Roll, Highest Collector<br>
 Pipes & Drums Festival : 2nd (Category A)<br>
 J.M. Fraser Award Gold
+
+### 2008
+
+Adventure Quest : 4th (Senior Category), 1st (Open Category) / Gold Honour Roll  <br>
+Character Quest : 6th and 11th placing / Gold Honour Roll<br>
+Founder’s Award (Y4) : 14 Recipients<br>
+President’s Award (Y6) : 6 Recipients<br>
+BB Week : Gold Honour Roll, Highest Collector<br>
+Pipes & Drums Festival : 2nd (Category A, Under 14), 2nd (Category B, Under 16)<br>
+J.M. Fraser Award Gold, Best Company in Singapore
+
+### 2007
+
+Adventure Quest : Gold Honour Roll  <br>
+Character Quest : 5th placing / Gold Honour Roll<br>
+Founder’s Award (Y4) : 19 Recipients<br>
+President’s Award (Y6) : 2 Recipients<br>
+BB Week : Gold Honour Roll, Highest Collector<br>
+J.M. Fraser Award Gold, Best Company in Singapore
