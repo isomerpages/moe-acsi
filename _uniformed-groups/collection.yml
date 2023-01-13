@@ -2,6 +2,7 @@ collections:
   uniformed-groups:
     output: true
     order:
+      - National Cadet Corps (Air)/Training Days.md
       - National Cadet Corps (Air)/Gallery.md
       - National Cadet Corps (Air)/Awards.md
       - National Cadet Corps (Air)/Schedule.md
