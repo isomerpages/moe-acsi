@@ -40,3 +40,12 @@ Character Quest : Gold Honour Roll<br>
 Founders Award (Y4) : 13 recipients<br>
 Presidents’ Award (Y6) : 5 recipients<br>
 J.M. Fraser Award Gold
+
+### 2017
+
+Adventure Quest : Gold Honour Roll<br>
+Character Quest : 6th and 7th Placing / Gold Honour Roll <br>
+Founders Award (Y4) : 11 recipients <br>
+Presidents’ Award (Y6) : 3 recipients  <br>
+Pipes & Drums Festival : Team Champions for BB Band, Open Band and Best Drum Corp Awards<br>
+J.M. Fraser Award Gold
