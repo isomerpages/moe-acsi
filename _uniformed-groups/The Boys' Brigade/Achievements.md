@@ -84,3 +84,19 @@ Character Quest : 4th Placing / Gold Honour Roll<br>
 Founders Award (Y4) : 8 recipients<br>
 Presidents’ Award (Y6) : 1 recipient<br>
 J.M. Fraser Award Gold, Best Company in Singapore 2013
+
+### 2012
+
+Adventure Quest : Gold Honour Roll<br>
+Character Quest : 1st, 6th and 9th Placing / Gold Honour Roll<br>
+Founders Award (Y4) : 9 recipients<br>
+Presidents’ Award (Y6) : 1 recipient  <br>
+J.M. Fraser Award Gold, Best Company in Singapore 2012
+
+### 2011
+
+Adventure Quest : 5th Placing / Gold Honour Roll <br>
+Character Quest : 1st, 2nd, 3rd and 10th Placing / Gold Honour Roll <br>
+Founders Award (Y4) : 10 recipients <br>
+Presidents’ Award (Y6) : 2 recipients <br>
+J.M. Fraser Award Gold, Best Company in Singapore 2011
