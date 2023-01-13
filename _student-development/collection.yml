@@ -2,8 +2,8 @@ collections:
   student-development:
     output: true
     order:
-      - Student Council/Contact Us.md
-      - Student Council/Events and Projects.md
-      - Student Council/Structure.md
-      - Student Council/Student Council.md
       - Student Council/.keep
+      - Student Council/Student Council.md
+      - Student Council/Structure.md
+      - Student Council/Events and Projects.md
+      - Student Council/Contact Us.md
