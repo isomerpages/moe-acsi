@@ -2,15 +2,15 @@ collections:
   uniformed-groups:
     output: true
     order:
-      - National Police Cadet Corps/Links.md
-      - National Police Cadet Corps/Gallery.md
-      - National Police Cadet Corps/Reflect on activities.md
-      - National Police Cadet Corps/Achievements.md
-      - National Police Cadet Corps/Training Schedule.md
-      - National Police Cadet Corps/Cadet Leaders.md
-      - National Police Cadet Corps/TEACHER – OFFICERS.md
-      - National Police Cadet Corps/National Police Cadet Corps (NPCC).md
       - National Police Cadet Corps/.keep
+      - National Police Cadet Corps/National Police Cadet Corps (NPCC).md
+      - National Police Cadet Corps/TEACHER – OFFICERS.md
+      - National Police Cadet Corps/Cadet Leaders.md
+      - National Police Cadet Corps/Training Schedule.md
+      - National Police Cadet Corps/Achievements.md
+      - National Police Cadet Corps/Reflect on activities.md
+      - National Police Cadet Corps/Gallery.md
+      - National Police Cadet Corps/Links.md
       - NCDCC/.keep
       - NCDCC/National Civil Defence Cadet Corps (NCDCC).md
       - NCDCC/Teachers.md
