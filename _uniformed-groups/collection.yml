@@ -2,6 +2,7 @@ collections:
   uniformed-groups:
     output: true
     order:
+      - National Police Cadet Corps/Training Schedule.md
       - National Police Cadet Corps/Cadet Leaders.md
       - National Police Cadet Corps/TEACHER – OFFICERS.md
       - National Police Cadet Corps/National Police Cadet Corps (NPCC).md
