@@ -34,15 +34,15 @@ collections:
       - Cricket/Schedule.md
       - Cricket/Accolades.md
       - Cricket/Gallery.md
-      - Cross Country/Video Gallery.md
-      - Cross Country/Photo Gallery.md
-      - Cross Country/Calendar of Events.md
-      - Cross Country/Training Schedule.md
-      - Cross Country/Competition Results.md
-      - Cross Country/Direct School Admission.md
-      - Cross Country/Teachers.md
-      - Cross Country/Cross Country.md
       - Cross Country/.keep
+      - Cross Country/Cross Country.md
+      - Cross Country/Teachers.md
+      - Cross Country/Direct School Admission.md
+      - Cross Country/Competition Results.md
+      - Cross Country/Training Schedule.md
+      - Cross Country/Calendar of Events.md
+      - Cross Country/Photo Gallery.md
+      - Cross Country/Video Gallery.md
       - Football/.keep
       - Floorball/.keep
       - Frisbee/.keep
