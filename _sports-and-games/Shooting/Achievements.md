@@ -193,3 +193,220 @@ Written by Roy Yian (3.04 Ezekiel) & Joshua Neo (3.12 Amos)
 
 <img src="/images/shooting%204.png" 
      style="width:40%">
+
+* * *
+
+### 2018
+
+The ACS (Independent) Shooting Club participated in several competitions such as the Nanyang Technological University Invitational Shoot, the National University of Singapore Invitational Shoot and the Singapore Youth Olympic Festival in preparation for the 22nd National Inter-School Shooting Championships. Our shooters fought hard against intense competition from worthy opponents, giving their all and eventually attaining well-deserved awards.
+
+The results for the **22nd National Inter-School Shooting Championships** are:
+
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Category and Division</td>
+    <td>Shooters</td>
+    <td>Achievements</td>
+    <td>Remarks</td>
+  </tr>
+  <tr>
+    <td>‘A’ Pistol</td>
+    <td>Mendel Huan Xue Han (6.06 Damascus)<br><br>Mah Chixiang Elgin (5.01 Genesis)<br>Li Xuanjie Christopher (6.02 Bethesda)</td>
+    <td>Team 4th</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>‘A’ Rifle</td>
+    <td>Kennan Yeo Zhi Guang (5.04 Numbers)<br><br>Micheal Felix Gunawan (6.03 Bethlehem)<br>Samuel Yeo Jianjie (6.03 Bethlehem)</td>
+    <td>Team 6th</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>‘B’ Pistol</td>
+    <td>Tay Jun Wei (3.16 Habakkuk)<br><br>Niu Houji (4.15 Noah)<br>Tan Keng Hong (3.13 Haggai)<br>Alven Tan Wen Rui (3.14 Obadiah)</td>
+    <td>Team 1st</td>
+    <td>Niu Houji emerged Individual 2nd</td>
+  </tr>
+  <tr>
+    <td>‘B’ Rifle</td>
+    <td>Chua Wei En Zachary (4.12 Abel)<br><br>Ng Kang Qi (3.13 Haggai)<br>Alexander Loh Zen Young (4.14 Moses)<br>Hum Ee Li Daniel (3.15 Haggai)</td>
+    <td>Team 4th</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>‘C’ Pistol</td>
+    <td>Moon Seongmu (2.04 Judah)<br><br>Tan Kai Jie (2.07 Ephraim)<br>Justin Loei Wen Hao (1.11 Timothy)<br>Marcus Loo Jing Jie (1.06 Philip)</td>
+    <td>Team 6th</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>‘C’ Rifle</td>
+    <td>Yian Kai Rui Roy (2.03 Gad)<br><br>Neo Ze Zun Joshua (2.04 Judah)<br>Lim Jun Hao Terry (2.03 Gad)<br>Ong Chong Hean Isaac (2.04 Judah)</td>
+    <td>Team 4th</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+We would like to specially congratulate Tay Jun Wei (3.16 Habakkuk), who was selected to join the Singapore National Youth Team this year. These achievements are the product of all our shooters’ hard work and determination, which would not have been made possible without the motivation from our teachers-in-charge, Mrs Ho-Toh Ling Lee, Mdm Ruvathy and Ms Mazlind Ali, the guidance from our dedicated coaches, Coach Fan Xiaoping and Coach Gai Bin and above all, God.
+
+To God be the glory, the best is truly yet to be!
+
+From Roy Yian (2.03 Gad) and Joshua Neo (2.04 Judah)
+
+* * *
+
+### 2017
+
+1. NTU Invitational Shoot *1 Team Gold, 1 Team Silver, 1 Team Bronze, 2 Individual Bronze
+
+<table>
+<thead>
+  <tr>
+    <th colspan="3">Achievements</th>
+    <th>Shooters</th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="3">Air Rifle</td>
+    <td rowspan="2">‘B’ Division</td>
+    <td>Team</td>
+    <td>Silver</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Individual</td>
+    <td>Bronze</td>
+    <td>Zechary Chua (3.12)</td>
+  </tr>
+  <tr>
+    <td>‘C’ Division</td>
+    <td>Team</td>
+    <td>Bronze</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="5">Air Pistol</td>
+    <td rowspan="3">‘B’ Division</td>
+    <td>Team</td>
+    <td>Silver</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Individual</td>
+    <td>Bronze</td>
+    <td>Tony Li (4.06 Gideon)</td>
+  </tr>
+  <tr>
+    <td>Individual</td>
+    <td>4th placing</td>
+    <td>Niu Houji (3.15 Nahum)</td>
+  </tr>
+  <tr>
+    <td rowspan="2">‘C’ Division</td>
+    <td>Team</td>
+    <td>Gold</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Individual</td>
+    <td>4th placing</td>
+    <td>Sean Lim (2.11 Asher)</td>
+  </tr>
+</tbody>
+</table>
+
+2. 21st Inter-School Shooting Championships
+
+<table>
+<thead>
+  <tr>
+    <th colspan="3">Medal</th>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="4">Air Rifle</td>
+    <td>‘A’ Division</td>
+    <td>Individual</td>
+    <td>4th</td>
+    <td>Aaron Leong (6.17 Nazareth)</td>
+  </tr>
+  <tr>
+    <td>‘B’ Division</td>
+    <td>Team</td>
+    <td>Silver</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">‘C’ Division</td>
+    <td>Team</td>
+    <td>4th</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Individual</td>
+    <td>Bronze</td>
+    <td>Ng Kang Qi (2.12 Naphtali)</td>
+  </tr>
+  <tr>
+    <td rowspan="4">Air Pistol</td>
+    <td>‘A’ Division</td>
+    <td>Team</td>
+    <td>Bronze</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">‘B’ Division</td>
+    <td>Team</td>
+    <td>4th</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Individual</td>
+    <td>Bronze</td>
+    <td>Tony Li (4.06 Gideon)</td>
+  </tr>
+  <tr>
+    <td>‘C’ Division</td>
+    <td>Team</td>
+    <td>Bronze</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+* * * 
+
+### 2016
+
+1. NTU Invitational Shoot *1 Team Gold, 1 Team Bronze, 1 Individual Silver
+
+![](/images/Picture1-1.png)
+
+2. 20th Inter-School Shooting Championships
+
+![](/images/interschool-shooting-results.jpg)
+
+* * * 
+
+### 2015
+
+ 1. NTU Invitational Shoot * 3 Individual Golds, 3 Individual Silvers, 1 Team Gold, 1 Team Silver
+
+![](/images/NTU-IS-results-1024x517.png)
+
+2. 19th Inter-School Shooting Championships
