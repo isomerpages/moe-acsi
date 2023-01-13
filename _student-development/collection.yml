@@ -2,12 +2,12 @@ collections:
   student-development:
     output: true
     order:
-      - Prefectorial Board/Contact Us.md
-      - Prefectorial Board/Announcements.md
-      - Prefectorial Board/Our Projects.md
-      - Prefectorial Board/Structure.md
-      - Prefectorial Board/Prefectorial Board.md
       - Prefectorial Board/.keep
+      - Prefectorial Board/Prefectorial Board.md
+      - Prefectorial Board/Structure.md
+      - Prefectorial Board/Our Projects.md
+      - Prefectorial Board/Announcements.md
+      - Prefectorial Board/Contact Us.md
       - Student Council/.keep
       - Student Council/Student Council.md
       - Student Council/Structure.md
