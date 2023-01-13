@@ -2,6 +2,7 @@ collections:
   uniformed-groups:
     output: true
     order:
+      - The Boys' Brigade/Awards and Badges.md
       - The Boys' Brigade/Achievements.md
       - The Boys' Brigade/Events.md
       - The Boys' Brigade/Schedule.md
