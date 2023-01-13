@@ -2,14 +2,14 @@ collections:
   uniformed-groups:
     output: true
     order:
-      - National Cadet Corps (Air)/Appointment Holders.md
-      - National Cadet Corps (Air)/Training Days.md
-      - National Cadet Corps (Air)/Gallery.md
-      - National Cadet Corps (Air)/Awards.md
-      - National Cadet Corps (Air)/Schedule.md
-      - National Cadet Corps (Air)/Teachers.md
-      - National Cadet Corps (Air)/National Cadet Corps (Air).md
       - National Cadet Corps (Air)/.keep
+      - National Cadet Corps (Air)/National Cadet Corps (Air).md
+      - National Cadet Corps (Air)/Teachers.md
+      - National Cadet Corps (Air)/Schedule.md
+      - National Cadet Corps (Air)/Awards.md
+      - National Cadet Corps (Air)/Gallery.md
+      - National Cadet Corps (Air)/Training Days.md
+      - National Cadet Corps (Air)/Appointment Holders.md
       - The Boys’ Brigade Bagpipe Band/.keep
       - The Boys’ Brigade Bagpipe Band/The Boys’ Brigade Bagpipe Band.md
       - The Boys’ Brigade Bagpipe Band/Teachers and Leaders.md
