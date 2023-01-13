@@ -2,13 +2,13 @@ collections:
   uniformed-groups:
     output: true
     order:
-      - St John Brigade (SJB)/Gallery.md
-      - St John Brigade (SJB)/Achievements & Awards.md
-      - St John Brigade (SJB)/Training Schedule.md
-      - St John Brigade (SJB)/Student Committee & Exco.md
-      - St John Brigade (SJB)/Teachers.md
-      - St John Brigade (SJB)/St John Brigade (SJB).md
       - St John Brigade (SJB)/.keep
+      - St John Brigade (SJB)/St John Brigade (SJB).md
+      - St John Brigade (SJB)/Teachers.md
+      - St John Brigade (SJB)/Student Committee & Exco.md
+      - St John Brigade (SJB)/Training Schedule.md
+      - St John Brigade (SJB)/Achievements & Awards.md
+      - St John Brigade (SJB)/Gallery.md
       - National Police Cadet Corps/.keep
       - National Police Cadet Corps/National Police Cadet Corps (NPCC).md
       - National Police Cadet Corps/TEACHER – OFFICERS.md
