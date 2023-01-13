@@ -410,3 +410,89 @@ From Roy Yian (2.03 Gad) and Joshua Neo (2.04 Judah)
 ![](/images/NTU-IS-results-1024x517.png)
 
 2. 19th Inter-School Shooting Championships
+
+![](/images/overall-Interschool-results-20151.png)
+
+**_SPECIAL MENTIONS:_**
+
+*Our Congratulations to Creighton Stanley Yeo (class 4.15) who has been selected to join the National Youth Team.
+
+**We are proud of Keith Chan (class 6.06) for receiving the Chan Jan Jee Sportsboy of theYear Award 2015.
+
+* * * 
+
+### 2014
+
+1. NUS Invitational Shoot
+
+*   1 individual silver, 1 individual bronze, 1 team bronze
+*   Sean Reginald Rajakumar clinched the individual silver (Air Rifle)
+*   Lin Jia Kai clinched the individual bronze (Air Pistol)
+*   B division Air Pistol team clinched the team bronze – Lin Jia Kai, Andrew Lim, Creighton Stanley Yeo and Pardeep Singh Puhar
+
+2. NTU Invitational Shoot
+
+*   2nd place in the Rifle Team event – Toran Seth (Year 6), Andrew Mark Lim (5.09) and Aaron Leong (Year 3).
+
+3. 18th Nationals Inter-School Shooting Championships
+4. 
+5. **_SPECIAL MENTIONS:_**
+
+*Our Congratulations to Lin Jia Kai (class 4.06) and Gregg Chan (class 2.06) who have been selected to join the National Youth Team this year.
+
+*We are proud of Keith Chan (class 5.06), a National Youth Team member, who represented Singapore in several international competitions listed below. For his invaluable contributions, he was awarded the ACS Old Boys’ Association President’s Award at Honours Day 2014.
+
+*   _7 – 14 March: 7th Asian Championship, Kuwait. Out of a total of 46 participants from 19 Countries. Achieved individual 24th and team 5th._
+*   _4 – 13 June: ISSF World Cup Rifle/Pistol/Shotgun held in Munich, Germany. An open category competition with a total of 133 participants from 57 countries. Achieved individual 93th place_
+*   _23 July – 3 August: 20th Commonwealth Games held in Glasgow, England. An open category competition with a total of 21 participants from 12 countries. Achieved individual 11th place._
+
+*We would like to congratulate Gregg Chan (class 2.06) for his brilliant performance at the Singapore Invitational Shoot 2014. In the men’s 10m air rifle final on 8th December, Gregg Chan won the elimination-style finals with a total of 203.2 points, ahead of Japan’s Kazuma Hashizume (202.1). Well done!
+
+* * * 
+
+### 2013
+
+1. Singapore Open Shooting Championships 2013
+
+*   Keith Chan (2nd)
+*   James Tan Wei Zhi (20th)
+*   Toran Labhaya Seth (25th)
+
+2. Thailand Open Shooting Championships 2013
+
+*   Keith Chan (2nd)
+*   James Tan Wei Zhi (3nd)
+*   Toran Labhaya Seth (10th)
+*   Aaron Leong (11th)
+
+3. Keith Chan, Air Rifle, Individiual Achievements:
+
+*   _Asian Youth Games 2013 (Individual 9th)_
+    
+*   _Bangkok Open Shooting Championships 2013 (Individual 2nd and Team 1st)_
+
+* * * 
+### 2012
+
+1. NTU Invitational Shoot
+
+*   4 Golds, 3 Silvers and 1 Bronze:
+*   In the School Category: The C division Air Pistol Team won the Zonal Team Silver while the B division Air Rifle Team won the Overall and Zonal Team Golds.
+*   In the Individual Category: Keith Chan achieved the Zonal Individual Gold medal, while Toran Seth and Li Huang Kang won the Zonal Individual Silver medals. Lin Jia Kai won the Individual Bronze medal.
+
+2. 16th Nationals Inter-School Shooting Championship 2012
+
+*   Attained 2nd runner up position for B Division Air Rifle Team
+*   Individual Champion for B Division Air Rifle – Keith Chan (Class 3.18)
+
+3. Singapore Open Shooting Championships 2012
+
+The Air Rifle team, which consisted of Keith Chan (Year 3), Toran Labhaya Seth (Year 4) and James Tan Wei Zhi (Year 1), emerged third in the whole nation, with Keith clinching the individual silver
+
+* * * 
+
+### 2005-2011
+
+**National Inter-School Shooting Championships**
+
+A Division Air Pistol – 2010 (Gold), 2011(silver) B Division Air Rifle- 2005 (Bronze), 2006 (Bronze), 2008 (Bronze), 2010 (Gold), 2011(4th) B Division Air Pistol- 2006 (Gold), 2007 (Silver), 2008 (Silver), 2009 (Gold) C Division Air Rifle- 2006 (Gold), 2007 (Silver), 2008 (Silver), 2009 (Silver), 2010 (4th), 2011(silver) C Division Air Pistol- 2009 (4th)
