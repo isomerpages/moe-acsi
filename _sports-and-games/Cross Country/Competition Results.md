@@ -477,3 +477,74 @@ third_nav_title: Cross Country
 </tbody>
 </table>
 
+![](/images/ACSI-CC1-3-1.jpg)
+
+<table>
+<thead>
+  <tr>
+    <th>“B” Division Boys: 12th</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>GABRIEL TAN ENG KIAT – 25th</td>
+  </tr>
+  <tr>
+    <td>KOH SHENG DHEE NICHOLAS – 27th</td>
+  </tr>
+  <tr>
+    <td>JAYTHAN CHRISTOPHER TAN JUN – 80th</td>
+  </tr>
+  <tr>
+    <td>CHUA E-CHAO COLBY – 100th</td>
+  </tr>
+  <tr>
+    <td>YOUNG YI MUN – 108th</td>
+  </tr>
+  <tr>
+    <td>ARYA ELDON SASIDHARAN – 125th</td>
+  </tr>
+</tbody>
+</table>
+
+![](/images/20190410-850_3608-1024x683.jpg)
+
+**Our “C” Division boys made amazing milestones too – Ferrell Lee clocked a time of 13 minutes 36.8 seconds over the 3.8-kilometre race route and won the “C” Division boys’ individual gold.**
+
+**Ferrell’s victory also helped ACS(I) clinch their first “C” Division boys’ team title in three years, with teammates Ryan Wong, Niraj Singh and Bryan Cheung finishing in 5th, 8th and 15th respectively to score 29 points in total. James Lachlan Chin and Kyle Seow also finished in 16th and 18th respectively, ensuring that all six ACS(I) runners placed within the top 20 individual positions.**
+
+<table>
+<thead>
+  <tr>
+    <th>“C” Division Boys: 1st</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>FERRELL LEE – 1st</td>
+  </tr>
+  <tr>
+    <td>RYAN WONG LIN KIAT – 5th</td>
+  </tr>
+  <tr>
+    <td>NIRAJ SINGH – 8th</td>
+  </tr>
+  <tr>
+    <td>BRYAN CHEUNG – 15th</td>
+  </tr>
+  <tr>
+    <td>JAMES LACHLAN CHIN – 16th</td>
+  </tr>
+  <tr>
+    <td>KYLE SEOW – 18th</td>
+  </tr>
+</tbody>
+</table>
+
+![](/images/20190410-850_3257-1024x683.jpg)
+
+**Throughout the season, the entire team has worked together to improve and look out for each other on and off the track as we are always a team. The Cross team would like to thank the pillars of our CCA, the Teachers-In-Charge (Ms Linda Goon, Mdm Xu Zhiwei and Mr Gavin Ang), our Coach (Mr Zorndrix Das) and our Advisor (Mr Lawrence Ang), not only during trainings but also in our studies, and for believing in us throughout the season. To God Be The Glory, The Best Is Yet To Be!**
+
+### Newspaper Article:
+
+**_B & C Div Cross Country (Boys): ACS(I)’s Ferrell Lee makes comeback with individual gold; Chai Jiacheng defends title to lead RI to team victory._  [https://www.redsports.sg/2019/04/17/c-div-b-div-cross-country-boys-acsi-ferrell-lee-ri-chai-jiacheng/\]**
