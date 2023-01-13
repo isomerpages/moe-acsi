@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Prefectorial Board/Our Projects.md
       - Prefectorial Board/Structure.md
       - Prefectorial Board/Prefectorial Board.md
       - Prefectorial Board/.keep
