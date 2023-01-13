@@ -2,6 +2,7 @@ collections:
   uniformed-groups:
     output: true
     order:
+      - National Cadet Corps (Sea)/Awards.md
       - National Cadet Corps (Sea)/Schedule.md
       - National Cadet Corps (Sea)/Key Appoinment Holders.md
       - National Cadet Corps (Sea)/Teachers.md
