@@ -49,3 +49,38 @@ Founders Award (Y4) : 11 recipients <br>
 Presidents’ Award (Y6) : 3 recipients  <br>
 Pipes & Drums Festival : Team Champions for BB Band, Open Band and Best Drum Corp Awards<br>
 J.M. Fraser Award Gold
+
+### 2016
+
+Adventure Quest : 1st place / Gold Honour Roll<br>
+Character Quest : 8th Placing / Gold Honour Roll<br>
+Founders Award (Y4) : 13 recipients<br>
+Presidents’ Award (Y6) : 2 recipients  <br>
+Pipes & Drums Festival : 1st place band; Best Drums Corp Awards<br>
+J.M. Fraser Award Gold
+
+### 2015
+
+No Adventure Quest competition in 2015<br>
+Character Quest : 8th Placing / Gold Honour Roll<br>
+Founders Award (Y4) : 17 recipients<br>
+Presidents’ Award (Y6) : 3 recipients  <br>
+Pipes & Drums Festival : 1st Place Band<br>
+J.M. Fraser Award Gold
+
+### 2014
+
+Adventure Quest : 1st Place/ Gold Honour Roll<br>
+No Character Quest competition in 2014<br>
+Founders Award (Y4) : 11 recipients<br>
+Presidents’ Award (Y6) : 3 recipients  <br>
+Pipes & Drums Festival : 1st place band; Best Drums Corp Awards<br>
+J.M. Fraser Award Gold, Best Company in Singapore 2014
+
+### 2013
+
+Adventure Quest : Gold Honour Roll<br>
+Character Quest : 4th Placing / Gold Honour Roll<br>
+Founders Award (Y4) : 8 recipients<br>
+Presidents’ Award (Y6) : 1 recipient<br>
+J.M. Fraser Award Gold, Best Company in Singapore 2013
