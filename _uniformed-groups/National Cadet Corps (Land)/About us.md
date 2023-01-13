@@ -85,3 +85,64 @@ Class 4.16 Enoch
 Unit Sergeant Major
 
 The National Cadet Corps (Land) unit has continued the year 2017 with success to maintain high standards and upholding the NCC Core Values of Loyalty to Country, Uprightness, Leadership, Discipline, Commitment and Responsibility, Care for Fellow Cadets, Adventurous Spirit and Safety.
+
+<figure>
+<img src="/images/MSG-Arnest-Lim-leading-the-Precision-Drill-Squad-team-in-their-performance.jpg">
+<figcaption> <strong>MSG Arnest Lim leading the Precision Drill Squad team in their performance at the ACS (Independent) Open House 2017</strong> </figcaption>
+</figure>
+
+MSG Arnest Lim leading the Precision Drill Squad team in their performance at the ACS (Independent) Open House 2017
+
+Apart from receiving the HQ NCC Outstanding Cadet Award, our cadets participated in the HQ NCC Freestyle Drill (FSD) and Precision Drill Squad (PDS) competitions held in March. In addition, our unit has continued to actively participate in HQ NCC courses such as the Basic FSD and PDS courses and Basic Survival Programme. SSG Joel Ang Wei En (3.04 Ezekiel) also went for Exercise PUNCAK at Mt Ophir, Malaysia. We also participated in the opening ceremony of the ASEAN School Games where our cadets marched in and raised the State and ASEAN flags in what was a surreal and unforgettable experience at the Singapore Indoor Stadium.
+
+The unit will continue to strive for excellence and aim for greater heights. To God be the glory, the best is yet to be.
+
+MSG Sean Khong Jun Cheng
+
+Unit Sergeant Major; Class 4.09 Elijah (2017)
+
+
+<figure>
+<img src="/images/MSG-Leon-Tan-left-Flagbearer-for-NCC-Land.jpg">
+<figcaption> <strong>MSG Leon Tan (left), Flagbearer for NCC (Land) and MSG Sean Khong (right) as the Colours Regimental Sergeant Major during NCC Day Parade 2017</strong> </figcaption>
+</figure>
+
+<img src="/images/The-Parade-Commander-Cadet-LTA-Kevin-Tan.jpg" 
+     style="width:60%">
+		 
+The Parade Commander C/LTA Kevin Tan rehearsing for the Founder’s Day Parade 2016.
+
+The ACS (Independent) National Cadet Corps (Land) had another year of success and accomplishment, with the unit breaking boundaries, surpassing standards and staying true to the NCC core values of Loyalty to Country, Uprightness, Leadership, Discipline, Commitment and Responsibility, Care for Fellow Cadets, Adventurous Spirit and Safety.
+
+Our cadets have continued to receive awards (Outstanding Cadet Award) and improved in their competitions performances (Freestyle Drill and Precision Drill Squad). To broaden the cadets’ horizons, HQ NCC selected MSG Leon Tan Li En (3.11 Elisha) to attend the International Cadet Exchange Programme (ICEP) Air Force Junior Reserve Officer Training Course (AFJROTC) in USA. SSG Tan Hao Wei (3.11 Elisha) participated in the Mt Ophir Adventure Training (Summit) Programme in Malaysia while MSG Sean Khong Jun Cheng (3.09 Zephaniah) participated in the 51st National Day Parade at the Sports Hub and took part in the India Desert Trekking.
+
+The unit started strong in 2016, stayed steady and ended the year well. As the unit grows from strength to strength, we continue to strive for greater heights and excel in every aspect. To God be the glory, the best is yet to be.
+
+MSG Lim Jia Shen, Arnest
+
+Unit Sergeant Major; Class 4.14 Moses (2016).
+
+![](/images/ACS-Independent-Open-House-NCC-Land-PDS-performance-768x576.jpg)
+
+The Parade Commander C/LTA Kevin Tan rehearsing for the Founder’s Day Parade 2016.
+
+The ACS (Independent) National Cadet Corps (Land) had another year of success and accomplishment, with the unit breaking boundaries, surpassing standards and staying true to the NCC core values of Loyalty to Country, Uprightness, Leadership, Discipline, Commitment and Responsibility, Care for Fellow Cadets, Adventurous Spirit and Safety.
+
+Our cadets have continued to receive awards (Outstanding Cadet Award) and improved in their competitions performances (Freestyle Drill and Precision Drill Squad). To broaden the cadets’ horizons, HQ NCC selected MSG Leon Tan Li En (3.11 Elisha) to attend the International Cadet Exchange Programme (ICEP) Air Force Junior Reserve Officer Training Course (AFJROTC) in USA. SSG Tan Hao Wei (3.11 Elisha) participated in the Mt Ophir Adventure Training (Summit) Programme in Malaysia while MSG Sean Khong Jun Cheng (3.09 Zephaniah) participated in the 51st National Day Parade at the Sports Hub and took part in the India Desert Trekking.
+
+The unit started strong in 2016, stayed steady and ended the year well. As the unit grows from strength to strength, we continue to strive for greater heights and excel in every aspect. To God be the glory, the best is yet to be.
+
+MSG Lim Jia Shen, Arnest
+
+Unit Sergeant Major; Class 4.14 Moses (2016).
+
+![](/images/At-dawn-before-Founders-Day-Parade.jpg)
+
+The ACS (Independent) National Cadet Corps (Land) unit has had yet another year of success and accomplishment by staying true to the NCC core values of Loyalty to Country, Uprightness, Leadership, Discipline, Commitment and Responsibility, Care for fellow cadets, Adventurous Spirit and Safety.
+
+After achieving the C.M. Phillips Award from HQ NCC in 2014, the unit started 2015 with MSG Colin Siow Teng Wei (Class 4.18 Jude) being awarded with the NCC Outstanding Cadet Award. The NCC (Land) unit also achieved the Gold Award for the HQ NCC Best Unit Competition (BUC) for 2014 and third place in the BUC Award for NCC (Land) West District units.
+
+![](/images/Cadets-at-ease-during-Founders-Day-Parade-Rehearsal.jpg)
+
+For Founder’s Day Parade 2015, the unit formed the Guard of Honour contingent in No. 1 uniform for the Guest-of-Honour, Mr Tan Chuan-Jin, currently Minister for Social & Family Development. Cadets also participated in competitions (Mini-League Challenge, Freestyle Drill Competition, Precision Drill Squad Competition, Orienteering Competition & Shooting Competition) to give them the opportunity to push themselves physically and mentally and for character building.
+
