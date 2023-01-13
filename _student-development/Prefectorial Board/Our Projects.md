@@ -14,3 +14,9 @@ third_nav_title: Prefectorial Board
 
 
 ### VIA Initiatives – Community Outreach
+
+![](/images/projects4.png)
+
+### VIA Initiatives – Environmental Projects
+
+![](/images/projects5.png)
