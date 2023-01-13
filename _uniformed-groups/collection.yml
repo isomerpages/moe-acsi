@@ -2,6 +2,7 @@ collections:
   uniformed-groups:
     output: true
     order:
+      - National Cadet Corps (Land)/National Cadet Corps (Land).md
       - National Cadet Corps (Land)/.keep
       - National Cadet Corps (Air)/.keep
       - National Cadet Corps (Air)/National Cadet Corps (Air).md
