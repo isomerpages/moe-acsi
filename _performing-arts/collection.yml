@@ -2,4 +2,5 @@ collections:
   performing-arts:
     output: true
     order:
+      - Choir/Choir.md
       - Choir/.keep
