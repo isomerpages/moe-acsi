@@ -12,6 +12,8 @@ Cadet leaders Football team during Sports Championship Finals 2019
 
 National Cadet Corps (Land) unit have strived to achieve high standards and uphold the NCC core values of Loyalty to country, Uprightness, Leadership, Discipline, Commitment and Responsibility, Care for Fellow Cadets, Adventurous Spirit and Safety. The unit was awarded with Distinction for the HQ NCC Unit Recognition 2019 (formerly Best Unit Competition, BUC) for the past 2 years.
 
+![](/images/Smart-and-clean-shaven-for-National-Day-parade-2012.jpg)
+
 The cadets were preparing for HQ NCC competitions such as the Precision Drill Squad (PDS) Competition and Orienteering Competition. For the HQ NCC Fitness Challenge in 2019, the team achieved 8th place in the Finals. The Junior cadets team achieved 3rd team placing for Captain’s ball in the Sports & Games Championship (West district) while the Cadet leaders Football team emerged as 2nd team placing for the HQ NCC Sports & Games Championship (Finals).
 
 MSG Ong Isaac was selected to attend the HQ NCC International Cadet Exchange Program – India Desert Trek in November 2019. The USM (MSG Ong Isaac) and ASM (MSG Koh Ivan) were both presented with the Outstanding Cadet Award 2020 for the West district in HQ NCC for their contributions to the unit.
@@ -183,3 +185,24 @@ Unit Sergeant Major (2014)
 ![](/images/NCC-Land_0003-1D-X.jpg)
 
 Cadet Leaders (Year 3s) and Senior Cadet Leaders (Year 4s) commemorated the school’s 127th Founder’s Day with a parade and it was an enriching experience for cadets.  2013 will be a memorable year for the unit as the cadets enrich themselves in the various courses (Specialist, Senior Specialist, Orienteering), camps (STEEL, FORGE) and competitions (Freestyle Drill, Orienteering, Street Soccer, Shooting).
+
+SSG Heong Jing Jie, Emil (Class 4.14 Moses)
+
+Cadet Leader Unit Drill Instructor (2013)
+
+The year 2011 has been a fruitful one for the National Cadet Corps (Land). For the 9th consecutive year, our unit has achieved the Gold Award in the Best Unit Competition, emerging as one of the top units in Singapore, encompassing all 3 districts of Land, Sea, and Air. Our unit also took part in the 3rd Freestyle Drill Competition, placed among the top 15 units in the West District.
+
+This year has also been an eventful one for us. We had done very well in the 4th Freestyle Drill Competition, and we hope to better ourselves in the years to come. With the new initiative for the NCC to become a Uniformed Group that is Nurturing, Committed and Cool, we can look forward to more exciting and challenging activities, as well as reduced elemental restrictions, meaning that cadets from NCC (Land) can participate in activities previously only limited to NCC (Sea) or NCC (Air)
+
+2011 has certainly been a successful year for us, and we strive to reach greater heights and ‘spur one another toward love and good deeds’. The Best Is Yet To Be!
+
+MSG Lim Xuan Nai Brandon (Class 4.09 Elijah)
+
+Unit Sergeant Major (2012)
+
+The year 2009 had been a bountiful year of achievements for our school’s NCC (Land) unit. For the sixth year running, we clinched the coveted Gold Award in the Best Unit Competition in 2009, finishing as one of the top schools in Singapore. Our cadets also clinched the route championship in the Orienteering Competition and our Part C Team emerged 2nd runner-up in the West District Shooting Competition.
+
+This year has seen an increase in activities undertaken by the unit. The enthusiastic and active participation of the cadets brought our unit to a whole new level. Through all the activities, camps and competitions undertaken, one of our greatest takeaways is the development of a strong and hardy character, championed by many of our unit’s cadets. Competitions we participated in allowed us to build a strong sense of camaraderie and bonding within the unit amongst all levels and ranks. Ultimately, the highlight of the year for many cadets would be the live firing experience, usually only experienced by soldiers and NS men.
+
+2010 has indeed been a successful year for NCC (Land) and we strive to reach greater heights and ‘soar on wings like eagles’, for The Best Is Yet To Be!
+
