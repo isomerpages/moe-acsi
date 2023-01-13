@@ -2,5 +2,6 @@ collections:
   performing-arts:
     output: true
     order:
+      - Choir/FOA 2018 programme booklet.md
       - Choir/Choir.md
       - Choir/.keep
