@@ -2,5 +2,6 @@ collections:
   uniformed-groups:
     output: true
     order:
+      - The Boys' Brigade/Teachers.md
       - The Boys' Brigade/The Boys’ Brigade.md
       - The Boys' Brigade/.keep
