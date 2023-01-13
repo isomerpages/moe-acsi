@@ -30,4 +30,3 @@ third_nav_title: Prefectorial Board
 </table>
 
 ![](/images/PB-structure.jpg)
-
