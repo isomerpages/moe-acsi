@@ -2,6 +2,7 @@ collections:
   uniformed-groups:
     output: true
     order:
+      - National Cadet Corps (Land)/Teachers Officers.md
       - National Cadet Corps (Land)/NCC Route of Advancement.md
       - National Cadet Corps (Land)/NCC Ranks and Badges.md
       - National Cadet Corps (Land)/NCC Events.md
