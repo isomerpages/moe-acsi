@@ -183,4 +183,3 @@ Unit Sergeant Major (2014)
 ![](/images/NCC-Land_0003-1D-X.jpg)
 
 Cadet Leaders (Year 3s) and Senior Cadet Leaders (Year 4s) commemorated the school’s 127th Founder’s Day with a parade and it was an enriching experience for cadets.  2013 will be a memorable year for the unit as the cadets enrich themselves in the various courses (Specialist, Senior Specialist, Orienteering), camps (STEEL, FORGE) and competitions (Freestyle Drill, Orienteering, Street Soccer, Shooting).
-
