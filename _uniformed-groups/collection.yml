@@ -2,6 +2,7 @@ collections:
   uniformed-groups:
     output: true
     order:
+      - The Boys’ Brigade Bagpipe Band/.keep
       - The Boys' Brigade/.keep
       - The Boys' Brigade/The Boys’ Brigade.md
       - The Boys' Brigade/Teachers.md
