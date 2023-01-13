@@ -2,6 +2,7 @@ collections:
   uniformed-groups:
     output: true
     order:
+      - National Cadet Corps (Sea)/Teachers.md
       - National Cadet Corps (Sea)/National Cadet Corps (Sea).md
       - National Cadet Corps (Sea)/.keep
       - National Cadet Corps (Land)/.keep
