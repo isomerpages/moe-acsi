@@ -120,3 +120,22 @@ Here are their sterling results:
 <center>Top four positions for Boys U15  (Credits: Mrs Thng)</center>
 
 <center>From left: Samuel Lau, Benjamin Koh, Kan Weng Yean & Tay Aik Hsiong</center>
+
+![](/images/Nationals-Squash-Junior-2018-3.jpg)
+
+<center>3rd Runners Up for Women’s Open Category (Keertana Veerayah of 5.02) (Credits: Singapore Squash)</center>
+
+![](/images/Nationals-Squash-Junior-2018-4.jpg)
+
+<center>Winner of Men’s Division 1 (David Mow of 5.18) (Credits: Singapore Squash)</center>
+
+**ACS(I)’s Matthew Wong (3.09) wins Silver at Qatar Junior Open**
+
+Matthew Wong met Naveed Rehman from Pakistan, seeded 2nd in this tournament and 2nd Runners-Up in Singapore Old Chang Kee 2015 tournament in the semi-finals. Matthew managed to upset and overcome Rehman by 11-8,12-10,11-7, progressing to the finals. In the finals, Matthew met Ammar Yasser Salem from Egypt, who had also made an upset and beaten the top seed for the tournament. Matthew played his best but lost out to the Egyptian in 3 sets (11-7,11-9,11-3).
+
+We are extremely proud of Matthew and his achievements at an international stage. To God be the glory, The Best is Yet to Be!
+
+![](/images/Matt_1.jpg)
+
+<center>Matthew Wong (1st Runner Up at Qatar Junior Open 2016 )    Credit: Prof Wong Tien Yin</center>
+
