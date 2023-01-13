@@ -2,12 +2,12 @@ collections:
   uniformed-groups:
     output: true
     order:
-      - NCDCC/Gallery.md
-      - NCDCC/Awards.md
-      - NCDCC/Schedule.md
-      - NCDCC/Teachers.md
-      - NCDCC/National Civil Defence Cadet Corps (NCDCC).md
       - NCDCC/.keep
+      - NCDCC/National Civil Defence Cadet Corps (NCDCC).md
+      - NCDCC/Teachers.md
+      - NCDCC/Schedule.md
+      - NCDCC/Awards.md
+      - NCDCC/Gallery.md
       - National Cadet Corps (Sea)/.keep
       - National Cadet Corps (Sea)/National Cadet Corps (Sea).md
       - National Cadet Corps (Sea)/Teachers.md
