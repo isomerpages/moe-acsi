@@ -2,6 +2,7 @@ collections:
   uniformed-groups:
     output: true
     order:
+      - St John Brigade (SJB)/.keep
       - National Police Cadet Corps/.keep
       - National Police Cadet Corps/National Police Cadet Corps (NPCC).md
       - National Police Cadet Corps/TEACHER – OFFICERS.md
