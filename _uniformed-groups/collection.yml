@@ -2,6 +2,7 @@ collections:
   uniformed-groups:
     output: true
     order:
+      - National Police Cadet Corps/Links.md
       - National Police Cadet Corps/Gallery.md
       - National Police Cadet Corps/Reflect on activities.md
       - National Police Cadet Corps/Achievements.md
