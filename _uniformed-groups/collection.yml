@@ -2,12 +2,12 @@ collections:
   uniformed-groups:
     output: true
     order:
-      - The Boys’ Brigade Bagpipe Band/Gallery.md
-      - The Boys’ Brigade Bagpipe Band/Awards.md
-      - The Boys’ Brigade Bagpipe Band/Schedule.md
-      - The Boys’ Brigade Bagpipe Band/Teachers and Leaders.md
-      - The Boys’ Brigade Bagpipe Band/The Boys’ Brigade Bagpipe Band.md
       - The Boys’ Brigade Bagpipe Band/.keep
+      - The Boys’ Brigade Bagpipe Band/The Boys’ Brigade Bagpipe Band.md
+      - The Boys’ Brigade Bagpipe Band/Teachers and Leaders.md
+      - The Boys’ Brigade Bagpipe Band/Schedule.md
+      - The Boys’ Brigade Bagpipe Band/Awards.md
+      - The Boys’ Brigade Bagpipe Band/Gallery.md
       - The Boys' Brigade/.keep
       - The Boys' Brigade/The Boys’ Brigade.md
       - The Boys' Brigade/Teachers.md
