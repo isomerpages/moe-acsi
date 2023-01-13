@@ -2,6 +2,7 @@ collections:
   uniformed-groups:
     output: true
     order:
+      - St John Brigade (SJB)/Training Schedule.md
       - St John Brigade (SJB)/Student Committee & Exco.md
       - St John Brigade (SJB)/Teachers.md
       - St John Brigade (SJB)/St John Brigade (SJB).md
