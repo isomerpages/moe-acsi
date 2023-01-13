@@ -23,3 +23,8 @@ third_nav_title: Rugby
 <figcaption> <strong>B Division Champion (2019)</strong> </figcaption>
 </figure>
 
+<figure>
+<img src="/images/C-Div-2019.jpg">
+<figcaption> <strong>C Division Champion (2019)</strong> </figcaption>
+</figure>
+
