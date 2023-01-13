@@ -8,10 +8,9 @@ ACS Hope is a project started by class 3.10 of 2010 of Anglo-Chinese School (Ind
 
 We would like to thank the ACS (Independent) Counseling Department as well as Ms Suppiah for their invaluable guidance, and also the Senior Administration for their unwavering support and kindness. Last but not least, we would like to thank God, without whom none of these would be possible.   **Readings:**
 
-*   [Time Management](http://sites.acsindep.edu.sg/counselling/uploads/ACS%20HOPE%20Time%20Management.pdf)
+*   [Time Management](/files/ACS%20HOPE%20Time%20Management.pdf)
 
-*   [Stress](http://sites.acsindep.edu.sg/counselling/uploads/ACS%20HOPE%20Stress.pdf)
+*   [Stress](/files/ACS%20HOPE%20Stress.pdf)
 
-*   [Relationships](http://sites.acsindep.edu.sg/counselling/uploads/ACS%20HOPE%20Relationships.pdf)
-
-*   [Computer Addiction](http://sites.acsindep.edu.sg/counselling/uploads/ACS%20HOPE%20Computer%20Addiction.pdf)
+*   [Relationships](/files/ACS%20HOPE%20Relationships.pdf)
+*   [Computer Addiction](/files/ACS%20HOPE%20Computer%20Addiction.pdf)
