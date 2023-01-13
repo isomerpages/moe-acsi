@@ -53,3 +53,5 @@ third_nav_title: National Police Cadet Corps
 *   2009 – 3rd in Revolver Shoot Competition
 *   2007 – 10th in Revolver Shoot Competition
 *   2007 – 8th in Quiz Competition
+
+![](/images/trophies-1024x576.jpg)
