@@ -45,3 +45,17 @@ The results are as follows:
 </tbody>
 </table>
 
+In addition to the team accolades, we would also like to congratulate **Chua Joel** from Class 2.06 (attained 2nd in ‘C’ Division Rifle), **Jason Kok Wen Hao** from Class 3.15 (attained 4th in ‘B’ Division Rifle) as well as **Justin Loei Wen Hao** from Class 5.07 (attained 2nd in ‘A’ Division Pistol) on their outstanding individual performances. Well-done, everyone!
+
+We are extremely proud of our shooters’ dedication and achievements, and their perseverance in the face of challenges. These achievements have been made possible through our shooters’ hard work as well as the constant support and encouragement from our teachers, namely Mrs. Ho-Toh Ling Lee, Ms. Mazlind and Mr. Teo Eng Han. We must also not forget the guidance and mentorship from our patient coaches, Coach Fan Xiaoping and Coach Gai Bin, and above all God.
+
+To God be the glory, the best is yet to be!
+
+<img src="/images/shooting.png" 
+     style="width:40%">
+		 
+Submitted By <br>
+Matthew Khoo Yi-Ren (Class 4.13) <br>
+Captain, ‘B’ Division
+
+* * * 
