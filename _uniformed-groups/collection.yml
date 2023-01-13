@@ -2,6 +2,7 @@ collections:
   uniformed-groups:
     output: true
     order:
+      - Scouts & Ventures/Gallery.md
       - Scouts & Ventures/Awards.md
       - Scouts & Ventures/Schedule.md
       - Scouts & Ventures/Teachers.md
