@@ -89,13 +89,13 @@ collections:
       - Shooting/Achievements.md
       - Shooting/News.md
       - Shooting/Gallery.md
-      - Softball/Gallery.md
-      - Softball/Awards.md
-      - Softball/Competitions.md
-      - Softball/Schedule.md
-      - Softball/Teachers.md
-      - Softball/Softball.md
       - Softball/.keep
+      - Softball/Softball.md
+      - Softball/Teachers.md
+      - Softball/Schedule.md
+      - Softball/Competitions.md
+      - Softball/Awards.md
+      - Softball/Gallery.md
       - Squash/.keep
       - Swimming/.keep
       - Tennis/.keep
