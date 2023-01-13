@@ -2,6 +2,7 @@ collections:
   uniformed-groups:
     output: true
     order:
+      - Scouts & Ventures/Teachers.md
       - Scouts & Ventures/Scouts & Ventures.md
       - Scouts & Ventures/.keep
       - St John Brigade (SJB)/.keep
