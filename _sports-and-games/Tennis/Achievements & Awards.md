@@ -6,7 +6,9 @@ third_nav_title: Tennis
 ---
 ### NATIONAL INTER-SCHOOL TENNIS CHAMPIONSHIPS RECORDS
 
-![](/images/tennis.png)
+
+<img src="/images/tennis.png" 
+     style="width:50%">
 
 <table>
 <thead>
@@ -112,4 +114,3 @@ third_nav_title: Tennis
   </tr>
 </tbody>
 </table>
-
