@@ -15,4 +15,3 @@ third_nav_title: Agape Counselling Sanctuary
 *   [Living with stress](/files/Living%20With%20Stress.pdf)
 
 *   [Reason for God](/files/Reason%20for%20God.pdf)
-
