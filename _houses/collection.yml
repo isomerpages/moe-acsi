@@ -2,6 +2,7 @@ collections:
   houses:
     output: true
     order:
+      - Annual Swimming Championships/Schedule of Events.md
       - Annual Swimming Championships/Meet Program.md
       - Annual Swimming Championships/Annual Swimming Championships.md
       - Annual Swimming Championships/.keep
