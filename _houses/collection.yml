@@ -2,6 +2,7 @@ collections:
   houses:
     output: true
     order:
+      - Thoburn House/House Mascot.md
       - Thoburn House/House Leaders & Key Members.md
       - Thoburn House/Thoburn House.md
       - Thoburn House/.keep
