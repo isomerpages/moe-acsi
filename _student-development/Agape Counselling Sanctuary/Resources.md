@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Agape Counselling Sanctuary
 ---
 **WELLBEING IN THE TIME OF COVID**
-
+[](/files/Packed%20for%20Transit_Booklet.pdf)
 Stressed or anxious because of Covid-19? Help is at hand.
 
 Our school counsellors are on standby to provide support. Please email Mrs Mervyln Goh ([mervyln@acsindep.edu.sg](mailto:mervyln@acsindep.edu.sg)) to arrange for an appointment, or for the school to arrange for someone to speak to you or your child.
@@ -77,28 +77,29 @@ Cyber Wellness
 
 ADHD
 
-*   [Handling ADHD students Homework Structure and Support](http://sites.acsindep.edu.sg/counselling/uploads/Microsoft%20Word%20-%20Pointers%20extracted%20from%20brief%20by%20Asso%20Prof%20Scott%20H%20Kollins.pdf)
-*   [For teachers-dealing with ADHD](http://sites.acsindep.edu.sg/counselling/uploads/For%20teachers-dealing%20with%20ADHD.pdf)
-*   [ADHD HandBook](http://sites.acsindep.edu.sg/counselling/uploads/ADHD_HandBook.pdf)
+*   [Handling ADHD students Homework Structure and Support](/files/Microsoft%20Word%20-%20Pointers%20extracted%20from%20brief%20by%20Asso%20Prof%20Scott%20H%20Kollins.pdf)
+*   [For teachers-dealing with ADHD](/files/For%20teachers-dealing%20with%20ADHD.pdf)
+*   [ADHD HandBook](/files/ADHD_HandBook.pdf)
 
   Emotional Resilience
 
 *   [Nurturing Emotional Resilience](http://sites.acsindep.edu.sg/counselling/uploads/Nuturing%20Emotional%20Resilience%20(ACSI%202010).ppt)
-*   [Resilience Booklet](http://sites.acsindep.edu.sg/counselling/uploads/Resilience%20Booklet.pdf)
+*   [Resilience Booklet](/files/Resilience%20Booklet.pdf)
 *   [The Resilient Practitioner by Maureen Neihart (Slides with notes)](http://sites.acsindep.edu.sg/counselling/uploads/The%20Resilient%20Practitioner%20by%20Maureen%20Neihart%20(Slides%20with%20notes)_110511.pdf)
-*   [Building Resilient Kids by Marion Neubronner (slides with notes)](http://sites.acsindep.edu.sg/counselling/uploads/Building_Resilient_Kids_by_Marion_Neubronner_(slides%20with%20notes)_12052011.pdf)
-*   [Research on Resilience in Singapore 2011](http://sites.acsindep.edu.sg/counselling/uploads/Research%20on%20Resilience%20in%20Singapore%202011.pdf)
+*   [Building Resilient Kids by Marion Neubronner (slides with notes)](/files/Building_Resilient_Kids_by_Marion_Neubronner_(slides%20with%20notes)_12052011.pdf)
+*   [Research on Resilience in Singapore 2011](/files/Research%20on%20Resilience%20in%20Singapore%202011.pdf)
 *   [Emotional Resilience – Cyberbullying](http://sites.acsindep.edu.sg/counselling/Cyber%20bullying/ACSI%20Chapel%202011%20v2.ppsx)
 *   [Parents’ Talk 2018 – Raising Resilient Teens](https://www.acsindep.moe.edu.sg/wp-content/uploads/2018/03/ACSI-28-March-2018-Raising-Resilient-Teens.pdf)
 
 Relationships
 
-*   [Relationships](http://sites.acsindep.edu.sg/counselling/uploads/ACS%20HOPE%20Relationships.pdf)
+*   [Relationships](/files/ACS%20HOPE%20Relationships.pdf)
+
 
 Anxiety
 
-*   [Anxiety and Depression In Children and Adolescent by Dr. Ong Say How](http://sites.acsindep.edu.sg/counselling/uploads/Anxiety&DepressioninChildren__Dr%20Ong%20Say%20How.pdf)
-*   [School-Based Strategies to Help Students Cope with Anxiety and Transitions by Mr. Ong Lue Ping](http://sites.acsindep.edu.sg/counselling/uploads/Sch-based%20strategies_by_Mr%20Ong%20Lue%20Ping.pdf)
+*   [Anxiety and Depression In Children and Adolescent by Dr. Ong Say How](/files/Anxiety&DepressioninChildren__Dr%20Ong%20Say%20How.pdf)
+*   [School-Based Strategies to Help Students Cope with Anxiety and Transitions by Mr. Ong Lue Ping](/files/Sch-based%20strategies_by_Mr%20Ong%20Lue%20Ping.pdf)
 
 Managing Transition
 
