@@ -2,6 +2,7 @@ collections:
   houses:
     output: true
     order:
+      - Goh Hood Keng House (GHK)/.keep
       - Tan Kah Kee House (TKK)/.keep
       - Tan Kah Kee House (TKK)/Tan Kah Kee House (TKK).md
       - Tan Kah Kee House (TKK)/House Leaders & Key Members.md
