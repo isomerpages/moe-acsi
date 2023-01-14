@@ -1,4 +1,5 @@
 collections:
   houses:
     output: true
-    order: []
+    order:
+      - Thoburn House/.keep
