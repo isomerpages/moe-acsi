@@ -12,6 +12,5 @@ However, it should also be said that all these accomplishments would not have be
 
 To God be the glory, the best is yet to be!
 
-Ryan Lee Rui En, House captain (2017-2018)
-
+Ryan Lee Rui En, House captain (2017-2018) <br>
 6.15 Jedea
