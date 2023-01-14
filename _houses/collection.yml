@@ -2,6 +2,7 @@ collections:
   houses:
     output: true
     order:
+      - Shaw Vee Meng House (SVM)/Gallery.md
       - Shaw Vee Meng House (SVM)/Individual House Report.md
       - Shaw Vee Meng House (SVM)/House Mascot.md
       - Shaw Vee Meng House (SVM)/House Leaders & Key Members.md
