@@ -2,6 +2,7 @@ collections:
   houses:
     output: true
     order:
+      - Oldham House (Oldham)/House Leaders & Key Members.md
       - Oldham House (Oldham)/Oldham House (Oldham).md
       - Oldham House (Oldham)/.keep
       - Thoburn House/.keep
