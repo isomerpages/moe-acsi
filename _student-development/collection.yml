@@ -2,14 +2,14 @@ collections:
   student-development:
     output: true
     order:
-      - Agape Counselling Sanctuary/Useful Links.md
-      - Agape Counselling Sanctuary/Resources.md
-      - Agape Counselling Sanctuary/Mental Health.md
-      - Agape Counselling Sanctuary/Readings.md
-      - Agape Counselling Sanctuary/Our Team.md
-      - Agape Counselling Sanctuary/ACS Hope.md
-      - Agape Counselling Sanctuary/Agape Counselling Sanctuary.md
       - Agape Counselling Sanctuary/.keep
+      - Agape Counselling Sanctuary/Agape Counselling Sanctuary.md
+      - Agape Counselling Sanctuary/ACS Hope.md
+      - Agape Counselling Sanctuary/Our Team.md
+      - Agape Counselling Sanctuary/Readings.md
+      - Agape Counselling Sanctuary/Mental Health.md
+      - Agape Counselling Sanctuary/Resources.md
+      - Agape Counselling Sanctuary/Useful Links.md
       - Prefectorial Board/.keep
       - Prefectorial Board/Prefectorial Board.md
       - Prefectorial Board/Structure.md
