@@ -2,6 +2,7 @@ collections:
   houses:
     output: true
     order:
+      - Lee Seng Gee House (LSG)/.keep
       - Goh Hood Keng House (GHK)/.keep
       - Goh Hood Keng House (GHK)/Goh Hood Keng House (GHK).md
       - Goh Hood Keng House (GHK)/House Leaders & Key Members.md
