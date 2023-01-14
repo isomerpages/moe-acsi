@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Career Opp & Guidance/Undergraduate Scholarships – Scholarships@Gov.md
       - Career Opp & Guidance/Undergraduate Scholarships – BrightSparks.md
       - Career Opp & Guidance/University Application and Admissions.md
       - Career Opp & Guidance/MOE Education & Career Resources.md
