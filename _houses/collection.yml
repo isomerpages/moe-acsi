@@ -2,6 +2,7 @@ collections:
   houses:
     output: true
     order:
+      - Tan Kah Kee House (TKK)/Tan Kah Kee House (TKK).md
       - Tan Kah Kee House (TKK)/.keep
       - Thoburn House/.keep
       - Thoburn House/Thoburn House.md
