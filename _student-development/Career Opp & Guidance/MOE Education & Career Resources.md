@@ -11,8 +11,8 @@ The Ministry of Education (MOE) has put together resources that students and par
 <table>
 <thead>
   <tr>
-    <th>ECG Website</th>
-    <th><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance">https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance</a></th>
+    <td>ECG Website</td>
+    <td><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance">https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance</a></td>
   </tr>
 </thead>
 <tbody>
@@ -25,7 +25,7 @@ The Ministry of Education (MOE) has put together resources that students and par
     <td><a href="https://www.moe.gov.sg/-/media/files/programmes/ecg/12806_moe_parent-guide-2021.ashx?la=en&hash=FF725C742112B08F2066F3FA7856AA147D30E4B9">https://www.moe.gov.sg/-/media/files/programmes/ecg/12806_moe_parent-guide-2021.ashx?la=en&amp;hash=FF725C742112B08F2066F3FA7856AA147D30E4B9</a></td>
   </tr>
   <tr>
-    <td colspan="2"> INFORMATION ON SEC &amp; POST-SEC EDUCATION</td>
+    <th colspan="2"> INFORMATION ON SEC &amp; POST-SEC EDUCATION</th>
   </tr>
   <tr>
     <td>Post-Sec Education Options</td>
@@ -36,7 +36,7 @@ The Ministry of Education (MOE) has put together resources that students and par
     <td><a href="https://www.moe.gov.sg/-/media/files/programmes/ecg/12805_brochure-whats-next-o-level.ashx?la=en&hash=664AE752D76B3F8BC2F7BD1D0B9EA02BE124CE0F">https://www.moe.gov.sg/-/media/files/programmes/ecg/12805_brochure-whats-next-o-level.ashx?la=en&amp;hash=664AE752D76B3F8BC2F7BD1D0B9EA02BE124CE0F</a></td>
   </tr>
   <tr>
-    <td colspan="2">INFORMATION ON INSTITUTES OF HIGHER LEARNING</td>
+    <th colspan="2">INFORMATION ON INSTITUTES OF HIGHER LEARNING</th>
   </tr>
   <tr>
     <td>Autonomous Universities in Singapore</td>
