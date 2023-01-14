@@ -2,9 +2,9 @@ collections:
   houses:
     output: true
     order:
-      - Thoburn House/Gallery.md
-      - Thoburn House/Individual House Report.md
-      - Thoburn House/House Mascot.md
-      - Thoburn House/House Leaders & Key Members.md
-      - Thoburn House/Thoburn House.md
       - Thoburn House/.keep
+      - Thoburn House/Thoburn House.md
+      - Thoburn House/House Leaders & Key Members.md
+      - Thoburn House/House Mascot.md
+      - Thoburn House/Individual House Report.md
+      - Thoburn House/Gallery.md
