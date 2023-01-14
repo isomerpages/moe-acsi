@@ -2,6 +2,7 @@ collections:
   houses:
     output: true
     order:
+      - Lee Seng Gee House (LSG)/Individual House Report.md
       - Lee Seng Gee House (LSG)/House Mascot.md
       - Lee Seng Gee House (LSG)/House Leaders & Key Members.md
       - Lee Seng Gee House (LSG)/Lee Seng Gee House (LSG).md
