@@ -2,12 +2,12 @@ collections:
   houses:
     output: true
     order:
-      - Shaw Vee Meng House (SVM)/Gallery.md
-      - Shaw Vee Meng House (SVM)/Individual House Report.md
-      - Shaw Vee Meng House (SVM)/House Mascot.md
-      - Shaw Vee Meng House (SVM)/House Leaders & Key Members.md
-      - Shaw Vee Meng House (SVM)/Shaw Vee Meng House (SVM).md
       - Shaw Vee Meng House (SVM)/.keep
+      - Shaw Vee Meng House (SVM)/Shaw Vee Meng House (SVM).md
+      - Shaw Vee Meng House (SVM)/House Leaders & Key Members.md
+      - Shaw Vee Meng House (SVM)/House Mascot.md
+      - Shaw Vee Meng House (SVM)/Individual House Report.md
+      - Shaw Vee Meng House (SVM)/Gallery.md
       - Lee Seng Gee House (LSG)/.keep
       - Lee Seng Gee House (LSG)/Lee Seng Gee House (LSG).md
       - Lee Seng Gee House (LSG)/House Leaders & Key Members.md
