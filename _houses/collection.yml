@@ -2,6 +2,7 @@ collections:
   houses:
     output: true
     order:
+      - Oldham House (Oldham)/Gallery.md
       - Oldham House (Oldham)/Individual House Report.md
       - Oldham House (Oldham)/House Mascot.md
       - Oldham House (Oldham)/House Leaders & Key Members.md
