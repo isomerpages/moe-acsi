@@ -2,6 +2,7 @@ collections:
   houses:
     output: true
     order:
+      - Cheong Koon Seng House (CKS)/.keep
       - Oldham House (Oldham)/.keep
       - Oldham House (Oldham)/Oldham House (Oldham).md
       - Oldham House (Oldham)/House Leaders & Key Members.md
