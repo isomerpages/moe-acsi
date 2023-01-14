@@ -2,8 +2,8 @@ collections:
   student-development:
     output: true
     order:
-      - Opportunities & Guidance/Career Opportunities & Guidance.md
-      - Opportunities & Guidance/.keep
+      - Career Opp & Guidance/Career Opportunities & Guidance.md
+      - Career Opp & Guidance/.keep
       - Sexuality Education Program in Schools.md
       - Agape Counselling Sanctuary/.keep
       - Agape Counselling Sanctuary/Agape Counselling Sanctuary.md
