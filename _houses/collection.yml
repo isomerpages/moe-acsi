@@ -2,12 +2,12 @@ collections:
   houses:
     output: true
     order:
-      - Lee Seng Gee House (LSG)/Gallery.md
-      - Lee Seng Gee House (LSG)/Individual House Report.md
-      - Lee Seng Gee House (LSG)/House Mascot.md
-      - Lee Seng Gee House (LSG)/House Leaders & Key Members.md
-      - Lee Seng Gee House (LSG)/Lee Seng Gee House (LSG).md
       - Lee Seng Gee House (LSG)/.keep
+      - Lee Seng Gee House (LSG)/Lee Seng Gee House (LSG).md
+      - Lee Seng Gee House (LSG)/House Leaders & Key Members.md
+      - Lee Seng Gee House (LSG)/House Mascot.md
+      - Lee Seng Gee House (LSG)/Individual House Report.md
+      - Lee Seng Gee House (LSG)/Gallery.md
       - Goh Hood Keng House (GHK)/.keep
       - Goh Hood Keng House (GHK)/Goh Hood Keng House (GHK).md
       - Goh Hood Keng House (GHK)/House Leaders & Key Members.md
