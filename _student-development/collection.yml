@@ -2,7 +2,26 @@ collections:
   student-development:
     output: true
     order:
-      - MOE Edusave Character Award (ECHA).md
+      - Student Council/.keep
+      - Student Council/Student Council.md
+      - Student Council/Structure.md
+      - Student Council/Events and Projects.md
+      - Student Council/Contact Us.md
+      - Prefectorial Board/.keep
+      - Prefectorial Board/Prefectorial Board.md
+      - Prefectorial Board/Structure.md
+      - Prefectorial Board/Our Projects.md
+      - Prefectorial Board/Announcements.md
+      - Prefectorial Board/Contact Us.md
+      - Agape Counselling Sanctuary/.keep
+      - Agape Counselling Sanctuary/Agape Counselling Sanctuary.md
+      - Agape Counselling Sanctuary/ACS Hope.md
+      - Agape Counselling Sanctuary/Our Team.md
+      - Agape Counselling Sanctuary/Readings.md
+      - Agape Counselling Sanctuary/Mental Health.md
+      - Agape Counselling Sanctuary/Resources.md
+      - Agape Counselling Sanctuary/Useful Links.md
+      - Sexuality Education Program in Schools.md
       - Career Opp & Guidance/.keep
       - Career Opp & Guidance/Career Opportunities & Guidance.md
       - Career Opp & Guidance/Departments.md
@@ -12,23 +31,4 @@ collections:
       - Career Opp & Guidance/Undergraduate Scholarships – BrightSparks.md
       - Career Opp & Guidance/Undergraduate Scholarships – Scholarships@Gov.md
       - Career Opp & Guidance/School Profile.md
-      - Sexuality Education Program in Schools.md
-      - Agape Counselling Sanctuary/.keep
-      - Agape Counselling Sanctuary/Agape Counselling Sanctuary.md
-      - Agape Counselling Sanctuary/ACS Hope.md
-      - Agape Counselling Sanctuary/Our Team.md
-      - Agape Counselling Sanctuary/Readings.md
-      - Agape Counselling Sanctuary/Mental Health.md
-      - Agape Counselling Sanctuary/Resources.md
-      - Agape Counselling Sanctuary/Useful Links.md
-      - Prefectorial Board/.keep
-      - Prefectorial Board/Prefectorial Board.md
-      - Prefectorial Board/Structure.md
-      - Prefectorial Board/Our Projects.md
-      - Prefectorial Board/Announcements.md
-      - Prefectorial Board/Contact Us.md
-      - Student Council/.keep
-      - Student Council/Student Council.md
-      - Student Council/Structure.md
-      - Student Council/Events and Projects.md
-      - Student Council/Contact Us.md
+      - MOE Edusave Character Award (ECHA).md
