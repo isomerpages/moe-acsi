@@ -2,6 +2,7 @@ collections:
   houses:
     output: true
     order:
+      - Annual Swimming Championships/Annual Swimming Championships.md
       - Annual Swimming Championships/.keep
       - Thoburn House/.keep
       - Thoburn House/Thoburn House.md
