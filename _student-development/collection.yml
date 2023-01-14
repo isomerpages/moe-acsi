@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - MOE Edusave Character Award (ECHA).md
       - Career Opp & Guidance/.keep
       - Career Opp & Guidance/Career Opportunities & Guidance.md
       - Career Opp & Guidance/Departments.md
