@@ -2,21 +2,21 @@ collections:
   houses:
     output: true
     order:
-      - Cheong Koon Seng House (CKS)/.keep
-      - Cheong Koon Seng House (CKS)/Cheong Koon Seng House (CKS).md
-      - Cheong Koon Seng House (CKS)/House Leaders & Key Members.md
-      - Cheong Koon Seng House (CKS)/House Mascot.md
-      - Cheong Koon Seng House (CKS)/Individual House Report.md
-      - Cheong Koon Seng House (CKS)/Gallery.md
-      - Oldham House (Oldham)/.keep
-      - Oldham House (Oldham)/Oldham House (Oldham).md
-      - Oldham House (Oldham)/House Leaders & Key Members.md
-      - Oldham House (Oldham)/House Mascot.md
-      - Oldham House (Oldham)/Individual House Report.md
-      - Oldham House (Oldham)/Gallery.md
       - Thoburn House/.keep
       - Thoburn House/Thoburn House.md
       - Thoburn House/House Leaders & Key Members.md
       - Thoburn House/House Mascot.md
       - Thoburn House/Individual House Report.md
       - Thoburn House/Gallery.md
+      - Oldham House (Oldham)/.keep
+      - Oldham House (Oldham)/Oldham House (Oldham).md
+      - Oldham House (Oldham)/House Leaders & Key Members.md
+      - Oldham House (Oldham)/House Mascot.md
+      - Oldham House (Oldham)/Individual House Report.md
+      - Oldham House (Oldham)/Gallery.md
+      - Cheong Koon Seng House (CKS)/.keep
+      - Cheong Koon Seng House (CKS)/Cheong Koon Seng House (CKS).md
+      - Cheong Koon Seng House (CKS)/House Leaders & Key Members.md
+      - Cheong Koon Seng House (CKS)/House Mascot.md
+      - Cheong Koon Seng House (CKS)/Individual House Report.md
+      - Cheong Koon Seng House (CKS)/Gallery.md
