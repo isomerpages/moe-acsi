@@ -2,6 +2,7 @@ collections:
   houses:
     output: true
     order:
+      - Goh Hood Keng House (GHK)/Gallery.md
       - Goh Hood Keng House (GHK)/Individual House Report.md
       - Goh Hood Keng House (GHK)/House Mascot.md
       - Goh Hood Keng House (GHK)/House Leaders & Key Members.md
