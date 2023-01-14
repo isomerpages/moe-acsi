@@ -1,0 +1,4 @@
+collections:
+  houses:
+    output: true
+    order: []
