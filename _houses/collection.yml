@@ -2,6 +2,7 @@ collections:
   houses:
     output: true
     order:
+      - Tan Chin Tuan House (TCT)/Gallery.md
       - Tan Chin Tuan House (TCT)/Individual House Report.md
       - Tan Chin Tuan House (TCT)/House Mascot.md
       - Tan Chin Tuan House (TCT)/House Leaders & Key Members.md
