@@ -56,23 +56,24 @@ _Building positive relationships_
 
 Self Awareness
 
-*   [How assertive are you](http://sites.acsindep.edu.sg/counselling/uploads/HOW%20ASSERTIVE%20ARE%20YOU.pdf)
+*   [How assertive are you](/files/HOW%20ASSERTIVE%20ARE%20YOU.pdf)
 
 Coping with Stress
 
-*   [Identify sources of work stress](http://sites.acsindep.edu.sg/counselling/uploads/IDENTIFY%20SOURCES%20OF%20WORK%20STRESS.pdf)
-*   [How well do you cope](http://sites.acsindep.edu.sg/counselling/uploads/HOW%20WELL%20DO%20YOU%20COPE.pdf)
-*   [Recognise sign of stress](http://sites.acsindep.edu.sg/counselling/uploads/RECOGNIZE%20SIGNS%20OF%20STRESS.pdf)
-*   [Stay Cool! Beat Stress](http://sites.acsindep.edu.sg/counselling/uploads/Stay%20Cool!%20Beat%20Stress.pdf)
-*   [Manage Stress Before It Manages You](http://sites.acsindep.edu.sg/counselling/uploads/Manage%20Stress%20Before%20It%20Manages%20You.pdf)
-*   [Time Management](http://sites.acsindep.edu.sg/counselling/uploads/ACS%20HOPE%20Time%20Management.pdf)
-*   [Stress](http://sites.acsindep.edu.sg/counselling/uploads/ACS%20HOPE%20Stress.pdf)
+*   [Identify sources of work stress](/files/IDENTIFY%20SOURCES%20OF%20WORK%20STRESS.pdf)
+*   [How well do you cope](/files/HOW%20WELL%20DO%20YOU%20COPE.pdf)
+*   [Recognise sign of stress](/files/RECOGNIZE%20SIGNS%20OF%20STRESS.pdf)
+*   [Stay Cool! Beat Stress](/files/Stay%20Cool!%20Beat%20Stress.pdf)
+*   [Manage Stress Before It Manages You](/files/Manage%20Stress%20Before%20It%20Manages%20You.pdf)
+*   [Time Management](/files/ACS%20HOPE%20Time%20Management.pdf)
+*   [Stress](/files/ACS%20HOPE%20Stress.pdf)
+
 
 Cyber Wellness
 
 *   [A Parents’ Guide to Facebook](http://www.connectsafely.org/pdfs/fbparents.pdf) from ConnectSafely.org
-*   [Internet Sex Screening Test](http://sites.acsindep.edu.sg/counselling/uploads/Internet%20Sex%20Screeing%20Test.pdf)
-*   [Computer Addiction](http://sites.acsindep.edu.sg/counselling/uploads/ACS%20HOPE%20Computer%20Addiction.pdf)
+*   [Internet Sex Screening Test](/files/Internet%20Sex%20Screeing%20Test.pdf)
+*   [Computer Addiction](/files/ACS%20HOPE%20Computer%20Addiction.pdf)
 
 ADHD
 
