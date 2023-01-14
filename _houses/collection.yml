@@ -2,6 +2,7 @@ collections:
   houses:
     output: true
     order:
+      - Cheong Koon Seng House (CKS)/Gallery.md
       - Cheong Koon Seng House (CKS)/Individual House Report.md
       - Cheong Koon Seng House (CKS)/House Mascot.md
       - Cheong Koon Seng House (CKS)/House Leaders & Key Members.md
