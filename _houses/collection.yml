@@ -2,12 +2,12 @@ collections:
   houses:
     output: true
     order:
-      - Tan Chin Tuan House (TCT)/Gallery.md
-      - Tan Chin Tuan House (TCT)/Individual House Report.md
-      - Tan Chin Tuan House (TCT)/House Mascot.md
-      - Tan Chin Tuan House (TCT)/House Leaders & Key Members.md
-      - Tan Chin Tuan House (TCT)/Tan Chin Tuan House (TCT).md
       - Tan Chin Tuan House (TCT)/.keep
+      - Tan Chin Tuan House (TCT)/Tan Chin Tuan House (TCT).md
+      - Tan Chin Tuan House (TCT)/House Leaders & Key Members.md
+      - Tan Chin Tuan House (TCT)/House Mascot.md
+      - Tan Chin Tuan House (TCT)/Individual House Report.md
+      - Tan Chin Tuan House (TCT)/Gallery.md
       - Shaw Vee Meng House (SVM)/.keep
       - Shaw Vee Meng House (SVM)/Shaw Vee Meng House (SVM).md
       - Shaw Vee Meng House (SVM)/House Leaders & Key Members.md
