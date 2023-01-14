@@ -2,6 +2,7 @@ collections:
   houses:
     output: true
     order:
+      - Tan Kah Kee House (TKK)/Gallery.md
       - Tan Kah Kee House (TKK)/Individual House Report.md
       - Tan Kah Kee House (TKK)/House Mascot.md
       - Tan Kah Kee House (TKK)/House Leaders & Key Members.md
