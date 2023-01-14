@@ -2,6 +2,7 @@ collections:
   houses:
     output: true
     order:
+      - Shaw Vee Meng House (SVM)/Shaw Vee Meng House (SVM).md
       - Shaw Vee Meng House (SVM)/.keep
       - Lee Seng Gee House (LSG)/.keep
       - Lee Seng Gee House (LSG)/Lee Seng Gee House (LSG).md
