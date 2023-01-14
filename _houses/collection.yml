@@ -2,12 +2,12 @@ collections:
   houses:
     output: true
     order:
-      - Goh Hood Keng House (GHK)/Gallery.md
-      - Goh Hood Keng House (GHK)/Individual House Report.md
-      - Goh Hood Keng House (GHK)/House Mascot.md
-      - Goh Hood Keng House (GHK)/House Leaders & Key Members.md
-      - Goh Hood Keng House (GHK)/Goh Hood Keng House (GHK).md
       - Goh Hood Keng House (GHK)/.keep
+      - Goh Hood Keng House (GHK)/Goh Hood Keng House (GHK).md
+      - Goh Hood Keng House (GHK)/House Leaders & Key Members.md
+      - Goh Hood Keng House (GHK)/House Mascot.md
+      - Goh Hood Keng House (GHK)/Individual House Report.md
+      - Goh Hood Keng House (GHK)/Gallery.md
       - Tan Kah Kee House (TKK)/.keep
       - Tan Kah Kee House (TKK)/Tan Kah Kee House (TKK).md
       - Tan Kah Kee House (TKK)/House Leaders & Key Members.md
