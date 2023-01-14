@@ -2,4 +2,5 @@ collections:
   houses:
     output: true
     order:
+      - Thoburn House/Thoburn House.md
       - Thoburn House/.keep
