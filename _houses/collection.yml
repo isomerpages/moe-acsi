@@ -2,6 +2,7 @@ collections:
   houses:
     output: true
     order:
+      - Tan Chin Tuan House (TCT)/.keep
       - Shaw Vee Meng House (SVM)/.keep
       - Shaw Vee Meng House (SVM)/Shaw Vee Meng House (SVM).md
       - Shaw Vee Meng House (SVM)/House Leaders & Key Members.md
