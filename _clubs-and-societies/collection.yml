@@ -2,8 +2,8 @@ collections:
   clubs-and-societies:
     output: true
     order:
-      - ACtive ACsians/Gallery.md
-      - ACtive ACsians/Teachers.md
-      - ACtive ACsians/ACtive ACsians.md
       - ACtive ACsians/.keep
+      - ACtive ACsians/ACtive ACsians.md
+      - ACtive ACsians/Teachers.md
+      - ACtive ACsians/Gallery.md
       - ACSpression.md
