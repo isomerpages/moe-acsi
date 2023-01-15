@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - "ACSpression/Y1 Orientation: A Parent’s Perspective.md"
       - ACSpression/Mr Arene Koh’s morning devotion on 10th January 2023.md
       - ACSpression/.keep
       - ACS ECHO.md
