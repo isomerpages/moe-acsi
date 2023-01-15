@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Mathematics Competition Team/Achievements MTC.md
       - Mathematics Competition Team/Training.md
       - Mathematics Competition Team/Competitions.md
       - Mathematics Competition Team/Calendar.md
