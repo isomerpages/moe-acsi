@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Interact Club/Interact Club.md
       - Interact Club/.keep
       - Health and Fitness Club/.keep
       - Health and Fitness Club/Health and Fitness Club.md
