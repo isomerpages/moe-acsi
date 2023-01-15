@@ -2,12 +2,12 @@ collections:
   clubs-and-societies:
     output: true
     order:
-      - Environment Focus Group/Gallery.md
-      - Environment Focus Group/Awards.md
-      - Environment Focus Group/Schedule.md
-      - Environment Focus Group/Teachers.md
-      - Environment Focus Group/Environment Focus Group.md
       - Environment Focus Group/.keep
+      - Environment Focus Group/Environment Focus Group.md
+      - Environment Focus Group/Teachers.md
+      - Environment Focus Group/Schedule.md
+      - Environment Focus Group/Awards.md
+      - Environment Focus Group/Gallery.md
       - Debate Club/.keep
       - Debate Club/Debate Club.md
       - Debate Club/Information for New Students & Parents.md
