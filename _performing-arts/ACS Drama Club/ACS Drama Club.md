@@ -4,8 +4,7 @@ permalink: /drama/
 description: ""
 third_nav_title: ACS Drama Club
 ---
-ACS Drama Club (ACSDC)
-----------------------
+### ACS Drama Club (ACSDC)
 
 The Anglo-Chinese School (Independent) Drama Club (ACSDC) allows Secondary 1-4 students who have an interest in theatre and drama to practise and showcase their talents to the school. Members are not only trained to explore acting as a form of art but also provided with an all-rounded learning experience and appreciation for the theatre. Besides acting, club members perform a diverse range of tasks; from working on sets for performances to creation and design of costumes, as well as lighting and sound design. This has allowed students to specialise and hone in specific aspects of theatre, while having an all-rounded theatre experience, and ultimately allows one to develop essential life skills such as confidence, improvisation, effective language and communication and emotional intelligence through warm-up exercises, bonding games and various other activities.
 
