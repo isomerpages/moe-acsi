@@ -2,6 +2,7 @@ collections:
   performing-arts:
     output: true
     order:
+      - Wind Ensemble/Student Executive Committee (2022 to 2023).md
       - Wind Ensemble/Teachers.md
       - Wind Ensemble/Wind Ensemble.md
       - Wind Ensemble/.keep
