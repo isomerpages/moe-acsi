@@ -2,17 +2,6 @@ collections:
   houses:
     output: true
     order:
-      - Cross Country Championships/.keep
-      - Cross Country Championships/Annual Cross Country Championships.md
-      - Cross Country Championships/Confirmed Participant List.md
-      - Cross Country Championships/Schedule of Events.md
-      - Cross Country Championships/Results – Overall & Daily.md
-      - Track & Field/Results – Overall & Daily.md
-      - Track & Field/Schedule of Events.md
-      - Track & Field/Meet Programme.md
-      - Track & Field/Confirmed Participant List.md
-      - Track & Field/Track & Field.md
-      - Track & Field/.keep
       - Thoburn House/.keep
       - Thoburn House/Thoburn House.md
       - Thoburn House/House Leaders & Key Members.md
@@ -66,3 +55,14 @@ collections:
       - Annual Swimming Championships/Meet Program.md
       - Annual Swimming Championships/Schedule of Events.md
       - Annual Swimming Championships/Results of Swim Meet.md
+      - Track & Field/.keep
+      - Track & Field/Results – Overall & Daily.md
+      - Track & Field/Schedule of Events.md
+      - Track & Field/Meet Programme.md
+      - Track & Field/Confirmed Participant List.md
+      - Track & Field/Track & Field.md
+      - Cross Country Championships/.keep
+      - Cross Country Championships/Annual Cross Country Championships.md
+      - Cross Country Championships/Confirmed Participant List.md
+      - Cross Country Championships/Schedule of Events.md
+      - Cross Country Championships/Results – Overall & Daily.md
