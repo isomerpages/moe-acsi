@@ -2,6 +2,7 @@ collections:
   performing-arts:
     output: true
     order:
+      - Choir/Major Events 2016.md
       - Choir/Major Events 2017 Term 1.md
       - Choir/Major Events 2017 Term 2.md
       - Choir/Major Events 2017 Semester 2.md
