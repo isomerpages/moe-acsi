@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Debate Club/Information for New Students & Parents.md
       - Debate Club/Debate Club.md
       - Debate Club/.keep
       - Chinese Chess/.keep
