@@ -2,6 +2,7 @@ collections:
   performing-arts:
     output: true
     order:
+      - ACSI Stage/Productions & Awards.md
       - ACSI Stage/Training Schedule.md
       - ACSI Stage/Student Committee & Exco.md
       - ACSI Stage/Teachers.md
