@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Environment Focus Group/Schedule.md
       - Environment Focus Group/Teachers.md
       - Environment Focus Group/Environment Focus Group.md
       - Environment Focus Group/.keep
