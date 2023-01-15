@@ -2,6 +2,7 @@ collections:
   houses:
     output: true
     order:
+      - Cross Country Championships/Annual Cross Country Championships.md
       - Cross Country Championships/.keep
       - Track & Field/Results – Overall & Daily.md
       - Track & Field/Schedule of Events.md
