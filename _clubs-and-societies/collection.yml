@@ -2,14 +2,14 @@ collections:
   clubs-and-societies:
     output: true
     order:
-      - Chinese Chess/Announcement.md
-      - Chinese Chess/Gallery.md
-      - Chinese Chess/Achievements.md
-      - Chinese Chess/Student.md
-      - Chinese Chess/Schedule.md
-      - Chinese Chess/Teachers.md
-      - Chinese Chess/Chinese Chess.md
       - Chinese Chess/.keep
+      - Chinese Chess/Chinese Chess.md
+      - Chinese Chess/Teachers.md
+      - Chinese Chess/Schedule.md
+      - Chinese Chess/Student.md
+      - Chinese Chess/Achievements.md
+      - Chinese Chess/Gallery.md
+      - Chinese Chess/Announcement.md
       - International Chess/.keep
       - International Chess/International Chess.md
       - International Chess/Teachers.md
