@@ -2,6 +2,7 @@ collections:
   performing-arts:
     output: true
     order:
+      - Dance Venia/Gallery.md
       - Dance Venia/Awards.md
       - Dance Venia/Schedule.md
       - Dance Venia/Teachers.md
