@@ -2,4 +2,5 @@ collections:
   announcements:
     output: true
     order:
+      - ACS ECHO.md
       - ACS Independent Online (IO).md
