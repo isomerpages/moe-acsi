@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Health and Fitness Club/Health and Fitness Club.md
       - Health and Fitness Club/.keep
       - Environment Focus Group/.keep
       - Environment Focus Group/Environment Focus Group.md
