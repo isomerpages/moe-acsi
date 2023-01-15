@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Media Production AC/Teachers.md
       - Media Production AC/Media Production AC.md
       - Media Production AC/.keep
       - Mathematics Competition Team/.keep
