@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Chinese Chess/Student.md
       - Chinese Chess/Schedule.md
       - Chinese Chess/Teachers.md
       - Chinese Chess/Chinese Chess.md
