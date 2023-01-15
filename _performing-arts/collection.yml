@@ -2,6 +2,7 @@ collections:
   performing-arts:
     output: true
     order:
+      - ACS Drama Club/Schedule.md
       - ACS Drama Club/ACS Drama Club.md
       - ACS Drama Club/.keep
       - Dance Venia/.keep
