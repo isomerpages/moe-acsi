@@ -2,14 +2,14 @@ collections:
   performing-arts:
     output: true
     order:
-      - Symphonic Band/Gallery.md
-      - Symphonic Band/Band Directors.md
-      - Symphonic Band/Achievements & Awards.md
-      - Symphonic Band/Training Schedule & Upcoming Events.md
-      - Symphonic Band/Student Executive Committee (2022 – 2023).md
-      - Symphonic Band/Teachers.md
-      - Symphonic Band/Symphonic Band.md
       - Symphonic Band/.keep
+      - Symphonic Band/Symphonic Band.md
+      - Symphonic Band/Teachers.md
+      - Symphonic Band/Student Executive Committee (2022 – 2023).md
+      - Symphonic Band/Training Schedule & Upcoming Events.md
+      - Symphonic Band/Achievements & Awards.md
+      - Symphonic Band/Band Directors.md
+      - Symphonic Band/Gallery.md
       - Philharmonic Orchestra/.keep
       - Philharmonic Orchestra/Philharmonic Orchestra.md
       - Philharmonic Orchestra/Events.md
