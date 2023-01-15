@@ -2,4 +2,5 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - ACtive ACsians/.keep
       - ACSpression.md
