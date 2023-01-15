@@ -2,6 +2,7 @@ collections:
   performing-arts:
     output: true
     order:
+      - Vocal ACcord/2022 Auditions.md
       - Vocal ACcord/Gallery.md
       - Vocal ACcord/Events.md
       - Vocal ACcord/Schedule.md
