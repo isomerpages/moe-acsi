@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Media Production AC/Gallery.md
       - Media Production AC/Awards.md
       - Media Production AC/Schedule.md
       - Media Production AC/Teachers.md
