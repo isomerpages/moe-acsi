@@ -2,12 +2,12 @@ collections:
   performing-arts:
     output: true
     order:
-      - Guitar Orchestra/Gallery.md
-      - Guitar Orchestra/Awards.md
-      - Guitar Orchestra/Schedule.md
-      - Guitar Orchestra/Teachers.md
-      - Guitar Orchestra/Guitar Orchestra.md
       - Guitar Orchestra/.keep
+      - Guitar Orchestra/Guitar Orchestra.md
+      - Guitar Orchestra/Teachers.md
+      - Guitar Orchestra/Schedule.md
+      - Guitar Orchestra/Awards.md
+      - Guitar Orchestra/Gallery.md
       - ACS Drama Club/.keep
       - ACS Drama Club/ACS Drama Club.md
       - ACS Drama Club/Schedule.md
