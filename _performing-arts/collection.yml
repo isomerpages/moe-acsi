@@ -2,12 +2,12 @@ collections:
   performing-arts:
     output: true
     order:
+      - Choir/.keep
+      - Choir/Choir.md
       - Choir/Links.md
-      - Choir/Gallery (Selected Events from 2020 to 2021).md
-      - Choir/Student Committee.md
+      - Choir/Programme booklets.md
+      - Choir/Annual & Biannual Events.md
       - Choir/Teachers & Conductor.md
       - Choir/Schedule, Venues, and Calendar of Events.md
-      - Choir/Annual & Biannual Events.md
-      - Choir/Programme booklets.md
-      - Choir/Choir.md
-      - Choir/.keep
+      - Choir/Student Committee.md
+      - Choir/Gallery (Selected Events from 2020 to 2021).md
