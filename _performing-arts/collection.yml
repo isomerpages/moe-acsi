@@ -2,6 +2,7 @@ collections:
   performing-arts:
     output: true
     order:
+      - Wind Ensemble/Link.md
       - Wind Ensemble/Gallery.md
       - Wind Ensemble/Achievements & Awards.md
       - Wind Ensemble/Training Schedule & Upcoming Events.md
