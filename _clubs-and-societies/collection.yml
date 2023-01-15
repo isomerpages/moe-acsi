@@ -2,11 +2,11 @@ collections:
   clubs-and-societies:
     output: true
     order:
-      - Health and Fitness Club/Gallery.md
-      - Health and Fitness Club/Schedule.md
-      - Health and Fitness Club/Teachers & EXCO Members.md
-      - Health and Fitness Club/Health and Fitness Club.md
       - Health and Fitness Club/.keep
+      - Health and Fitness Club/Health and Fitness Club.md
+      - Health and Fitness Club/Teachers & EXCO Members.md
+      - Health and Fitness Club/Schedule.md
+      - Health and Fitness Club/Gallery.md
       - Environment Focus Group/.keep
       - Environment Focus Group/Environment Focus Group.md
       - Environment Focus Group/Teachers.md
