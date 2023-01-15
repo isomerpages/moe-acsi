@@ -2,11 +2,6 @@ collections:
   houses:
     output: true
     order:
-      - Annual Swimming Championships/.keep
-      - Annual Swimming Championships/Annual Swimming Championships.md
-      - Annual Swimming Championships/Meet Program.md
-      - Annual Swimming Championships/Schedule of Events.md
-      - Annual Swimming Championships/Results of Swim Meet.md
       - Thoburn House/.keep
       - Thoburn House/Thoburn House.md
       - Thoburn House/House Leaders & Key Members.md
@@ -55,3 +50,8 @@ collections:
       - Tan Chin Tuan House (TCT)/House Mascot.md
       - Tan Chin Tuan House (TCT)/Individual House Report.md
       - Tan Chin Tuan House (TCT)/Gallery.md
+      - Annual Swimming Championships/.keep
+      - Annual Swimming Championships/Annual Swimming Championships.md
+      - Annual Swimming Championships/Meet Program.md
+      - Annual Swimming Championships/Schedule of Events.md
+      - Annual Swimming Championships/Results of Swim Meet.md
