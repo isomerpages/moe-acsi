@@ -2,15 +2,15 @@ collections:
   performing-arts:
     output: true
     order:
-      - Philharmonic Orchestra/Announcements.md
-      - Philharmonic Orchestra/Rehearsal Schedule.md
-      - Philharmonic Orchestra/Teachers and Student Committees.md
-      - Philharmonic Orchestra/Conductors and Tutors.md
+      - Philharmonic Orchestra/.keep
+      - Philharmonic Orchestra/Philharmonic Orchestra.md
+      - Philharmonic Orchestra/Events.md
       - Philharmonic Orchestra/Scholarships and Instrumental Tutorial
         Programmes.md
-      - Philharmonic Orchestra/Events.md
-      - Philharmonic Orchestra/Philharmonic Orchestra.md
-      - Philharmonic Orchestra/.keep
+      - Philharmonic Orchestra/Conductors and Tutors.md
+      - Philharmonic Orchestra/Teachers and Student Committees.md
+      - Philharmonic Orchestra/Rehearsal Schedule.md
+      - Philharmonic Orchestra/Announcements.md
       - ACSI Stage/.keep
       - ACSI Stage/ACSI Stage.md
       - ACSI Stage/Teachers.md
