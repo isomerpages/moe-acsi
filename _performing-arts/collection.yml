@@ -2,12 +2,12 @@ collections:
   performing-arts:
     output: true
     order:
-      - Dance Venia/Gallery.md
-      - Dance Venia/Awards.md
-      - Dance Venia/Schedule.md
-      - Dance Venia/Teachers.md
-      - Dance Venia/Dance Venia.md
       - Dance Venia/.keep
+      - Dance Venia/Dance Venia.md
+      - Dance Venia/Teachers.md
+      - Dance Venia/Schedule.md
+      - Dance Venia/Awards.md
+      - Dance Venia/Gallery.md
       - Cultural Performing Arts Club/.keep
       - Cultural Performing Arts Club/Cultural Performing Arts Club.md
       - Cultural Performing Arts Club/Teachers.md
