@@ -2,6 +2,7 @@ collections:
   houses:
     output: true
     order:
+      - Track & Field/Meet Programme.md
       - Track & Field/Confirmed Participant List.md
       - Track & Field/Track & Field.md
       - Track & Field/.keep
