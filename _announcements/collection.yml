@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - ACSpression/The Boys’ Brigade 12th Company BBSG Car Flag Off.md
       - ACSpression/Gallery Night 2022.md
       - ACSpression/HSSRP Symposium 2022.md
       - ACSpression/10th Anniversary of the HSP.md
