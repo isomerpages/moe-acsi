@@ -2,6 +2,7 @@ collections:
   performing-arts:
     output: true
     order:
+      - Dance Venia/.keep
       - Cultural Performing Arts Club/.keep
       - Cultural Performing Arts Club/Cultural Performing Arts Club.md
       - Cultural Performing Arts Club/Teachers.md
