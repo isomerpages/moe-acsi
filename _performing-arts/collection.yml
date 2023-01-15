@@ -2,6 +2,7 @@ collections:
   performing-arts:
     output: true
     order:
+      - Philharmonic Orchestra/Philharmonic Orchestra.md
       - Philharmonic Orchestra/.keep
       - ACSI Stage/.keep
       - ACSI Stage/ACSI Stage.md
