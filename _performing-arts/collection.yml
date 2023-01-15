@@ -2,6 +2,7 @@ collections:
   performing-arts:
     output: true
     order:
+      - Philharmonic Orchestra/Teachers and Student Committees.md
       - Philharmonic Orchestra/Conductors and Tutors.md
       - Philharmonic Orchestra/Scholarships and Instrumental Tutorial
         Programmes.md
