@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Library/Gallery.md
       - Library/Teacher Librarians.md
       - Library/Students Librarian Members.md
       - Library/Library Executive Committee & Exco.md
