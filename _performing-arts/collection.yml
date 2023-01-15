@@ -2,6 +2,7 @@ collections:
   performing-arts:
     output: true
     order:
+      - Cultural Performing Arts Club/Awards.md
       - Cultural Performing Arts Club/Events.md
       - Cultural Performing Arts Club/Schedule.md
       - Cultural Performing Arts Club/Student Committee & Exco.md
