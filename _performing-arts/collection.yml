@@ -2,6 +2,7 @@ collections:
   performing-arts:
     output: true
     order:
+      - Guitar Orchestra/.keep
       - ACS Drama Club/.keep
       - ACS Drama Club/ACS Drama Club.md
       - ACS Drama Club/Schedule.md
