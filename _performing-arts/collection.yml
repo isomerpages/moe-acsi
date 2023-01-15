@@ -2,6 +2,7 @@ collections:
   performing-arts:
     output: true
     order:
+      - Vocal ACcord/Teachers & Exco.md
       - Vocal ACcord/Vocal ACcord.md
       - Vocal ACcord/.keep
       - Choir/.keep
