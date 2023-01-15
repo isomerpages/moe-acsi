@@ -24,4 +24,3 @@ By Nadine Chuang, 6.18
 <img src="/images/Picture14.jpg">
 <figcaption> <strong>Mrs Judy Ho presenting a token of appreciation </strong> </figcaption>
 </figure>
-
