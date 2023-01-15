@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - International Chess/Teachers.md
       - International Chess/International Chess.md
       - International Chess/.keep
       - Astronomy Club/.keep
