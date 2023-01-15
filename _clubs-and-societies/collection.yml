@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Debate Club/Gallery.md
       - Debate Club/Competition Reports.md
       - Debate Club/Achievements.md
       - Debate Club/Calendar of Competitions.md
