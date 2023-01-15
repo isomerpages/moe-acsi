@@ -2,6 +2,7 @@ collections:
   performing-arts:
     output: true
     order:
+      - Symphonic Band/Gallery.md
       - Symphonic Band/Band Directors.md
       - Symphonic Band/Achievements & Awards.md
       - Symphonic Band/Training Schedule & Upcoming Events.md
