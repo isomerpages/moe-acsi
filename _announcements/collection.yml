@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - ACSpression/HSSRP Symposium 2022.md
       - ACSpression/10th Anniversary of the HSP.md
       - ACSpression/Library Book Sale 2022.md
       - ACSpression/ACSpressivo IX.md
