@@ -2,6 +2,7 @@ collections:
   performing-arts:
     output: true
     order:
+      - Guitar Orchestra/Awards.md
       - Guitar Orchestra/Schedule.md
       - Guitar Orchestra/Teachers.md
       - Guitar Orchestra/Guitar Orchestra.md
