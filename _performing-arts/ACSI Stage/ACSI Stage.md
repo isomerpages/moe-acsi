@@ -17,3 +17,5 @@ A Production of Anglo-Chinese School (Independent) Stage.
 “As Singapore prepared to hunker down for the Covid-19 circuit breaker, The Sunday Times invited local writers to respond to the pandemic in words that could lift the spirits, serve as a sobering reminder or form a rallying cry. It received submissions from nearly 500 writers and publishe[d] the top 10 entries” on April 19th 2020 ([https://www.straitstimes.com/lifestyle/arts/words-to-lift-spirits](https://www.straitstimes.com/lifestyle/arts/words-to-lift-spirits)). In this montage of heartfelt performances, actors from Anglo-Chinese School (Independent) Stage give voice to the full range of familiar local characters depicted in these 10 timely poems. We hope you will be moved to laughter and tears by the heart-warming idiosyncrasies, sense of duty and sense of humour that characterise the sometimes flawed but always loved community that is our Singapore.
 
 _Source: The Sunday Times © Singapore Press Holdings Limited. Reprinted with permission._
+
+[Drama Evening 2019 : ACSIS asks for answers](/files/ACSIS-Asks-for-Answers-Programme-v2.pdf)
