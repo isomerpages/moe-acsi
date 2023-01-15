@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Debate Club/.keep
       - Chinese Chess/.keep
       - Chinese Chess/Chinese Chess.md
       - Chinese Chess/Teachers.md
