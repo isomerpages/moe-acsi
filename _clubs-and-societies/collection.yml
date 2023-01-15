@@ -2,13 +2,13 @@ collections:
   clubs-and-societies:
     output: true
     order:
-      - Interact Club/Schedule and Expectations.md
-      - Interact Club/Gallery.md
-      - Interact Club/Achievements and Students’ Voices.md
-      - Interact Club/Executive Committee IC.md
-      - Interact Club/Teacher Advisors.md
-      - Interact Club/Interact Club.md
       - Interact Club/.keep
+      - Interact Club/Interact Club.md
+      - Interact Club/Teacher Advisors.md
+      - Interact Club/Executive Committee IC.md
+      - Interact Club/Achievements and Students’ Voices.md
+      - Interact Club/Gallery.md
+      - Interact Club/Schedule and Expectations.md
       - Health and Fitness Club/.keep
       - Health and Fitness Club/Health and Fitness Club.md
       - Health and Fitness Club/Teachers & EXCO Members.md
