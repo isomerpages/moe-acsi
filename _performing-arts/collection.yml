@@ -2,6 +2,7 @@ collections:
   performing-arts:
     output: true
     order:
+      - Wind Ensemble/Teachers.md
       - Wind Ensemble/Wind Ensemble.md
       - Wind Ensemble/.keep
       - Symphonic Band/.keep
