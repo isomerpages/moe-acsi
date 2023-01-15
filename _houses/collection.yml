@@ -2,11 +2,11 @@ collections:
   houses:
     output: true
     order:
-      - Cross Country Championships/Results – Overall & Daily.md
-      - Cross Country Championships/Schedule of Events.md
-      - Cross Country Championships/Confirmed Participant List.md
-      - Cross Country Championships/Annual Cross Country Championships.md
       - Cross Country Championships/.keep
+      - Cross Country Championships/Annual Cross Country Championships.md
+      - Cross Country Championships/Confirmed Participant List.md
+      - Cross Country Championships/Schedule of Events.md
+      - Cross Country Championships/Results – Overall & Daily.md
       - Track & Field/Results – Overall & Daily.md
       - Track & Field/Schedule of Events.md
       - Track & Field/Meet Programme.md
