@@ -2,6 +2,7 @@ collections:
   houses:
     output: true
     order:
+      - Track & Field/.keep
       - Thoburn House/.keep
       - Thoburn House/Thoburn House.md
       - Thoburn House/House Leaders & Key Members.md
