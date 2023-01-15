@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - The Editorial Board/.keep
       - Media Production AC/.keep
       - Media Production AC/Media Production AC.md
       - Media Production AC/Teachers.md
