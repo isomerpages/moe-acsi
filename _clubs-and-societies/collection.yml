@@ -2,16 +2,16 @@ collections:
   clubs-and-societies:
     output: true
     order:
-      - Debate Club/Gallery.md
-      - Debate Club/Competition Reports.md
-      - Debate Club/Achievements.md
-      - Debate Club/Calendar of Competitions.md
-      - Debate Club/Schedule.md
-      - Debate Club/Executive Committee.md
-      - Debate Club/Teachers.md
-      - Debate Club/Information for New Students & Parents.md
-      - Debate Club/Debate Club.md
       - Debate Club/.keep
+      - Debate Club/Debate Club.md
+      - Debate Club/Information for New Students & Parents.md
+      - Debate Club/Teachers.md
+      - Debate Club/Executive Committee.md
+      - Debate Club/Schedule.md
+      - Debate Club/Calendar of Competitions.md
+      - Debate Club/Achievements.md
+      - Debate Club/Competition Reports.md
+      - Debate Club/Gallery.md
       - Chinese Chess/.keep
       - Chinese Chess/Chinese Chess.md
       - Chinese Chess/Teachers.md
