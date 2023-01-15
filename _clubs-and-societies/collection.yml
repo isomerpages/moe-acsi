@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Interact Club/Executive Committee IC.md
       - Interact Club/Teacher Advisors.md
       - Interact Club/Interact Club.md
       - Interact Club/.keep
