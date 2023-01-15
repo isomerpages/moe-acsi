@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - The Editorial Board/Links.md
       - The Editorial Board/Student Committee (EXCO).md
       - The Editorial Board/Teachers.md
       - The Editorial Board/The Editorial Board.md
