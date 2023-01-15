@@ -2,15 +2,15 @@ collections:
   performing-arts:
     output: true
     order:
-      - Cultural Performing Arts Club/Links.md
-      - Cultural Performing Arts Club/Gallery.md
-      - Cultural Performing Arts Club/Awards.md
-      - Cultural Performing Arts Club/Events.md
-      - Cultural Performing Arts Club/Schedule.md
-      - Cultural Performing Arts Club/Student Committee & Exco.md
-      - Cultural Performing Arts Club/Teachers.md
-      - Cultural Performing Arts Club/Cultural Performing Arts Club.md
       - Cultural Performing Arts Club/.keep
+      - Cultural Performing Arts Club/Cultural Performing Arts Club.md
+      - Cultural Performing Arts Club/Teachers.md
+      - Cultural Performing Arts Club/Student Committee & Exco.md
+      - Cultural Performing Arts Club/Schedule.md
+      - Cultural Performing Arts Club/Events.md
+      - Cultural Performing Arts Club/Awards.md
+      - Cultural Performing Arts Club/Gallery.md
+      - Cultural Performing Arts Club/Links.md
       - Vocal ACcord/2022 Auditions.md
       - Vocal ACcord/Gallery.md
       - Vocal ACcord/Events.md
