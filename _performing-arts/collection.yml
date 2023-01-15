@@ -2,13 +2,13 @@ collections:
   performing-arts:
     output: true
     order:
-      - ACSI Stage/Gallery.md
-      - ACSI Stage/Productions & Awards.md
-      - ACSI Stage/Training Schedule.md
-      - ACSI Stage/Student Committee & Exco.md
-      - ACSI Stage/Teachers.md
-      - ACSI Stage/ACSI Stage.md
       - ACSI Stage/.keep
+      - ACSI Stage/ACSI Stage.md
+      - ACSI Stage/Teachers.md
+      - ACSI Stage/Student Committee & Exco.md
+      - ACSI Stage/Training Schedule.md
+      - ACSI Stage/Productions & Awards.md
+      - ACSI Stage/Gallery.md
       - Guitar Orchestra/.keep
       - Guitar Orchestra/Guitar Orchestra.md
       - Guitar Orchestra/Teachers.md
