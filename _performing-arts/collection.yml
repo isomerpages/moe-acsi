@@ -2,14 +2,14 @@ collections:
   performing-arts:
     output: true
     order:
-      - Wind Ensemble/Link.md
-      - Wind Ensemble/Gallery.md
-      - Wind Ensemble/Achievements & Awards.md
-      - Wind Ensemble/Training Schedule & Upcoming Events.md
-      - Wind Ensemble/Student Executive Committee (2022 to 2023).md
-      - Wind Ensemble/Teachers.md
-      - Wind Ensemble/Wind Ensemble.md
       - Wind Ensemble/.keep
+      - Wind Ensemble/Wind Ensemble.md
+      - Wind Ensemble/Teachers.md
+      - Wind Ensemble/Student Executive Committee (2022 to 2023).md
+      - Wind Ensemble/Training Schedule & Upcoming Events.md
+      - Wind Ensemble/Achievements & Awards.md
+      - Wind Ensemble/Gallery.md
+      - Wind Ensemble/Link.md
       - Symphonic Band/.keep
       - Symphonic Band/Symphonic Band.md
       - Symphonic Band/Teachers.md
