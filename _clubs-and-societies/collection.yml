@@ -2,15 +2,15 @@ collections:
   clubs-and-societies:
     output: true
     order:
-      - Library/Gallery.md
-      - Library/Teacher Librarians.md
-      - Library/Students Librarian Members.md
-      - Library/Library Executive Committee & Exco.md
-      - Library/Schedule.md
-      - Library/Events.md
-      - Library/Honors Day Award.md
-      - Library/Library.md
       - Library/.keep
+      - Library/Library.md
+      - Library/Honors Day Award.md
+      - Library/Events.md
+      - Library/Schedule.md
+      - Library/Library Executive Committee & Exco.md
+      - Library/Students Librarian Members.md
+      - Library/Teacher Librarians.md
+      - Library/Gallery.md
       - Interact Club/.keep
       - Interact Club/Interact Club.md
       - Interact Club/Teacher Advisors.md
