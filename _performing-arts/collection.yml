@@ -2,6 +2,7 @@ collections:
   performing-arts:
     output: true
     order:
+      - ACSI Stage/.keep
       - Guitar Orchestra/.keep
       - Guitar Orchestra/Guitar Orchestra.md
       - Guitar Orchestra/Teachers.md
