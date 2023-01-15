@@ -2,7 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
-      - Chinese Chess/Chinese.md
+      - Chinese Chess/Chinese Chess.md
       - Chinese Chess/.keep
       - International Chess/.keep
       - International Chess/International Chess.md
