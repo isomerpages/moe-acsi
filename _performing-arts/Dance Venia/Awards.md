@@ -20,7 +20,7 @@ Singapore Youth Festival Central Judging (Dance) – JC/CI Category, 2011  <br>
 **Gold**
 
 DanceWorks! 2010 Grand Final – Category 3 (Open), 2010  
-**First Place**  
+**First Place**  <br>
 Watch the performance [here](https://www.youtube.com/embed/XnubTQMJbeU "Watch DanceWorks! 2010 performance on YouTube")
 
 Singapore Youth Festival Central Judging (Dance) – JC/CI Category, 2009  <br>
