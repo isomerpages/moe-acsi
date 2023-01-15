@@ -2,12 +2,12 @@ collections:
   clubs-and-societies:
     output: true
     order:
-      - Astronomy Club/Gallery.md
-      - Astronomy Club/Awards.md
-      - Astronomy Club/Schedule.md
-      - Astronomy Club/Teachers.md
-      - Astronomy Club/Astronomy Club.md
       - Astronomy Club/.keep
+      - Astronomy Club/Astronomy Club.md
+      - Astronomy Club/Teachers.md
+      - Astronomy Club/Schedule.md
+      - Astronomy Club/Awards.md
+      - Astronomy Club/Gallery.md
       - ACtive ACsians/.keep
       - ACtive ACsians/ACtive ACsians.md
       - ACtive ACsians/Teachers.md
