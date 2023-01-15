@@ -2,14 +2,14 @@ collections:
   clubs-and-societies:
     output: true
     order:
-      - International Chess/Gallery.md
-      - International Chess/Achievements & Awards.md
-      - International Chess/Schedule.md
-      - International Chess/In House Training.md
-      - International Chess/Student Committee.md
-      - International Chess/Teachers.md
-      - International Chess/International Chess.md
       - International Chess/.keep
+      - International Chess/International Chess.md
+      - International Chess/Teachers.md
+      - International Chess/Student Committee.md
+      - International Chess/In House Training.md
+      - International Chess/Schedule.md
+      - International Chess/Achievements & Awards.md
+      - International Chess/Gallery.md
       - Astronomy Club/.keep
       - Astronomy Club/Astronomy Club.md
       - Astronomy Club/Teachers.md
