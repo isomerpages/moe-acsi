@@ -2,6 +2,8 @@ collections:
   performing-arts:
     output: true
     order:
+      - Philharmonic Orchestra/Scholarships and Instrumental Tutorial
+        Programmes.md
       - Philharmonic Orchestra/Events.md
       - Philharmonic Orchestra/Philharmonic Orchestra.md
       - Philharmonic Orchestra/.keep
