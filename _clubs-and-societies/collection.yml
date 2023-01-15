@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Astronomy Club/Teachers.md
       - Astronomy Club/Astronomy Club.md
       - Astronomy Club/.keep
       - ACtive ACsians/.keep
