@@ -2,7 +2,10 @@ collections:
   announcements:
     output: true
     order:
+      - ACS Independent Online (IO).md
       - ACSPRESS – In – House – Publication.md
+      - ACS ECHO.md
+      - ACSpression/.keep
       - ACSpression/The Boys’ Brigade 12th Company BBSG Car Flag Off.md
       - ACSpression/Gallery Night 2022.md
       - ACSpression/HSSRP Symposium 2022.md
@@ -13,6 +16,3 @@ collections:
       - ACSpression/35th Discovery Camp 2023.md
       - "ACSpression/Y1 Orientation: A Parent’s Perspective.md"
       - ACSpression/Mr Arene Koh’s morning devotion on 10th January 2023.md
-      - ACSpression/.keep
-      - ACS ECHO.md
-      - ACS Independent Online (IO).md
