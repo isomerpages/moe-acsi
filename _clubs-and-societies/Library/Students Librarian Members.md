@@ -116,3 +116,10 @@ Our 2023 Student Librarians
   </tr>
 </tbody>
 </table>
+
+
+<img src="/images/Slide6-1024x576.jpg" 
+     style="width:50%">
+		 
+<img src="/images/Slide7-1024x576.jpg" 
+     style="width:50%">
