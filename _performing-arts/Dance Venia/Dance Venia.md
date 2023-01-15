@@ -12,3 +12,4 @@ To date, we have tried Hip Hop, Jazz, Contemporary, Modern, Cha-Cha, Jive, Samba
 
 Click here for audition information -> [DV Audition Posters Y5 2021](/files/DV-Audition-Posters-Y5-2021.pdf)
 
+Click here to read about [Festival of Arts 2018](/files/DV-FOA-2018-Programme.pdf)
