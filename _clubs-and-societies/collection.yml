@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - International Chess/Achievements & Awards.md
       - International Chess/Schedule.md
       - International Chess/In House Training.md
       - International Chess/Student Committee.md
