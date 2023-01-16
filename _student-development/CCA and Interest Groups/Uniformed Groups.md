@@ -32,3 +32,10 @@ third_nav_title: CCA and Interest Groups
 <img src="/images/npcc1.png"  style="width:70%">
 </a>
 <br>
+<a href="https://staging.d270c0tj2w26u.amplifyapp.com/sjab/">
+<img src="/images/sjb.png"  style="width:70%">
+</a>
+<br>
+<a href="https://staging.d270c0tj2w26u.amplifyapp.com/scouts/">
+<img src="/images/scouts.png"  style="width:70%">
+</a>
