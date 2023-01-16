@@ -10,4 +10,6 @@ description: ""
 * [MIMS Portal](https://portal.mims.moe.gov.sg/idmdash/)
 * [International Baccalaureate Information System](https://ibis.ibo.org/)
 * [Turnitin](https://www.turnitin.com/)
-* 
+* [ManageBac](https://acsindep.managebac.com/login)
+* [Parents Gateway](https://pg.moe.edu.sg/)
+* [SC Mobile](https://scmobile.moe.edu.sg/login)
