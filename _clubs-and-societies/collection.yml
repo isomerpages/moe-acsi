@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Media Resource/Gallery.md
       - Media Resource/Schedule.md
       - Media Resource/Executive.md
       - Media Resource/Teachers.md
