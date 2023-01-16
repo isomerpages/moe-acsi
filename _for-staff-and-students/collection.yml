@@ -2,10 +2,10 @@ collections:
   for-staff-and-students:
     output: true
     order:
-      - Student Accident Insurance/Policy Coverage & Benefits.md
-      - Student Accident Insurance/Claim Form.md
-      - Student Accident Insurance/Student Accident Insurance.md
       - Student Accident Insurance/.keep
+      - Student Accident Insurance/Student Accident Insurance.md
+      - Student Accident Insurance/Claim Form.md
+      - Student Accident Insurance/Policy Coverage & Benefits.md
       - Textbook Matters.md
       - Student Email & Office 365.md
       - STUDENT LEARNING SPACE (SLS).md
