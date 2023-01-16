@@ -2,6 +2,11 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - The Editorial Board/.keep
+      - The Editorial Board/The Editorial Board.md
+      - The Editorial Board/Teachers.md
+      - The Editorial Board/Student Committee (EXCO).md
+      - The Editorial Board/Links.md
       - Multi Purpose Co Op Society/.keep
       - Multi Purpose Co Op Society/Multi Purpose Co Operative Society.md
       - Multi Purpose Co Op Society/Teachers.md
@@ -26,11 +31,6 @@ collections:
       - Photographic Society/Schedule.md
       - Photographic Society/Singapore Young Photographers’ Convention.md
       - Photographic Society/Teachers.md
-      - The Editorial Board/.keep
-      - The Editorial Board/The Editorial Board.md
-      - The Editorial Board/Teachers.md
-      - The Editorial Board/Student Committee (EXCO).md
-      - The Editorial Board/Links.md
       - Media Production AC/.keep
       - Media Production AC/Media Production AC.md
       - Media Production AC/Teachers.md
