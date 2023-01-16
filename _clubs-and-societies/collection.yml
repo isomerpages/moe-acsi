@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Photographic Society/Singapore Young Photographers’ Convention.md
       - Photographic Society/Schedule.md
       - Photographic Society/Our Activities & Our Achievements.md
       - Photographic Society/Gallery.md
