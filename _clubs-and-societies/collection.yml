@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Robotics Technology Society/Schedule.md
       - Robotics Technology Society/Teachers.md
       - Robotics Technology Society/Robotics Technology Society.md
       - Robotics Technology Society/.keep
