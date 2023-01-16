@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Young Entrepreneurs’ Society/.keep
       - Science Research Challenge/.keep
       - Science Research Challenge/Science Research Challenge.md
       - Science Research Challenge/Teachers.md
