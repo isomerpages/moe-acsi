@@ -2,8 +2,8 @@ collections:
   interest-group:
     output: true
     order:
+      - Christian Fellowship/.keep
       - Christian Fellowship/Gallery.md
       - Christian Fellowship/Schedule.md
       - Christian Fellowship/Teachers.md
       - Christian Fellowship/Christian Fellowship.md
-      - Christian Fellowship/.keep
