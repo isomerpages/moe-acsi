@@ -2,6 +2,33 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - ACSpression.md
+      - ACtive ACsians/.keep
+      - ACtive ACsians/ACtive ACsians.md
+      - ACtive ACsians/Teachers.md
+      - ACtive ACsians/Gallery.md
+      - Astronomy Club/.keep
+      - Astronomy Club/Astronomy Club.md
+      - Astronomy Club/Teachers.md
+      - Astronomy Club/Schedule.md
+      - Astronomy Club/Awards.md
+      - Astronomy Club/Gallery.md
+      - Chinese Chess/.keep
+      - Chinese Chess/Chinese Chess.md
+      - Chinese Chess/Teachers.md
+      - Chinese Chess/Schedule.md
+      - Chinese Chess/Student.md
+      - Chinese Chess/Achievements.md
+      - Chinese Chess/Gallery.md
+      - Chinese Chess/Announcement.md
+      - International Chess/.keep
+      - International Chess/International Chess.md
+      - International Chess/Teachers.md
+      - International Chess/Student Committee.md
+      - International Chess/In House Training.md
+      - International Chess/Schedule.md
+      - International Chess/Achievements & Awards.md
+      - International Chess/Gallery.md
       - Young Innovators’ Society/.keep
       - Young Innovators’ Society/Young Innovators’ Society.md
       - Young Innovators’ Society/Our Team.md
@@ -108,30 +135,3 @@ collections:
       - Debate Club/Achievements.md
       - Debate Club/Competition Reports.md
       - Debate Club/Gallery.md
-      - Chinese Chess/.keep
-      - Chinese Chess/Chinese Chess.md
-      - Chinese Chess/Teachers.md
-      - Chinese Chess/Schedule.md
-      - Chinese Chess/Student.md
-      - Chinese Chess/Achievements.md
-      - Chinese Chess/Gallery.md
-      - Chinese Chess/Announcement.md
-      - International Chess/.keep
-      - International Chess/International Chess.md
-      - International Chess/Teachers.md
-      - International Chess/Student Committee.md
-      - International Chess/In House Training.md
-      - International Chess/Schedule.md
-      - International Chess/Achievements & Awards.md
-      - International Chess/Gallery.md
-      - Astronomy Club/.keep
-      - Astronomy Club/Astronomy Club.md
-      - Astronomy Club/Teachers.md
-      - Astronomy Club/Schedule.md
-      - Astronomy Club/Awards.md
-      - Astronomy Club/Gallery.md
-      - ACtive ACsians/.keep
-      - ACtive ACsians/ACtive ACsians.md
-      - ACtive ACsians/Teachers.md
-      - ACtive ACsians/Gallery.md
-      - ACSpression.md
