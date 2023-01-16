@@ -104,5 +104,15 @@ It was a fun-filled day that saw photography enthusiasts from schools all over S
 
 **1st Prize: Mok Xiao Rou, Yishun Town Secondary School**
 
+<img src="/images/first-2.jpg" 
+     style="width:50%">
 
+**2nd Prize: Fiona Yap, Ngee Ann Secondary School**
+
+<img src="/images/second.jpg" 
+     style="width:50%">
 		 
+**3rd Prize: Adrian Law, Anglo-Chinese School  (Barker Road)**
+
+<img src="/images/third.jpg" 
+     style="width:50%">
