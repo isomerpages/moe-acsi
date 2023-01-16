@@ -2,12 +2,12 @@ collections:
   clubs-and-societies:
     output: true
     order:
-      - Media Resource/Gallery.md
-      - Media Resource/Schedule.md
-      - Media Resource/Executive.md
-      - Media Resource/Teachers.md
-      - Media Resource/Media Resource.md
       - Media Resource/.keep
+      - Media Resource/Media Resource.md
+      - Media Resource/Teachers.md
+      - Media Resource/Executive.md
+      - Media Resource/Schedule.md
+      - Media Resource/Gallery.md
       - ACSpression.md
       - ACtive ACsians/.keep
       - ACtive ACsians/ACtive ACsians.md
