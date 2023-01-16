@@ -15,3 +15,8 @@ third_nav_title: CCA and Interest Groups
 <a href="https://staging.d270c0tj2w26u.amplifyapp.com/basketball/">
 <img src="/images/basketball.png"  style="width:70%">
 </a>
+<br>
+<a href="https://staging.d270c0tj2w26u.amplifyapp.com/canoeing/">
+<img src="/images/canoeing.png"  style="width:70%">
+</a>
+
