@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Science Research Challenge/.keep
       - The Editorial Board/.keep
       - The Editorial Board/The Editorial Board.md
       - The Editorial Board/Teachers.md
