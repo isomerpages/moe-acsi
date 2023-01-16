@@ -2,12 +2,6 @@ collections:
   clubs-and-societies:
     output: true
     order:
-      - Media Resource/.keep
-      - Media Resource/Media Resource.md
-      - Media Resource/Teachers.md
-      - Media Resource/Executive.md
-      - Media Resource/Schedule.md
-      - Media Resource/Gallery.md
       - ACSpression.md
       - ACtive ACsians/.keep
       - ACtive ACsians/ACtive ACsians.md
@@ -86,6 +80,12 @@ collections:
       - Media Production AC/Schedule.md
       - Media Production AC/Awards.md
       - Media Production AC/Gallery.md
+      - Media Resource/.keep
+      - Media Resource/Media Resource.md
+      - Media Resource/Teachers.md
+      - Media Resource/Executive.md
+      - Media Resource/Schedule.md
+      - Media Resource/Gallery.md
       - Photographic Society/.keep
       - Photographic Society/Photographic Society.md
       - Photographic Society/2022 to 2023 Executive Committee.md
