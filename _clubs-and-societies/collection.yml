@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Science Research Challenge/Executive Committee.md
       - Science Research Challenge/Teachers.md
       - Science Research Challenge/Science Research Challenge.md
       - Science Research Challenge/.keep
