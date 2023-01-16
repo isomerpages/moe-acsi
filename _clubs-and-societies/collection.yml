@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Media Resource/.keep
       - ACSpression.md
       - ACtive ACsians/.keep
       - ACtive ACsians/ACtive ACsians.md
