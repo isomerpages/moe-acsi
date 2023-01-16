@@ -2,12 +2,12 @@ collections:
   clubs-and-societies:
     output: true
     order:
-      - Young Innovators’ Society/FAQ.md
-      - Young Innovators’ Society/Our Gallery.md
-      - Young Innovators’ Society/What We Do.md
-      - Young Innovators’ Society/Our Team.md
-      - Young Innovators’ Society/Young Innovators’ Society.md
       - Young Innovators’ Society/.keep
+      - Young Innovators’ Society/Young Innovators’ Society.md
+      - Young Innovators’ Society/Our Team.md
+      - Young Innovators’ Society/What We Do.md
+      - Young Innovators’ Society/Our Gallery.md
+      - Young Innovators’ Society/FAQ.md
       - Young Diplomats’ Society/.keep
       - Young Diplomats’ Society/Young Diplomats’ Society.md
       - Young Diplomats’ Society/Teachers.md
