@@ -2,14 +2,14 @@ collections:
   clubs-and-societies:
     output: true
     order:
-      - Robotics Technology Society/Our Videos.md
-      - Robotics Technology Society/Visit us at our social media sites.md
-      - Robotics Technology Society/Gallery.md
-      - Robotics Technology Society/Awards.md
-      - Robotics Technology Society/Schedule.md
-      - Robotics Technology Society/Teachers.md
-      - Robotics Technology Society/Robotics Technology Society.md
       - Robotics Technology Society/.keep
+      - Robotics Technology Society/Robotics Technology Society.md
+      - Robotics Technology Society/Teachers.md
+      - Robotics Technology Society/Schedule.md
+      - Robotics Technology Society/Awards.md
+      - Robotics Technology Society/Gallery.md
+      - Robotics Technology Society/Visit us at our social media sites.md
+      - Robotics Technology Society/Our Videos.md
       - Photographic Society/.keep
       - Photographic Society/Photographic Society.md
       - Photographic Society/2022 to 2023 Executive Committee.md
