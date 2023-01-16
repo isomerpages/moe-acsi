@@ -15,3 +15,36 @@ We welcome projects of all kinds, from school-wide VIA endeavours to courseworks
 Take a look around our page to see our key team members, learn about what we do, and spot our members in action! This is how we’re making a difference, one step at a time.
 
 See you in the lab!
+
+[@acsyis • Instagram photos and videos](https://www.instagram.com/acsyis/)
+
+<img src="/images/yis.png" 
+     style="width:70%">
+		 
+**Schedule and Timings**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cly1">Training Hours</th>
+    <th class="tg-cly1">Wednesdays</th>
+    <th class="tg-cly1">3:30 pm to 5:30 pm</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-cly1">Additional Opening Hours (Optional)</td>
+    <td class="tg-cly1">Tuesdays<br><br>Thursdays</td>
+    <td class="tg-cly1">3:30 pm to 5:00 pm<br><br>4:00 pm to 5:30 pm</td>
+  </tr>
+</tbody>
+</table>
+
