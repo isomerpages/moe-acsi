@@ -1,4 +1,5 @@
 collections:
   interest-group:
     output: true
-    order: []
+    order:
+      - Christian Fellowship/.keep
