@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Robotics Technology Society/Robotics Technology Society.md
       - Robotics Technology Society/.keep
       - Photographic Society/.keep
       - Photographic Society/Photographic Society.md
