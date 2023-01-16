@@ -44,5 +44,11 @@ third_nav_title: CCA and Interest Groups
 <img src="/images/library.png"  style="width:70%">
 </a>
 <br>
-
-
+<a href="https://staging.d270c0tj2w26u.amplifyapp.com/mathcompetition/">
+<img src="/images/math%20competition%20team.png"  style="width:70%">
+</a>
+<br>
+<a href="https://staging.d270c0tj2w26u.amplifyapp.com/mpac/">
+<img src="/images/media%20production.png"  style="width:70%">
+</a>
+<br>
