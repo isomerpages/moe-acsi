@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Young Diplomats’ Society/Teachers.md
       - Young Diplomats’ Society/Young Diplomats’ Society.md
       - Young Diplomats’ Society/.keep
       - Young Entrepreneurs’ Society/.keep
