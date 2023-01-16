@@ -186,3 +186,37 @@ Website link to purchase: [https://finestuniform.com/collections/anglo-chinese-
 **Beauty World Centre, B1-03** <br>
 **Singapore 588177**  <br>
 **Office Tel: 6466 5697 / Mobile: 9029 5135**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1wig" colspan="2"><span style="font-weight:bolder">Operating Hours</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Mon – Sat</td>
+    <td class="tg-0lax">12 pm to 7 pm</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig" colspan="2"><span style="font-weight:bolder">Closed on Sundays &amp; Public Holidays</span></td>
+  </tr>
+</tbody>
+</table>
+
+### Dates for School Uniform Sales
+
+Dec 2022: 2, 5, 7, 9, 12, 14, 15, 16, 19, 20, 21, 22, 23, 27, 28, 29 & 30  <br>
+Jan 2023: 3, 4, 5, 6
+
+Time: 9 am to 3 pm  <br>
+Venue: Within school premises.
