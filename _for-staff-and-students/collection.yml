@@ -2,6 +2,7 @@ collections:
   for-staff-and-students:
     output: true
     order:
+      - Student Accident Insurance/Student Accident Insurance.md
       - Student Accident Insurance/.keep
       - Textbook Matters.md
       - Student Email & Office 365.md
