@@ -48,3 +48,11 @@ See you in the lab!
 </tbody>
 </table>
 
+<img src="/images/YIS-2.png" 
+     style="width:60%">
+		 
+<img src="/images/YIS-sig-768x281.png" 
+     style="width:60%">
+		 
+YIS is part of the Innovation Community in ACS(I), spurring the school toward creative solutions in an increasingly volatile, uncertain, complex and ambiguous world. We strongly believe that innovation should be kept simple and relatable at the Changemaker Lab that we call home. We proudly act as the bridge between initiatives around the school, from IDEX to VIA to the Innovation Office where we upskill ACSians, upgrade programs and upscale products!
+
