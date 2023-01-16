@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Young Diplomats’ Society/Awards.md
       - Young Diplomats’ Society/Schedule.md
       - Young Diplomats’ Society/Teachers.md
       - Young Diplomats’ Society/Young Diplomats’ Society.md
