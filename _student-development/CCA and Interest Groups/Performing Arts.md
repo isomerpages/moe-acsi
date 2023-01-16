@@ -12,7 +12,17 @@ third_nav_title: CCA and Interest Groups
 <img src="/images/vocal%20accord.png"  style="width:70%">
 </a>
 <br>
-<a href="https://staging.d270c0tj2w26u.amplifyapp.com/choir/">
-<img src="/images/choir-1.png"  style="width:70%">
+<a href="https://staging.d270c0tj2w26u.amplifyapp.com/cpa/">
+<img src="/images/cpa.png"  style="width:70%">
 </a>
 <br>
+<a href="https://staging.d270c0tj2w26u.amplifyapp.com/dancevenia/">
+<img src="/images/dance%20venia.png"  style="width:70%">
+</a>
+<br>
+<a href="https://staging.d270c0tj2w26u.amplifyapp.com/dancevenia/">
+<img src="/images/dance%20venia.png"  style="width:70%">
+</a>
+<br>
+
+
