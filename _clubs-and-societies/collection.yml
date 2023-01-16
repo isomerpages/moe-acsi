@@ -2,13 +2,13 @@ collections:
   clubs-and-societies:
     output: true
     order:
-      - Multi Purpose Co Op Society/News & Links.md
-      - Multi Purpose Co Op Society/Gallery.md
-      - Multi Purpose Co Op Society/Schedule.md
-      - Multi Purpose Co Op Society/Student Committee.md
-      - Multi Purpose Co Op Society/Teachers.md
-      - Multi Purpose Co Op Society/Multi Purpose Co Operative Society.md
       - Multi Purpose Co Op Society/.keep
+      - Multi Purpose Co Op Society/Multi Purpose Co Operative Society.md
+      - Multi Purpose Co Op Society/Teachers.md
+      - Multi Purpose Co Op Society/Student Committee.md
+      - Multi Purpose Co Op Society/Schedule.md
+      - Multi Purpose Co Op Society/Gallery.md
+      - Multi Purpose Co Op Society/News & Links.md
       - Robotics Technology Society/.keep
       - Robotics Technology Society/Robotics Technology Society.md
       - Robotics Technology Society/Teachers.md
