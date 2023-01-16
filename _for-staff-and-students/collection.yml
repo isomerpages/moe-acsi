@@ -2,5 +2,6 @@ collections:
   for-staff-and-students:
     output: true
     order:
+      - Student Email & Office 365.md
       - STUDENT LEARNING SPACE (SLS).md
       - Learning Management System.md
