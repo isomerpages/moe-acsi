@@ -9,3 +9,4 @@ description: ""
 * [ManageBac](https://acsindep.managebac.com/login)
 * [Career Opportunities & Guidance](https://staging.d270c0tj2w26u.amplifyapp.com/student-development/career-opp-guidance/)
 * [Textbook Matters](https://staging.d270c0tj2w26u.amplifyapp.com/for-students/textbook/)
+* [Student Accident Insurance](https://staging.d270c0tj2w26u.amplifyapp.com/for-students/student-accident-insurance/)
