@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Young Innovators’ Society/FAQ.md
       - Young Innovators’ Society/Our Gallery.md
       - Young Innovators’ Society/What We Do.md
       - Young Innovators’ Society/Our Team.md
