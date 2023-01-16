@@ -52,3 +52,41 @@ third_nav_title: CCA and Interest Groups
 <img src="/images/media%20production.png"  style="width:70%">
 </a>
 <br>
+<a href="https://staging.d270c0tj2w26u.amplifyapp.com/mediaresource/">
+<img src="/images/media%20resource.png"  style="width:70%">
+</a>
+<br>
+<a href="https://staging.d270c0tj2w26u.amplifyapp.com/photog/">
+<img src="/images/photography.png"  style="width:70%">
+</a>
+<br>
+<a href="https://staging.d270c0tj2w26u.amplifyapp.com/robotics/">
+<img src="/images/robotics.png"  style="width:70%">
+</a>
+<br>
+<a href="https://staging.d270c0tj2w26u.amplifyapp.com/co-op/">
+<img src="/images/multi%20purpose%20coop%20society.png"  style="width:70%">
+</a>
+<br>
+<a href="https://staging.d270c0tj2w26u.amplifyapp.com/magazine/">
+<img src="/images/editorial%20board.png"  style="width:70%">
+</a>
+<br>
+<a href="https://staging.d270c0tj2w26u.amplifyapp.com/src/">
+<img src="/images/science%20research%20challenge.png"  style="width:70%">
+</a>
+<br>
+<a href="https://staging.d270c0tj2w26u.amplifyapp.com/yes/">
+<img src="/images/yes.png"  style="width:70%">
+</a>
+<br>
+<a href="https://staging.d270c0tj2w26u.amplifyapp.com/yds/">
+<img src="/images/yds.png"  style="width:70%">
+</a>
+<br>
+<a href="https://staging.d270c0tj2w26u.amplifyapp.com/young-innovators-society/">
+<img src="/images/young%20innovators'%20society.png"  style="width:70%">
+</a>
+<br>
+
+
