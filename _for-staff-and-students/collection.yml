@@ -2,6 +2,7 @@ collections:
   for-staff-and-students:
     output: true
     order:
+      - Textbook Matters.md
       - Student Email & Office 365.md
       - STUDENT LEARNING SPACE (SLS).md
       - Learning Management System.md
