@@ -9,5 +9,7 @@ description: ""
 * [ManageBac](https://acsindep.managebac.com/login)
 * [Career Opportunities & Guidance](https://staging.d270c0tj2w26u.amplifyapp.com/student-development/career-opp-guidance/)
 * [Textbook Matters](https://staging.d270c0tj2w26u.amplifyapp.com/for-students/textbook/)
+* ACS(I) Library Digital Toolkit
 * [Student Accident Insurance](https://staging.d270c0tj2w26u.amplifyapp.com/for-students/student-accident-insurance/)
 * [Uniform Matters](https://staging.d270c0tj2w26u.amplifyapp.com/for-students/uniform/)
+* [Financial Assistance](https://staging.d270c0tj2w26u.amplifyapp.com/about-acs-independent/fee/financial-assistance/)
