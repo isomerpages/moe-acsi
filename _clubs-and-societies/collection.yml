@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Multi Purpose Co Op Society/Multi Purpose Co Operative Society.md
       - Multi Purpose Co Op Society/.keep
       - Robotics Technology Society/.keep
       - Robotics Technology Society/Robotics Technology Society.md
