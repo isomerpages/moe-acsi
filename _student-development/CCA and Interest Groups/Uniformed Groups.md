@@ -32,4 +32,3 @@ third_nav_title: CCA and Interest Groups
 <img src="/images/npcc1.png"  style="width:70%">
 </a>
 <br>
-
