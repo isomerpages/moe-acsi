@@ -2,6 +2,8 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Science Research Challenge/List of Competition, Science Fair & Research
+        Programme.md
       - Science Research Challenge/Schedule.md
       - Science Research Challenge/Executive Committee.md
       - Science Research Challenge/Teachers.md
