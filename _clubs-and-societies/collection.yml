@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Young Entrepreneurs’ Society/Teachers.md
       - Young Entrepreneurs’ Society/Executive Committee (2021 – 2022).md
       - Young Entrepreneurs’ Society/Young Entrepreneurs’ Society.md
       - Young Entrepreneurs’ Society/.keep
