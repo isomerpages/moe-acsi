@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - Contact Us.md
       - For Staff.md
       - For Students.md
       - For Parents.md
