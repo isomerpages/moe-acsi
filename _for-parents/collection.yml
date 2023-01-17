@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Parent Support Group/Message From Our Chairman.md
       - Parent Support Group/ACS (Independent) Parent Support Group.md
       - Parent Support Group/.keep
       - Update of Particulars.md
