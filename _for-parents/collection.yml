@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Leave Of Absence (LOA).md
       - Parents’ Portal & ASKnLearn/.keep
       - Parents’ Portal & ASKnLearn/Parents’ Portal & ASKnLearn™ app.md
       - Parents’ Portal & ASKnLearn/FAQ.md
@@ -24,3 +23,4 @@ collections:
       - Parent Support Group/Events Archive.md
       - Parent Support Group/PSG Talks, Seminars & Workshops.md
       - Parent Support Group/Contact Us.md
+      - Leave Of Absence (LOA).md
