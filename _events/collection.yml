@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Well Being Education Symposium/Payment.md
       - Well Being Education Symposium/Registration.md
       - Well Being Education Symposium/Breakout sessions.md
       - Well Being Education Symposium/Keynote speakers.md
