@@ -2,7 +2,7 @@ collections:
   quick-links:
     output: true
     order:
-      - For Alumni.md
-      - For Parents.md
-      - For Students.md
       - For Staff.md
+      - For Students.md
+      - For Parents.md
+      - For Alumni.md
