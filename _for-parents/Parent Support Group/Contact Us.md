@@ -17,8 +17,9 @@ E-mail: [psg@as.acsi.edu.sg](mailto:psg@as.acsi.edu.sg)
 <a href="https://t.me/ACSIPSG">
 <img src="/images/Telegram-128px.png" alt="telegram"  style="width:10%" align = "left">
 </a>
+<br><br><br>
 
-**PSG Sub-Committee Contact Persons**
+### PSG Sub-Committee Contact Persons
 
 **Parents’ Prayer Group**  
 
