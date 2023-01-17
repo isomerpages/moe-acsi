@@ -2,9 +2,9 @@ collections:
   oep-gallery:
     output: true
     order:
-      - "HSP CLASS OF 2014/HSP OEP 2014 : Taiwan.md"
-      - HSP CLASS OF 2014/HSP Class of 2014.md
       - HSP CLASS OF 2014/.keep
+      - HSP CLASS OF 2014/HSP Class of 2014.md
+      - "HSP CLASS OF 2014/HSP OEP 2014 : Taiwan.md"
       - HSP OEP Class of 2020.md
       - "HSP OEP Class of 2019: Japan.md"
       - "HSP OEP Class of 2018: China – Wuhan, Nanjing & Shanghai.md"
