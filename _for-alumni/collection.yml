@@ -1,0 +1,4 @@
+collections:
+  for-alumni:
+    output: true
+    order: []
