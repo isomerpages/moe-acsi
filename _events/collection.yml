@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Well Being Education Symposium/Well–being Education Symposium 2021.md
       - Well Being Education Symposium/.keep
       - Events.md
       - School Calendar.md
