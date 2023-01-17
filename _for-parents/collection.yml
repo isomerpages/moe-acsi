@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Parent Support Group/Gratitude & Blessings.md
       - Parent Support Group/Prayer Power!.md
       - Parent Support Group/2022 to 2023 PSG Committee.md
       - Parent Support Group/PSG Affirmation of Commitment.md
