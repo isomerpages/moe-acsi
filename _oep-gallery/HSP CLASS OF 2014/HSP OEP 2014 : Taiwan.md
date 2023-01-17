@@ -4,12 +4,7 @@ permalink: /talent-development/humanities-scholarship-programme/overseasexposure
 description: ""
 third_nav_title: HSP CLASS OF 2014
 ---
-![]()
-![]()
-![]()
-![]()
-![](/images/2014-Taiwan%205.jpeg)
-![](/images/2014-Taiwan%206.jpeg)
+
 ![](/images/2014-Taiwan%207.jpeg)
 ![](/images/2014-Taiwan%208.jpeg)
 ![](/images/2014-Taiwan%209.jpeg)
@@ -36,8 +31,8 @@ third_nav_title: HSP CLASS OF 2014
     <td style ="text-align:center"><a href="/images/2014-Taiwan%204.jpeg"> <img src="/images/2014-Taiwan%204.jpeg" style="width:200px"></a></td>
   </tr>
    <tr>
-    <td style ="text-align:center"><a href="/images/2015-batam%205.jpeg"> <img src="/images/2015-batam%205.jpeg" style="width:200px; height: 130px"></a></td>
-    <td style ="text-align:center"><a href="/images/2015-batam%206.jpeg"> <img src="/images/2015-batam%206.jpeg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/2014-Taiwan%205.jpeg"> <img src="/images/2014-Taiwan%205.jpeg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/2014-Taiwan%206.jpeg"> <img src="/images/2014-Taiwan%206.jpeg" style="width:200px"></a></td>
     <td style ="text-align:center"><a href="/images/2015-batam%207.jpeg"> <img src="/images/2015-batam%207.jpeg" style="width:200px"></a></td>
     <td style ="text-align:center"><a href="/images/2015-batam%208.jpeg"> <img src="/images/2015-batam%208.jpeg" style="width:200px"></a></td>
   </tr>
