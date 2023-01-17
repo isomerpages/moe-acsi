@@ -25,24 +25,15 @@ HSP WOW 2015 : Batam, Indonesia
     <td style ="text-align:center"><a href="/images/2015-batam%204.jpeg"> <img src="/images/2015-batam%204.jpeg" style="width:200px"></a></td>
   </tr>
    <tr>
-    <td style ="text-align:center"><a href="/images/OEP%20Gallery/2017/Picture5.jpg"> <img src="/images/OEP%20Gallery/2017/Picture5.jpg" style="width:200px; height: 130px"></a></td>
-    <td style ="text-align:center"><a href="/images/OEP%20Gallery/2017/Picture6.jpg"> <img src="/images/OEP%20Gallery/2017/Picture6.jpg" style="width:200px"></a></td>
-    <td style ="text-align:center"><a href="/images/OEP%20Gallery/2017/Picture7.jpg"> <img src="/images/OEP%20Gallery/2017/Picture7.jpg" style="width:200px"></a></td>
-    <td style ="text-align:center"><a href="/images/OEP%20Gallery/2017/Picture8.jpg"> <img src="/images/OEP%20Gallery/2017/Picture8.jpg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/2015-batam%205.jpeg"> <img src="/images/2015-batam%205.jpeg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/2015-batam%206.jpeg"> <img src="/images/2015-batam%206.jpeg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/2015-batam%207.jpeg"> <img src="/images/2015-batam%207.jpeg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/2015-batam%208.jpeg"> <img src="/images/2015-batam%208.jpeg" style="width:200px"></a></td>
   </tr>
 	<tr>
-    <td style ="text-align:center"><a href="/images/OEP%20Gallery/2017/Picture5.jpg"> <img src="/images/OEP%20Gallery/2017/Picture5.jpg" style="width:200px; height: 130px"></a></td>
-    <td style ="text-align:center"><a href="/images/OEP%20Gallery/2017/Picture6.jpg"> <img src="/images/OEP%20Gallery/2017/Picture6.jpg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/2015-batam%209.jpeg"> <img src="/images/2015-batam%209.jpeg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/2015-batam%2010.jpeg"> <img src="/images/2015-batam%2010.jpeg" style="width:200px"></a></td>
 	</tr>
 </tbody>
 </table>
 
-![]()
-![]()
-![]()
-![](/images/2015-batam%205.jpeg)
-![](/images/2015-batam%206.jpeg)
-![](/images/2015-batam%207.jpeg)
-![](/images/2015-batam%208.jpeg)
-![](/images/2015-batam%209.jpeg)
-![](/images/2015-batam%2010.jpeg)
