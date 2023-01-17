@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Parent Support Group/.keep
       - Update of Particulars.md
       - Online Health Declaration Form.md
       - Road Safety and Traffic Matters.md
