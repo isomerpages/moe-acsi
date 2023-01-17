@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Parent Support Group/Hospitality & Integration (Hi!) Programme.md
       - Parent Support Group/Membership and Outreach.md
       - Parent Support Group/Gratitude & Blessings.md
       - Parent Support Group/Prayer Power!.md
