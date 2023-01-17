@@ -2,4 +2,5 @@ collections:
   for-parents:
     output: true
     order:
+      - Parents’ Portal & ASKnLearn/Parents’ Portal & ASKnLearn™ app.md
       - Parents’ Portal & ASKnLearn/.keep
