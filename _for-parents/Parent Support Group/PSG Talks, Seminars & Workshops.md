@@ -25,9 +25,10 @@ During the current Covid-19 pandemic, PSG talks, seminars and workshops are stil
 Follow us on **Facebook** or our **Telegram** channel now to keep up-to-date on our upcoming talks.
 
 <a href="https://www.facebook.com/ACSIPSG/">
-<img src="/images/Facebook-128px.png" alt="facebook"  style="width:20%">
+<img src="/images/Facebook-128px.png" alt="facebook"  style="width:10%" align = "left">
 </a>
-<br>
+<br><br><br>
 <a href="https://t.me/ACSIPSG">
-<img src="/images/Telegram-128px.png" alt="telegram"  style="width:20%">
+<img src="/images/Telegram-128px.png" alt="telegram"  style="width:10%" align = "left">
 </a>
+<br><br><br>
