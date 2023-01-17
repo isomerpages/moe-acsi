@@ -2,4 +2,5 @@ collections:
   for-alumni:
     output: true
     order:
+      - Alumni Relations Office.md
       - Oldham Club.md
