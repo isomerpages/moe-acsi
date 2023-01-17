@@ -1,4 +1,5 @@
 collections:
   for-alumni:
     output: true
-    order: []
+    order:
+      - Oldham Club.md
