@@ -36,5 +36,3 @@ HSP WOW 2015 : Batam, Indonesia
 	</tr>
 </tbody>
 </table>
-
-
