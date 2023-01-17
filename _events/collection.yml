@@ -2,6 +2,11 @@ collections:
   events:
     output: true
     order:
+      - Events.md
+      - School Calendar.md
+      - OPEN HOUSE/.keep
+      - OPEN HOUSE/Open House.md
+      - OPEN HOUSE/School Videos.md
       - Well Being Education Symposium/.keep
       - Well Being Education Symposium/Well–being Education Symposium 2021.md
       - Well Being Education Symposium/Programme.md
@@ -12,8 +17,3 @@ collections:
       - Well Being Education Symposium/Accessing Microsoft Teams for the WE
         Symposium.md
       - Well Being Education Symposium/Contact Us.md
-      - Events.md
-      - School Calendar.md
-      - OPEN HOUSE/.keep
-      - OPEN HOUSE/Open House.md
-      - OPEN HOUSE/School Videos.md
