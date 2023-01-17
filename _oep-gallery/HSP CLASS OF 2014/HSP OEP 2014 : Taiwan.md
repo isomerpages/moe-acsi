@@ -4,6 +4,21 @@ permalink: /talent-development/humanities-scholarship-programme/overseasexposure
 description: ""
 third_nav_title: HSP CLASS OF 2014
 ---
+![](/images/2014-Taiwan%201.jpeg)
+![](/images/2014-Taiwan%202.jpeg)
+![](/images/2014-Taiwan%203.jpeg)
+![](/images/2014-Taiwan%204.jpeg)
+![](/images/2014-Taiwan%205.jpeg)
+![](/images/2014-Taiwan%206.jpeg)
+![](/images/2014-Taiwan%207.jpeg)
+![](/images/2014-Taiwan%208.jpeg)
+![](/images/2014-Taiwan%209.jpeg)
+![](/images/2014-Taiwan%2010.jpeg)
+![](/images/2014-Taiwan%2011.jpeg)
+![](/images/2014-Taiwan%2012.jpeg)
+![](/images/2014-Taiwan%2013.jpeg)
+![](/images/2014-Taiwan%2014.jpeg)
+![](/images/2014-Taiwan%2015.jpeg)
 <table>
 <thead>
   <tr>
