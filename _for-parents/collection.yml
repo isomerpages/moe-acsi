@@ -2,6 +2,13 @@ collections:
   for-parents:
     output: true
     order:
+      - Parents’ Portal & ASKnLearn/.keep
+      - Parents’ Portal & ASKnLearn/Parents’ Portal & ASKnLearn™ app.md
+      - Parents’ Portal & ASKnLearn/FAQ.md
+      - Parents Gateway.md
+      - Road Safety and Traffic Matters.md
+      - Online Health Declaration Form.md
+      - Update of Particulars.md
       - Parent Support Group/.keep
       - Parent Support Group/ACS (Independent) Parent Support Group.md
       - Parent Support Group/About Us.md
@@ -16,10 +23,3 @@ collections:
       - Parent Support Group/Events Archive.md
       - Parent Support Group/PSG Talks, Seminars & Workshops.md
       - Parent Support Group/Contact Us.md
-      - Update of Particulars.md
-      - Online Health Declaration Form.md
-      - Road Safety and Traffic Matters.md
-      - Parents Gateway.md
-      - Parents’ Portal & ASKnLearn/.keep
-      - Parents’ Portal & ASKnLearn/Parents’ Portal & ASKnLearn™ app.md
-      - Parents’ Portal & ASKnLearn/FAQ.md
