@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Well Being Education Symposium/Contact Us.md
       - Well Being Education Symposium/Accessing Microsoft Teams for the WE
         Symposium.md
       - Well Being Education Symposium/Payment.md
