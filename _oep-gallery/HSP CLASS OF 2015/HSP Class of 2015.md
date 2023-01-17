@@ -19,7 +19,7 @@ HSP WOW 2015 : Batam, Indonesia
 </thead>
 <tbody>
   <tr>
-    <td style ="text-align:center"><a href="/images/OEP%20Gallery/2017/Picture1.png"> <img src="/images/OEP%20Gallery/2017/Picture1.png" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/2015-batam%201.jpeg"> <img src="/images/2015-batam%201.jpeg" style="width:200px"></a></td>
     <td style ="text-align:center"><a href="/images/OEP%20Gallery/2017/Picture2.jpg"> <img src="/images/OEP%20Gallery/2017/Picture2.jpg" style="width:200px"></a></td>
     <td style ="text-align:center"><a href="/images/OEP%20Gallery/2017/Picture3.jpg"> <img src="/images/OEP%20Gallery/2017/Picture3.jpg" style="width:200px; height: 130px"></a></td>
     <td style ="text-align:center"><a href="/images/OEP%20Gallery/2017/Picture4.jpg"> <img src="/images/OEP%20Gallery/2017/Picture4.jpg" style="width:200px"></a></td>
@@ -36,3 +36,5 @@ HSP WOW 2015 : Batam, Indonesia
 	</tr>
 </tbody>
 </table>
+
+
