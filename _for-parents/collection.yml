@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Leave Of Absence (LOA).md
       - Parents’ Portal & ASKnLearn/.keep
       - Parents’ Portal & ASKnLearn/Parents’ Portal & ASKnLearn™ app.md
       - Parents’ Portal & ASKnLearn/FAQ.md
