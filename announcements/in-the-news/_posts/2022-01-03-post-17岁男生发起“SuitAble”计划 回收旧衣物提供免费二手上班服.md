@@ -6,3 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+<a href="/files/17-SuitAble.pdf"></a><img src="/images/17-SuitAble.png">
+
+Source: Lianhe Zaobao / 联合早报 © SPH Media Limited. Permission required for reproduction.
+
+
