@@ -4,14 +4,6 @@ permalink: /badminton/gallery/
 description: ""
 third_nav_title: Badminton
 ---
-![](/images/badminton%205.jpeg)
-![](/images/badminton%206.jpeg)
-![](/images/badminton%207.jpeg)
-![](/images/badminton%208.jpeg)
-![](/images/badminton%209.jpeg)
-![](/images/badminton%2010.jpeg)
-![](/images/badminton%2011.jpeg)
-![](/images/badminton%2012.jpeg)
 ![](/images/badminton%2013.jpeg)
 ![](/images/badminton%2014.jpeg)
 ![](/images/badminton%2015.jpeg)
@@ -50,16 +42,16 @@ third_nav_title: Badminton
     <td style ="text-align:center"><a href="/images/badminton%204.jpeg"> <img src="/images/badminton%204.jpeg" style="width:200px"></a></td>
   </tr>
    <tr>
-    <td style ="text-align:center"><a href="/images/2014-Taiwan%205.jpeg"> <img src="/images/2014-Taiwan%205.jpeg" style="width:200px; height: 130px"></a></td>
-    <td style ="text-align:center"><a href="/images/2014-Taiwan%206.jpeg"> <img src="/images/2014-Taiwan%206.jpeg" style="width:200px"></a></td>
-    <td style ="text-align:center"><a href="/images/2014-Taiwan%207.jpeg"> <img src="/images/2014-Taiwan%207.jpeg" style="width:200px"></a></td>
-    <td style ="text-align:center"><a href="/images/2014-Taiwan%208.jpeg"> <img src="/images/2014-Taiwan%208.jpeg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/badminton%205.jpeg"> <img src="/images/badminton%205.jpeg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/badminton%206.jpeg"> <img src="/images/badminton%206.jpeg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/badminton%207.jpeg"> <img src="/images/badminton%207.jpeg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/badminton%208.jpeg"> <img src="/images/badminton%208.jpeg" style="width:200px"></a></td>
   </tr>
 	<tr>
-    <td style ="text-align:center"><a href="/images/2014-Taiwan%209.jpeg"> <img src="/images/2014-Taiwan%209.jpeg" style="width:200px; height: 130px"></a></td>
-    <td style ="text-align:center"><a href="/images/2014-Taiwan%2010.jpeg"> <img src="/images/2014-Taiwan%2010.jpeg" style="width:200px"></a></td>
-		<td style ="text-align:center"><a href="/images/2014-Taiwan%2011.jpeg"> <img src="/images/2014-Taiwan%2011.jpeg" style="width:200px"></a></td>
-		<td style ="text-align:center"><a href="/images/2014-Taiwan%2012.jpeg"> <img src="/images/2014-Taiwan%2012.jpeg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/badminton%209.jpeg"> <img src="/images/badminton%209.jpeg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/badminton%2010.jpeg"> <img src="/images/badminton%2010.jpeg" style="width:200px"></a></td>
+		<td style ="text-align:center"><a href="/images/badminton%2011.jpeg"> <img src="/images/badminton%2011.jpeg" style="width:200px"></a></td>
+		<td style ="text-align:center"><a href="/images/badminton%2012.jpeg"> <img src="/images/badminton%2012.jpeg" style="width:200px"></a></td>
 	</tr>
 	<tr>
     <td style ="text-align:center"><a href="/images/2014-Taiwan%2013.jpeg"> <img src="/images/2014-Taiwan%2013.jpeg" style="width:200px; height: 130px"></a></td>
@@ -68,5 +60,3 @@ third_nav_title: Badminton
 	</tr>
 </tbody>
 </table>
-
-
