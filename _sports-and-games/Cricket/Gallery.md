@@ -83,28 +83,14 @@ third_nav_title: Cricket
 	<tr>
     <td style ="text-align:center"><a href="/images/cricket%2039.jpeg"> <img src="/images/cricket%2039.jpeg" style="width:200px; height: 130px"></a></td>
     <td style ="text-align:center"><a href="/images/cricket%2040.jpeg"> <img src="/images/cricket%2040.jpeg" style="width:200px"></a></td>
-		<td style ="text-align:center"><a href="/images/cricket%2033.jpeg"> <img src="/images/cricket%2033.jpeg" style="width:200px; height: 130px"></a></td>
-		<td style ="text-align:center"><a href="/images/cricket%2034.jpeg"> <img src="/images/cricket%2034.jpeg" style="width:200px; height: 130px"></a></td>
+		<td style ="text-align:center"><a href="/images/cricket%2041.jpeg"> <img src="/images/cricket%2041.jpeg" style="width:200px; height: 130px"></a></td>
+		<td style ="text-align:center"><a href="/images/cricket%2042.jpeg"> <img src="/images/cricket%2042.jpeg" style="width:200px; height: 130px"></a></td>
 	</tr>
 	<tr>
-    <td style ="text-align:center"><a href="/images/cricket%2031.gif"> <img src="/images/cricket%2031.gif" style="width:200px; height: 130px"></a></td>
-    <td style ="text-align:center"><a href="/images/cricket%2032.jpeg"> <img src="/images/cricket%2032.jpeg" style="width:200px"></a></td>
-		<td style ="text-align:center"><a href="/images/cricket%2033.jpeg"> <img src="/images/cricket%2033.jpeg" style="width:200px; height: 130px"></a></td>
-		<td style ="text-align:center"><a href="/images/cricket%2034.jpeg"> <img src="/images/cricket%2034.jpeg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/cricket%2043.jpeg"> <img src="/images/cricket%2043.jpeg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/cricket%2044.jpeg"> <img src="/images/cricket%2044.jpeg" style="width:200px"></a></td>
+		<td style ="text-align:center"><a href="/images/cricket%2045.jpeg"> <img src="/images/cricket%2045.jpeg" style="width:200px; height: 130px"></a></td>
+		<td style ="text-align:center"><a href="/images/cricket%2046.jpeg"> <img src="/images/cricket%2046.jpeg" style="width:200px; height: 130px"></a></td>
 	</tr>
 </tbody>
 </table>
-
-
-![]()
-![](/images/cricket%2036.jpeg)
-![](/images/cricket%2037.jpeg)
-![](/images/cricket%2038.jpeg)
-![](/images/cricket%2039.jpeg)
-![](/images/cricket%2040.jpeg)
-![](/images/cricket%2041.jpeg)
-![](/images/cricket%2042.jpeg)
-![](/images/cricket%2043.jpeg)
-![](/images/cricket%2044.jpeg)
-![](/images/cricket%2045.jpeg)
-![](/images/cricket%2046.jpeg)
