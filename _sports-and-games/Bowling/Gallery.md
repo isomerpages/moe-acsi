@@ -15,28 +15,26 @@ third_nav_title: Bowling
 </thead>
 <tbody>
   <tr>
-    <td style ="text-align:center"><a href="/images/badminton%201.jpeg"> <img src="/images/badminton%201.jpeg" style="width:200px"></a></td>
-    <td style ="text-align:center"><a href="/images/badminton%202.jpeg"> <img src="/images/badminton%202.jpeg" style="width:200px"></a></td>
-    <td style ="text-align:center"><a href="/images/badminton%203.jpeg"> <img src="/images/badminton%203.jpeg" style="width:200px; height: 130px"></a></td>
-    <td style ="text-align:center"><a href="/images/badminton%204.jpeg"> <img src="/images/badminton%204.jpeg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/bowling%201.jpeg"> <img src="/images/bowling%201.jpeg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/bowling%202.jpeg"> <img src="/images/bowling%202.jpeg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/bowling%203.jpeg"> <img src="/images/bowling%203.jpeg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/bowling%204.jpeg"> <img src="/images/bowling%204.jpeg" style="width:200px"></a></td>
   </tr>
    <tr>
-    <td style ="text-align:center"><a href="/images/badminton%205.jpeg"> <img src="/images/badminton%205.jpeg" style="width:200px; height: 130px"></a></td>
-    <td style ="text-align:center"><a href="/images/badminton%206.jpeg"> <img src="/images/badminton%206.jpeg" style="width:200px"></a></td>
-    <td style ="text-align:center"><a href="/images/badminton%207.jpeg"> <img src="/images/badminton%207.jpeg" style="width:200px"></a></td>
-    <td style ="text-align:center"><a href="/images/badminton%208.jpeg"> <img src="/images/badminton%208.jpeg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/bowling%205.jpeg"> <img src="/images/bowling%205.jpeg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/bowling%206.jpeg"> <img src="/images/bowling%206.jpeg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/bowling%207.jpeg"> <img src="/images/bowling%207.jpeg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/bowling%208.jpeg"> <img src="/images/bowling%208.jpeg" style="width:200px"></a></td>
   </tr>
 	<tr>
-    <td style ="text-align:center"><a href="/images/badminton%209.jpeg"> <img src="/images/badminton%209.jpeg" style="width:200px; height: 130px"></a></td>
-    <td style ="text-align:center"><a href="/images/badminton%2010.jpeg"> <img src="/images/badminton%2010.jpeg" style="width:200px"></a></td>
-		<td style ="text-align:center"><a href="/images/badminton%2011.jpeg"> <img src="/images/badminton%2011.jpeg" style="width:200px"></a></td>
-		<td style ="text-align:center"><a href="/images/badminton%2012.jpeg"> <img src="/images/badminton%2012.jpeg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/bowling%209.jpeg"> <img src="/images/bowling%209.jpeg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/bowling%2010.png"> <img src="/images/bowling%2010.png" style="width:200px"></a></td>
+		<td style ="text-align:center"><a href="/images/bowling%2011.png"> <img src="/images/bowling%2011.png" style="width:200px"></a></td>
+		<td style ="text-align:center"><a href="/images/bowling%2012.jpeg"> <img src="/images/bowling%2012.jpeg" style="width:200px"></a></td>
 	</tr>
 	<tr>
-    <td style ="text-align:center"><a href="/images/badminton%2013.jpeg"> <img src="/images/badminton%2013.jpeg" style="width:200px; height: 130px"></a></td>
-    <td style ="text-align:center"><a href="/images/badminton%2014.jpeg"> <img src="/images/badminton%2014.jpeg" style="width:200px"></a></td>
-		<td style ="text-align:center"><a href="/images/badminton%2015.jpeg"> <img src="/images/badminton%2015.jpeg" style="width:200px"></a></td>
-		<td style ="text-align:center"><a href="/images/badminton%2016.jpeg"> <img src="/images/badminton%2016.jpeg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/bowling%2013.jpeg"> <img src="/images/bowling%2013.jpeg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/bowling%2014.jpeg"> <img src="/images/bowling%2014.jpeg" style="width:200px"></a></td>
 	</tr>
 </tbody>
 </table>
