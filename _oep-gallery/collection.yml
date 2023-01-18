@@ -2,6 +2,7 @@ collections:
   oep-gallery:
     output: true
     order:
+      - HSP CLASS OF 2012/.keep
       - "HSP CLASS OF 2013/HSP OEP 2013 : Korea.md"
       - HSP CLASS OF 2013/HSP Class of 2013.md
       - HSP CLASS OF 2013/.keep
