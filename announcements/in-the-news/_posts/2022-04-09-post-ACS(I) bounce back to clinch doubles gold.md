@@ -6,3 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/Article-1_ACSI-bounce-back-to-clinch-doubles-gold-2048x1400.png)
+
+
+Source: The Straits Times © SPH Media Limited. Permission required for reproduction.
