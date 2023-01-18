@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - HSP CLASS OF 2012/.keep
-      - "HSP CLASS OF 2013/HSP OEP 2013 : Korea.md"
-      - HSP CLASS OF 2013/HSP Class of 2013.md
       - HSP CLASS OF 2013/.keep
+      - HSP CLASS OF 2013/HSP Class of 2013.md
+      - "HSP CLASS OF 2013/HSP OEP 2013 : Korea.md"
       - HSP CLASS OF 2014/.keep
       - HSP CLASS OF 2014/HSP Class of 2014.md
       - "HSP CLASS OF 2014/HSP OEP 2014 : Taiwan.md"
