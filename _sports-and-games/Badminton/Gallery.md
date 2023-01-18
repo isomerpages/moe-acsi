@@ -4,27 +4,6 @@ permalink: /badminton/gallery/
 description: ""
 third_nav_title: Badminton
 ---
-![](/images/badminton%2013.jpeg)
-![](/images/badminton%2014.jpeg)
-![](/images/badminton%2015.jpeg)
-![](/images/badminton%2016.jpeg)
-![](/images/badminton%2017.jpeg)
-![](/images/badminton%2018.jpeg)
-![](/images/badminton%2019.jpeg)
-![](/images/badminton%2020.jpeg)
-![](/images/badminton%2021.jpeg)
-![](/images/badminton%2022.jpeg)
-![](/images/badminton%2023.jpeg)
-![](/images/badminton%2024.jpeg)
-![](/images/badminton%2025.jpeg)
-![](/images/badminton%2026.jpeg)
-![](/images/badminton%2027.jpeg)
-![](/images/badminton%2028.jpeg)
-![](/images/badminton%2029.jpeg)
-![](/images/badminton%2030.jpeg)
-![](/images/badminton%2031.jpeg)
-
-
 <table>
 <thead>
   <tr>
@@ -54,9 +33,33 @@ third_nav_title: Badminton
 		<td style ="text-align:center"><a href="/images/badminton%2012.jpeg"> <img src="/images/badminton%2012.jpeg" style="width:200px"></a></td>
 	</tr>
 	<tr>
-    <td style ="text-align:center"><a href="/images/2014-Taiwan%2013.jpeg"> <img src="/images/2014-Taiwan%2013.jpeg" style="width:200px; height: 130px"></a></td>
-    <td style ="text-align:center"><a href="/images/2014-Taiwan%2014.jpeg"> <img src="/images/2014-Taiwan%2014.jpeg" style="width:200px"></a></td>
-		<td style ="text-align:center"><a href="/images/2014-Taiwan%2015.jpeg"> <img src="/images/2014-Taiwan%2015.jpeg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/badminton%2013.jpeg"> <img src="/images/badminton%2013.jpeg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/badminton%2014.jpeg"> <img src="/images/badminton%2014.jpeg" style="width:200px"></a></td>
+		<td style ="text-align:center"><a href="/images/badminton%2015.jpeg"> <img src="/images/badminton%2015.jpeg" style="width:200px"></a></td>
+		<td style ="text-align:center"><a href="/images/badminton%2016.jpeg"> <img src="/images/badminton%2016.jpeg" style="width:200px"></a></td>
+	</tr>
+	<tr>
+    <td style ="text-align:center"><a href="/images/badminton%2017.jpeg"> <img src="/images/badminton%2017.jpeg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/badminton%2018.jpeg"> <img src="/images/badminton%2018.jpeg" style="width:200px"></a></td>
+		<td style ="text-align:center"><a href="/images/badminton%2019.jpeg"> <img src="/images/badminton%2019.jpeg" style="width:200px"></a></td>
+		<td style ="text-align:center"><a href="/images/badminton%2020.jpeg"> <img src="/images/badminton%2020.jpeg" style="width:200px"></a></td>
+	</tr>
+	<tr>
+    <td style ="text-align:center"><a href="/images/badminton%2021.jpeg"> <img src="/images/badminton%2021.jpeg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/badminton%2022.jpeg"> <img src="/images/badminton%2022.jpeg" style="width:200px"></a></td>
+		<td style ="text-align:center"><a href="/images/badminton%2023.jpeg"> <img src="/images/badminton%2023.jpeg" style="width:200px"></a></td>
+		<td style ="text-align:center"><a href="/images/badminton%2024.jpeg"> <img src="/images/badminton%2024.jpeg" style="width:200px"></a></td>
+	</tr>
+	<tr>
+    <td style ="text-align:center"><a href="/images/badminton%2025.jpeg"> <img src="/images/badminton%2025.jpeg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/badminton%2026.jpeg"> <img src="/images/badminton%2026.jpeg" style="width:200px"></a></td>
+		<td style ="text-align:center"><a href="/images/badminton%2027.jpeg"> <img src="/images/badminton%2027.jpeg" style="width:200px"></a></td>
+		<td style ="text-align:center"><a href="/images/badminton%2028.jpeg"> <img src="/images/badminton%2028.jpeg" style="width:200px"></a></td>
+	</tr>
+	<tr>
+    <td style ="text-align:center"><a href="/images/badminton%2029.jpeg"> <img src="/images/badminton%2029.jpeg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/badminton%2030.jpeg"> <img src="/images/badminton%2030.jpeg" style="width:200px"></a></td>
+		<td style ="text-align:center"><a href="/images/badminton%2031.jpeg"> <img src="/images/badminton%2031.jpeg" style="width:200px"></a></td>
 	</tr>
 </tbody>
 </table>
