@@ -6,3 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
+<a href="/files/Singapore-students-IB-exams-again.pdf"></a><img src="/images/2022-Ib-score-big.jpg">
+
+
+Source: The Straits Times © Singapore Press Holdings Limited. Permission required for reproduction.
