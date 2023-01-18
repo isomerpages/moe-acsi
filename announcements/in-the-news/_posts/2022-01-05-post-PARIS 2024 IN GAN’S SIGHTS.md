@@ -6,3 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/Paris-2024-in-Gan-sights.png)
+
+Source: The Straits Times © Singapore Press Holdings Limited. Permission required for reproduction.
