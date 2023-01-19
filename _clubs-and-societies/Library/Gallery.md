@@ -29,12 +29,12 @@ third_nav_title: Library
 	<tr>
     <td style ="text-align:center"><a href="/images/library%209.jpeg"> <img src="/images/library%209.jpeg" style="width:200px; height: 130px"></a></td>
     <td style ="text-align:center"><a href="/images/library%2010.jpeg"> <img src="/images/library%2010.jpeg" style="width:200px"></a></td>
-    <td style ="text-align:center"><a href="/images/library%2011.png"> <img src="/images/library%2011.png" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/library%2011.jpeg"> <img src="/images/library%2011.jpeg" style="width:200px"></a></td>
 		<td style ="text-align:center"><a href="/images/library%2012.jpeg"> <img src="/images/library%2012.jpeg" style="width:200px"></a></td>
   </tr>
 	<tr>
     <td style ="text-align:center"><a href="/images/library%2013.jpeg"> <img src="/images/library%2013.jpeg" style="width:200px; height: 130px"></a></td>
-		<td style ="text-align:center"><a href="/images/library%2014.png"> <img src="/images/library%2014.png" style="width:200px; height: 130px"></a></td>
+		<td style ="text-align:center"><a href="/images/library%2014.jpeg"> <img src="/images/library%2014.jpeg" style="width:200px; height: 130px"></a></td>
 		<td style ="text-align:center"><a href="/images/library%2015.jpeg"> <img src="/images/library%2015.jpeg" style="width:200px; height: 130px"></a></td>
 		<td style ="text-align:center"><a href="/images/library%2016.jpeg"> <img src="/images/library%2016.jpeg" style="width:200px; height: 130px"></a></td>
   </tr>
