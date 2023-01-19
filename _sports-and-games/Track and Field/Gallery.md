@@ -96,3 +96,20 @@ third_nav_title: Track and Field
 
 
 <h3>Steeplechase</h3>
+
+<table>
+<thead>
+  <tr>
+    <th style="width:200px"></th>
+    <th style="width:200px"></th>
+    <th style="width:200px"></th>
+		<th style="width:200px"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style ="text-align:center"><a href="/images/Steeplechase%201.jpeg"> <img src="/images/Steeplechase%201.jpeg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/Steeplechase%202.jpeg"> <img src="/images/Steeplechase%202.jpeg" style="width:200px"></a></td>
+	</tr>
+</tbody>
+</table>
