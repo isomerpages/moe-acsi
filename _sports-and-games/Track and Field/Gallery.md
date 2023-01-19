@@ -146,18 +146,16 @@ third_nav_title: Track and Field
 </thead>
 <tbody>
   <tr>
-    <td style ="text-align:center"><a href="/images/throw%201.jpeg"> <img src="/images/throw%201.jpeg" style="width:200px"></a></td>
-    <td style ="text-align:center"><a href="/images/throw%202.jpeg"> <img src="/images/throw%202.jpeg" style="width:200px"></a></td>
-    <td style ="text-align:center"><a href="/images/throw%203.jpeg"> <img src="/images/throw%203.jpeg" style="width:200px; height: 130px"></a></td>
-    <td style ="text-align:center"><a href="/images/throw%204.jpeg"> <img src="/images/throw%204.jpeg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/sprints%201.jpeg"> <img src="/images/sprints%201.jpeg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/sprints%202.jpeg"> <img src="/images/sprints%202.jpeg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/sprints%203.jpeg"> <img src="/images/sprints%203.jpeg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/sprints%204.jpeg"> <img src="/images/sprints%204.jpeg" style="width:200px"></a></td>
   </tr>
    <tr>
-    <td style ="text-align:center"><a href="/images/throw%205.jpeg"> <img src="/images/throw%205.jpeg" style="width:200px; height: 130px"></a></td>
-    <td style ="text-align:center"><a href="/images/throw%206.jpeg"> <img src="/images/throw%206.jpeg" style="width:200px"></a></td>
-		 <td style ="text-align:center"><a href="/images/throw%206.jpeg"> <img src="/images/throw%206.jpeg" style="width:200px"></a></td>
-		 <td style ="text-align:center"><a href="/images/throw%206.jpeg"> <img src="/images/throw%206.jpeg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/sprints%205.jpeg"> <img src="/images/sprints%205.jpeg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/sprints%206.jpeg"> <img src="/images/sprints%206.jpeg" style="width:200px"></a></td>
+		 <td style ="text-align:center"><a href="/images/sprints%207.jpeg"> <img src="/images/sprints%207.jpeg" style="width:200px"></a></td>
+		 <td style ="text-align:center"><a href="/images/sprints%208.jpeg"> <img src="/images/sprints%208.jpeg" style="width:200px"></a></td>
 	</tr>
 </tbody>
 </table>
-
-
