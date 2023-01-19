@@ -4,7 +4,6 @@ permalink: /yds/gallery/
 description: ""
 third_nav_title: Young Diplomats’ Society
 ---
-
 <table>
 <thead>
   <tr>
