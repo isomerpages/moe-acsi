@@ -4,11 +4,6 @@ permalink: /sailing/gallery/
 description: ""
 third_nav_title: Sailing
 ---
-![](/images/sailing%2029.jpeg)
-
-![](/images/sailing%2030.jpeg)
-![](/images/sailing%2044.jpeg)
-
 <table>
 <thead>
   <tr>
