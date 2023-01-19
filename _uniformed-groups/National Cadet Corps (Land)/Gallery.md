@@ -4,7 +4,6 @@ permalink: /nccland/gallery/
 description: ""
 third_nav_title: National Cadet Corps (Land)
 ---
-![](/images/nccl%2010.jpeg)
 <table>
 <thead>
   <tr>
