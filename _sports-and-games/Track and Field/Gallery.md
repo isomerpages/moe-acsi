@@ -74,3 +74,22 @@ third_nav_title: Track and Field
 </table>
 
 <h3>Middle Distance</h3>
+
+<table>
+<thead>
+  <tr>
+    <th style="width:200px"></th>
+    <th style="width:200px"></th>
+    <th style="width:200px"></th>
+		<th style="width:200px"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style ="text-align:center"><a href="/images/mid%201.jpeg"> <img src="/images/mid%201.jpeg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/mid%202.jpeg"> <img src="/images/mid%202.jpeg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/mid%203.jpeg"> <img src="/images/mid%203.jpeg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/mid%204.jpeg"> <img src="/images/mid%204.jpeg" style="width:200px"></a></td>
+  </tr>
+</tbody>
+</table>
