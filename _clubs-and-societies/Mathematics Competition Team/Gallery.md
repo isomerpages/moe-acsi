@@ -9,7 +9,7 @@ third_nav_title: Mathematics Competition Team
   <tr>
     <th style="width:200px"></th>
     <th style="width:200px"></th>
-    <th style="width:a200px"></th>
+    <th style="width:200px"></th>
 		<th style="width:200px"></th>
   </tr>
 </thead>
