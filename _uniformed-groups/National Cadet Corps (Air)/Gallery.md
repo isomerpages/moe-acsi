@@ -4,8 +4,6 @@ permalink: /nccair/gallery/
 description: ""
 third_nav_title: National Cadet Corps (Air)
 ---
-![](/images/ncca%2012.jpeg)
-![](/images/ncca%2018.jpeg)
 <table>
 <thead>
   <tr>
@@ -46,4 +44,3 @@ third_nav_title: National Cadet Corps (Air)
   </tr>
 </tbody>
 </table>
-
