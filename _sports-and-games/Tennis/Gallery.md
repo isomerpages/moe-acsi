@@ -4,10 +4,6 @@ permalink: /tennis/gallery/
 description: ""
 third_nav_title: Tennis
 ---
-![]()
-![](/images/tennis%203.jpeg)
-![](/images/tennis%2031.jpeg)
-![](/images/tennis%2040.jpeg)
 <table>
 <thead>
   <tr>
@@ -51,32 +47,32 @@ third_nav_title: Tennis
 	<tr>
     <td style ="text-align:center"><a href="/images/tennis%2021.jpeg"> <img src="/images/tennis%2021.jpeg" style="width:200px; height: 130px"></a></td>
     <td style ="text-align:center"><a href="/images/tennis%2022.jpeg"> <img src="/images/tennis%2022.jpeg" style="width:200px"></a></td>
-		<td style ="text-align:center"><a href="/images/cricket%2029.jpeg"> <img src="/images/cricket%2029.jpeg" style="width:200px"></a></td>
-		<td style ="text-align:center"><a href="/images/cricket%2030.gif"> <img src="/images/cricket%2030.gif" style="width:200px"></a></td>
+		<td style ="text-align:center"><a href="/images/tennis%2023.jpeg"> <img src="/images/tennis%2023.jpeg" style="width:200px"></a></td>
+		<td style ="text-align:center"><a href="/images/tennis%2024.jpeg"> <img src="/images/tennis%2024.jpeg" style="width:200px"></a></td>
 	</tr>
 	<tr>
-    <td style ="text-align:center"><a href="/images/cricket%2031.gif"> <img src="/images/cricket%2031.gif" style="width:200px; height: 130px"></a></td>
-    <td style ="text-align:center"><a href="/images/cricket%2032.jpeg"> <img src="/images/cricket%2032.jpeg" style="width:200px"></a></td>
-		<td style ="text-align:center"><a href="/images/cricket%2033.jpeg"> <img src="/images/cricket%2033.jpeg" style="width:200px; height: 130px"></a></td>
-		<td style ="text-align:center"><a href="/images/cricket%2034.jpeg"> <img src="/images/cricket%2034.jpeg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/tennis%2025.jpeg"> <img src="/images/tennis%2025.jpeg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/tennis%2026.jpeg"> <img src="/images/tennis%2026.jpeg" style="width:200px"></a></td>
+		<td style ="text-align:center"><a href="/images/tennis%2027.jpeg"> <img src="/images/tennis%2027.jpeg" style="width:200px; height: 130px"></a></td>
+		<td style ="text-align:center"><a href="/images/tennis%2028.jpeg"> <img src="/images/tennis%2028.jpeg" style="width:200px; height: 130px"></a></td>
 	</tr>
 	<tr>
-    <td style ="text-align:center"><a href="/images/cricket%2035.jpeg"> <img src="/images/cricket%2035.jpeg" style="width:200px; height: 130px"></a></td>
-    <td style ="text-align:center"><a href="/images/cricket%2036.jpeg"> <img src="/images/cricket%2036.jpeg" style="width:200px"></a></td>
-		<td style ="text-align:center"><a href="/images/cricket%2037.jpeg"> <img src="/images/cricket%2037.jpeg" style="width:200px; height: 130px"></a></td>
-		<td style ="text-align:center"><a href="/images/cricket%2038.jpeg"> <img src="/images/cricket%2038.jpeg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/tennis%2029.jpeg"> <img src="/images/tennis%2029.jpeg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/tennis%2030.jpeg"> <img src="/images/tennis%2030.jpeg" style="width:200px"></a></td>
+		<td style ="text-align:center"><a href="/images/tennis%2031.jpeg"> <img src="/images/tennis%2031.jpeg" style="width:200px; height: 130px"></a></td>
+		<td style ="text-align:center"><a href="/images/tennis%2032.jpeg"> <img src="/images/tennis%2032.jpeg" style="width:200px; height: 130px"></a></td>
 	</tr>
 	<tr>
-    <td style ="text-align:center"><a href="/images/cricket%2039.jpeg"> <img src="/images/cricket%2039.jpeg" style="width:200px; height: 130px"></a></td>
-    <td style ="text-align:center"><a href="/images/cricket%2040.jpeg"> <img src="/images/cricket%2040.jpeg" style="width:200px"></a></td>
-		<td style ="text-align:center"><a href="/images/cricket%2041.jpeg"> <img src="/images/cricket%2041.jpeg" style="width:200px; height: 130px"></a></td>
-		<td style ="text-align:center"><a href="/images/cricket%2042.jpeg"> <img src="/images/cricket%2042.jpeg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/tennis%2033.jpeg"> <img src="/images/tennis%2033.jpeg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/tennis%2034.jpeg"> <img src="/images/tennis%2034.jpeg" style="width:200px"></a></td>
+		<td style ="text-align:center"><a href="/images/tennis%2035.jpeg"> <img src="/images/tennis%2035.jpeg" style="width:200px; height: 130px"></a></td>
+		<td style ="text-align:center"><a href="/images/tennis%2036.jpeg"> <img src="/images/tennis%2036.jpeg" style="width:200px; height: 130px"></a></td>
 	</tr>
 	<tr>
-    <td style ="text-align:center"><a href="/images/cricket%2043.jpeg"> <img src="/images/cricket%2043.jpeg" style="width:200px; height: 130px"></a></td>
-    <td style ="text-align:center"><a href="/images/cricket%2044.jpeg"> <img src="/images/cricket%2044.jpeg" style="width:200px"></a></td>
-		<td style ="text-align:center"><a href="/images/cricket%2045.jpeg"> <img src="/images/cricket%2045.jpeg" style="width:200px; height: 130px"></a></td>
-		<td style ="text-align:center"><a href="/images/cricket%2046.jpeg"> <img src="/images/cricket%2046.jpeg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/tennis%2037.jpeg"> <img src="/images/tennis%2037.jpeg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/tennis%2038.jpeg"> <img src="/images/tennis%2038.jpeg" style="width:200px"></a></td>
+		<td style ="text-align:center"><a href="/images/tennis%2039.jpeg"> <img src="/images/tennis%2039.jpeg" style="width:200px; height: 130px"></a></td>
+		<td style ="text-align:center"><a href="/images/tennis%2040.jpeg"> <img src="/images/tennis%2040.jpeg" style="width:200px; height: 130px"></a></td>
 	</tr>
 </tbody>
 </table>
