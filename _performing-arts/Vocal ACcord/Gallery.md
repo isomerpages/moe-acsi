@@ -4,9 +4,6 @@ permalink: /vocal-accord/gallery/
 description: ""
 third_nav_title: Vocal ACcord
 ---
-![](/images/cpa%204.png)
-![](/images/cpa%209.jpeg)
-![](/images/cpa%2068.jpeg)
 <table>
 <thead>
   <tr>
@@ -106,6 +103,18 @@ third_nav_title: Vocal ACcord
     <td style ="text-align:center"><a href="/images/cpa%2058.jpeg"> <img src="/images/cpa%2058.jpeg" style="width:200px"></a></td>
 		<td style ="text-align:center"><a href="/images/cpa%2059.jpeg"> <img src="/images/cpa%2059.jpeg" style="width:200px"></a></td>
 		<td style ="text-align:center"><a href="/images/cpa%2060.jpeg"> <img src="/images/cpa%2060.jpeg" style="width:200px"></a></td>
+	</tr>
+	<tr>
+    <td style ="text-align:center"><a href="/images/cpa%2061.jpeg"> <img src="/images/cpa%2061.jpeg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/cpa%2062.jpeg"> <img src="/images/cpa%2062.jpeg" style="width:200px"></a></td>
+		<td style ="text-align:center"><a href="/images/cpa%2063.jpeg"> <img src="/images/cpa%2063.jpeg" style="width:200px"></a></td>
+		<td style ="text-align:center"><a href="/images/cpa%2064.jpeg"> <img src="/images/cpa%2064.jpeg" style="width:200px"></a></td>
+	</tr>
+	<tr>
+    <td style ="text-align:center"><a href="/images/cpa%2065.jpeg"> <img src="/images/cpa%2065.jpeg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/cpa%2066.jpeg"> <img src="/images/cpa%2066.jpeg" style="width:200px"></a></td>
+		<td style ="text-align:center"><a href="/images/cpa%2067.jpeg"> <img src="/images/cpa%2067.jpeg" style="width:200px"></a></td>
+		<td style ="text-align:center"><a href="/images/cpa%2068.jpeg"> <img src="/images/cpa%2068.jpeg" style="width:200px"></a></td>
 	</tr>
 </tbody>
 </table>
