@@ -11,13 +11,13 @@ sections:
       key_highlights:
         - title: Annoucements
           description: Click here for annoucements
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+          url: /news-announcements/
+        - title: School Calendar
+          description: "Click here to view "
+          url: /events/calendar/
+        - title: Events
+          description: Click here to view
+          url: /events/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
