@@ -54,3 +54,32 @@ third_nav_title: Choir
 
 **Welcome Session for New Members – Games Day 2 on  January 18**
 
+<table>
+<thead>
+  <tr>
+    <th style="width:200px"></th>
+    <th style="width:200px"></th>
+    <th style="width:200px"></th>
+		<th style="width:200px"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style ="text-align:center"><a href="/images/IMG_7143.jpg"> <img src="/images/IMG_7143.jpg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/IMG_7144.jpg"> <img src="/images/IMG_7144.jpg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/IMG_7145.jpg"> <img src="/images/IMG_7145.jpg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/IMG_7146.jpg"> <img src="/images/IMG_7146.jpg" style="width:200px"></a></td>
+  </tr>
+	 <tr>
+    <td style ="text-align:center"><a href="/images/IMG_7147.jpg"> <img src="/images/IMG_7147.jpg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/IMG_7148.jpg"> <img src="/images/IMG_7148.jpg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/IMG_7149.jpg"> <img src="/images/IMG_7149.jpg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/IMG_7150.jpg"> <img src="/images/IMG_7150.jpg" style="width:200px"></a></td>
+  </tr>
+	<tr>
+    <td style ="text-align:center"><a href="/images/IMG_7151.jpg"> <img src="/images/IMG_7151.jpg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/IMG_7152.jpg"> <img src="/images/IMG_7152.jpg" style="width:200px"></a></td>
+  </tr>
+</tbody>
+</table>
+
