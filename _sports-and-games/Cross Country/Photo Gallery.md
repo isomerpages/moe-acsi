@@ -92,3 +92,103 @@ ACXamination Study Group… All the best for the coming Exams!
 ![](/images/cross%20country%2036.jpeg)
 
 **2022 Discovery Camp: Our volunteers helping to discover new talents in distance running**
+
+![](/images/cross%20country%2037.jpeg)
+
+**A Sad Farewell to our Crossers in 2021 \[We wish that all your dreams will come through… and KEEP RUNNING!\]**
+
+![](/images/cross%20country%2038.jpeg)
+
+![](/images/cross%20country%2039.jpeg)
+
+![](/images/cross%20country%2040.jpeg)
+
+![](/images/cross%20country%2041.jpeg)
+
+![](/images/cross%20country%2042.jpeg)
+
+![](/images/cross%20country%2043.jpeg)
+
+![](/images/cross%20country%2044.jpeg)
+
+![](/images/cross%20country%2045.jpeg)
+
+![](/images/cross%20country%2046.jpeg)
+
+**A BIG THANK YOU to our ACSI Cross-Country e-Open House Team on a job WELL DONE!!!**
+
+![](/images/cross%20country%2047.png)
+
+**Thanks to our 2 handymen for fixing up our bikes…**
+
+![](/images/cross%20country%2048.png)
+
+**Cross Camp 2021 (Who said we only run…)**
+
+![](/images/cross%20country%2049.png)
+
+![](/images/cross%20country%2050.png)
+
+![](/images/cross%20country%2051.png)
+
+**Our Cross Student-Athletes hard at work during Study Group… (2021)**
+
+![](/images/cross%20country%2052.jpeg)
+
+**Our Lady Crossers all ready to start training!!! (2021)**
+
+![](/images/cross%20country%2053.jpeg)
+
+**Our Cross Team ‘discovering’ new talents in our 2021 Year 1 Sports Bazaar!!!**
+
+![](/images/cross%20country%2054.jpeg)
+
+![](/images/cross%20country%2055.jpeg)
+
+**Our 2020 Year 4 boys ending their Cross career with Honours!!! Congratulations!!! You earned it!!!**
+
+![](/images/cross%20country%2056.jpeg)
+
+![](/images/cross%20country%2057.jpeg)
+
+![](/images/cross%20country%2058.jpeg)
+
+**Saying goodbye with a gift to our 2020 graduating ‘A’ Division Lady Crossers (socially distanced… of course)**
+
+![](/images/cross%20country%2059.jpeg)
+
+**Saying goodbye with a gift to our 2020 graduating ‘A’ Division Crossers (socially distanced… of course)**
+
+![](/images/cross%20country%2060.jpeg)
+
+**Cross e-Study Group (preparation for 2020 Final Year Exams)**
+
+![](/images/cross%20country%2061.jpeg)
+
+**Our ACSI e-Open House Team (2020) observing safe distancing measures**
+
+![](/images/cross%20country%2062.jpeg)
+
+**Honour’s Day 2019 (‘C’ Division Boys Team with their parents)**
+
+![](/images/cross%20country%2063.jpeg)
+
+**Our Team at the National Inter-School Cross-Country Championships (2019)**
+
+![](/images/cross%20country%2064.jpeg)
+
+**‘A’ Division Boys Team at the National Inter-School Cross-Country Championships (2019)**
+
+![](/images/cross%20country%2065.jpeg)
+
+**‘A’ Division Girls Team at the National Inter-School Cross-Country Championships (2019)**
+
+![](/images/cross%20country%2066.jpeg)
+
+**‘B’ Division Boys Team at the National Inter-School Cross-Country Championships (2019)**
+
+![](/images/cross%20country%2067.jpeg)
+
+**‘C’ Division Boys Team at the National Inter-School Cross-Country Championships (2019)**
+
+![](/images/cross%20country%2068.jpeg)
