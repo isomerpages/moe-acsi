@@ -16,28 +16,22 @@ third_nav_title: Young Diplomats’ Society
 </thead>
 <tbody>
   <tr>
-    <td style ="text-align:center"><a href="/images/src%201.jpeg"> <img src="/images/src%201.jpeg" style="width:200px"></a></td>
-    <td style ="text-align:center"><a href="/images/src%202.jpeg"> <img src="/images/src%202.jpeg" style="width:200px"></a></td>
-    <td style ="text-align:center"><a href="/images/src%203.jpeg"> <img src="/images/src%203.jpeg" style="width:200px; height: 130px"></a></td>
-    <td style ="text-align:center"><a href="/images/src%204.jpeg"> <img src="/images/src%204.jpeg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/yds1.jpeg"> <img src="/images/yds1.jpeg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/yds2.jpeg"> <img src="/images/yds2.jpeg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/yds3.jpeg"> <img src="/images/yds3.jpeg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/yds4.jpeg"> <img src="/images/yds4.jpeg" style="width:200px"></a></td>
   </tr>
    <tr>
-    <td style ="text-align:center"><a href="/images/src%205.jpeg"> <img src="/images/src%205.jpeg" style="width:200px; height: 130px"></a></td>
-    <td style ="text-align:center"><a href="/images/src%206.jpeg"> <img src="/images/src%206.jpeg" style="width:200px"></a></td>
-    <td style ="text-align:center"><a href="/images/src%207.jpeg"> <img src="/images/src%207.jpeg" style="width:200px"></a></td>
-    <td style ="text-align:center"><a href="/images/src%208.jpeg"> <img src="/images/src%208.jpeg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/yds5.jpeg"> <img src="/images/yds5.jpeg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/yds6.jpeg"> <img src="/images/yds6.jpeg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/yds7.jpeg"> <img src="/images/yds7.jpeg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/yds8.jpeg"> <img src="/images/yds8.jpeg" style="width:200px"></a></td>
   </tr>
 	<tr>
-    <td style ="text-align:center"><a href="/images/src%209.jpeg"> <img src="/images/src%209.jpeg" style="width:200px; height: 130px"></a></td>
-    <td style ="text-align:center"><a href="/images/src%2010.jpeg"> <img src="/images/src%2010.jpeg" style="width:200px"></a></td>
-		<td style ="text-align:center"><a href="/images/src%2011.jpeg"> <img src="/images/src%2011.jpeg" style="width:200px"></a></td>
-		<td style ="text-align:center"><a href="/images/src%2012.jpeg"> <img src="/images/src%2012.jpeg" style="width:200px"></a></td>
-	</tr>
-	<tr>
-    <td style ="text-align:center"><a href="/images/src%2013.jpeg"> <img src="/images/src%2013.jpeg" style="width:200px; height: 130px"></a></td>
-    <td style ="text-align:center"><a href="/images/src%2014.jpeg"> <img src="/images/src%2014.jpeg" style="width:200px"></a></td>
-		<td style ="text-align:center"><a href="/images/src%2015.jpeg"> <img src="/images/src%2015.jpeg" style="width:200px"></a></td>
-		<td style ="text-align:center"><a href="/images/src%2016.jpeg"> <img src="/images/src%2016.jpeg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/yds9.jpeg"> <img src="/images/yds9.jpeg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/yds10.jpeg"> <img src="/images/yds10.jpeg" style="width:200px"></a></td>
+		<td style ="text-align:center"><a href="/images/yds11.jpeg"> <img src="/images/yds11.jpeg" style="width:200px"></a></td>
+		<td style ="text-align:center"><a href="/images/yds12.jpeg"> <img src="/images/yds12.jpeg" style="width:200px"></a></td>
 	</tr>
 </tbody>
 </table>
