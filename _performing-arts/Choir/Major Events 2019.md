@@ -30,3 +30,27 @@ third_nav_title: Choir
 **Singapore Youth Festival at SOTA**
 
 ![](/images/IMG_8960a-1350x762.jpg)
+
+![](/images/choir%204.png)
+![](/images/choir%205.png)
+
+**SSO Pop – Video Game Classics at Esplanade Concert Hall on Apr 05**
+
+![](/images/choir%206.png)
+![](/images/choir%207.png)
+
+**Founder’s Day on March 1**
+
+**ACS Sunday on February 24 (Scholars Only)**
+
+![](/images/choir%208.png)
+
+**2 Days 1 Night Choir Camp & Farewell to Ms Grace Ng (February 15 – 16)**
+
+![](/images/Choir-Camp-Jan-2019-1350x845.jpg)
+
+![](/images/choir%209.png)
+![](/images/choir%2010.png)
+
+**Welcome Session for New Members – Games Day 2 on  January 18**
+
