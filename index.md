@@ -9,8 +9,8 @@ sections:
   - hero:
       background: /images/Homepage/Homepage Main Image.jpg
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Annoucements
+          description: Click here for annoucements
           url: https://google.com
         - title: Highlight B
           description: Important highlight B is equally important
