@@ -19,9 +19,8 @@ sections:
           description: Click here to view
           url: /events/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Student Development
+      description: Find out more about student development here !
+      button: Click here
+      url: /student-development/cca/
 ---
