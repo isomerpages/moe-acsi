@@ -4,6 +4,7 @@ permalink: /choir/major-events-2019/
 description: ""
 third_nav_title: Choir
 ---
+
 ### Semester Two
 
 * * *
@@ -83,3 +84,70 @@ third_nav_title: Choir
 </tbody>
 </table>
 
+Photos credit: Ms Grace Ng
+
+* * *
+**The Staff Dedication Service at the Sanctuary, Barker Road on January 11**
+
+
+<table>
+<thead>
+  <tr>
+    <th style="width:200px"></th>
+    <th style="width:200px"></th>
+    <th style="width:200px"></th>
+		<th style="width:200px"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style ="text-align:center"><a href="/images/sm-IMG_7033.jpg"> <img src="/images/sm-IMG_7033.jpg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/sm-IMG-7020.jpg"> <img src="/images/sm-IMG-7020.jpg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/sm-IMG-7021.jpg"> <img src="/images/sm-IMG-7021.jpg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/sm-IMG-7023.jpg"> <img src="/images/sm-IMG-7023.jpg" style="width:200px"></a></td>
+  </tr>
+	 <tr>
+    <td style ="text-align:center"><a href="/images/sm-IMG-7024.jpg"> <img src="/images/sm-IMG-7024.jpg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/sm-IMG-7038.jpg"> <img src="/images/sm-IMG-7038.jpg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/sm-IMG-7048.jpg"> <img src="/images/sm-IMG-7048.jpg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/sm-IMG-7049.jpg"> <img src="/images/sm-IMG-7049.jpg" style="width:200px"></a></td>
+  </tr>
+	<tr>
+    <td style ="text-align:center"><a href="/images/sm-IMG-7055.jpg"> <img src="/images/sm-IMG-7055.jpg" style="width:200px"></a></td>
+  </tr>
+</tbody>
+</table>
+
+Photo credit: THW
+
+* * *
+
+**Performing Arts Showcase on January 3**
+
+<table>
+<thead>
+  <tr>
+    <th style="width:200px"></th>
+    <th style="width:200px"></th>
+    <th style="width:200px"></th>
+		<th style="width:200px"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style ="text-align:center"><a href="/images/sm-IMG_6952.jpg"> <img src="/images/sm-IMG_6952.jpg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/sm-IMG_6953.jpg"> <img src="/images/sm-IMG_6953.jpg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/sm-IMG_6954.jpg"> <img src="/images/sm-IMG_6954.jpg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/sm-IMG_6955.jpg"> <img src="/images/sm-IMG_6955.jpg" style="width:200px"></a></td>
+  </tr>
+	 <tr>
+    <td style ="text-align:center"><a href="/images/sm-IMG_6956.jpg"> <img src="/images/sm-IMG_6956.jpg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/sm-IMG_6957.jpg"> <img src="/images/sm-IMG_6957.jpg" style="width:200px"></a></td>
+    <td style ="text-align:center"><a href="/images/sm-IMG_6958.jpg"> <img src="/images/sm-IMG_6958.jpg" style="width:200px; height: 130px"></a></td>
+    <td style ="text-align:center"><a href="/images/sm-IMG_6959.jpg"> <img src="/images/sm-IMG_6959.jpg" style="width:200px"></a></td>
+  </tr>
+	<tr>
+    <td style ="text-align:center"><a href="/images/sm-IMG_6960.jpg"> <img src="/images/sm-IMG_6960.jpg" style="width:200px"></a></td>
+  </tr>
+</tbody>
+</table>
