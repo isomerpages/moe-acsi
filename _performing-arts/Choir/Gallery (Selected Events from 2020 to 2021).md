@@ -49,3 +49,19 @@ third_nav_title: Choir
 ![](/images/Newsies-Screenshot-1a.png)
 
 ![](/images/Newsies-Screenshot-6a.png)
+
+**Choir Practice – J’aime**
+
+![](/images/Choir-Practice-Jaime-Composite-2048x677.jpg)
+
+**Choir Practice Sessions (online)**
+
+![](/images/Choir-practice-session-20210527.jpg)
+
+![](/images/Choir-practice-session-20210601-a.png)
+
+![](/images/Choir-practice-session-20210601-b.png)
+
+**PANF 2021 – _Carrying the Banner_**
+
+![](/images/WhatsApp-Image-2021-04-24.jpg)
