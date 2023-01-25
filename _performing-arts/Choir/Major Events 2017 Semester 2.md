@@ -53,3 +53,6 @@ Photo credits: Harry Wang, Joash Ang, and Jared Chow
 
 ### Seniors Night 2017 on November 27
 
+![](/images/2017%20Sem%202-6.png)
+
+Photo credits: Joshua Tsu, Collier Ow, and Joshua Malcolm
