@@ -67,3 +67,26 @@ Photo credit: THW
 
 ### Recording at Yong Siew Toh Conservatory of Music Recording Studio with Advent Music on May 23
 
+![](/images/2017%20Term%202-7.png)
+
+Photo credit: THW
+
+* * *
+
+### Beatbox Workshop with Charles Wong on May 18 & 25
+
+![](/images/2017%20Term%202-8.png)
+
+Photo credit: THW
+
+The beatbox workshop conducted by Mr. Charles Wong was something I thought was very enriching and a great opportunity for us to release our stress after the Mid-Year Exams. The workshop exposed us to things beyond what we usually know and helped us to develop skills that we wouldn’t be able to attain during normal lesson times. I was unable to join the first session due to sickness and I regretted it quite a bit. The instructor was very knowledgeable and engaging. The event also changed my perspective about our choir totally. When I first joined the choir, I had a very negative mindset. I thought that the choir would only be singing folk, traditional and classical songs. I was proven wrong, though. The beatbox workshop and other fun activities that we had this semester really made my school life much more enjoyable. I can see that choir teachers, conductor, and the committee really take the choir very seriously. They truly care for us and always strive to improve the standard of the choir. Other than our vocal skills and techniques, the choir teaches us very important life skills like teamwork and steadfastness as well. I am very thankful that I chose to join the choir because I truly believe that the choir is an excellent and wonderful CCA.
+
+*Timothy Jessen 3.15*
+
+* * *
+
+We had a beatbox workshop in May that was long awaited for some of us. The two sessions workshop were led by professional beatboxer and instructor, Charles Wong. On the first session, we were taught all the basics skills in beatboxing, such as making the three main sounds: ‘b’, ‘t’, and ‘k’. As we were attentively listening to his explanations, the lesson started to get more and more sophisticated. The instructor started to teach us how to make sounds that are unique and catchy with the techniques that he taught us altogether. I was totally amazed by it. At the end of the lesson, eight of us were chosen to battle each other with the skills that we learned on the first session. After a few rounds of friendly battles, two of the candidates managed to be in the finals and they tried their best to deliver the skills to impress the rest of the choir. As we were cheering upon the tight battle, one of our friend emerged to victory and won the battle. We truly had a good time on that day. On the 2nd session, we were trained to perform as a group for our own upcoming performance. Charles gave us tips on how to perform beatboxing in front of the audience, such as ways to hold the mic, facial expression, and strategies on how to win over the crowd.
+
+This workshop has enriched me with a vast knowledge which I have never known earlier. I am very thankful to have the opportunities to try many different things in choir and beatboxing is just one of them.
+
+*Samuel Oscar 3.05*
