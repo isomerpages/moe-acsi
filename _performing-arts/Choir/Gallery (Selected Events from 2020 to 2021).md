@@ -23,3 +23,13 @@ third_nav_title: Choir
 ![](/images/Choir-Camp-2020-5-2048x1536.jpg)
 
 **Choir Practice Session**
+
+![](/images/Choir-practice-session.jpg)
+
+**Practice for Musical Newsies**
+
+![](/images/Practice-for-Musical-Winston-a-.jpg)
+
+### 2021
+
+**Choir Camp 2021**
