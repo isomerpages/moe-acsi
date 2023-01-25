@@ -71,3 +71,7 @@ The studiorum with Professor Tommyanto was indeed a remarkable event that contri
 * * *
 
 ### SYF Rehearsal at SOTA on Mar 16
+
+![](/images/2017%20Term%201-7.png)
+
+Photo credit: THW
