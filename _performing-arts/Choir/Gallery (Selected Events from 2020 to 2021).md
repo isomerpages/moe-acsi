@@ -33,3 +33,19 @@ third_nav_title: Choir
 ### 2021
 
 **Choir Camp 2021**
+
+![](/images/Choir-Camp-2021-briefing-1a.png)
+
+![](/images/Choir-Camp-2021-Game-session-1a-a.png)
+
+![](/images/Choir-Camp-2021-Game-session-2e.png)
+
+![](/images/Choir-Camp-2021-Game-session-3a-a.png)
+
+![](/images/Choir-Camp-2021-practice-session-b.png)
+
+**Newsies Screenshots**
+
+![](/images/Newsies-Screenshot-1a.png)
+
+![](/images/Newsies-Screenshot-6a.png)
