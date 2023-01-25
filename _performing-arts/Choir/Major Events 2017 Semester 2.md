@@ -13,3 +13,20 @@ Photo credits: Joshua Tsu, THW
 * * * 
 
 ### Wall of Sound – Auditorium 2 Re-dedication Service on July 24
+
+![](/images/2017%20Sem%202-2.png)
+
+Photo credits: Klaus Tan, THW
+
+* * *
+
+### Methodist Staff Get-Together on August 25
+
+![](/images/2017%20Sem%202-3.png)
+
+Photo credit: THW
+
+* * *
+
+### Community Service at Pearl’s Hill Care Home on August 1
+
