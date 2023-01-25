@@ -57,3 +57,13 @@ Through this wonderful experience of performing at Esplanade, we learned that te
 
 ### Performing Arts Night Festival 2017 on April 29
 
+![](/images/2017%20Term%202-5.png)
+
+![](/images/2017%20Term%202-6.png)
+
+Photo credit: THW
+
+* * *
+
+### Recording at Yong Siew Toh Conservatory of Music Recording Studio with Advent Music on May 23
+
