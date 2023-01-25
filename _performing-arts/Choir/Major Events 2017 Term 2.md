@@ -36,3 +36,24 @@ Even though I have only joined for five months, I am so surprised and fascinated
 
 ### In Youthful Company, performance at Esplanade Concourse on April 25
 
+<img src="/images/logo_esplanade-sm.jpg" 
+     style="width:60%">
+		 
+![](/images/2017%20Term%202-3.png)
+
+![](/images/2017%20Term%202-4.png)
+
+Photo credit: Grace Ng
+
+On the 25th of April, our choir was invited to perform at the Esplanade programme, _In Youth Company_. It was a week before our Mid-Year Examinations and most of us were both mentally and physically tired from the Singapore Youth Festival Performance. I don’t really know what to expect performing at Esplanade Concourse. When we were at the backstage, pictures of professional artists caught my attention. A sense of pride hit me as our choir was going to perform at Esplanade, an international platform showcasing the best of the arts, almost like the professional artists.
+
+During our soundcheck, we encountered a few technical problems; however, our conductor, Mr. Low, was able to solve the problem on time so we could bring our best to the audience. Even though we were given a very short amount of time to finish our dinner and to prepare for our performance, we were more anxious and nervous about our performance. We don’t really know what to expect. Will the audience be satisfied with our performance? Are we doing our best? Will we be able to sustain our stamina for two sessions of half an hour of performance on a weekday evening? The time was 6:45 p.m., time for us to performance. One by one we went up the stage. There were not many audience, most of them were family members. Even though familiar faces were there, we were determined to give our best, to showcase our talents that gained us to a distinction at the Singapore Youth Festival Performance. To me, our performance at the Esplanade Concourse was a success.
+
+Through this wonderful experience of performing at Esplanade, we learned that teamwork makes dream work. Crisis bound to happen during performances but with the guidance from our teachers and conductor and the team spirit of the choir, we could overcome whatever obstacles along the way. We want to thank God, without Whom our experiences, our friendships, and our achievements would not be actualized. To God be the glory, ACS (Independent) Choir’s Best Is Yet To Be!
+
+*Cheah Hao Yi 3.02*
+
+* * *
+
+### Performing Arts Night Festival 2017 on April 29
+
