@@ -30,3 +30,26 @@ Photo credit: THW
 
 ### Community Service at Pearl’s Hill Care Home on August 1
 
+<img src="/images/a-IMG_1862-198x300.jpg" 
+     style="width:40%">
+		 
+Photo credit: THW
+
+* * *
+
+### 2017 National Day Celebrations on August 8
+
+* * *
+
+### ACS (Independent) Choral Exchange Concert “5upernova 2017” on November 10
+
+![](/images/2017%20Sem%202-4.png)
+
+![](/images/2017%20Sem%202-5.png)
+
+Photo credits: Harry Wang, Joash Ang, and Jared Chow
+
+* * *
+
+### Seniors Night 2017 on November 27
+
