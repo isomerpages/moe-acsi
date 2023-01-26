@@ -23,3 +23,7 @@ third_nav_title: Choir
 ![](/images/events%202018-1.png)
 
 ![](/images/events%202018-2.png)
+
+![](/images/events%202018-3.png)
+
+![](/images/events%202018-4.png)
