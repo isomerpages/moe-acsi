@@ -141,3 +141,13 @@ Photo credit: ACS(I) Photoq
 * * *
 
 ### Concert Outing @ Esplanade Concert Hall – Estonian National Male Choir on March 27
+
+![](/images/events%202018-29.png)
+
+* * *
+
+### The Prince of Egypt Musical (with Drama Club) on March 24
+
+![](/images/The-Prince-of-Egypt-poster.jpg)
+
+![](/images/0-20180324-P93E5501a-1350x586.jpg)
