@@ -219,3 +219,6 @@ Photo credit: Ms Grace Ng, Choir members, THW,
 
 ### Performing Arts Showcase on January 3
 
+![](/images/events%202018-47.png)
+
+![](/images/events%202018-48-1.png)
