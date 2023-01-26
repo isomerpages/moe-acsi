@@ -163,3 +163,13 @@ Photo credit: ACS(I) Photoq
 ![](/images/events%202018-34.png)
 
 ![](/images/events%202018-35.png)
+
+Photo credits: Mr Loy Xinjian, ACS(I) Photoq, Choir members
+
+* * *
+
+### 132th Founder’s Day Performance (WOS) – Threshold of Glory on March 1
+
+![](/images/events%202018-36.png)
+
+![](/images/events%202018-37.png)
