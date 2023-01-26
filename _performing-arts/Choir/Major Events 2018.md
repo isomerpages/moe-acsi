@@ -173,3 +173,13 @@ Photo credits: Mr Loy Xinjian, ACS(I) Photoq, Choir members
 ![](/images/events%202018-36.png)
 
 ![](/images/events%202018-37.png)
+
+Photo credits: ACS(I) Photoq, THW
+
+* * *
+
+### Post Founder’s Day Lou Hay
+
+![](/images/events%202018-38.png)
+
+![](/images/events%202018-39.png)
