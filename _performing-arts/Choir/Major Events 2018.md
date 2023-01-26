@@ -20,3 +20,6 @@ third_nav_title: Choir
 **Choral and Music**: Mun Hoi <br>
 **Photographer**: Harry & Calvin
 
+![](/images/events%202018-1.png)
+
+![](/images/events%202018-2.png)
