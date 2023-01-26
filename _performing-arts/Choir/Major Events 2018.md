@@ -183,3 +183,39 @@ Photo credits: ACS(I) Photoq, THW
 ![](/images/events%202018-38.png)
 
 ![](/images/events%202018-39.png)
+
+Photo credit: THW
+
+* * *
+
+### ACS Sunday on February 25
+
+![](/images/events%202018-40.png)
+
+
+* * *
+
+### Come Together to Sing with the Vienna Boys Choir from rehearsal @ Cairnhill CC &Victoria Concert Hall (December 27, 2017) to performance @ Esplanade Concert Hall (January 15, 2018)
+
+![](/images/events%202018-41.png)
+
+![](/images/events%202018-42.png)
+
+![](/images/events%202018-43.png)
+
+![](/images/events%202018-44-1.png)
+
+![](/images/events%202018-45.png)
+
+Photo credit: Ms Grace Ng, Choir members, THW,
+
+* * *
+
+### Concert Outing @ Esplanade Concert Hall – Come Together to Sing with the Vienna Boys Choir on January 15 (New Members)
+
+![](/images/events%202018-46.png)
+
+* * *
+
+### Performing Arts Showcase on January 3
+
