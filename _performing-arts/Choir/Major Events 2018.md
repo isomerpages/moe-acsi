@@ -222,3 +222,7 @@ Photo credit: Ms Grace Ng, Choir members, THW,
 ![](/images/events%202018-47.png)
 
 ![](/images/events%202018-48-1.png)
+
+Photo credit: ACS(I) Photoq
+
+* * *
