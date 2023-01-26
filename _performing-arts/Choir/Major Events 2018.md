@@ -55,3 +55,14 @@ Even though the performance, Supernova, had unavoidably become the highlight of 
 * * *
 
 ### Thanksgiving Chapel 2018 (WOS) – Farewell to Mr Hodge on October 22
+
+![](/images/events%202018-6.png)
+
+![](/images/events%202018-7.png)
+
+Photo credit: ACS(I) Photoq
+
+* * *
+
+### Seniors Night 2018 on October 12
+
