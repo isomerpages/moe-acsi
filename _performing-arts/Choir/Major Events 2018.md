@@ -133,3 +133,11 @@ Photo credits: Choir members
 * * *
 
 ### Open House 2018 – Threshold of Glory on April 14
+
+![](/images/events%202018-28.png)
+
+Photo credit: ACS(I) Photoq
+
+* * *
+
+### Concert Outing @ Esplanade Concert Hall – Estonian National Male Choir on March 27
