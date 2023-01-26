@@ -127,3 +127,9 @@ Photo credits: Choir members
 ![](/images/events%202018-26.png)
 
 ![](/images/events%202018-27.png)
+
+Photo credits: Choir members
+
+* * *
+
+### Open House 2018 – Threshold of Glory on April 14
