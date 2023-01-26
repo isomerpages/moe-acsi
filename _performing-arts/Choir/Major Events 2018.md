@@ -106,3 +106,24 @@ Photo credit: Harry Wang
 
 ![](/images/events%202018-22.png)
 
+Photo credits: Choir members
+
+* * *
+
+### Concert Outing @ Esplanade Concert Hall – The Swingles on May 16
+
+![](/images/events%202018-23.png)
+
+* * *
+
+### Festival of Arts 2018 (With Guitar Orchestra) on April 16
+
+![](/images/LJFU3422.jpg)
+
+![](/images/events%202018-24.png)
+
+![](/images/events%202018-25.png)
+
+![](/images/events%202018-26.png)
+
+![](/images/events%202018-27.png)
