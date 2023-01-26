@@ -65,4 +65,3 @@ Photo credit: ACS(I) Photoq
 * * *
 
 ### Seniors Night 2018 on October 12
-
