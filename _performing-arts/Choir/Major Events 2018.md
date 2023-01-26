@@ -80,3 +80,7 @@ Photo credit: ACS(I) Photoq
 
 ![](/images/events%202018-14.png)
 
+* * *
+
+### National Day 2018 Flash Mob (WOS) on August 3 & 4 @ Fushionopolis, Star Vista, and Ghim Moh Market
+
