@@ -84,3 +84,25 @@ Photo credit: ACS(I) Photoq
 
 ### National Day 2018 Flash Mob (WOS) on August 3 & 4 @ Fushionopolis, Star Vista, and Ghim Moh Market
 
+![](/images/events%202018-15.png)
+
+![](/images/events%202018-16.png)
+
+Photo credit: Harry Wang
+
+* * *
+
+### Choir Camp 2018, May 18 – 20
+
+![](/images/events%202018-17.png)
+
+![](/images/events%202018-18.png)
+
+![](/images/events%202018-19.png)
+
+![](/images/events%202018-20.png)
+
+![](/images/events%202018-21.png)
+
+![](/images/events%202018-22.png)
+
