@@ -60,11 +60,14 @@ sections:
       alt: Image alt text
       image: /images/Tech_Homepage.jpg
   - infopic:
-      title: Infopic Title
-      subtitle: Test 1
-      description: Infopic description
-      button: Button Text
+      title: Furthering your passion
+      description: "With 60 CCAs and numerous Academic programmes, students can
+        discover their interests while developing competencies that will prepare
+        them for a changing world. "
+      button: more
       alt: Image alt text
+      url: /talent-development/
+      image: /images/Copy of kt-ac134-71 (1).jpg
   - infobar:
       title: Student Development
       description: Find out more about student development here !
