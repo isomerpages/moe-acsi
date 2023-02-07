@@ -19,9 +19,8 @@ sections:
           description: Click here to view
           url: /events/
   - resources:
-      title: Resources Section Title
-      subtitle: Test 2
-      button: Resources Button Name
+      subtitle: Announcements
+      button: more
   - infopic:
       title: Sharpening the mind
       description: "ACS(I) offers 2 academic tracks: 4-year Express programme leading
