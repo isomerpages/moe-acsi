@@ -23,4 +23,14 @@ sections:
       description: Find out more about student development here !
       button: Click here
       url: /student-development/cca/
+  - infopic:
+      title: Infopic Title
+      subtitle: Test 1
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - resources:
+      title: Resources Section Title
+      subtitle: Test 2
+      button: Resources Button Name
 ---
