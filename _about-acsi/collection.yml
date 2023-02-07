@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - About ACS(I).md
-      - SCHOOL PROFILE/.keep
-      - SCHOOL PROFILE/School Profile.md
-      - SCHOOL PROFILE/School Philosophy.md
-      - SCHOOL PROFILE/School Values.md
-      - SCHOOL PROFILE/Desired ACSian Outcomes.md
-      - SCHOOL PROFILE/Corporate Social Responsibility.md
+      - School Profile/.keep
+      - School Profile/School Profile.md
+      - School Profile/School Philosophy.md
+      - School Profile/School Values.md
+      - School Profile/Desired ACSian Outcomes.md
+      - School Profile/Corporate Social Responsibility.md
       - Heritage/.keep
       - Heritage/Heritage.md
       - Heritage/Origins.md
