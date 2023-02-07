@@ -18,6 +18,10 @@ sections:
         - title: Events
           description: Click here to view
           url: /events/
+  - resources:
+      title: Resources Section Title
+      subtitle: Test 2
+      button: Resources Button Name
   - infopic:
       title: Sharpening the mind
       description: "ACS(I) offers 2 academic tracks: 4-year Express programme leading
@@ -73,8 +77,4 @@ sections:
       description: Find out more about student development here !
       button: Click here
       url: /student-development/cca/
-  - resources:
-      title: Resources Section Title
-      subtitle: Test 2
-      button: Resources Button Name
 ---
