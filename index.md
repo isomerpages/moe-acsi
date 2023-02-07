@@ -46,17 +46,19 @@ sections:
       url: /student-development/cca/performing-arts/
       image: /images/Student Perf Arts.png
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Deepening values
+      description: "Instilling values through positive modelling and interactions in
+        real settings. VIA is a key component of community engagement built into
+        our curriculum. "
       alt: Image alt text
+      image: /images/VIA_Homepage.jpg
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Developing Innovation & Technology
+      description: ACS(I) offers tech programmes across Year 1-4 in programming, AI
+        and app development to equip students with the skills needed for the
+        workplace of the future.
       alt: Image alt text
+      image: /images/Tech_Homepage.jpg
   - infopic:
       title: Infopic Title
       subtitle: Test 1
