@@ -37,11 +37,14 @@ sections:
       image: /images/Students (2).jpg
       alt: Image alt text
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Appreciating aesthetics
+      description: With 10 Performing Arts CCAs, students may gain an appreciation for
+        the rich culture of a multi-racial society, where artistic potential can
+        be realised.
+      button: more
       alt: Image alt text
+      url: /student-development/cca/performing-arts/
+      image: /images/Student Perf Arts.png
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
