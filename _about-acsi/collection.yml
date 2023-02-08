@@ -2,6 +2,7 @@ collections:
   about-acsi:
     output: true
     order:
+      - Leadership/Board of Governors.md
       - Leadership/.keep
       - About ACS(I).md
       - School Profile/.keep
