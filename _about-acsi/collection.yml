@@ -2,7 +2,7 @@ collections:
   about-acsi:
     output: true
     order:
-      - Leadership/Board of Management.md
+      - Leadership/ACS(I) Board of Management.md
       - Leadership/ACS Board of Governors.md
       - Leadership/.keep
       - About ACS(I).md
