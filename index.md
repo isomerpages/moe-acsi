@@ -8,15 +8,16 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage/Homepage Main Image.jpg
-      dropdown:
-        title: Quicklinks
-        options:
-          - title: For Staff
-            url: /quick-links/for-staff/
-          - title: For Students
-            url: /quick-links/for-students/
-          - title: For Parents
-            url: /for-parents/
+      key_highlights:
+        - title: For Staff
+          description: ""
+          url: /quick-links/for-staff/
+        - title: For Students
+          description: ""
+          url: /quick-links/for-students/
+        - title: For Parents
+          description: ""
+          url: /for-parents/
   - resources:
       subtitle: Announcements
       button: more
