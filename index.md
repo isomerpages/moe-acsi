@@ -72,8 +72,7 @@ sections:
       url: /talent-development/
       image: /images/Copy of kt-ac134-71 (1).jpg
   - infobar:
-      title: Student Development
-      description: Find out more about student development here !
+      title: School Calendar
       button: Click here
-      url: /student-development/cca/
+      url: /events/calendar/
 ---
