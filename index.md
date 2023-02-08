@@ -8,16 +8,15 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage/Homepage Main Image.jpg
-      key_highlights:
-        - title: Annoucements
-          description: Click here for annoucements
-          url: /news-announcements/
-        - title: School Calendar
-          description: "Click here to view "
-          url: /events/calendar/
-        - title: Events
-          description: Click here to view
-          url: /events/
+      dropdown:
+        title: Quicklinks
+        options:
+          - title: For Staff
+            url: /quick-links/for-staff/
+          - title: For Students
+            url: /quick-links/for-students/
+          - title: For Parents
+            url: /for-parents/
   - resources:
       subtitle: Announcements
       button: more
