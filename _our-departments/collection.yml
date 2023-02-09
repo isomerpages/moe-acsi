@@ -2,6 +2,7 @@ collections:
   our-departments:
     output: true
     order:
+      - Staff List/Executive & Support Staff.md
       - Staff List/Dean & Directors.md
       - Staff List/Senior Administration.md
       - Staff List/Staff List.md
