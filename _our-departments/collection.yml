@@ -2,7 +2,6 @@ collections:
   our-departments:
     output: true
     order:
-      - Staff List/.keep
       - Our Departments.md
       - Aesthetics/.keep
       - Aesthetics/Aesthetics.md
