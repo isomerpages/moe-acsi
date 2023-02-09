@@ -2,11 +2,6 @@ collections:
   our-departments:
     output: true
     order:
-      - Staff List/Executive & Support Staff.md
-      - Staff List/Dean & Directors.md
-      - Staff List/Senior Administration.md
-      - Staff List/Staff List.md
-      - Staff List/.keep
       - Our Departments.md
       - Aesthetics/.keep
       - Aesthetics/Aesthetics.md
@@ -84,3 +79,8 @@ collections:
       - Theory of Knowledge/Theory of Knowledge.md
       - Theory of Knowledge/Staff.md
       - Theory of Knowledge/Assessment Modes.md
+      - Staff List/.keep
+      - Staff List/Executive & Support Staff.md
+      - Staff List/Dean & Directors.md
+      - Staff List/Senior Administration.md
+      - Staff List/Staff List.md
