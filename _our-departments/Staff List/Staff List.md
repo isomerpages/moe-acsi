@@ -4,8 +4,6 @@ permalink: /about-acs-independent/staff-list/
 description: ""
 third_nav_title: Staff List
 ---
-
-
 # table is fixed and cannot be sorted (limitations of isomer)
 
 Please note that only the names and details of key-points-of-contact are reflected in the staff Directory. For the **full contact list** of teachers and staff, Parents **may log in to the** <a href="http://lms.acsindep.edu.sg/ACSIndep/logon_new.aspx?type=parents" target="_blank"><b>Parents’ Portal</b></a> and view the Staff List under Parent’s Resources tab.
@@ -56,7 +54,7 @@ Please note that only the names and details of key-points-of-contact are reflect
 | Admin Office                | Secretary                                                                                     | Mrs Mabel Koh                  |
 | Admin Office                | Secretary                                                                                     | Ms Nancy Cheng                 |
 | Admin Office                | Secretary                                                                                     | Mdm R.Seetha D/O S. Ragunathan |
-| Admin Corp Communications   | Corporate Communications Manager                                                              | Mr Lo On Bong Barry            |
+| Admin Corp Communications   | Corporate Communications Manager                                                              | Mr Barry Lo            |
 | Admin Procurement           | Procurement Officer                                                                           | Mdm Ann Foo Ai Lian            |
 | Boarding School             | Domestic Manager                                                                              | Mrs Jasmin Tan                 |
 | Boarding School             | Admin/Accounts Officer                                                                        | Ms Amanda Ding Linlin          |
