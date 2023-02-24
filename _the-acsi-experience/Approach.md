@@ -7,6 +7,6 @@ ACS (Independent) is a Methodist institution with a strong foundation in Christi
 
 These include the Express Programme leading to the GCE ‘O’ levels certificate and the six year Integrated Programme leading to the IB Diploma. No matter which programme, students go through an enriching and fulfilling curriculum which helps them be skilled and self-motivated in their quest for knowledge and develop qualities that will enable them to navigate in an increasingly demanding and complex world.
 
-![](/images/The%20ACS(I)%20Experience/Curriculum-e1421679957510.png)
+![](/images//Curriculum-e1421679957510.png)
 
 Our wide range of co-curricular activities enables students to develop their talent, leadership skills and pursue their passions. Beyond the classroom, ACSians participate in a myriad of activities ranging from contributing services to welfare homes/organisations, charity fund raising activities and environmental conservation efforts.
