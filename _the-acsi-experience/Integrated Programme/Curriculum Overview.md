@@ -4,7 +4,6 @@ permalink: /the-acs-independent-experience/integrated-programme/curriculum-overv
 description: ""
 third_nav_title: Integrated Programme
 ---
-
 **Curriculum Overview**
 
 The ACS (Independent) Integrated Programme offers a wide array of subject combinations with interdisciplinary approaches similar to that of the International Baccalaureate Diploma Programme (IBDP) which IP students take in their fifth and sixth years.
@@ -43,7 +42,7 @@ And three other subjects from the following areas:
 
 Advanced Mathematics
 
-In addition to the curriculum subjects, students will be engaged in the elementary Theory of Knowledge (eTOK) course, an Individualised Study Option (ISO) and the Creativity, activity, service (CAS) experience.  These have been specially designed to provide coherence with the International Baccalaureate Diploma Programme (IBDP) where the Theory of Knowledge (TOK) course, the Extended Essay (EE) and CAS form the core of the IB curriculum model.
+In addition to the curriculum subjects, students will be engaged in the Discipline of Thought (DOT) course, an Individualised Study Option (ISO) and the Creativity, Activity, Service (CAS) experience.  These have been specially designed to provide coherence with the International Baccalaureate Diploma Programme (IBDP) where the Theory of Knowledge (TOK) course, the Extended Essay (EE) and CAS form the core of the IB curriculum model.
 
 
 ***
@@ -51,6 +50,6 @@ In addition to the curriculum subjects, students will be engaged in the elementa
 
 Students seeking to pursue a 9<sup>th</sup> subject must seek approval and show that they have the ability to cope with an additional subject. These following subjects will be offered outside of the curriculum time :
 
-*   EP/Music
+*   Music
 *   Art
 *   Foreign Languages
