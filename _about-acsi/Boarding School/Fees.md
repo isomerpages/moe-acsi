@@ -4,7 +4,6 @@ permalink: /about-acs-independent/boarding-school/fees/
 description: ""
 third_nav_title: Boarding School
 ---
-
 **FOR ACS (INDEPENDENT) / ANGLO-CHINESE JUNIOR COLLEGE (ACJC) STUDENTS**
 
 Boarding School fees are charged by semesters.
@@ -20,7 +19,7 @@ Additional fees for vacation stay during the school holidays will be charged at 
 </tr>
 <tr>
 <td width="182"><strong>TYPE</strong></td>
-<td width="144"><strong>PER SEMESTER</strong></td>
+<td width="144"><strong>PER SEMESTER <br>(20 WEEKS)</strong></td>
 <td width="90"><strong>PER WEEK</strong></td>
 </tr>
 <tr>
@@ -44,9 +43,9 @@ Additional fees for vacation stay during the school holidays will be charged at 
 <td width="90">$450</td>
 </tr>
 <tr>
-<td width="182">Double Room (15 SQM)</td>
-<td width="144">$7,500</td>
-<td width="90">$375</td>
+<td width="182">Double Room (30 SQM)</td>
+<td width="144">$8,000</td>
+<td width="90">$400</td>
 </tr>
 <tr>
 <td colspan="3" width="254">* Refer to 4 or 6 Bedded Rooms only</td>
@@ -69,7 +68,7 @@ A deposit of $1,000 will be collected and refunded only after the completion of 
 </tr>
 <tr>
 <td width="126"><strong>Room Type</strong></td>
-<td width="95"><strong>Per Semester</strong></td>
+<td width="95"><strong>Per Semester<br>(20 WEEKS)</strong></td>
 <td width="86"><strong>Per Week</strong></td>
 </tr>
 <tr>
