@@ -10,7 +10,7 @@ The IB Curriculum structure is represented by a hexagon model with six academic 
 
 <a href="/images/The%20ACS(I)%20Experience/IB-Model.jpg"> <img src="/images/The%20ACS(I)%20Experience/IB-Model.jpg" style="width:40%; float:left; padding:10px"></a>
 
-Diploma students study six subjects from six subject groups, concurrently over two years, as well as the core elements of the programme (Theory of Knowledge, the extended essay and creativity, action, service). The six subject groups represent the major domains of learning across all subject disciplines of a curriculum. 
+Diploma students study six subjects from six subject groups, concurrently over two years, as well as the core elements of the programme (Theory of Knowledge, the Extended Essay and Creativity, Activity, Service). The six subject groups represent the major domains of learning across all subject disciplines of a curriculum. 
 
 At least three, and not more than four of the six subjects selected are taken at higher level (HL), the others at standard level (SL). HL courses represent 240 teaching hours, and require a greater depth of study across a broader range of content in the subject. SL courses require 150 hours and provide breadth of study across the whole Diploma Programme. 
 
