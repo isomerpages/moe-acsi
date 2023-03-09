@@ -12,46 +12,7 @@ New applicants will be charged a non-refundable admin fee of $80, along with a n
 
 Additional fees for vacation stay during the school holidays will be charged at weekly fees depending on the duration of stay.
 
-<table border="1">
-<tbody>
-<tr>
-<td style="text-align: center;" colspan="3" width="182"><strong>(All fees quoted are&nbsp;<u>exclusive</u>&nbsp;of GST):</strong></td>
-</tr>
-<tr>
-<td width="182"><strong>TYPE</strong></td>
-<td width="144"><strong>PER SEMESTER <br>(20 WEEKS)</strong></td>
-<td width="90"><strong>PER WEEK</strong></td>
-</tr>
-<tr>
-<td width="182">* ACS (I) Pupil (Local)</td>
-<td width="144">$5,000</td>
-<td width="90">$250</td>
-</tr>
-<tr>
-<td width="182">* ACS (I) Pupil (SPR)</td>
-<td width="144">$5,600</td>
-<td width="90">$280</td>
-</tr>
-<tr>
-<td width="182">* ACS (I) Pupil (Foreign)</td>
-<td width="144">$6,600</td>
-<td width="90">$330</td>
-</tr>
-<tr>
-<td width="182">Single Room</td>
-<td width="144">$9,000</td>
-<td width="90">$450</td>
-</tr>
-<tr>
-<td width="182">Double Room (30 SQM)</td>
-<td width="144">$8,000</td>
-<td width="90">$400</td>
-</tr>
-<tr>
-<td colspan="3" width="254">* Refer to 4 or 6 Bedded Rooms only</td>
-</tr>
-</tbody>
-</table>
+<table border="1" style="box-sizing: border-box; border-collapse: collapse; min-width: 500px; color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 900px;"><tbody style="box-sizing: border-box; margin-top: 0px;"><tr style="box-sizing: border-box; margin-top: 0px;"><td colspan="3" width="182" style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px; text-align: center;"><strong style="box-sizing: border-box; font-weight: bolder; margin-top: 0px;">(All fees quoted are<span>&nbsp;</span><u style="box-sizing: border-box; margin-top: 0px;">exclusive</u><span>&nbsp;</span>of GST):</strong></td></tr><tr style="box-sizing: border-box;"><td width="182" style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px;"><strong style="box-sizing: border-box; font-weight: bolder; margin-top: 0px;">TYPE</strong></td><td width="144" style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px;"><strong style="box-sizing: border-box; font-weight: bolder; margin-top: 0px;">PER SEMESTER (20 WEEKS)</strong></td><td width="90" style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px;"><strong style="box-sizing: border-box; font-weight: bolder; margin-top: 0px;">PER WEEK</strong></td></tr><tr style="box-sizing: border-box;"><td width="182" style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px;">* ACS (I) Pupil (Local)</td><td width="144" style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px;">$5,000</td><td width="90" style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px;">$250</td></tr><tr style="box-sizing: border-box;"><td width="182" style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px;">* ACS (I) Pupil (SPR)</td><td width="144" style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px;">$5,600</td><td width="90" style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px;">$280</td></tr><tr style="box-sizing: border-box;"><td width="182" style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px;">* ACS (I) Pupil (Foreign)</td><td width="144" style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px;">$6,600</td><td width="90" style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px;">$330</td></tr><tr style="box-sizing: border-box;"><td width="182" style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px;">Single Room</td><td width="144" style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px;">$9,000</td><td width="90" style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px;">$450</td></tr><tr style="box-sizing: border-box;"><td width="182" style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px;">Double Room (30 SQM)</td><td width="144" style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px;">$8,000</td><td width="90" style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px;">$400</td></tr><tr style="box-sizing: border-box;"><td colspan="3" width="254" style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px;">* Refer to 4 or 6 Bedded Rooms only</td></tr></tbody></table>
 
 **FOR ACS (INTERNATIONAL) BOARDERS**
 
@@ -61,32 +22,4 @@ Additional fees for vacation stay during the school holidays will be charged at 
 
 A deposit of $1,000 will be collected and refunded only after the completion of stay and upon full compliance of Terms and Conditions.
 
-<table border="1" width="100%">
-<tbody>
-<tr>
-<td style="text-align: center;" colspan="3" width="126"><strong>(All fees quoted are&nbsp;<u>exclusive</u>&nbsp;of GST):</strong></td>
-</tr>
-<tr>
-<td width="126"><strong>Room Type</strong></td>
-<td width="95"><strong>Per Semester<br>(20 WEEKS)</strong></td>
-<td width="86"><strong>Per Week</strong></td>
-</tr>
-<tr>
-<td width="126">Single (Super Deluxe) &ndash; 12sqm
-<p>Private Toilet</p>
-</td>
-<td width="95">$9,900</td>
-<td width="86">$495</td>
-</tr>
-<tr>
-<td width="126">Single &ndash; 15sqm</td>
-<td width="95">$9,000</td>
-<td width="86">$450</td>
-</tr>
-<tr>
-<td width="126">Double &ndash; 30sqm</td>
-<td width="95">$8,000</td>
-<td width="86">$400</td>
-</tr>
-</tbody>
-</table>
+<table border="1" width="100%" style="box-sizing: border-box; border-collapse: collapse; min-width: 500px; color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: border-box; margin-top: 0px;"><tr style="box-sizing: border-box; margin-top: 0px;"><td colspan="3" width="126" style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px; text-align: center;"><strong style="box-sizing: border-box; font-weight: bolder; margin-top: 0px;">(All fees quoted are<span>&nbsp;</span><u style="box-sizing: border-box; margin-top: 0px;">exclusive</u><span>&nbsp;</span>of GST):</strong></td></tr><tr style="box-sizing: border-box;"><td width="126" style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px;"><strong style="box-sizing: border-box; font-weight: bolder; margin-top: 0px;">Room Type</strong></td><td width="95" style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px;"><strong style="box-sizing: border-box; font-weight: bolder; margin-top: 0px;">Per Semester (20 WEEKS)</strong></td><td width="86" style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px;"><strong style="box-sizing: border-box; font-weight: bolder; margin-top: 0px;">Per Week</strong></td></tr><tr style="box-sizing: border-box;"><td width="126" style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px;">Single (Super Deluxe) – 12sqm<p style="box-sizing: border-box; margin-top: 0px;"></p><p style="box-sizing: border-box;">Private Toilet</p></td><td width="95" style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px;">$9,900</td><td width="86" style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px;">$495</td></tr><tr style="box-sizing: border-box;"><td width="126" style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px;">Single – 15sqm</td><td width="95" style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px;">$9,000</td><td width="86" style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px;">$450</td></tr><tr style="box-sizing: border-box;"><td width="126" style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px;">Double – 30sqm</td><td width="95" style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px;">$8,000</td><td width="86" style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px;">$400</td></tr></tbody></table>
