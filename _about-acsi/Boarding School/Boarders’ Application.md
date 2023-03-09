@@ -4,11 +4,10 @@ permalink: /about-acs-independent/boarding-school/boarders-application/
 description: ""
 third_nav_title: Boarding School
 ---
-
 ACS (Independent) and ACS (International Students) should submit your applications using the forms below.
 
-*   <a href="https://forms.office.com/r/bTRQx2xiPy" target="_blank"><b>Boarding School Application Form</b></a>
-*  <a href="https://forms.office.com/r/RfnnmNMHLT" target="_blank"><b>Boarding School Application Form – ACS International</b></a>
+*   **[Boarding School Application Form](https://forms.office.com/r/bTRQx2xiPy)**
+*   **[Boarding School Application Form – ACS International](https://forms.office.com/r/RfnnmNMHLT)**
 
 Completed application forms should be submitted to:
 
