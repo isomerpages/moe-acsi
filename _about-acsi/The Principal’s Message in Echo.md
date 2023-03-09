@@ -5,9 +5,9 @@ description: ""
 ---
 # <u>Latest</u>
 
-# <a href="/files/About%20ACS(I)/Principal’s%20Message%20in%20Echo/2022-ACSPRESS-Principal-Message-July-Oct-2022.pdf" target="_blank">The Principal’s Message in Echo (July-October 2022)</a>
+# <a href="/files/About%20ACS(I)/Principal’s%20Message%20in%20Echo/Principal-Message-Jan-2023.pdf" target="_blank">The Principal’s Message in Echo (July-January 2023)</a>
 
-<a href="/files/About%20ACS(I)/Principal’s%20Message%20in%20Echo/" target="_blank"></a>
+
 
 ### <u>Archive</u>
 
