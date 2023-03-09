@@ -11,6 +11,7 @@ description: ""
 
 ### <u>Archive</u>
 
+*   <a href="/files/About%20ACS(I)/Principal’s%20Message%20in%20Echo/2022-ACSPRESS-Principal-Message-July-Oct-2022.pdf" target="_blank">October 2022</a>
 *   <a href="/files/About%20ACS(I)/Principal’s%20Message%20in%20Echo/2022-ACSPRESS-Principal-Message-May-July-2022.pdf" target="_blank">June 2022</a>
 *   [May 2022](https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/04/2022-ACSPRESS-Principal-Message-Feb-May-2022.pdf)
 *   <a href="/files/About%20ACS(I)/Principal’s%20Message%20in%20Echo/Principal-Message-Nov-Feb2022.pdf" target="_blank">February 2022</a>
