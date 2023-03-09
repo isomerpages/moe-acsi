@@ -29,12 +29,10 @@ We welcome qualified and highly motivated individuals with a strong passion for 
 
 *   **Art and Design**
     *   **Secondary Levels**
-*   **Biology**
-    *   **Secondary Levels**
 *   **Economics**
     *   **Junior College Levels**
-*   **English Language and Literature**
-    *   **Secondary Levels**
+*   **Theory of Knowledge**
+    *   **Junior College Levels**
 
 Interested applicants, please email your resume to [lilliantan@acsindep.edu.sg](mailto:lilliantan@acsindep.edu.sg)
 
@@ -43,9 +41,6 @@ For relief teaching positions, applicants must be a registered relief teacher wi
 **Executive and Support Staff**
 
 *   **Custodians (Estate Department)**
-*   **Coding/Tech Instructor (IT Department)**
 *   **Facilities Maintenance Officers (Estate Department)**
-*   **IT Support Officer (IT Department)**
-*   **Procurement Assistant/Officer (Procurement Department)**
 
 Interested applicants, please email your resume to [lilliantan@acsindep.edu.sg](mailto:lilliantan@acsindep.edu.sg)
