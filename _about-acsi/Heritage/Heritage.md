@@ -4,8 +4,6 @@ permalink: /about-acs-independent/heritage/
 description: ""
 third_nav_title: Heritage
 ---
-
-
 **_Origins_**
 -------------
 
@@ -47,4 +45,4 @@ In January 2004, the Integrated Programme (IP) was introduced – a 4-year cours
 **_The Future Ahead_**
 ----------------------
 
-As ACS (Independent) faces the challenges of the 21st Century, the school continues to strive towards fulfilling Bishop William Oldham’s vision.  According to Oldham, an education should transcend mere acquisition of knowledge and skills and go beyond the preparation to carve out a livelihood; an education should instead broaden the mind and nourish the soul.  With this vision guiding us, ACS (Independent) seeks to continue to be a beacon of truth and light, nurturing ACSians to be catalysts for change with Godly values and robust character, equipped and willing to serve and lead in the family, nation and global community.
+As ACS (Independent) faces the challenges of the 21st Century, the school continues to strive towards fulfilling Bishop William Oldham’s vision.  According to Oldham, an education should transcend mere acquisition of knowledge and skills and go beyond the preparation to carve out a livelihood; an education should instead broaden the mind and nourish the soul.  With this vision guiding us, ACS (Independent) seeks to continue to be a beacon of truth and light, nurturing ACSians to be catalysts for change with Godly values and robust character, equipped and willing to serve and lead in the family, nation and global community
