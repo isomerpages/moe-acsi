@@ -3,8 +3,6 @@ title: The Principal’s Message in Echo
 permalink: /about-acs-independent/the-principals-message-in-echo/
 description: ""
 ---
-# May 2022 pdf > 5mb
-
 # <u>Latest</u>
 
 # <a href="/files/About%20ACS(I)/Principal’s%20Message%20in%20Echo/2022-ACSPRESS-Principal-Message-July-Oct-2022.pdf" target="_blank">The Principal’s Message in Echo (July-October 2022)</a>
