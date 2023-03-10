@@ -2,7 +2,6 @@ collections:
   announcements:
     output: true
     order:
-      - Announcements/Announcements.md
       - Announcements/.keep
       - ACS Independent Online (IO).md
       - ACSPRESS – In – House – Publication.md
