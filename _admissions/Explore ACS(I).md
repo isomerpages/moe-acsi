@@ -11,7 +11,6 @@ While our campus is currently closed to visitors, you can still explore our scho
 
 Use our Virtual Tour to discover spaces where our student study, hang-out with their classmates or where they participate in their CCAs.
 
-# widget cannot be embedded
 
 <a href="https://vthere.at/acsi" target="_blank">For a full-screen immersive experience, please click here</a>
 
