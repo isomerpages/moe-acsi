@@ -14,8 +14,8 @@ Jan: Initially, I was disappointed to learn that I would not be attached to the 
 
 We are grateful for opportunities to learn more about autism.
 
-![](https://www.acsindep.moe.edu.sg/wp-content/uploads/2023/01/Picture1-1024x768.jpg)  
+![](/images/ACSpression/Picture1-1024x768.jpg)  
 Arts and crafts done by one of the clients at DAC Sengkang. Photo taken by Jan, an intern working at the Saint Andrew’s Adult Home (Sengkang) premises.
 
-![](https://www.acsindep.moe.edu.sg/wp-content/uploads/2023/01/Picture2-1.jpg)  
+![](/images/ACSpression/Picture2-1.jpg)  
 Two of the interns, Jolene Ang and Candence Choi, in the Chapel of Christ Our Hope located in the Saint Andrew’s Autism Centre (Siglap) premises.
