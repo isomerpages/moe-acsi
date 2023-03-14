@@ -14,6 +14,6 @@ Poon Phusangmook
 
 6.03
 
-![](https://www.acsindep.moe.edu.sg/wp-content/uploads/2023/02/Picture1-1.jpg)A pulsating beating of drums
+![](/images/ACSpression/Picture1-1%20(1).jpg)A pulsating beating of drums
 
-[![](https://www.acsindep.moe.edu.sg/wp-content/uploads/2023/02/Picture2-1-1024x683.jpg)](https://www.acsindep.moe.edu.sg/wp-content/uploads/2023/02/Picture2-1.jpg)A roaring finale
+[![](/images/ACSpression/Picture2-1-1024x683.jpg)](/images/ACSpression/Picture2-1-1024x683.jpg)A roaring finale
