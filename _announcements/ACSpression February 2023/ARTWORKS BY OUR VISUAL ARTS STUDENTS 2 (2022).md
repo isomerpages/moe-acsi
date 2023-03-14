@@ -10,7 +10,7 @@ This series was created by Leah Gwen Woo Zhongling.
 
 ![](/images/ACSpression/Picture1-2-1024x503.jpg)
 
-Title of the art piece    _Participatory Observer (2022)_
+Title of the art piece    *Participatory Observer (2022)*
 
 Media                          Acrylic on canvas
 
@@ -20,7 +20,7 @@ This piece aims to juxtapose the restrictiveness of dwelling and overthinking, w
 
 ![](/images/ACSpression/Picture2-2-1024x1024.jpg)
 
-Title of the art piece_: Mirror: Truth Untold (2022)_
+Title of the art piece: *Mirror: Truth Untold (2022)*
 
 Media: Colour pencil, acrylic & oil on canvas
 
