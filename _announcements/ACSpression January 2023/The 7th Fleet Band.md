@@ -10,14 +10,14 @@ The Band benefited immensely from this experience, not only learning how to enha
 
 Tan Jie Xin, 6.08, President, Wind Ensemble
 
-[![](https://www.acsindep.moe.edu.sg/wp-content/uploads/2023/01/Picture2-2.jpg)](https://www.acsindep.moe.edu.sg/wp-content/uploads/2023/01/Picture2-2.jpg)
+[![](/images/ACSpression/Picture2-2.jpg)](/images/ACSpression/Picture2-2.jpg)
 
 Performance by the 7th Fleet Band
 
-[![](https://www.acsindep.moe.edu.sg/wp-content/uploads/2023/01/Picture3-2.jpg)](https://www.acsindep.moe.edu.sg/wp-content/uploads/2023/01/Picture3-2.jpg)
+[![](/images/ACSpression/Picture3-2.jpg)](/images/ACSpression/Picture3-2.jpg)
 
 Masterclass by the 7th Fleet Band Members
 
-[![](https://www.acsindep.moe.edu.sg/wp-content/uploads/2023/01/Picture4-2.jpg)](https://www.acsindep.moe.edu.sg/wp-content/uploads/2023/01/Picture4-2.jpg)
+[![](/images/ACSpression/Picture4-2.jpg)](/images/ACSpression/Picture4-2.jpg)
 
 Combined Performance by ACS(I) Band & the 7th Fleet Band
