@@ -4,9 +4,9 @@ permalink: /announcements/ACSpression-February-2023/permalink/
 description: ""
 third_nav_title: ACSpression February 2023
 ---
-“_Nian Nian You Yu_![\[1\]](https://www.acsindep.moe.edu.sg/acspress1/a-reflection-on-traditions/#_ftn1) Huat ah!” My family and I chant haphazardly tossing carrots, radishes and other _yusheng_ ingredients into the air.
+*Nian Nian You Yu* **[1]** Huat ah!” My family and I chant haphazardly tossing carrots, radishes and other _yusheng_ ingredients into the air.
 
-It’s just one of the many traditions we practise during Chinese New Year, along with the giving and receiving of _hongbaos[**\[2\]**](https://www.acsindep.moe.edu.sg/acspress1/a-reflection-on-traditions/#_ftn2)_ and visits to families. In fact, Chinese New Year seems to be the only time my family exhibits any semblance of regard for such cultural traditions. Having spent our childhood years in the United States, my siblings and I unfortunately grew up without a strong sense of connection to our Chinese heritage. While our peers in Singapore had weekly, non-negotiable family dinners with their grandparents, we became accustomed to seeing our grandparents once every two years. While they opened all the doors and windows when they moved house to allow the _qi[**\[3\]**](https://www.acsindep.moe.edu.sg/acspress1/a-reflection-on-traditions/#_ftn3)_ to flow through the new house, we hosted a barbeque when we moved house and invited our new neighbours. Of course, when we returned to Singapore, classmates and friends teased us and jokingly called us ABCs – American-born Chinese for knowing more about the American culture than our own.
+It’s just one of the many traditions we practise during Chinese New Year, along with the giving and receiving of *hongbaos* **[2]** and visits to families. In fact, Chinese New Year seems to be the only time my family exhibits any semblance of regard for such cultural traditions. Having spent our childhood years in the United States, my siblings and I unfortunately grew up without a strong sense of connection to our Chinese heritage. While our peers in Singapore had weekly, non-negotiable family dinners with their grandparents, we became accustomed to seeing our grandparents once every two years. While they opened all the doors and windows when they moved house to allow the *qi***[3]** to flow through the new house, we hosted a barbeque when we moved house and invited our new neighbours. Of course, when we returned to Singapore, classmates and friends teased us and jokingly called us ABCs – American-born Chinese for knowing more about the American culture than our own.
 
 Although my family and I did assimilate into American culture to some extent, we continued to practise certain Asian traditions even while in the States. To the perplexity of our American friends, we addressed every adult as ‘Uncle’ or ‘Aunty’. I remember one of my friends questioning me about this Asian idiosyncrasy, pointing out, “But you’re not even related to any of them!” At ten years old, how could I explain the value of respect for one’s elders behind this social custom? How could I explain the sense of shock I had felt upon first hearing my best friend address an adult by their first name and the resulting awkwardness when I tried and failed to make her comprehend the taboo? The short answer: I couldn’t. Instead, I laughed off the observation and that was the end of my cultural crisis – for the moment.
 
@@ -22,8 +22,8 @@ Nasya Chua Yeqi
 
 * * *
 
-[\[1\]](https://www.acsindep.moe.edu.sg/acspress1/a-reflection-on-traditions/#_ftnref1) Chinese saying that means “abundance throughout the year”
+[1] Chinese saying that means “abundance throughout the year”
 
-[\[2\]](https://www.acsindep.moe.edu.sg/acspress1/a-reflection-on-traditions/#_ftnref2) red packets
+[2] red packets
 
-[\[3\]](https://www.acsindep.moe.edu.sg/acspress1/a-reflection-on-traditions/#_ftnref3) positive energy
+[3] positive energy
