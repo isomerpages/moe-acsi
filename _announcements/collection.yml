@@ -2,12 +2,13 @@ collections:
   announcements:
     output: true
     order:
-      - ACSpression February 2023/A Reflection on traditions.md
-      - ACSpression February 2023/.keep
       - Announcements.md
       - ACS Independent Online (IO).md
       - ACSPRESS – In – House – Publication.md
       - ACS ECHO.md
+      - ACSpression February 2023/.keep
+      - ACSpression February 2023/A Reflection on traditions.md
+      - ACSpression January 2023/.keep
       - ACSpression January 2023/Chinese New Year Concert 2023.md
       - ACSpression January 2023/ARTWORKS BY OUR VISUAL ARTS STUDENTS (2022).md
       - ACSpression January 2023/Transitions….md
@@ -18,7 +19,6 @@ collections:
       - ACSpression January 2023/Boys’ Brigade Day Celebrations.md
       - "ACSpression January 2023/AC Photography Society CAS project: Back to
         Normal.md"
-      - ACSpression January 2023/.keep
       - ACSpression January 2023/Mr Arene Koh’s morning devotion on 10th January
         2023.md
       - "ACSpression January 2023/Y1 Orientation: A Parent’s Perspective.md"
