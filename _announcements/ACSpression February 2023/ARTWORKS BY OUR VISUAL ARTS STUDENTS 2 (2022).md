@@ -8,7 +8,7 @@ On 8 November, the 2022 IB HL Visual Arts students hosted a gallery night. They 
 
 This series was created by Leah Gwen Woo Zhongling.
 
-![](https://www.acsindep.moe.edu.sg/wp-content/uploads/2023/02/Picture1-2-1024x503.jpg)
+![](/images/ACSpression/Picture1-2-1024x503.jpg)
 
 Title of the art piece    _Participatory Observer (2022)_
 
@@ -18,7 +18,7 @@ Dimensions                 50.5 x 101.5 cm
 
 This piece aims to juxtapose the restrictiveness of dwelling and overthinking, with the liberation from seeking contentment in detaching from the past. This dichotomy is shown via the symbol of the blanket. In the painting, the folds tightly winding the body appear complex, but become simple when outstretched by a person’s decision to hold it at a distance. This idea of healthy detachment is contrasted by the depiction of spiraling within complexity in _Incomprehensible Synthesis._
 
-![](https://www.acsindep.moe.edu.sg/wp-content/uploads/2023/02/Picture2-2-1024x1024.jpg)
+![](/images/ACSpression/Picture2-2-1024x1024.jpg)
 
 Title of the art piece_: Mirror: Truth Untold (2022)_
 
