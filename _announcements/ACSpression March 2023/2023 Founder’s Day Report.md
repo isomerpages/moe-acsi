@@ -4,7 +4,7 @@ permalink: /announcements/ACSpression-March-2023/2023FounderDayReport/
 description: ""
 third_nav_title: ACSpression March 2023
 ---
-![](https://www.acsindep.moe.edu.sg/wp-content/uploads/2023/03/Picture30.jpg)
+![](/images/ACSpression/Picture30.jpg)
 
 Unveiling of the Honour roll by Mr Richard Seow (Photo: Marcus Kang)
 
