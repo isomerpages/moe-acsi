@@ -16,10 +16,10 @@ The senior boarders, Andrew Nicholas Wyrtzen and Isaac Wan also shared their per
 
 The rest of the evening was a time of fellowship which allowed host families and scholars to mingle. Everyone left with their hearts a little fuller that evening.
 
-![](https://www.acsindep.moe.edu.sg/wp-content/uploads/2023/03/Picture28.jpg)
+![](/images/ACSpression/Picture28.jpg)
 
 Good food. Good mood.
 
-![](https://www.acsindep.moe.edu.sg/wp-content/uploads/2023/03/Picture29.jpg)
+![](/images/ACSpression/Picture29.jpg)
 
 Keep calm and play on…
