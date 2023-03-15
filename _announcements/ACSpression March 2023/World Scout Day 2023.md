@@ -10,10 +10,10 @@ Dr Jasper Wang, a former ACSian, presently a Singapore Armed Forces Medical Scho
 
 As the parade contingent stood at attention, Dr Wang and Mr Koh delivered speeches that affirmed the core values of Scouting. Blessed with words of prayer from Dr Andrew Yong, the Scouts renewed the Scout Promise, pledging their best efforts to help people, and to preserve the Scout Law.
 
-![](https://www.acsindep.moe.edu.sg/wp-content/uploads/2023/03/Picture15-1024x680.jpg)
+![](/images/ACSpression/Picture15-1024x680.jpg)
 
 Scout Day Parade Contingent with GOH Dr Jasper Wang
 
-![](https://www.acsindep.moe.edu.sg/wp-content/uploads/2023/03/Picture16-1024x680.jpg)
+![](/images/ACSpression/Picture16-1024x680.jpg)
 
 Dr Andrew Yong praying for the Scouts and Venture Scouts
