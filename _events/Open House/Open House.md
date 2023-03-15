@@ -14,4 +14,4 @@ The ACS(I) Open House will be held on **15 April 2023 – Saturday, 8.30am to 1
 
 More information will be published on this page as well as our social media ([https://www.facebook.com/acindeponline](https://www.facebook.com/acindeponline)) closer to date.
 
-For any enquiries, you may contact us [here](https://www.acsindep.moe.edu.sg/about-acs-independent/contact-us-main/).
+For any enquiries, you may contact us [here](/about-acs-independent/contact-us-main/).
