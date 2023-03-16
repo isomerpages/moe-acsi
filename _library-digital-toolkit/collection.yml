@@ -2,6 +2,7 @@ collections:
   library-digital-toolkit:
     output: true
     order:
+      - Maker/.keep
       - EExam Paper/.keep
       - Chinese/.keep
       - Computing/.keep
