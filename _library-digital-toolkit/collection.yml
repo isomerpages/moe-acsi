@@ -2,5 +2,6 @@ collections:
   library-digital-toolkit:
     output: true
     order:
+      - Chemistry/.keep
       - ACS(I) Library Digital Toolkit.md
       - Physics/.keep
