@@ -2,6 +2,7 @@ collections:
   library-digital-toolkit:
     output: true
     order:
+      - Chinese/.keep
       - Computing/.keep
       - Music/.keep
       - BM & Economics/.keep
