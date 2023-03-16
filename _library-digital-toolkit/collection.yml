@@ -1,4 +1,5 @@
 collections:
   library-digital-toolkit:
     output: true
-    order: []
+    order:
+      - ACS(I) Library Digital Toolkit.md
