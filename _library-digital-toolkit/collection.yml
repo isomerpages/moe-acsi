@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - ACS(I) Library Digital Toolkit.md
+      - Physics/Physics eBooks.md
       - Physics/Physics eLearn.md
       - Physics/Physics Open Source Resources – Limited Time.md
       - Physics/.keep
