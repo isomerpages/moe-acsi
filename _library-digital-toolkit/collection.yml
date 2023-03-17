@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - ACS(I) Library Digital Toolkit.md
+      - Physics/Physics eDatabase & eJournal.md
       - Physics/.keep
       - Chemistry/.keep
       - Biology/.keep
