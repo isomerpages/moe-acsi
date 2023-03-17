@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - ACS(I) Library Digital Toolkit.md
+      - Physics/Physics eEE.md
       - Physics/Physics Hardcopy EE.md
       - Physics/Physics eBooks.md
       - Physics/Physics eLearn.md
