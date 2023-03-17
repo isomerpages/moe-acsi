@@ -3,18 +3,18 @@ collections:
     output: true
     order:
       - ACS(I) Library Digital Toolkit.md
-      - Library Facility/.keep
-      - HardBound Exam Paper/.keep
-      - Maker/.keep
-      - EExam Paper/.keep
-      - Chinese/.keep
-      - Computing/.keep
-      - Music/.keep
-      - BM & Economics/.keep
-      - Geography/.keep
-      - History/.keep
-      - Mathematics/.keep
-      - English/.keep
-      - Biology/.keep
-      - Chemistry/.keep
       - Physics/.keep
+      - Chemistry/.keep
+      - Biology/.keep
+      - English/.keep
+      - Mathematics/.keep
+      - History/.keep
+      - Geography/.keep
+      - BM & Economics/.keep
+      - Music/.keep
+      - Computing/.keep
+      - Chinese/.keep
+      - EExam Paper/.keep
+      - Maker/.keep
+      - HardBound Exam Paper/.keep
+      - Library Facility/.keep
