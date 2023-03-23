@@ -4,6 +4,8 @@ permalink: /about-acs-independent/staff-list/
 description: ""
 third_nav_title: Staff List
 ---
+Please note that only the names and details of key-points-of-contact are reflected in the staff Directory. For the **full contact list** of teachers and staff, Parents **may log in to the** [**Parents’ Portal**](http://lms.acsindep.edu.sg/ACSIndep/logon_new.aspx?type=parents) and view the Staff List under Parent’s Resources tab.
+
 | Departments | Appointment | Name |
 | --- | --- | --- |
 | Senior Administration | Principal | Mr Arene Koh |
