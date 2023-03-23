@@ -4,3 +4,4 @@ permalink: /our-departments/english-language-and-literature/tudentsarticipatione
 description: ""
 third_nav_title: English Language & Literature
 ---
+![](/images/Our%20Departments/ELL/y1-writeup-for-ferdinand-724x1024.png)
