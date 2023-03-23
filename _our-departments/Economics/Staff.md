@@ -4,21 +4,4 @@ permalink: /departments/economics/staff/
 description: ""
 third_nav_title: Economics
 ---
-
-| Name                           | Subject             |
-|--------------------------------|---------------------|
-| Ms Alice Tan                   | Economics           |
-| Ms Angela Ong                  | Business Management |
-| Ms Annie Tan                   | Business Management |
-| Mr Bernard Low (Dean)          | Economics           |
-| Ms Charissa Lim (Deputy Dean)  | Economics           |
-| Ms Diana Chng                  | Economics           |
-| Mr Ismail Shifaz (Deputy Dean) | Business Management |
-| Mdm Ivy Quek                   | Economics           |
-| Mr James Ong                   | Economics           |
-| Ms Juliana Liu-Tengara         | Economics           |
-| Mr Mahtani Naresh Gangaram     | Economics           |
-| Ms Noh  Hee  Jung              | Economics           |
-| Ms Stephanie Ong               | Economics           |
-| Mr Tan Wee Teck                | Economics           |
-| Mr Wong Hin Pong Ryan          | Business Management |
+<table width="650" border="1"><tbody><tr style="background-color: #b8b8b8;"><td width="325">Name</td><td width="325">Subject</td></tr><tr><td width="325">Ms Alice Tan</td><td width="325">Economics</td></tr><tr><td width="325">Ms Angela Ong</td><td width="325">Business Management</td></tr><tr><td width="325">Ms Annie Tan</td><td width="325">Business Management</td></tr><tr><td width="325">Mr Bernard Low (Dean)</td><td width="325">Economics</td></tr><tr><td width="325">Ms Charissa Lim (Deputy Dean)</td><td width="325">Economics</td></tr><tr><td width="325">Ms Diana Chng</td><td width="325">Economics</td></tr><tr><td width="325">Mr Ismail Shifaz (Deputy Dean)</td><td width="325">Business Management</td></tr><tr><td width="325">Mdm Ivy Quek</td><td width="325">Economics</td></tr><tr><td width="325">Mr James Ong</td><td width="325">Economics</td></tr><tr><td width="325">Ms Juliana Liu-Tengara</td><td width="325">Economics</td></tr><tr><td width="325">Mr Mahtani Naresh Gangaram</td><td width="325">Economics</td></tr><tr><td width="325">Ms Noh &nbsp;Hee&nbsp; Jung</td><td width="325">Economics</td></tr><tr><td width="325">Ms Stephanie Ong</td><td width="325">Economics</td></tr><tr><td width="325">Mr Tan Wee Teck</td><td width="325">Economics</td></tr><tr><td width="325">Mr Wong Hin Pong Ryan</td><td width="325">Business Management</td></tr></tbody></table>
