@@ -4,7 +4,6 @@ permalink: /departments/humanities/curriculum/
 description: ""
 third_nav_title: Humanities
 ---
-# items 1,3,4,6,7,8,10 >5mb
 
 1.  Geography Lower Sec Exp
 2.  <a href="/files/Our%20Departments/Humanities/Geography-Lower-Sec-IP.pdf" target="_blank">Geography Lower Sec IP</a>
