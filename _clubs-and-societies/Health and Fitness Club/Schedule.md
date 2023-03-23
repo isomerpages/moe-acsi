@@ -6,16 +6,16 @@ third_nav_title: Health and Fitness Club
 ---
 #### Please note that the club is open to Year 5 – Year 6 students only
 
-\*COVID-19 current schedule
-
 **_YEAR 5_**
 
-Wednesday  3:15 pm – 4:30 pm Audi 1 (some weeks) for Zumba and other Fitness classes to be conducted depending on feasibility
+Wednesday  3:15 pm – 4:30 pm Old MPH for Fitness
 
-Other Time(s)/Day(s) – Gym sessions (different public gyms 5 per group location @ discretion of group leader) and outside individual workout locations
+Other Time(s)/Day(s) – Gym and fitness sessions (individual and group workout locations) off campus done independently
+
+VIA and or other Projects 2023 – Singapore Red Cross Society: Safety Awareness session (CPR and AED) June, 2023 @ Westgate Mall **\*Compulsory for all year 5 members**
 
 _**YEAR 6**_
 
-Time(s)/Day(s)  – Gym sessions (different public gyms 6 per group location @ discretion of group leader) and outside individual workout locations
+Wednesday  3:15 pm – 4:30 pm Old MPH for Fitness
 
-\*\*Please Note that scheduled activities are subject to availability of facility. We will resume school gym workouts pending advisement from MOE
+Other Time(s)/Day(s) – Gym and fitness sessions (individual and group workout locations) off campus done independently
