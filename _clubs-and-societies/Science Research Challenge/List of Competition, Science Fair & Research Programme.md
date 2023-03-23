@@ -17,6 +17,6 @@ third_nav_title: Science Research Challenge
 *   Singapore Junior Water Prize
 *   Singapore Science and Engineering Fair
 *   Singapore Young Physicists’ Tournament
-*   Nanyang Research Programme (NRP / NRP_jr_)
+*   Nanyang Research Programme (NRP / NRPjr)
 *   Science Research Programme (SRP)
 *   SUTD Research Mentorship Programme (RMP)
