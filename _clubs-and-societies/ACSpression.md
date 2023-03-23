@@ -3,7 +3,7 @@ title: ACSpression
 permalink: /acspress1/
 description: ""
 ---
-Click here to access [ACSpression Events](/acspress1/the-boys-brigade-12th-company-bbsg-car-flag-off/)
+Click here to access [ACSpression Events](/news-announcements/)
 
 <img src="/images/ACSpression.png" 
      style="width:50%">
