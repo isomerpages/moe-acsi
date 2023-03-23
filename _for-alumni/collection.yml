@@ -2,7 +2,7 @@ collections:
   for-alumni:
     output: true
     order:
-      - Testing 1.md
+      - ACS Old Boys' Association.md
       - Oldham Club.md
       - Alumni Relations Office.md
       - Collection of Certificates.md
