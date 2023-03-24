@@ -45,7 +45,7 @@ _“I like to sing in my free time and have a habit of doing it unconsciously wh
 
 ![](/images/Performing%20Arts/MicrosoftTeams-image-5.png)
 
-<table style="border-color: #d1d1d1; width: 999px; height: 100%;" border="1"><tbody><tr><td style="width: 435px;"><strong>Audition Dates</strong></td><td style="width: 207px;">&nbsp;<strong>Time</strong></td><td style="width: 338px;"><strong>Reporting Venue</strong></td></tr><tr><td style="width: 435px;">&nbsp;9th February, Thursday</td><td style="width: 207px;">&nbsp;4.15pm – 6pm</td><td style="width: 338px;">Old block red level general music room</td></tr><tr><td style="width: 435px;">&nbsp;14th February, Tuesday</td><td style="width: 207px;">&nbsp;4pm – 6pm</td><td style="width: 338px;">Old block red level general music room</td></tr></tbody></table>
+<table style="border-color: #d1d1d1; width: 100%; height: 100%;" border="1"><tbody><tr><td style="width: 435px;"><strong>Audition Dates</strong></td><td style="width: 207px;">&nbsp;<strong>Time</strong></td><td style="width: 338px;"><strong>Reporting Venue</strong></td></tr><tr><td style="width: 435px;">&nbsp;9th February, Thursday</td><td style="width: 207px;">&nbsp;4.15pm – 6pm</td><td style="width: 338px;">Old block red level general music room</td></tr><tr><td style="width: 435px;">&nbsp;14th February, Tuesday</td><td style="width: 207px;">&nbsp;4pm – 6pm</td><td style="width: 338px;">Old block red level general music room</td></tr></tbody></table>
 
 **We are looking for:**
 
@@ -65,4 +65,3 @@ Applicants are to sing 1 verse of a self-chosen song which can bring out the bea
 
 **See you at the audition!**
 ![](/images/Performing%20Arts/Copy-of-IMG_2699-768x512.jpg)
-
