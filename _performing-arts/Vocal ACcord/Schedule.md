@@ -4,38 +4,43 @@ permalink: /vocal-accord/schedule/
 description: ""
 third_nav_title: Vocal ACcord
 ---
-Vocal ACcord rehearses twice a week under the guidance of Mrs Elaine Wan.
+ Vocal ACcord rehearses twice a week under the guidance of Mrs Elaine Wan.
 
-Nearing key events and performances, more rehearsals may be organised in preparation of the events.
+Nearing key events and performances, more rehearsals may be organized in preparation of the events.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-wa1i">Rehearsal Date</th>
-    <th class="tg-wa1i">Time</th>
-    <th class="tg-wa1i">Venue</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-nrix">Every Tuesday</td>
-    <td class="tg-baqh"><span style="font-weight:400">16:00-18:30</span><br><br><br>or<br>1730-1900</td>
-    <td class="tg-nrix">General Music Room<br><br>or<br>Zoom</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Every Thursday</td>
-    <td class="tg-baqh"><span style="font-weight:400">16:00-18:30</span><br><br><br>or<br>1730-1900</td>
-    <td class="tg-nrix">General Music Room<br><br>or<br>Zoom</td>
-  </tr>
-</tbody>
-</table>
+<table style="width:513.0pt;
+ mso-cellspacing:1.5pt;border:outset #D1D1D1 1.0pt;mso-border-alt:outset #D1D1D1 .75pt;
+ mso-yfti-tbllook:1184" class="MsoNormalTable" width="684" cellpadding="0" border="1"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:179.95pt;padding:.75pt .75pt .75pt .75pt" width="240"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" class="MsoNormal" align="center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:
+  none;mso-fareast-language:EN-SG">Rehearsal Date</span></p></td><td style="width:124.7pt;padding:.75pt .75pt .75pt .75pt" width="166"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" class="MsoNormal" align="center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:
+  none;mso-fareast-language:EN-SG">Time</span></p></td><td style="width:193.8pt;padding:.75pt .75pt .75pt .75pt" width="258"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" class="MsoNormal" align="center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:
+  none;mso-fareast-language:EN-SG">Reporting Venue</span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:179.95pt;padding:.75pt .75pt .75pt .75pt" width="240"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" class="MsoNormal" align="center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:
+  none;mso-fareast-language:EN-SG">Every Tuesday</span></p></td><td style="width:124.7pt;padding:.75pt .75pt .75pt .75pt" width="166"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" class="MsoNormal" align="center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:
+  none;mso-fareast-language:EN-SG">16:15-18:45</span></p></td><td style="width:193.8pt;padding:.75pt .75pt .75pt .75pt" width="258"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" class="MsoNormal" align="center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:
+  none;mso-fareast-language:EN-SG">General Music Room</span></p><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" class="MsoNormal" align="center"><span style="font-size:12.0pt;
+  font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-SG">(VA’s CCA Room)</span></p><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal" class="MsoNormal" align="center"><span style="font-size:12.0pt;
+  font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:EN-SG">(Old Block, Red Level)</span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="width:179.95pt;padding:.75pt .75pt .75pt .75pt" width="240"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" class="MsoNormal" align="center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:
+  none;mso-fareast-language:EN-SG">Every Thursday</span></p></td><td style="width:124.7pt;padding:.75pt .75pt .75pt .75pt" width="166"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" class="MsoNormal" align="center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:
+  none;mso-fareast-language:EN-SG">16:15-18:45</span></p></td><td style="width:193.8pt;padding:.75pt .75pt .75pt .75pt" width="258"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" class="MsoNormal" align="center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt;mso-ligatures:
+  none;mso-fareast-language:EN-SG">Old Block, Red Level Classroom 313</span></p></td></tr></tbody></table>
