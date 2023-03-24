@@ -3,8 +3,6 @@ title: Curriculum
 permalink: /departments/science/physics/curriculum/
 description: ""
 ---
-# SEAB O level Physics syllabus link broken
-
 We offer a variety of programmes for Physics and Computer Studies.
 
 ### Physics
