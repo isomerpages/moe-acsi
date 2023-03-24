@@ -4,6 +4,36 @@ permalink: /vocal-accord/gallery/
 description: ""
 third_nav_title: Vocal ACcord
 ---
+![](/images/Performing%20Arts/IMG-20230119-WA0011-768x612.jpg)**Presenting Chinese New Year Medley in CNY school celebration concert on 19 January 2023**
+
+    ![](/images/Performing%20Arts/WhatsApp-Image-2023-01-19-at-11%2035%2049-AM-1024x474.jpeg)**Post CNY Performance Lo-Hei**
+
+![]/images/Performing%20Arts/IMG-20221122-WA0018-300x225.jpg)**Attending Beatboxing Workshop conducted by Mr Charles Wong in Nov 2022!**
+
+![](/images/Performing%20Arts/IMG-20220830-WA0032-300x138.jpg)
+
+**Vocal ACcord collaborated with Secondary Choir to perform in Honour’s Day ceremony on 30 August 2022.**  
+
+![](/images/Performing%20Arts/IMG_20230205_225615-233x300.jpg)**Post-performance** **snapshot! – Honours day 2022**
+
+![](/images/Performing%20Arts/IMG-20220519-WA0013-1-300x138.jpg)
+
+**2021/22 VA members dared to dream big and created our very first original E-Musical VAliens’ InVAsion in Festival of Arts, 2022 May. It was another great milestone for ACS(I) Vocal ACcord!**
+
+**Thank you so much, our batch of 2022 Y6 seniors for your dedication and creative spirit!**
+
+![](/images/Performing%20Arts/alien-300x169.png)**Original Song _10,000 Light Years,_ theme song of Alien Tribe in Vocal ACcord E-musical VAliens’ InVAsion (2022)**
+
+![](/images/Performing%20Arts/air-tribe-300x169.png)
+
+**We rearranged Tchaikovsky’s _Waltz of the Flowers_ to be the theme song of the Air Tribe in Vocal ACcord E-musical VAliens’ InVAsion (2022)**
+
+![](/images/Performing%20Arts/photo-5-300x167.jpg)**Original Song _People OF The Ocean Wide,_ theme song of Water Tribe in Vocal ACcord E-musical VAliens’ InVAsion (2022)**
+
+![](/images/Performing%20Arts/photo-6-300x169.jpg)**Original Song _Solid as Rock,_ theme song of Earth Tribe in Vocal ACcord E-musical VAliens’ InVAsion (2022)**
+
+![](/images/Performing%20Arts/fire-song-300x160.jpg)**Original Song _The Wild Fire Within,_ theme song of Fire Tribe in Vocal ACcord E-musical VAliens’ InVAsion (2022)**
+
 <table>
 <thead>
   <tr>
