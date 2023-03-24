@@ -4,162 +4,22 @@ permalink: /vocal-accord/events-2/
 description: ""
 third_nav_title: Vocal ACcord
 ---
-**2019 Highlights**
+**2023 Highlights** 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1wig"><span style="font-weight:bolder">Name</span></th>
-    <th class="tg-1wig"><span style="font-weight:bolder">Date</span></th>
-    <th class="tg-1wig"><span style="font-weight:bolder">Venue</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax"> Chinese New Year Celebration Concert</td>
-    <td class="tg-0lax"> 15 February</td>
-    <td class="tg-0lax"> ACS (Independent) Audi 2</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"> Founder’s Day</td>
-    <td class="tg-0lax"> 1 March</td>
-    <td class="tg-0lax"> ACS (Independent) Audi 2</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1"> Festival Of Arts (Vocal Accord): “The Time of My Life”</td>
-    <td class="tg-cly1"> 18 May</td>
-    <td class="tg-cly1"> ACS (Independent) CPA 2</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1"> National Day Community Singing</td>
-    <td class="tg-cly1"> 8 August</td>
-    <td class="tg-cly1"> ACS (Independent) IB Foyer</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"> St. Luke’s Hospital Christmas Carolling</td>
-    <td class="tg-0lax"> 22 &amp; 23 November</td>
-    <td class="tg-0lax"> St. Luke’s Hospital</td>
-  </tr>
-</tbody>
-</table>
-
-**2020 Highlights**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1wig"><span style="font-weight:bolder">Name</span></th>
-    <th class="tg-1wig"><span style="font-weight:bolder">Date</span></th>
-    <th class="tg-1wig"><span style="font-weight:bolder">Venue</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-cly1">E-Wall of Sound ( NDP School Celebration)</td>
-    <td class="tg-cly1"> July &amp; August</td>
-    <td class="tg-cly1"> Online Platform</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">St. Luke’s Hospital Christmas E-Carolling</td>
-    <td class="tg-cly1"> 20 Dec</td>
-    <td class="tg-cly1">St. Luke’s Hospital</td>
-  </tr>
-</tbody>
-</table>
-
-**2021 Highlights**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1wig"><span style="font-weight:bolder">Name</span></th>
-    <th class="tg-1wig"><span style="font-weight:bolder">Date</span></th>
-    <th class="tg-1wig"><span style="font-weight:bolder">Venue</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">Chinese New Year Celebration E-Concert</td>
-    <td class="tg-0lax"><span style="font-weight:400"> 11 February</span><br></td>
-    <td class="tg-0lax"> Online Platform</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"> Performing Arts Night Festival (PANF)</td>
-    <td class="tg-0lax"> 1 May</td>
-    <td class="tg-0lax"> Online Platform</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1"> 2021 Vocal ACcord Virtual Showcase</td>
-    <td class="tg-0lax"> Sep- Oct</td>
-    <td class="tg-0lax"> Online Platform</td>
-  </tr>
-</tbody>
-</table>
+<table style="border-color: #d1d1d1; width: 100%; height: 100%;" border="1"><tbody><tr><td style="width: 49%;"><span style="font-size: 12pt;"><strong>Name</strong></span></td><td style="width: 15.125%;"><span style="font-size: 12pt;"><strong>Date</strong></span></td><td style="width: 27.875%;"><span style="font-size: 12pt;"><strong>Venue</strong></span></td></tr><tr><td style="width: 49%;"><span style="font-size: 12pt;">Chinese New Year Celebration Concert</span></td><td style="width: 15.125%; text-align: left;"><span style="font-size: 12pt;"><strong><span style="font-weight: 400;">&nbsp;19 January</span><br></strong></span></td><td style="width: 27.875%;"><span style="font-size: 12pt;">&nbsp;CPA2</span></td></tr><tr><td style="width: 49%;">CCA Commissioning Service</td><td style="width: 15.125%; text-align: left;">&nbsp;13 February</td><td style="width: 27.875%;"><span style="font-size: 12pt;">&nbsp;Audi 2</span></td></tr><tr><td style="width: 49%;">Founder’s Day Service E-Wall of Sound</td><td style="width: 15.125%; text-align: left;">&nbsp; &nbsp;1 March</td><td style="width: 27.875%;"><span style="font-size: 12pt;">&nbsp;Audi 2</span></td></tr><tr><td style="width: 49%;">Vocal ACcord Concert <em><strong>A Caesure In Time</strong></em></td><td style="width: 15.125%; text-align: left;">&nbsp;27 May</td><td style="width: 27.875%;"><span style="font-size: 12pt;">&nbsp;CPA2</span></td></tr><tr><td style="width: 49%;">Combined Concert of Performing Arts CCAs at Esplanade Concert Hall</td><td style="width: 15.125%; text-align: left;">&nbsp;23 July</td><td style="width: 27.875%;"><span style="font-size: 12pt;">Esplanade Concert Hall</span></td></tr></tbody></table>
 
 **2022 Highlights**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1wig"><span style="font-weight:bolder">Name</span></th>
-    <th class="tg-1wig"><span style="font-weight:bolder">Date</span></th>
-    <th class="tg-1wig"><span style="font-weight:bolder">Venue</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">Chinese New Year Celebration E-Concert</td>
-    <td class="tg-0lax"><span style="font-weight:400"> 31 January</span><br></td>
-    <td class="tg-0lax"> Online Platform</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">2022 Vocal ACcord Virtual Showcase</td>
-    <td class="tg-cly1"> 27 May（TBC）</td>
-    <td class="tg-0lax"> Online Platform</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Honours day Performance</td>
-    <td class="tg-cly1"> 31 August</td>
-    <td class="tg-cly1"> TBC</td>
-  </tr>
-</tbody>
-</table>
+<table style="border-color: #d1d1d1; width: 100%; height: 100%;" border="1"><tbody><tr><td style="width: 47%;"><span style="font-size: 12pt;"><strong>Name</strong></span></td><td style="width: 16.266%;"><span style="font-size: 12pt;"><strong>Date</strong></span></td><td style="width: 31.734%;"><span style="font-size: 12pt;"><strong>Venue</strong></span></td></tr><tr><td style="width: 47%;"><span style="font-size: 12pt;">Chinese New Year Celebration E-Concert</span></td><td style="width: 16.266%;"><span style="font-size: 12pt;"><strong><span style="font-weight: 400;">&nbsp;31 January</span><br></strong></span></td><td style="width: 31.734%;"><span style="font-size: 12pt;">&nbsp;Online Platform</span></td></tr><tr><td style="width: 47%;">2022 Vocal ACcord Virtual Showcase</td><td style="width: 16.266%;">&nbsp;27 May（TBC）</td><td style="width: 31.734%;"><span style="font-size: 12pt;">&nbsp;Online Platform</span></td></tr><tr><td style="width: 47%;">Honours day Performance</td><td style="width: 16.266%;">&nbsp;31 August</td><td style="width: 31.734%;">&nbsp;TBC</td></tr></tbody></table>
+
+**2021 Highlights**
+
+<table style="border-color: #d1d1d1; width: 100%; height: 100%;" border="1"><tbody><tr><td style="width: 47%;"><span style="font-size: 12pt;"><strong>Name</strong></span></td><td style="width: 15.0895%;"><span style="font-size: 12pt;"><strong>Date</strong></span></td><td style="width: 33.9105%;"><span style="font-size: 12pt;"><strong>Venue</strong></span></td></tr><tr><td style="width: 47%;"><span style="font-size: 12pt;">Chinese New Year Celebration E-Concert</span></td><td style="width: 15.0895%;"><span style="font-size: 12pt;"><strong><span style="font-weight: 400;">&nbsp;11 February</span><br></strong></span></td><td style="width: 33.9105%;"><span style="font-size: 12pt;">&nbsp;Online Platform</span></td></tr><tr><td style="width: 47%;"><span style="font-size: 12pt;">&nbsp;Performing Arts Night Festival (PANF)</span></td><td style="width: 15.0895%;"><span style="font-size: 12pt;">&nbsp;1 May</span></td><td style="width: 33.9105%;"><span style="font-size: 12pt;">&nbsp;Online Platform</span></td></tr><tr><td style="width: 47%;">&nbsp;2021 Vocal ACcord Virtual Showcase</td><td style="width: 15.0895%;"><span style="font-size: 12pt;">&nbsp;Sep- Oct</span></td><td style="width: 33.9105%;"><span style="font-size: 12pt;">&nbsp;Online Platform</span></td></tr></tbody></table>
+
+**2019 Highlights**
+
+<table style="width: 879px;" border="1"><tbody><tr style="height: 42.97px;"><td style="width: 448px; height: 42.97px;"><strong>Name</strong></td><td style="width: 204px; height: 42.97px;"><strong>Date</strong></td><td style="width: 236px; height: 42.97px;"><strong>Venue</strong></td></tr><tr style="height: 27px;"><td style="width: 448px; height: 27px;">E-Wall of Sound ( NDP School Celebration)</td><td style="width: 204px; height: 27px;">&nbsp;July &amp; August<strong><br></strong></td><td style="width: 236px; height: 27px;">&nbsp;Online Platform</td></tr><tr style="height: 24px;"><td style="width: 448px; height: 24px;">St. Luke’s Hospital Christmas E-Carolling</td><td style="width: 204px; height: 24px;">&nbsp;20 Dec</td><td style="width: 236px; height: 24px;">St. Luke’s Hospital</td></tr></tbody></table>
+
+**2018 Highlights**
+
+<table style="border-color: #d1d1d1; width: 100%; height: 100%;" border="1"><tbody><tr style="height: 24px;"><td style="width: 45.9218%; height: 24px;"><span style="font-size: 12pt;"><strong>Name</strong></span></td><td style="width: 14.0782%; height: 24px;"><span style="font-size: 12pt;"><strong>Date</strong></span></td><td style="width: 33%; height: 24px;"><span style="font-size: 12pt;"><strong>Venue</strong></span></td></tr><tr style="height: 24px;"><td style="width: 45.9218%; height: 24px;"><span style="font-size: 12pt;">&nbsp;Chinese New Year Celebration Concert</span></td><td style="width: 14.0782%; height: 24px;"><span style="font-size: 12pt;">&nbsp;15 February</span></td><td style="width: 33%; height: 24px;"><span style="font-size: 12pt;">&nbsp;ACS (Independent) Audi 2</span></td></tr><tr style="height: 24px;"><td style="width: 45.9218%; height: 24px;"><span style="font-size: 12pt;">&nbsp;Founder’s Day</span></td><td style="width: 14.0782%; height: 24px;"><span style="font-size: 12pt;">&nbsp;1 March</span></td><td style="width: 33%; height: 24px;"><span style="font-size: 12pt;">&nbsp;ACS (Independent) Audi 2</span></td></tr><tr style="height: 24px;"><td style="width: 45.9218%; height: 24px;">&nbsp;Festival Of Arts (Vocal Accord): “The Time of My Life”</td><td style="width: 14.0782%; height: 24px;">&nbsp;18 May</td><td style="width: 33%; height: 24px;">&nbsp;ACS (Independent) CPA 2</td></tr><tr style="height: 38px;"><td style="width: 45.9218%; height: 38px;">&nbsp;National Day Community Singing</td><td style="width: 14.0782%; height: 38px;">&nbsp;8 August</td><td style="width: 33%; height: 38px;">&nbsp;ACS (Independent) IB Foyer</td></tr><tr style="height: 38px;"><td style="width: 45.9218%; height: 38px;"><span style="font-size: 12pt;">&nbsp;St. Luke’s Hospital Christmas Carolling</span></td><td style="width: 14.0782%; height: 38px;"><span style="font-size: 12pt;">&nbsp;22 &amp; 23 November</span></td><td style="width: 33%; height: 38px;"><span style="font-size: 12pt;">&nbsp;St. Luke’s Hospital</span></td></tr></tbody></table>
