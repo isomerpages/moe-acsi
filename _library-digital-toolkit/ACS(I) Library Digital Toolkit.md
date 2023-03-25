@@ -3,7 +3,9 @@ title: ACS(I) Library Digital Toolkit
 permalink: /library-digital-toolkit/ibraryigitaloolkit/
 description: ""
 ---
-<p>### Access to tailored e-Resources by Subjects (includes ACS(I) Library e-Resources, NLB eResources and free resources from Publishers &amp; Internet) and eExam Paper.</p>
+### Access to tailored e-Resources by Subjects (includes ACS(I) Library e-Resources, NLB eResources and free resources from Publishers &amp; Internet) and eExam Paper.
+
+
 <table style="box-sizing: border-box; border-collapse: collapse; min-width: 500px; color: #000000; font-family: Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 100%;">
 <tbody style="box-sizing: border-box; margin-top: 0px;">
 <tr style="box-sizing: border-box; margin-top: 0px;">
