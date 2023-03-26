@@ -4,82 +4,82 @@ permalink: /student-development/cca/sports/
 description: ""
 third_nav_title: CCA and Interest Groups
 ---
-<a href="https://staging.d270c0tj2w26u.amplifyapp.com/badminton/">
+<a href="/badminton/">
 <img src="/images/badminton.png"  style="width:70%">
 </a>
 <br>
-<a href="https://staging.d270c0tj2w26u.amplifyapp.com/bowling/">
+<a href="/bowling/">
 <img src="/images/bowling.png"  style="width:70%">
 </a>
 <br>
-<a href="https://staging.d270c0tj2w26u.amplifyapp.com/basketball/">
+<a href="/basketball/">
 <img src="/images/basketball.png"  style="width:70%">
 </a>
 <br>
-<a href="https://staging.d270c0tj2w26u.amplifyapp.com/canoeing/">
+<a href="/canoeing/">
 <img src="/images/canoeing.png"  style="width:70%">
 </a>
 <br>
-<a href="https://staging.d270c0tj2w26u.amplifyapp.com/cricket/">
+<a href="/cricket/">
 <img src="/images/cricket.png"  style="width:70%">
 </a>
 <br>
-<a href="https://staging.d270c0tj2w26u.amplifyapp.com/crosscountry/">
+<a href="/crosscountry/">
 <img src="/images/cross%20country.png"  style="width:70%">
 </a>
 <br>
-<a href="https://staging.d270c0tj2w26u.amplifyapp.com/football">
+<a href="/football">
 <img src="/images/football.png"  style="width:70%">
 </a>
 <br>
-<a href="https://staging.d270c0tj2w26u.amplifyapp.com/floorball/">
+<a href="/floorball/">
 <img src="/images/floorball.png"  style="width:70%">
 </a>
 <br>
-<a href="https://staging.d270c0tj2w26u.amplifyapp.com/frisbee/">
+<a href="/frisbee/">
 <img src="/images/frisbee.png"  style="width:70%">
 </a>
 <br>
-<a href="https://staging.d270c0tj2w26u.amplifyapp.com/golf/">
+<a href="/golf/">
 <img src="/images/golf.png"  style="width:70%">
 </a>
 <br>
-<a href="https://staging.d270c0tj2w26u.amplifyapp.com/golf/">
+<a href="/golf/">
 <img src="/images/golf.png"  style="width:70%">
 </a>
 <br>
-<a href="https://staging.d270c0tj2w26u.amplifyapp.com/rugby/">
+<a href="/rugby/">
 <img src="/images/rugby.png"  style="width:70%">
 </a>
 <br>
-<a href="https://staging.d270c0tj2w26u.amplifyapp.com/sailing//">
+<a href="/sailing//">
 <img src="/images/sailing.png"  style="width:70%">
 </a>
 <br>
-<a href="https://staging.d270c0tj2w26u.amplifyapp.com/shooting/">
+<a href="/shooting/">
 <img src="/images/shooting1.png"  style="width:70%">
 </a>
 <br>
-<a href="https://staging.d270c0tj2w26u.amplifyapp.com/softball/">
+<a href="/softball/">
 <img src="/images/softball.png"  style="width:70%">
 </a>
 <br>
-<a href="https://staging.d270c0tj2w26u.amplifyapp.com/squash/">
+<a href="/squash/">
 <img src="/images/squash.png"  style="width:70%">
 </a>
 <br>
-<a href="https://staging.d270c0tj2w26u.amplifyapp.com/swimming/">
+<a href="/swimming/">
 <img src="/images/swimming.png"  style="width:70%">
 </a>
 <br>
-<a href="https://staging.d270c0tj2w26u.amplifyapp.com/tennis/">
+<a href="/tennis/">
 <img src="/images/tennis1.png"  style="width:70%">
 </a>
 <br>
-<a href="https://staging.d270c0tj2w26u.amplifyapp.com/trackfield/">
+<a href="/trackfield/">
 <img src="/images/track%20and%20field.png"  style="width:70%">
 </a>
 <br>
-<a href="https://staging.d270c0tj2w26u.amplifyapp.com/waterpolo/">
+<a href="/waterpolo/">
 <img src="/images/water%20polo.png"  style="width:70%">
 </a>
