@@ -4,6 +4,16 @@ permalink: /bb/achievements/
 description: ""
 third_nav_title: The Boys' Brigade
 ---
+### 2022
+
+Founder’s Award (Y4) : 12 Recipients
+President’s Award (Y6) : 4 Recipients
+BB Week : Gold Honour Roll
+BB Week : Highest Total Collection, Seniors Programme; Dr Lee Soon Ann Challenge Trophy
+Character Quest: Top Winner, Gold Honour Roll
+
+The annual BB Blaze, J.M. Fraser and Pipes and Drums Festival competitions were cancelled this year.
+
 ### 2021
 
 Founder’s Award (Y4) : 7 Recipients <br>
