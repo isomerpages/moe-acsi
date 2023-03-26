@@ -4,38 +4,38 @@ permalink: /student-development/cca/uniform-groups/
 description: ""
 third_nav_title: CCA and Interest Groups
 ---
-<a href="https://staging.d270c0tj2w26u.amplifyapp.com/bb/">
+<a href="/bb/">
 <img src="/images/tbb.png"  style="width:70%">
 </a>
 <br>
-<a href="https://staging.d270c0tj2w26u.amplifyapp.com/boys-brigade-bagpipe-band/">
+<a href="/boys-brigade-bagpipe-band/">
 <img src="/images/bbbagpipe.png"  style="width:70%">
 </a>
 <br>
-<a href="https://staging.d270c0tj2w26u.amplifyapp.com/nccair/">
+<a href="/nccair/">
 <img src="/images/ncca.png"  style="width:70%">
 </a>
 <br>
-<a href="https://staging.d270c0tj2w26u.amplifyapp.com/nccland/">
+<a href="/nccland/">
 <img src="/images/nccland.png"  style="width:70%">
 </a>
 <br>
-<a href="https://staging.d270c0tj2w26u.amplifyapp.com/nccsea/">
+<a href="/nccsea/">
 <img src="/images/nccsea.png"  style="width:70%">
 </a>
 <br>
-<a href="https://staging.d270c0tj2w26u.amplifyapp.com/ncdcc/">
+<a href="/ncdcc/">
 <img src="/images/ncdcc.png"  style="width:70%">
 </a>
 <br>
-<a href="https://staging.d270c0tj2w26u.amplifyapp.com/npccland/">
+<a href="/npccland/">
 <img src="/images/npcc1.png"  style="width:70%">
 </a>
 <br>
-<a href="https://staging.d270c0tj2w26u.amplifyapp.com/sjab/">
+<a href="/sjab/">
 <img src="/images/sjb.png"  style="width:70%">
 </a>
 <br>
-<a href="https://staging.d270c0tj2w26u.amplifyapp.com/scouts/">
+<a href="/scouts/">
 <img src="/images/scouts.png"  style="width:70%">
 </a>
