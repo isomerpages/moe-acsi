@@ -12,23 +12,23 @@ Every Year 1- 4 ACSian is expected to participate in two CCAs – one Uniformed 
 
 Please click here for more information on **[ACS (INDEPENDENT)’S CO-CURRICULAR ACTIVITIES (CCA) POLICY FOR YEAR 1 – 4 STUDENTS](/files/Two-CCA-Policy.pdf).**
 
-<a href="https://staging.d270c0tj2w26u.amplifyapp.com/student-development/cca/sports/">
+<a href="/student-development/cca/sports/">
 <img src="/images/sports%20and%20games.png"  style="width:70%">
 </a>
 <br>
-<a href="https://staging.d270c0tj2w26u.amplifyapp.com/student-development/cca/uniform-groups/">
+<a href="/student-development/cca/uniform-groups/">
 <img src="/images/uniformed%20groups.png"  style="width:70%">
 </a>
 <br>
-<a href="https://staging.d270c0tj2w26u.amplifyapp.com/student-development/cca/performing-arts/">
+<a href="/student-development/cca/performing-arts/">
 <img src="/images/performing%20arts.png"  style="width:70%">
 </a>
 <br>
-<a href="https://staging.d270c0tj2w26u.amplifyapp.com/student-development/cca/clubs-and-societies/">
+<a href="/student-development/cca/clubs-and-societies/">
 <img src="/images/clubs%20&%20societies.png"  style="width:70%">
 </a>
 <br>
-<a href="https://staging.d270c0tj2w26u.amplifyapp.com/student-development/cca/interest-groups/">
+<a href="/interest-groups/">
 <img src="/images/interest%20groups.png"  style="width:70%">
 </a>
 <br>
