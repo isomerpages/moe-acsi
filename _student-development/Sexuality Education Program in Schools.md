@@ -9,8 +9,7 @@ SEd is premised on the importance of the family as the basic unit of society. Th
 
 For more information on the SEd, please refer to the attachments:
 
-- [Anglo-Chinese School (Independent)’s Sexuality Education Programme](/files/Info-on-SEd-for-schs-website-updated-Dec-2021_For-Year-1-to-Year-6.pdf)
-- [SEd opt-out form – Year 1, 2 and 4](/files/Parent-Opt-Out-Form-2022-Sec-Y1Y2Y4.pdf)
-- [SEd opt-out form – Year 3](/files/Parent-Opt-Out-Form-2022-Sec-Y3.pdf)
-- [SEd opt-out form – Year 5](/files/Parent-Opt-Out-Form-2022-JC-Y5.pdf)
-- [SEd opt-out form – Year 6](/files/Parent-Opt-Out-Form-2022-JC-Y6.pdf)
+*   [Anglo-Chinese School (Independent)’s Sexuality Education Programme](/files/Student%20Development/2023-Info-on-SEd-for-schs-website-ACSI-.pdf)
+*   [SEd opt-out form – Year 1, 2, 4 and 6](/files/Student%20Development/MOE-SEd-Parent-Opt-Outform-2023-Year-1_2_4-6.pdf)
+*   [SEd opt-out form – Year 3](/files/Student%20Development/MOE-SEd-Parent-Opt-Outform-2023-Year-3.pdf)
+*   [SEd opt-out form – Year 5](/files/Student%20Development/MOE-SEd-Parent-Opt-Outform-2023-Year-5.pdf)
