@@ -63,4 +63,6 @@ third_nav_title: Cross Country
 </tr>
 </tbody>
 </table>
-<p>For more information, please email Mr Gavin Ang (gavinang@acsindep.edu.sg) or kindly refer to the school website at: [/admissions/dsa-year-1/](https://www.acsindep.moe.edu.sg/admissions/dsa-year-1/) Thank you and we look forward to receiving your application.</p>
+For more information, please email Mr Gavin Ang (gavinang@acsindep.edu.sg) or kindly refer to the school website at: [/admissions/dsa-year-1/](https://www.acsindep.moe.edu.sg/admissions/dsa-year-1/)
+
+Thank you and we look forward to receiving your application.
