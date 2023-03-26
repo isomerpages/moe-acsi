@@ -14,10 +14,7 @@ third_nav_title: Prefectorial Board
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td>Mr Peter Dumortier</td>
-    <td>Director, Student Leadership</td>
-  </tr>
+  
   <tr>
     <td>Mdm Lee Chia Hui</td>
     <td>Teacher Advisor</td>
