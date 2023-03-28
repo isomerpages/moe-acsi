@@ -1,0 +1,10 @@
+collections:
+  biology:
+    output: true
+    order:
+      - Biology.md
+      - Staff.md
+      - Curriculum.md
+      - Biology Extended Essay.md
+      - Biology research focus.md
+      - Useful Links.md

@@ -1,0 +1,104 @@
+collections:
+  library-digital-toolkit:
+    output: true
+    order:
+      - ACS(I) Library Digital Toolkit.md
+      - Physics/.keep
+      - Physics/Physics eDatabase & eJournal.md
+      - Physics/Physics eMagazine & eNew.md
+      - Physics/Physics eEE.md
+      - Physics/Physics Hardcopy EE.md
+      - Physics/Physics eBooks.md
+      - Physics/Physics eLearn.md
+      - Physics/Physics Open Source Resources – Limited Time.md
+      - Chemistry/Chemistry eDatabase & eJournal.md
+      - Chemistry/Chemistry eMagazine & eNew.md
+      - Chemistry/Chemistry eEE.md
+      - Chemistry/Chemistry Hardcopy EE.md
+      - Chemistry/Chemistry eBooks.md
+      - Chemistry/Chemistry eLearn.md
+      - Chemistry/Chemistry Open Source Resources – Limited Time.md
+      - Chemistry/.keep
+      - Biology/Biology eDatabase & eJournal.md
+      - Biology/Biology eMagazine & eNew.md
+      - Biology/Biology eEE.md
+      - Biology/Biology Hardcopy EE.md
+      - Biology/Biology eBooks.md
+      - Biology/Biology eLearn.md
+      - Biology/Biology Open Source Resources – Limited Time.md
+      - Biology/.keep
+      - English/English eDatabase & eJournal.md
+      - English/English eMagazine & eNew.md
+      - English/English eEE.md
+      - English/English Hardcopy EE.md
+      - English/English eBooks.md
+      - English/English eLearn.md
+      - English/English Open Source Resources – Limited Time.md
+      - English/.keep
+      - Mathematics/Mathematics eDatabase & eJournal.md
+      - Mathematics/Mathematics eMagazine & eNew.md
+      - Mathematics/Mathematics eEE.md
+      - Mathematics/Mathematics Hardcopy EE.md
+      - Mathematics/Mathematics eBooks.md
+      - Mathematics/Mathematics eLearn.md
+      - Mathematics/Mathematics Open Source Resources – Limited Time.md
+      - Mathematics/.keep
+      - History/History eDatabase & eJournal.md
+      - History/History eMagazine & eNew.md
+      - History/History eEE.md
+      - History/History Hardcopy EE.md
+      - History/History eBooks.md
+      - History/History eLearn.md
+      - History/History Open Source Resources – Limited Time.md
+      - History/.keep
+      - Geography/Geography eDatabase & eJournal.md
+      - Geography/Geography eMagazine & eNew.md
+      - Geography/Geography eEE.md
+      - Geography/Geography Hardcopy EE.md
+      - Geography/Geography eBooks.md
+      - Geography/Geography eLearn.md
+      - Geography/Geography Open Source Resources – Limited Time.md
+      - Geography/.keep
+      - BM & Economics/BM & Economics eDatabase & eJournal.md
+      - BM & Economics/BM & Economics eMagazine & eNew.md
+      - BM & Economics/BM & Economics eEE.md
+      - BM & Economics/BM & Economics Hardcopy EE.md
+      - BM & Economics/BM & Economics eBooks.md
+      - BM & Economics/BM & Economics eLearn.md
+      - BM & Economics/BM & Economics Open Source Resources – Limited Time.md
+      - BM & Economics/.keep
+      - Music/Music eDatabase & eJournal.md
+      - Music/Music eMagazine & eNew.md
+      - Music/Music eEE.md
+      - Music/Music Hardcopy EE.md
+      - Music/Music eBooks.md
+      - Music/Music eLearn.md
+      - Music/Music Open Source Resources – Limited Time.md
+      - Music/.keep
+      - Computing/Computing eDatabase & eJournal.md
+      - Computing/Computing eMagazine & eNew.md
+      - Computing/Computing eEE.md
+      - Computing/Computing Hardcopy EE.md
+      - Computing/Computing eBooks.md
+      - Computing/Computing eLearn.md
+      - Computing/Computing Open Source Resources – Limited Time.md
+      - Computing/.keep
+      - Chinese/Chinese eDatabase & eJournal.md
+      - Chinese/Chinese eMagazine & eNew.md
+      - Chinese/Chinese eEE.md
+      - Chinese/Chinese Hardcopy EE.md
+      - Chinese/Chinese eBooks.md
+      - Chinese/Chinese eLearn.md
+      - Chinese/Chinese Open Source Resources – Limited Time.md
+      - Chinese/.keep
+      - EExam Paper/Year 4 eExam Paper.md
+      - EExam Paper/Year 6 eExam Paper.md
+      - EExam Paper/.keep
+      - Maker/Maker Open Source Resources – Limited Time.md
+      - Maker/Maker eLearn.md
+      - Maker/.keep
+      - HardBound Exam Paper/HardBound Exam Paper.md
+      - HardBound Exam Paper/.keep
+      - Library Facility/Library Facility Self Service Printing.md
+      - Library Facility/Self Service Photocopying.md
+      - Library Facility/.keep

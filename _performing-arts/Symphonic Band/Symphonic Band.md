@@ -1,0 +1,15 @@
+---
+title: Symphonic Band
+permalink: /symband/
+description: ""
+third_nav_title: Symphonic Band
+---
+The ACS (Independent) Symphonic Band is an award-winning band with a long, illustrious history in the school. Founded in 1966 as a brass band comprising a modest 18 members, it has since grown into a full symphonic band, with a diverse instrumentation, and a membership of 80 strong budding musicians. Over its long history, the ACS (Independent) Symphonic Band has obtained numerous stellar accolades both locally at the Singapore Youth Festival as well as international platforms, such as the Australian International Music Festival. The Symphonic Band is currently under the baton of Mr. Francis Tan, and he is assisted by Ms. Sharon Tan.
+
+The ACS (Independent) Symphonic Band provides an encompassing learning environment for our members. Newcomers do not require any prior musical experience to join the Band. Year 1 members are taught basic music theory and instrumental skills and techniques by experienced instrument tutors in the Junior Band. The Symphonic Band comprises members from Year 2 – 4. This is where the Junior Band members will eventually graduate into. Every member has multiple opportunities throughout the year to hone and showcase his musical skills. The ACS (Independent) Symphonic Band stages several concerts a year. These range from the school’s Festival of Arts performance, Band Night to our annual Thanksgiving Concert, as well as performances at community events and even at the Istana Open House where we collaborated with the ACS (Independent) Wind Ensemble in 2018.
+
+Beyond musical proficiency, the CCA also runs a programme that inculcates important values such as steadfastness, humility, integrity, empathy, loyalty and discipline and these will shape members to be exemplary in character. Many leadership opportunities are afforded to Band members, ranging from positions such as Section Leaders, to the pinnacle positions such as Drum and Band Majors. In recognition of the rigour and the wholesome nature of the Band programme, Symphonic Band members do not need to join a second CCA in the school.
+
+Last but not least, the Symphonic Band performed well in the 2021 Singapore Youth Festival Arts Presentation, receiving the Distinction Awards for 2 Flexible Bands and Percussion Ensemble. The ACS(I) Band (comprising Symphonic Band and Wind Ensemble) was also awarded the Champion Band in the 2022 Singapore International Band Festival, Division 2A, and performed at the Esplanade Concert Hall for the SIBF Winners’ Concert on 31 July, 2022.
+
+**If you would like to be a part of this award-winning CCA, interested Year 1 students may find out more about the CCA during Performing Arts Showcase (Day 1 of Discovery Camp), and at the Performing Arts Gallery Symphonic Band booth on 5, 6, and 9 January 2023 (Days 3 to 5 of Discovery Camp), and may indicate their interests at the Band booth. Catch our live performance on Day 2 of Discovery Camp, 4 Jan, Wed, at CPA 2!**

@@ -1,0 +1,88 @@
+collections:
+  our-departments:
+    output: true
+    order:
+      - Our Departments.md
+      - Aesthetics/.keep
+      - Aesthetics/Aesthetics.md
+      - Aesthetics/Staff.md
+      - Aesthetics/Art & Design.md
+      - Aesthetics/Art & Design – Years 1 & 2 Art.md
+      - Aesthetics/Art & Design – Years 3 & 4 Higher Art.md
+      - Aesthetics/Art & Design – Years 3 – 4 IP and Years 5 – 6 IB.md
+      - Aesthetics/Music.md
+      - Aesthetics/General Music Programme (GMP).md
+      - Aesthetics/Music Elective Programme.md
+      - Aesthetics/Programme Highlights.md
+      - Aesthetics/Syllabus & Assessment.md
+      - Aesthetics/Entry Requirements.md
+      - Aesthetics/IBDP Higher Level (HL) Music.md
+      - Aesthetics/IB Music Syllabus & Assessment.md
+      - Aesthetics/IB Music Programme Entry Requirements.md
+      - Aesthetics/MEP Centre (for external students).md
+      - Aesthetics/2022 Aesthetics e Symposium.md
+      - Economics/.keep
+      - Economics/Economics.md
+      - Economics/Business Management.md
+      - Economics/Spark Asia Challenge.md
+      - Economics/Staff.md
+      - Economics/Curriculum.md
+      - Economics/Related External Links.md
+      - English Language & Literature/Students’ Participation and Achievements –
+        Voices of Year 1 Students.md
+      - English Language & Literature/.keep
+      - English Language & Literature/English Language & Literature.md
+      - English Language & Literature/Staff.md
+      - English Language & Literature/Curriculum for Year 1 – 4.md
+      - English Language & Literature/Group 1 IB subjects.md
+      - English Language & Literature/Talent Development Programmes.md
+      - English Language & Literature/Students’ Participation and Achievements.md
+      - Health, PE and Recreation/.keep
+      - Health, PE and Recreation/Health, Physical Education and Recreation.md
+      - Health, PE and Recreation/Staff.md
+      - Health, PE and Recreation/Programmes & School Events.md
+      - Health, PE and Recreation/Health & Safety.md
+      - Health, PE and Recreation/Resources.md
+      - Humanities/.keep
+      - Humanities/Humanities.md
+      - Humanities/Staff.md
+      - Humanities/Curriculum.md
+      - Humanities/Special Programmes.md
+      - Mathematics/.keep
+      - Mathematics/Mathematics.md
+      - Mathematics/Staff.md
+      - Mathematics/Curriculum.md
+      - Mathematics/Math Department Highlights.md
+      - Mathematics/Resources.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Mother Tongue.md
+      - Mother Tongue/HIGHER MOTHER TONGUE LANGUAGE (HMTL).md
+      - Mother Tongue/MTL FAQ.md
+      - Mother Tongue/Chinese.md
+      - Mother Tongue/勤思敏行.md
+      - Mother Tongue/2023年教师阵容.md
+      - Mother Tongue/部门活动.md
+      - Mother Tongue/英华文萃.md
+      - Mother Tongue/Malay.md
+      - Mother Tongue/Blog.md
+      - Mother Tongue/Tenaga Kami.md
+      - Mother Tongue/Tamil.md
+      - Mother Tongue/Welcome.md
+      - Mother Tongue/Teachers.md
+      - Mother Tongue/Students’ Participation and Achievements.md
+      - Mother Tongue/Katrathum Karpithathum.md
+      - Mother Tongue/Sitruligalin Sinthanai Sidharalgal.md
+      - Mother Tongue/IBDP Essay book 1.md
+      - Mother Tongue/Work of our Students.md
+      - Mother Tongue/Gallery.md
+      - Mother Tongue/Special Programmes.md
+      - Science.md
+      - Theory of Knowledge/.keep
+      - Theory of Knowledge/Theory of Knowledge.md
+      - Theory of Knowledge/Staff.md
+      - Theory of Knowledge/Assessment Modes.md
+      - Staff List/.keep
+      - Staff List/Staff List.md
+      - Staff List/Senior Administration.md
+      - Staff List/Dean & Directors.md
+      - Staff List/Executive & Support Staff.md

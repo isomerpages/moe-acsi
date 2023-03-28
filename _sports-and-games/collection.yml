@@ -1,0 +1,135 @@
+collections:
+  sports-and-games:
+    output: true
+    order:
+      - Badminton/.keep
+      - Badminton/Badminton.md
+      - Badminton/Teachers.md
+      - Badminton/Schedule.md
+      - Badminton/Achievements and Awards.md
+      - Badminton/Gallery.md
+      - Bowling/.keep
+      - Bowling/Bowling.md
+      - Bowling/Teachers.md
+      - Bowling/Student Committee & Exco.md
+      - Bowling/Schedule.md
+      - Bowling/Gallery.md
+      - Basketball/.keep
+      - Basketball/Basketball.md
+      - Basketball/Teachers.md
+      - Basketball/Schedule.md
+      - Basketball/Photo Gallery.md
+      - Canoeing/.keep
+      - Canoeing/Canoeing.md
+      - Canoeing/Teachers.md
+      - Canoeing/Schedule.md
+      - Canoeing/Awards.md
+      - Canoeing/Testimonials.md
+      - Canoeing/Additional Information.md
+      - Canoeing/Gallery.md
+      - Cricket/.keep
+      - Cricket/Cricket.md
+      - Cricket/Teachers.md
+      - Cricket/Schedule.md
+      - Cricket/Accolades.md
+      - Cricket/Gallery.md
+      - Cross Country/.keep
+      - Cross Country/Cross Country.md
+      - Cross Country/Teachers.md
+      - Cross Country/Direct School Admission.md
+      - Cross Country/Competition Results.md
+      - Cross Country/Training Schedule.md
+      - Cross Country/Calendar of Events.md
+      - Cross Country/Photo Gallery.md
+      - Cross Country/Video Gallery.md
+      - Football/.keep
+      - Football/Football.md
+      - Football/Teachers.md
+      - Football/Schedule.md
+      - Football/Awards.md
+      - Floorball/.keep
+      - Floorball/Floorball.md
+      - Floorball/Teachers.md
+      - Floorball/Student Committee & Exco.md
+      - Floorball/Schedule.md
+      - Floorball/B and C Division National Competition and Year 1 Trial.md
+      - Floorball/Gallery.md
+      - Frisbee/.keep
+      - Frisbee/Frisbee.md
+      - Frisbee/Teachers.md
+      - Frisbee/Training Schedule.md
+      - Frisbee/Gallery.md
+      - Frisbee/Student Leaders.md
+      - Frisbee/Competition Schedules.md
+      - Golf/.keep
+      - Golf/Golf.md
+      - Golf/Teachers.md
+      - Golf/Student Committee.md
+      - Golf/Schedule.md
+      - Golf/Awards.md
+      - Golf/Gallery.md
+      - Rugby/.keep
+      - Rugby/Rugby.md
+      - Rugby/Teachers and Coaches.md
+      - Rugby/Awards.md
+      - Rugby/Photo Gallery.md
+      - Rugby/Links.md
+      - Sailing/.keep
+      - Sailing/Sailing.md
+      - Sailing/Teachers.md
+      - Sailing/Student Committee.md
+      - Sailing/Schedule.md
+      - Sailing/Awards.md
+      - Sailing/Gallery.md
+      - Shooting/.keep
+      - Shooting/Shooting.md
+      - Shooting/Teachers and Coaches.md
+      - Shooting/Training Schedule.md
+      - Shooting/Achievements.md
+      - Shooting/News.md
+      - Shooting/Gallery.md
+      - Softball/.keep
+      - Softball/Softball.md
+      - Softball/Teachers.md
+      - Softball/Schedule.md
+      - Softball/Competitions.md
+      - Softball/Awards.md
+      - Softball/Gallery.md
+      - Squash/.keep
+      - Squash/Squash.md
+      - Squash/Teachers.md
+      - Squash/Schedule.md
+      - Squash/A Squash Journey.md
+      - Squash/Nationals Schools Games Achievements.md
+      - Squash/Squash Team Achievements.md
+      - Squash/Squash Team Leaders 2023.md
+      - Squash/SEA GAMES 2015.md
+      - Squash/Photo Gallery.md
+      - Swimming/.keep
+      - Swimming/Swimming.md
+      - Swimming/SEA Games 2019 relay.md
+      - Swimming/Teachers.md
+      - Swimming/Schedule.md
+      - Swimming/Awards.md
+      - Swimming/Alumni.md
+      - Swimming/Gallery.md
+      - Tennis/.keep
+      - Tennis/Tennis.md
+      - Tennis/Student Committee & Exco.md
+      - Tennis/Teachers & Coaches.md
+      - Tennis/Schedule.md
+      - Tennis/Achievements & Awards.md
+      - Tennis/Gallery.md
+      - Track and Field/.keep
+      - Track and Field/Track and Field.md
+      - Track and Field/Teachers.md
+      - Track and Field/Schedule.md
+      - Track and Field/Awards.md
+      - Track and Field/Gallery.md
+      - Water Polo/.keep
+      - Water Polo/Water Polo.md
+      - Water Polo/Teachers.md
+      - Water Polo/Schedule.md
+      - Water Polo/ACIS (I) Water Polo Academy.md
+      - Water Polo/Awards.md
+      - Water Polo/Gallery.md

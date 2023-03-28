@@ -1,15 +1,18 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/ACS(I) School Crest_Full Colour.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About
+    collection: about-acsi
+  - title: The ACS(I) Experience
+    collection: the-acsi-experience
+  - title: Faculty
+    collection: our-departments
+  - title: Talent Development
+    collection: talent-development
+  - title: Admissions
+    collection: admissions
+  - title: Student Development
+    collection: student-development
+  - title: Happenings
+    collection: announcements
+  - title: Boarding School
+    url: /about-acs-independent/boarding-school/

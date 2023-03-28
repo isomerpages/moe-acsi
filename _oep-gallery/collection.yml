@@ -1,0 +1,23 @@
+collections:
+  oep-gallery:
+    output: true
+    order:
+      - HSP OEP Class of 2020.md
+      - "HSP OEP Class of 2019: Japan.md"
+      - "HSP OEP Class of 2018: China – Wuhan, Nanjing & Shanghai.md"
+      - "HSP OEP 2017 : South Korea.md"
+      - HSP CLASS OF 2016/.keep
+      - HSP CLASS OF 2016/HSP Class of 2016.md
+      - "HSP CLASS OF 2016/HSP OEP 2016 : Beijing, China.md"
+      - HSP CLASS OF 2015/.keep
+      - HSP CLASS OF 2015/HSP Class of 2015.md
+      - "HSP CLASS OF 2015/HSP OEP 2015 : Shanghai & Nanjing, China.md"
+      - HSP CLASS OF 2014/.keep
+      - HSP CLASS OF 2014/HSP Class of 2014.md
+      - "HSP CLASS OF 2014/HSP OEP 2014 : Taiwan.md"
+      - HSP CLASS OF 2013/.keep
+      - HSP CLASS OF 2013/HSP Class of 2013.md
+      - "HSP CLASS OF 2013/HSP OEP 2013 : Korea.md"
+      - HSP CLASS OF 2012/.keep
+      - HSP CLASS OF 2012/HSP Class of 2012.md
+      - "HSP CLASS OF 2012/HSP OEP 2012 : Beijing & Tianjin, China.md"

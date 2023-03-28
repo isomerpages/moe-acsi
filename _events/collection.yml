@@ -1,0 +1,9 @@
+collections:
+  events:
+    output: true
+    order:
+      - Events.md
+      - School Calendar.md
+      - Open House/.keep
+      - Open House/Open House.md
+      - Open House/School Videos.md

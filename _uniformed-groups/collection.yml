@@ -1,0 +1,74 @@
+collections:
+  uniformed-groups:
+    output: true
+    order:
+      - The Boys' Brigade/.keep
+      - The Boys' Brigade/The Boys’ Brigade.md
+      - The Boys' Brigade/Teachers.md
+      - The Boys' Brigade/Officers & Instructors.md
+      - The Boys' Brigade/Student Leaders.md
+      - The Boys' Brigade/Schedule.md
+      - The Boys' Brigade/Events.md
+      - The Boys' Brigade/Achievements.md
+      - The Boys' Brigade/Awards and Badges.md
+      - The Boys' Brigade/Gallery.md
+      - The Boys’ Brigade Bagpipe Band/.keep
+      - The Boys’ Brigade Bagpipe Band/The Boys’ Brigade Bagpipe Band.md
+      - The Boys’ Brigade Bagpipe Band/Teachers and Leaders.md
+      - The Boys’ Brigade Bagpipe Band/Schedule.md
+      - The Boys’ Brigade Bagpipe Band/Awards.md
+      - The Boys’ Brigade Bagpipe Band/Gallery.md
+      - National Cadet Corps (Air)/.keep
+      - National Cadet Corps (Air)/National Cadet Corps (Air).md
+      - National Cadet Corps (Air)/Teachers.md
+      - National Cadet Corps (Air)/Schedule.md
+      - National Cadet Corps (Air)/Awards.md
+      - National Cadet Corps (Air)/Gallery.md
+      - National Cadet Corps (Air)/Training Days.md
+      - National Cadet Corps (Air)/Appointment Holders.md
+      - National Cadet Corps (Land)/.keep
+      - National Cadet Corps (Land)/National Cadet Corps (Land).md
+      - National Cadet Corps (Land)/About us.md
+      - National Cadet Corps (Land)/Achievements.md
+      - National Cadet Corps (Land)/Appointments.md
+      - National Cadet Corps (Land)/Gallery.md
+      - National Cadet Corps (Land)/NCC Events.md
+      - National Cadet Corps (Land)/NCC Ranks and Badges.md
+      - National Cadet Corps (Land)/NCC Route of Advancement.md
+      - National Cadet Corps (Land)/Teachers Officers.md
+      - National Cadet Corps (Land)/Training Plan & Schedule.md
+      - National Cadet Corps (Sea)/.keep
+      - National Cadet Corps (Sea)/National Cadet Corps (Sea).md
+      - National Cadet Corps (Sea)/Teachers.md
+      - National Cadet Corps (Sea)/Key Appoinment Holders.md
+      - National Cadet Corps (Sea)/Schedule.md
+      - National Cadet Corps (Sea)/Awards.md
+      - National Cadet Corps (Sea)/Gallery.md
+      - NCDCC/.keep
+      - NCDCC/National Civil Defence Cadet Corps (NCDCC).md
+      - NCDCC/Teachers.md
+      - NCDCC/Schedule.md
+      - NCDCC/Awards.md
+      - NCDCC/Gallery.md
+      - National Police Cadet Corps/.keep
+      - National Police Cadet Corps/National Police Cadet Corps (NPCC).md
+      - National Police Cadet Corps/TEACHER – OFFICERS.md
+      - National Police Cadet Corps/Cadet Leaders.md
+      - National Police Cadet Corps/Training Schedule.md
+      - National Police Cadet Corps/Achievements.md
+      - National Police Cadet Corps/Reflect on activities.md
+      - National Police Cadet Corps/Gallery.md
+      - National Police Cadet Corps/Links.md
+      - St John Brigade (SJB)/.keep
+      - St John Brigade (SJB)/St John Brigade (SJB).md
+      - St John Brigade (SJB)/Teachers.md
+      - St John Brigade (SJB)/Student Committee & Exco.md
+      - St John Brigade (SJB)/Training Schedule.md
+      - St John Brigade (SJB)/Achievements & Awards.md
+      - St John Brigade (SJB)/Gallery.md
+      - Scouts & Ventures/.keep
+      - Scouts & Ventures/Scouts & Ventures.md
+      - Scouts & Ventures/Teachers.md
+      - Scouts & Ventures/Schedule.md
+      - Scouts & Ventures/Awards.md
+      - Scouts & Ventures/Gallery.md

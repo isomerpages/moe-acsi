@@ -1,0 +1,9 @@
+collections:
+  quick-links:
+    output: true
+    order:
+      - For Staff.md
+      - For Students.md
+      - For Parents.md
+      - For Alumni.md
+      - Contact Us.md

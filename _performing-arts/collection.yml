@@ -1,0 +1,86 @@
+collections:
+  performing-arts:
+    output: true
+    order:
+      - Choir/.keep
+      - Choir/Choir.md
+      - Choir/Annual & Biannual Events.md
+      - Choir/Major Events 2019.md
+      - Choir/Major Events 2018.md
+      - Choir/Major Events 2017 Semester 2.md
+      - Choir/Major Events 2017 Term 2.md
+      - Choir/Major Events 2017 Term 1.md
+      - Choir/Major Events 2016.md
+      - Choir/Major Events Before 2016.md
+      - Choir/Programme booklets.md
+      - Choir/Teachers & Conductor.md
+      - Choir/Schedule, Venues, and Calendar of Events.md
+      - Choir/Student Committee.md
+      - Choir/Gallery (Selected Events from 2020 to 2021).md
+      - Choir/Links.md
+      - Vocal ACcord/.keep
+      - Vocal ACcord/Vocal ACcord.md
+      - Vocal ACcord/Teachers & Exco.md
+      - Vocal ACcord/Schedule.md
+      - Vocal ACcord/Events.md
+      - Vocal ACcord/Gallery.md
+      - Vocal ACcord/2023 VA Auditions & Recruitment.md
+      - Cultural Performing Arts Club/.keep
+      - Cultural Performing Arts Club/Cultural Performing Arts Club.md
+      - Cultural Performing Arts Club/Teachers.md
+      - Cultural Performing Arts Club/Student Committee & Exco.md
+      - Cultural Performing Arts Club/Schedule.md
+      - Cultural Performing Arts Club/Events.md
+      - Cultural Performing Arts Club/Awards.md
+      - Cultural Performing Arts Club/Gallery.md
+      - Cultural Performing Arts Club/Links.md
+      - Dance Venia/.keep
+      - Dance Venia/Dance Venia.md
+      - Dance Venia/Teachers.md
+      - Dance Venia/Schedule.md
+      - Dance Venia/Awards.md
+      - Dance Venia/Gallery.md
+      - ACS Drama Club/.keep
+      - ACS Drama Club/ACS Drama Club.md
+      - ACS Drama Club/Schedule.md
+      - ACS Drama Club/Teachers.md
+      - ACS Drama Club/Gallery.md
+      - Guitar Orchestra/.keep
+      - Guitar Orchestra/Guitar Orchestra.md
+      - Guitar Orchestra/Teachers.md
+      - Guitar Orchestra/Schedule.md
+      - Guitar Orchestra/Awards.md
+      - Guitar Orchestra/Gallery.md
+      - ACSI Stage/.keep
+      - ACSI Stage/ACSI Stage.md
+      - ACSI Stage/Teachers.md
+      - ACSI Stage/Student Committee & Exco.md
+      - ACSI Stage/Training Schedule.md
+      - ACSI Stage/Productions & Awards.md
+      - ACSI Stage/Gallery.md
+      - Philharmonic Orchestra/.keep
+      - Philharmonic Orchestra/Philharmonic Orchestra.md
+      - Philharmonic Orchestra/Events.md
+      - Philharmonic Orchestra/Scholarships and Instrumental Tutorial
+        Programmes.md
+      - Philharmonic Orchestra/Conductors and Tutors.md
+      - Philharmonic Orchestra/Teachers and Student Committees.md
+      - Philharmonic Orchestra/Rehearsal Schedule.md
+      - Philharmonic Orchestra/Announcements.md
+      - Symphonic Band/.keep
+      - Symphonic Band/Symphonic Band.md
+      - Symphonic Band/Teachers.md
+      - Symphonic Band/Student Executive Committee (2022 – 2023).md
+      - Symphonic Band/Training Schedule & Upcoming Events.md
+      - Symphonic Band/Achievements & Awards.md
+      - Symphonic Band/Band Directors.md
+      - Symphonic Band/Gallery.md
+      - Wind Ensemble/.keep
+      - Wind Ensemble/Wind Ensemble.md
+      - Wind Ensemble/Teachers.md
+      - Wind Ensemble/Student Executive Committee (2022 to 2023).md
+      - Wind Ensemble/Training Schedule & Upcoming Events.md
+      - Wind Ensemble/Achievements & Awards.md
+      - Wind Ensemble/Gallery.md
+      - Wind Ensemble/Link.md
+      - Performing Arts Night Festival 2021.md

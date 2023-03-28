@@ -1,0 +1,16 @@
+collections:
+  admissions:
+    output: true
+    order:
+      - Admissions.md
+      - Application for Admission into Year 3 IP.md
+      - Admission Examination for Enrolment into Years 2, 3 and 5.md
+      - Direct School Admission Secondary (Year 1).md
+      - Direct School Admission Junior College (Year 5).md
+      - Joint Admissions Exercise/.keep
+      - Joint Admissions Exercise/Joint Admissions Exercise.md
+      - Joint Admissions Exercise/2022 JAE (Joint Admission Exercise) Appeal.md
+      - Year 1 Registration Exercises/.keep
+      - Year 1 Registration Exercises/Year 1 Registration Exercise.md
+      - Year 1 Registration Exercises/Appeals.md
+      - Explore ACS(I).md

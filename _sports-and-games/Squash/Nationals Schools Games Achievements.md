@@ -1,0 +1,185 @@
+---
+title: Nationals Schools Games Achievements
+permalink: /squash/nationals-schools-squash-achievements/
+description: ""
+third_nav_title: Squash
+---
+
+<img src="/images/IMG_1519-800x598-300x224.jpg" 
+     style="width:50%">
+		 
+<table>
+<thead>
+  <tr>
+    <th>Year</th>
+    <th>C Division</th>
+    <th>B Division</th>
+    <th>A Division Boys</th>
+    <th>A Division Girls</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>1997</td>
+    <td>3rd</td>
+    <td>–</td>
+    <td>–</td>
+    <td>–</td>
+  </tr>
+  <tr>
+    <td>1998</td>
+    <td>Champions</td>
+    <td>–</td>
+    <td>–</td>
+    <td>–</td>
+  </tr>
+  <tr>
+    <td>1999</td>
+    <td>Champions</td>
+    <td>Champions</td>
+    <td>–</td>
+    <td>–</td>
+  </tr>
+  <tr>
+    <td>2000</td>
+    <td>Champions</td>
+    <td>Champions</td>
+    <td>–</td>
+    <td>–</td>
+  </tr>
+  <tr>
+    <td>2001</td>
+    <td>2nd</td>
+    <td>Champions</td>
+    <td>–</td>
+    <td>–</td>
+  </tr>
+  <tr>
+    <td>2002</td>
+    <td>Champions</td>
+    <td>Champions</td>
+    <td>–</td>
+    <td>–</td>
+  </tr>
+  <tr>
+    <td>2003</td>
+    <td>2nd</td>
+    <td>2nd</td>
+    <td>–</td>
+    <td>–</td>
+  </tr>
+  <tr>
+    <td>2004</td>
+    <td>2nd</td>
+    <td>Champions</td>
+    <td>–</td>
+    <td>–</td>
+  </tr>
+  <tr>
+    <td>2005</td>
+    <td>Champions</td>
+    <td>2nd</td>
+    <td>–</td>
+    <td>–</td>
+  </tr>
+  <tr>
+    <td>2006</td>
+    <td>Champions</td>
+    <td>Champions</td>
+    <td>–</td>
+    <td>–</td>
+  </tr>
+  <tr>
+    <td>2007</td>
+    <td>Champions</td>
+    <td>Champions</td>
+    <td>Champions</td>
+    <td>–</td>
+  </tr>
+  <tr>
+    <td>2008</td>
+    <td>Champions</td>
+    <td>2nd</td>
+    <td>Champions</td>
+    <td>–</td>
+  </tr>
+  <tr>
+    <td>2009</td>
+    <td>4th</td>
+    <td>Champions</td>
+    <td>Champions</td>
+    <td>–</td>
+  </tr>
+  <tr>
+    <td>2010</td>
+    <td>Champions</td>
+    <td>Champions</td>
+    <td>3rd</td>
+    <td>4th</td>
+  </tr>
+  <tr>
+    <td>2011</td>
+    <td>4th</td>
+    <td>Champions</td>
+    <td>4th</td>
+    <td>–</td>
+  </tr>
+  <tr>
+    <td>2012</td>
+    <td>3rd</td>
+    <td>Champions</td>
+    <td>Champions</td>
+    <td>–</td>
+  </tr>
+  <tr>
+    <td>2013</td>
+    <td>2nd</td>
+    <td>5th</td>
+    <td>Champions</td>
+    <td>–</td>
+  </tr>
+  <tr>
+    <td>2014</td>
+    <td>2nd</td>
+    <td>2nd</td>
+    <td>Champions</td>
+    <td>–</td>
+  </tr>
+  <tr>
+    <td>2015</td>
+    <td>2nd</td>
+    <td>2nd</td>
+    <td>4th</td>
+    <td>4th</td>
+  </tr>
+  <tr>
+    <td>2016</td>
+    <td> 3rd</td>
+    <td>2nd</td>
+    <td> 5th</td>
+    <td> 4th</td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>Champions</td>
+    <td>Champions</td>
+    <td>4th</td>
+    <td> 3rd</td>
+  </tr>
+  <tr>
+    <td>2018</td>
+    <td>Champions</td>
+    <td>3rd</td>
+    <td>4th</td>
+    <td>5th</td>
+  </tr>
+  <tr>
+    <td>2019</td>
+    <td>Champions</td>
+    <td>Champions</td>
+    <td>2nd</td>
+    <td>6th</td>
+  </tr>
+</tbody>
+</table>
+

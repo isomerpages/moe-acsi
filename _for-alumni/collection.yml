@@ -1,0 +1,8 @@
+collections:
+  for-alumni:
+    output: true
+    order:
+      - ACS Old Boys' Association.md
+      - Oldham Club.md
+      - Alumni Relations Office.md
+      - Collection of Certificates.md

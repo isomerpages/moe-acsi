@@ -1,0 +1,19 @@
+---
+title: A Squash Journey
+permalink: /squash/a-squash-journey/
+description: ""
+third_nav_title: Squash
+---
+**A**ffirmation, **C**amaraderie, **S**ynergy
+
+(A Squash Journey)
+
+When I look back at my six years in ACS, I consider it to be the best six years of my life.  The ACSian experience is special because of the culture, environment, people and programme. I started squash from the tender age of 10 and represented ACS(I) across all 3 divisions. Personally, my most memorable moment of the six years of competition was the B division finals in 2017, when we defeated a very challenging opponent with a score of 3-2. This was especially poignant because we had lost to the same team two years ago, and the victory demonstrated that our persistent hard work and effort in training had finally paid off. I still remember the feelings of excitement and anticipation before the match, and the sheer exuberance we felt after clinching Gold.  The sight of my teammates and supporters celebrating alongside us is definitely not something I will forget.
+
+There is no winning without hard work.  Training hard gives rise to a high propensity for injuries. One of my greatest struggles was coping with the numerous injuries I sustained. Playing squash competitively exerts great strain on the legs, and throughout my squash career I suffered from recurrent hamstring injuries. Recovery was often long and tedious, and at times it was disheartening to watch my peers continue training while I was forced to rest. I learnt to embrace it as part of the process – it wasn’t uncommon for competitive athletes to sustain injuries – and I learnt to slowly get back on my feet (literally). I carried out progressive training, gradually increasing the intensity until I could continue playing normally again. I’d like to think that repeated failures and injuries have inculcated an attitude of perseverance and discipline in me.
+
+My years in AC have been fulfilling. I was involved in national training and served in the prefectorial board and student council. It was rather challenging managing my co-curricular commitments while keeping up with the academics, but I feel one of the best things ACS taught me was effective time management. Personally, I found that the best way to allocate my time was through diverting my time and effort to the most pertinent priority, depending on the season of the year. For instance, during squash inter-school season, I recall training approximately 7 times a week, and as a result occasionally lagged behind my studies. However, once the season was over, I would then focus my attention on the academics in preparation for the upcoming exams, training only twice a week instead.  Working smart and studying efficiently helped as well. Essentially, understanding content and being able to apply it was pivotal, instead of dogmatically memorising points. Indeed, the holistic ACSian curriculum has developed me psychologically, socially and emotionally
+
+If I have to give juniors or prospective students any advice, it would be to work hard and play hard. Work hard and strive for excellence such that you can maximise your potential, but at the same time dedicate time to recreation and friends when appropriate, because it’s these memories spent with friends that define your AC experience . I would also advise juniors to treasure their time in AC. 6 years may seem long but in the blink of an eye, it is time to leave the school family! Looking back, I really wish I had spent more time with my friends and teachers. ACS is a great school, so make the best out of your time here!
+
+_Matthew Wong Yu Heng, Class of 2019_

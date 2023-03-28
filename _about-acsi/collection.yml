@@ -1,0 +1,52 @@
+collections:
+  about-acsi:
+    output: true
+    order:
+      - About ACS(I).md
+      - School Profile/.keep
+      - School Profile/School Profile.md
+      - School Profile/School Philosophy.md
+      - School Profile/School Values.md
+      - School Profile/Desired ACSian Outcomes.md
+      - School Profile/Corporate Social Responsibility.md
+      - Heritage/.keep
+      - Heritage/Heritage.md
+      - Heritage/Our Crest.md
+      - Heritage/Our Anthem.md
+      - Heritage/ACS Heritage & Alumni Centre.md
+      - Heritage/Terms and Conditions of the ACS Online Heritage Photo Gallery.md
+      - Heritage/ACS Magazines.md
+      - Heritage/Exhibition Catalogues.md
+      - Leadership/.keep
+      - Leadership/ACS(I) Board of Management.md
+      - Leadership/ACS Board of Governors.md
+      - The Principal’s Message in Echo.md
+      - Financial Information.md
+      - Boarding School/.keep
+      - Boarding School/Boarding School.md
+      - Boarding School/Management.md
+      - Boarding School/Rooms.md
+      - Boarding School/Fees.md
+      - Boarding School/Facilities.md
+      - Boarding School/Activities.md
+      - Boarding School/Discipline.md
+      - Boarding School/FAQs.md
+      - Boarding School/Boarders’ Application.md
+      - Boarding School/Accommodations for NUS students.md
+      - Boarding School/Boarding School Newsletter.md
+      - Affiliated Institutions.md
+      - Contact Us.md
+      - Careers.md
+      - School Fees/.keep
+      - School Fees/School Fees.md
+      - School Fees/GIRO Collection.md
+      - School Fees/Financial Assistance.md
+      - Venue Hire/.keep
+      - Venue Hire/Venue Hire.md
+      - Venue Hire/Performing Arts.md
+      - Venue Hire/Classes, Workshops, Seminars.md
+      - Venue Hire/Reunions, Gatherings.md
+      - Venue Hire/Summary Info & Pricing.md
+      - Venue Hire/Terms & Conditions.md
+      - Venue Hire/Contact Us.md
+      - Personal Data Protection Act.md

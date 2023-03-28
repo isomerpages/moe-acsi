@@ -1,0 +1,6 @@
+collections:
+  business-management:
+    output: true
+    order:
+      - Business Management Current Syllabus (last assessment in 2023).md
+      - Business Management New Syllabus(first assessment in 2024).md

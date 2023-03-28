@@ -1,0 +1,13 @@
+---
+title: Core Requirements
+permalink: /the-acs-independent-experience/ibdp/core-requirements/
+description: ""
+third_nav_title: IBDP
+---
+The core of the model consists of the Theory of Knowledge (TOK) course, the extended essay and creativity, activity, service (CAS). 
+
+The **Theory of Knowledge** (TOK), a course unique to the IB programme, is an interdisciplinary course intended to stimulate critical reflection on knowledge and experience gained inside and outside the classroom. The course challenges students to question the bases of knowledge, to be aware of subjective and ideological biases and to develop the ability to analyse evidence. TOK is a key element in encouraging students to appreciate other cultural perspectives. 
+
+**Creativity, Activity, Service (CAS)** is a fundamental part of the Diploma Programme experience.  The CAS requirement emphasise the importance of life outside the world of scholarship, providing a refreshing counterbalance to the academic pursuits of the programme. The IB goal of educating the whole person and fostering a more compassionate and active citizenry comes alive in an immediate way when students reach beyond themselves and their books. The CAS requirement encourages students to share their energy and special talents with others: students may, for example, participate in theatre or musical productions, sports and community service activities. Students should, through these activities, develop greater awareness of themselves and concern for others, and the ability to work cooperatively with other people. 
+
+**Extended Essay (EE)** provides each student an opportunity to investigate a topic of special interest. The essay requirement acquaints diploma students with the kind of independent research and writing skills expected by universities. The IBO recommends that a student devote a total of about 40 hours of private study and writing time to the essay, which may be written in any of the subjects offered. The essay permits students to deepen their programme of study, for example by selecting a topic in one of their higher level (HL) courses. Students are appropriately supervised throughout the course of writing their EE by a faculty member in the school who is able provide academic guidance concerning the subject in which the EE is registered. In addition, the teacher-mentor provides general guidance on time management and the overall structure and presentation of the papers; and ensures that the essay is the student’s own work.
