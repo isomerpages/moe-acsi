@@ -17,11 +17,5 @@ The selection criteria are as follows:
 The deadline for the submission of the application form and HAST fee of $60 is **Monday, 27 March 2023 for all students.**
 
 All applicants must take the **HAST** on **Friday**, **12** **May 2023**.       
-The application documents can be downloaded below:
 
-1.  [Year 3 IP Application Form](/files/Admissions/Revised-on-14-February-2023-Year-3-IP-Application-Form-AY-2024.pdf)
-2.  [Introduction to the ACS (Independent) Integrated Programme](/files/Admissions/Introduction-to-Integrated-Programme.pdf)
-3.  [Flow-chart on course of study in ACS (Independent) Years 3 – 6](/files/Admissions/Year-3-IP-Flow-Chart.pdf)
-4.  [Write-up on the International Baccalaureate Diploma Programme – Years 5 & 6](/files/Admissions/2023-IBPP-Write-Up-and-Subjects-Offered.pdf)
-
-### We thank you for your application.
+### Application are now closed. Thank you
