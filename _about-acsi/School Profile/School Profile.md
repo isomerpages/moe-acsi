@@ -29,4 +29,4 @@ For God & Humanity
 
 [\[1\]](https://www.acsindep.moe.edu.sg/about-acs-independent/school-profile/#_ftnref1) [https://eresources.nlb.gov.sg/infopedia/articles/SIP\_2018-10-09\_152727.html](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2018-10-09_152727.html)
 
-[To download our School Profile, click here.](/files/ACSI-School-Profile-2022_updated-feb23-compressed.pdf)
+[To download our School Profile, click here.](/files/About%20ACS(I)/School%20Profile/ACS(I)%20School%20Profile%202022_updated%20mar_23.pdf)
