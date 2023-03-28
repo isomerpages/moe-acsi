@@ -4,11 +4,9 @@ permalink: /basketball/schedule/
 description: ""
 third_nav_title: Basketball
 ---
-![](/images/basketball%20schedule.png)
+![](/images/basketball%20schedule.png)       
 
-**Training days**
-
-**C & B Division**
+**B & C Division**
 
 Monday and Wednesday 3.30 – 6.30pm
 
@@ -16,7 +14,11 @@ Monday and Wednesday 3.30 – 6.30pm
 
 Tuesday 4.00 – 7.00pm
 
-Friday 1.00 – 4.00pm
+Friday 1.30 – 4.30pm
+
+**DSA Year 1-4**
+
+Friday 1.30 – 3.30pm
 
 _Additional training sessions and matches may be arranged when required._
 
