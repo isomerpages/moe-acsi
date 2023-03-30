@@ -1,9 +1,10 @@
 ---
 title: Geography eDatabase & eJournal
-permalink: /library-digital-toolkit/geography/eographyatabaseeournal/
+permalink: /library-digital-toolkit/geography/geography-edatabase-ejournal/
 description: ""
 third_nav_title: Geography
 ---
+
 ![](/images/Library%20Digital%20Toolkit/Content-to-be-300x47.png)
 
 * * *

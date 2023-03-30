@@ -1,9 +1,10 @@
 ---
 title: Mathematics eDatabase & eJournal
-permalink: /library-digital-toolkit/mathematics/athematicseatabaseeournal/
+permalink: /library-digital-toolkit/mathematics/mathematics-edatabase-ejournal/
 description: ""
 third_nav_title: Mathematics
 ---
+
 ![](/images/Library%20Digital%20Toolkit/Content-to-be-300x47.png)
 
 * * *

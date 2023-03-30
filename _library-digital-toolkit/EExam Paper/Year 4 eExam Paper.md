@@ -1,9 +1,10 @@
 ---
 title: Year 4 eExam Paper
-permalink: /library-digital-toolkit/eexam-paper/ear4examaper/
+permalink: /library-digital-toolkit/eexam-paper/year-4-eexam-paper/
 description: ""
 third_nav_title: EExam Paper
 ---
+
 [Year 4 (Express) Prelim Exam Paper \[ACS(I)\]](https://schoolibrary.moe.edu.sg/anglochineseindependent/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?QRY=SVL(YEAR4EXPRESSPRELIM)&NRECS=20)
 
 * * *
