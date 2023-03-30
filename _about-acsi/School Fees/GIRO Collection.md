@@ -4,7 +4,6 @@ permalink: /about-acs-independent/fee/giro-collection/
 description: ""
 third_nav_title: School Fees
 ---
-
 **Collection of School Fees and Miscellaneous Fees**
 
 | Months                                          |          |    GIRO Deduction Dates |
@@ -18,13 +17,13 @@ third_nav_title: School Fees
 
 (Please submit the original copy to our Accounts Receivable Department at Admin Office – Level 3. The bank may take up to 4-6 weeks to process the GIRO application.)
 
-1.  Fees are collected via GIRO and the due dates for school fees and miscellaneous fees are indicated below:
+1.  Fees are collected via GIRO and the due dates for school fees and miscellaneous fees are indicated above:
 
 2.  Fees paid are not refundable.
 
-3.  Under the GIRO scheme, official receipts for payment of school’s fees and miscellaneous fees will not be issued. Deduction will be reflected in the parent’s / guardian’s bank statement.
+3. Under the GIRO scheme, official receipts and invoices/bills for payment of school fees and miscellaneous fees will not be issued. The deduction will be reflected in the parent’s / guardian’s bank statement.
 
-4.  Parents / guardians are advised to ensure that sufficient funds are available in their accounts on the due dates. When the deduction by GIRO scheme is unsuccessful, the invoice for the outstanding amount will sent to parents / guardians at their residential address and through email. A service charge of $20 will be levied for any GIRO failure due to insufficient funds.
+4.  Parents / guardians are advised to ensure that sufficient funds are available in their accounts on the due dates. Reminder emails will be sent whenever there are any unsuccessful GIRO deductions. A service charge of $20 will be levied for any GIRO failure due to insufficient funds.
 
 5.  Goods and Services Tax (GST) on school fees are fully absorbed by the Government.
 
