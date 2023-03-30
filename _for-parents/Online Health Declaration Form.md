@@ -7,12 +7,11 @@ In accordance with Ministry of Education guidelines, parents are required to com
 
 If you have yet to complete the health declaration form for your child, please refer to the instructions below to do so.
 
-**Instructions for completing online Health Declaration Form**
+**Instructions for updating via the Student Details Form (SDF)**
 
-1.  Login to the Parents’ portal ([/for-parents/parent-portal/](https://staging.d270c0tj2w26u.amplifyapp.com/for-parents/parent-portal/))
-2.  From portal’s home page click  **Tools**
-3.  Click  **Student Profiling (New)**
-4.  Under the  **Health Declaration Form**  tab, Fill / Edit (If you had completed the form last year) your Child/Ward’s Health details and click  **Save Profile**  to submit.
-5.   **Close**  and  **Logout**
+1.  Visit the SDF portal ([https://pg.moe.edu.sg/forms/sdf](https://pg.moe.edu.sg/forms/sdf)) and log in using your Singpass account
+2.  From the portal’s review page, click ‘Edit’ to update details
+3.  Click ‘Submit’ to save changes
+4.  Close and log out.
 
-*   Repeat the above Steps if you have two or more children who are students in the school.  Should you have any queries or difficulty logging on to the Parents’ Portal, please refer to the attached leaflet on accessing the Portal.
+Should you need to update any information that is not reflected in the SDF portal, please contact our school’s IT support at [helpdesk@acsindep.edu.sg](mailto:helpdesk@acsindep.edu.sg). For overseas students, the appointed local guardian or caregiver for them will use the appropriate channel to update their medical records.
