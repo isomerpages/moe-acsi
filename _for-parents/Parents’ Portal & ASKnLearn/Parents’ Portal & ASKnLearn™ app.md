@@ -11,7 +11,7 @@ The [**Parents’ Portal**](https://lms.acsindep.edu.sg/ACSIndep/login.aspx) p
 *   view your child’s term reports, subject teachers list and CCA records
 *   view Parents Resources such as Exam/Common Test timetable, Circulars and Principal presentations.
 
-Parents may also access the PP through its mobile app known as ‘ASKnLearn™’ which is available for iOS and Android platforms. Please refer to the user guide for help : **[\[Instructions to Access ACS (Independent) Parents’ Portal\]](/files/Instructions-to-Access-ACS-Indep-Parents-Portal_v4.pdf)**
+Parents may also access the PP through its mobile app known as ‘ASKnLearn™’ which is available for iOS and Android platforms. Please refer to the user guide for help : **[\[Instructions to Access ACS (Independent) Parents’ Portal\]](/files/Instructions to Access ACS (Indep) Parents Portal_v5.pdf)**
 
 Queries on the Parents’ Portal should be directed to the LMS Administrator ([lms-admin@acsindep.edu.sg](mailto:lms-admin@acsindep.edu.sg).)
 
