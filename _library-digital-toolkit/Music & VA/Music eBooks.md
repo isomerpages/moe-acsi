@@ -2,7 +2,7 @@
 title: Music eBooks
 permalink: /library-digital-toolkit/music/usicooks/
 description: ""
-third_nav_title: Music
+third_nav_title: Music &amp; VA
 ---
 ![](/images/Library%20Digital%20Toolkit/Content-to-be.png)
 
