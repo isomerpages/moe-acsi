@@ -11,7 +11,7 @@ third_nav_title: Music &amp; VA
 <td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px;"><a href="https://schoolibrary.moe.edu.sg/anglochineseindependent/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?QRY=SVL(MusicG2016)&amp;NRECS=20" style="box-sizing: border-box; background-color: transparent; font-size: 1em; font-family: Arial, sans-serif !important; text-decoration: none; margin-top: 0px;">Music &amp; VA eEE [ACS(I)]</a></td>
 </tr>
 <tr style="box-sizing: border-box; margin-top: 0px;">
-<td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px;"><a rel="noopener noreferrer" href="https://schoolibrary.moe.edu.sg/anglochineseindependent/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?QRY=SVL(MusicG2016)&amp;NRECS=20"><img height="137" width="200" alt="" src="/images/Library%20Digital%20Toolkit/eEE-300x206.png" class="alignnone wp-image-19046"></a></td>
+<td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px;"><a rel="noopener noreferrer" href="https://schoolibrary.moe.edu.sg/anglochineseindependent/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?QRY=SVL(VISUALARTSG2016)&amp;NRECS=20"><img height="137" width="200" alt="" src="/images/Library%20Digital%20Toolkit/eEE-300x206.png" class="alignnone wp-image-19046"></a></td>
 <td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px;"><a href="https://schoolibrary.moe.edu.sg/anglochineseindependent/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?QRY=SVL(VISUALARTSG2016)&amp;NRECS=20">Visual Arts eEE [ACS(I)] </a></td>
 </tr>
 </tbody>
