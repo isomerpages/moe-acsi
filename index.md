@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Events/Open-House-2023-Poster-No-QR-1024x576.png
+      background: /images/Homepage/Homepage Main Image.jpg
       key_highlights:
         - title: For Staff
           description: ""
