@@ -13,9 +13,8 @@ By Ho Wei Jin, Danyl, 4.16
 
 
 ![](/images/ACSpression/picture11.jpg)
+ Brainstorming a storyline creation
  
-Brainstorming a storyline creation
  
  ![](/images/ACSpression/picture21.jpg)
- 
-Game masters and players
+ Game masters and players
