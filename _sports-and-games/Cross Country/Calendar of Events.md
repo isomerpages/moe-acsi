@@ -4,6 +4,16 @@ permalink: /crosscountry/calendar-of-events/
 description: ""
 third_nav_title: Cross Country
 ---
+**Major Competitions in 2023:**
+
+1\. 4.3Km@Bedok Reservoir Challenge (28 January@Bedok Reservoir)
+
+2\. Wings Cross Country Championships (25 February@Bedok Reservoir)
+
+3\. National Schools Games Cross Country Championships (28 March@Bedok Reservoir)
+
+4\. 64th National Schools Games Track and Field Championships (10 Apr to 28 April@Choa Chu Kang Stadium/Sports Hub)
+
 ### Major Competitions in 2022:
 
 1.  63rd Track and Field Championships: 6 April to 5 May (Bukit Gombak Stadium)

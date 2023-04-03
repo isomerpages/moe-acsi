@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/Homepage Main Image.jpg
       key_highlights:
         - title: For Staff
           description: ""
@@ -18,6 +17,7 @@ sections:
         - title: For Parents
           description: ""
           url: /for-parents/
+      background: /images/Homepage/Homepage Main Image.jpg
   - resources:
       subtitle: Announcements
       button: more

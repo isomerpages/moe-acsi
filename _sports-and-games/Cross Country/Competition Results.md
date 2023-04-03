@@ -4,6 +4,20 @@ permalink: /crosscountry/competition-2019/
 description: ""
 third_nav_title: Cross Country
 ---
+**2023 National Schools Games Cross Country Championships**
+
+**"A" Division Boys: 3rd**
+
+**"B" Division Boys: 1st**&nbsp;
+
+**"C" Division Boys: 1st**
+
+![](/images/CCA%20Sports/img_0672.JPG)
+![](/images/CCA%20Sports/img_0676.JPG)
+![](/images/CCA%20Sports/img_0677.JPG)
+![](/images/CCA%20Sports/img_0681.JPG)
+
+
 **2022 National Inter-Schools Cross Country Championships**
 
 ![](/images/MicrosoftTeams-image-44.jpg)
@@ -415,7 +429,7 @@ third_nav_title: Cross Country
 
 ### 2019 National School Games (Cross-Country)
 
-**Once again, the ACS(Independent) Cross Country team produced stellar results in the 2019 National School Cross Country Championship. Our A, B and C division boys and A division girls participated in the year’s nationals. The team takes pride in its achievements because of our commitment and outstanding character. Many of our runners clinched their personal best.**
+**Once again, the ACS(Independent) Cross Country team produced stellar results in the 2019 National School Cross Country Championship. Our A, B and C division boys and A division girls participated in the year’s nationals. The team takes pride in its achievements because of our commitment and outstanding character.&nbsp;Many of our runners clinched their personal best.**
 
 **Our “A” Division boys were phenomenal and came in 3rd this season.**
 
@@ -511,7 +525,7 @@ third_nav_title: Cross Country
 
 **Our “C” Division boys made amazing milestones too – Ferrell Lee clocked a time of 13 minutes 36.8 seconds over the 3.8-kilometre race route and won the “C” Division boys’ individual gold.**
 
-**Ferrell’s victory also helped ACS(I) clinch their first “C” Division boys’ team title in three years, with teammates Ryan Wong, Niraj Singh and Bryan Cheung finishing in 5th, 8th and 15th respectively to score 29 points in total. James Lachlan Chin and Kyle Seow also finished in 16th and 18th respectively, ensuring that all six ACS(I) runners placed within the top 20 individual positions.**
+**Ferrell’s victory also helped ACS(I) clinch their first “C” Division boys’ team title in three years, with teammates Ryan Wong, Niraj Singh and Bryan Cheung finishing in 5th, 8th and 15th respectively to score 29 points in total.&nbsp;James Lachlan Chin and Kyle Seow also finished in 16th and 18th respectively, ensuring that all six ACS(I) runners placed within the top 20 individual positions.**
 
 <table>
 <thead>
@@ -543,8 +557,8 @@ third_nav_title: Cross Country
 
 ![](/images/20190410-850_3257-1024x683.jpg)
 
-**Throughout the season, the entire team has worked together to improve and look out for each other on and off the track as we are always a team. The Cross team would like to thank the pillars of our CCA, the Teachers-In-Charge (Ms Linda Goon, Mdm Xu Zhiwei and Mr Gavin Ang), our Coach (Mr Zorndrix Das) and our Advisor (Mr Lawrence Ang), not only during trainings but also in our studies, and for believing in us throughout the season. To God Be The Glory, The Best Is Yet To Be!**
+**Throughout the season, the entire team has worked together to improve and look out for each other on and off the track as we are always a team.&nbsp;The Cross team would like to thank the pillars of our CCA, the Teachers-In-Charge (Ms Linda Goon, Mdm Xu Zhiwei and Mr Gavin Ang), our Coach (Mr Zorndrix Das) and our Advisor (Mr Lawrence Ang), not only during trainings but also in our studies, and for believing in us throughout the season. To God Be The Glory, The Best Is Yet To Be!**
 
 ### Newspaper Article:
 
-**_B & C Div Cross Country (Boys): ACS(I)’s Ferrell Lee makes comeback with individual gold; Chai Jiacheng defends title to lead RI to team victory._  [https://www.redsports.sg/2019/04/17/c-div-b-div-cross-country-boys-acsi-ferrell-lee-ri-chai-jiacheng/\]**
+**_B &amp; C Div Cross Country (Boys): ACS(I)’s Ferrell Lee makes comeback with individual gold; Chai Jiacheng defends title to lead RI to team victory._&nbsp; [https://www.redsports.sg/2019/04/17/c-div-b-div-cross-country-boys-acsi-ferrell-lee-ri-chai-jiacheng/\]**
