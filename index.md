@@ -17,7 +17,7 @@ sections:
         - title: For Parents
           description: ""
           url: /for-parents/
-      background: /images/Homepage/Homepage Main Image.jpg
+      background: /images/Homepage/open house poster banner ver copy.png
   - resources:
       subtitle: Announcements
       button: more
