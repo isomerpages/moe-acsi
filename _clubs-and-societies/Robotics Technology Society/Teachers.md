@@ -26,7 +26,7 @@ third_nav_title: Robotics Technology Society
     <td class="tg-0lax">Mr James Foo (jamesfoo@acsindep.edu.sg)</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Ms Jaime Ong (jaimeongyc@acsindep.edu.sg)</td>
+    <td class="tg-0lax">Ms Sing Geok Qing (singgeokqing@acsindep.edu.sg) </td>
   </tr>
   <tr>
     <td class="tg-0lax">Mr Gabriel Kam (gabrielkammq@acsindep.edu.sg)</td>
