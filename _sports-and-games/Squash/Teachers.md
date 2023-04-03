@@ -21,7 +21,7 @@ third_nav_title: Squash
     <td>Teacher-in-charge</td>
   </tr>
   <tr>
-    <td>Mdm Karen Ng</td>
+    <td>Mdm Cheng Siau Yian</td>
     <td>Teacher-in-charge</td>
   </tr>
   <tr>
