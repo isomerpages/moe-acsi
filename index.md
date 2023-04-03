@@ -17,7 +17,7 @@ sections:
         - title: For Parents
           description: ""
           url: /for-parents/
-      background: /images/Homepage/microsoftteams-image (20).png
+      background: /images/Homepage/Open House 2023.png
   - resources:
       subtitle: Announcements
       button: more
