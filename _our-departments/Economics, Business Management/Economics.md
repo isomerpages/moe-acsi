@@ -2,9 +2,8 @@
 title: Economics
 permalink: /departments/economics/
 description: ""
-third_nav_title: Economics
+third_nav_title: Economics, Business Management
 ---
-
 Economics is an exciting, dynamic subject that allows students to develop an understanding of the complexities and interdependence of economic activities in a rapidly changing world. At the heart of economic theory is the problem of scarcity. Owing to scarcity, choices have to be made.
 
 The course, at both HL and SL, uses economic theories, models and key concepts to examine the ways in which these choices are made: at the level of producers and consumers in individual markets (microeconomics); at the level of the government and the national economy (macroeconomics); and at an international level, where countries are becoming increasingly interdependent (the global economy).
@@ -23,7 +22,7 @@ The course aims to:
 *   Apply economic theories, models, ideas and tools, and analyze economic data to understand and engage with real-world economic issues and problems facing individuals and societies.
 *   Develop a conceptual understanding of individuals’ and societies’ economic choices, interactions, challenges and consequences of economic decision-making.
 
-**Topics** to be covered in the course include:
+**Topics**&nbsp;to be covered in the course include:
 
 **Unit 1: Introduction to Economics**
 
@@ -48,7 +47,7 @@ The course aims to:
 2.11 Market failure—market power   
 2.12 The market’s inability to achieve equity
 
- **Unit 3: Macroeconomics**
+&nbsp;**Unit 3: Macroeconomics**
 
 3.1 Measuring economic activity and illustrating its variations   
 3.2 Variations in economic activity— aggregate demand and aggregate supply   
@@ -89,8 +88,8 @@ Paper 3
 
 **University Courses and Careers**
 
- A background in Economics can lead to advanced study and research in fields such as Finance, Public Policy, Business & Management as well as International Studies.  It is also useful in the study of Law, Medicine and many other disciplines.
+&nbsp;A background in Economics can lead to advanced study and research in fields such as Finance, Public Policy, Business &amp; Management as well as International Studies.&nbsp; It is also useful in the study of Law, Medicine and many other disciplines.
 
-Do note that some top overseas universities require a good score in <u>HL Mathematics</u> as a pre-requisite in order to pursue Economics as a major.
+Do note that some top overseas universities require a good score in&nbsp;<u>HL Mathematics</u> as a pre-requisite in order to pursue Economics as a major.
 
 _Materials for this webpage are taken from the IBO official website. For more information, kindly speak to the friendly teachers from the Economics Business Management Department._

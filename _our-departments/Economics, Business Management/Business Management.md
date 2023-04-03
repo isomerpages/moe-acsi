@@ -2,9 +2,8 @@
 title: Business Management
 permalink: /departments/economics/business-management/
 description: ""
-third_nav_title: Economics
+third_nav_title: Economics, Business Management
 ---
-
 ## [Business Management Current Syllabus(last assessment in 2023)](/departments/economics/business-management/business-management-current-syllabus/)
 
 
