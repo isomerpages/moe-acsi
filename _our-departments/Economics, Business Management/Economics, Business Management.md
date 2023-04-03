@@ -1,5 +1,5 @@
 ---
-title: Economics
+title: Economics, Business Management
 permalink: /departments/economics/
 description: ""
 third_nav_title: Economics, Business Management
