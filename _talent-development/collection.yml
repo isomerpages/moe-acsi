@@ -2,7 +2,6 @@ collections:
   talent-development:
     output: true
     order:
-      - Technovator Programme/.keep
       - Talent Development.md
       - ACH/.keep
       - "ACH/ACH: Accelerated Class for Humanities.md"
@@ -36,4 +35,5 @@ collections:
       - Regional Studies Programme/Regional Studies Programme.md
       - Regional Studies Programme/Curriculum.md
       - Regional Studies Programme/Scholarships.md
+      - Technovator Programme/.keep
       - Trailblazer.md
