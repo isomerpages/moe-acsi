@@ -4,6 +4,18 @@ permalink: /crosscountry/gallery/
 description: ""
 third_nav_title: Cross Country
 ---
+### 2023 SSSC National Schools Games Cross Country Championships
+
+![](/images/CCA%20Sports/microsoftteams-image%20(89).png)
+![](/images/CCA%20Sports/5l2a0678.JPG)
+![](/images/CCA%20Sports/5l2a0655.JPG)
+![](/images/CCA%20Sports/5l2a0591.JPG)
+
+
+**Prayers Before 2023 National Schools Games Cross Country Championships**
+
+![](/images/CCA%20Sports/microsoftteams-image%20(103).png)
+
 **A BIG SHOUTOUT to our Volunteers for the 2023 Year 1 Sports Bazaar!!!**
 
 ![](/images/cross%20country%201.jpeg)
