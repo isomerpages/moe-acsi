@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/Homepage Main Image.jpg
+      background: /images/Homepage/microsoftteams-image (19).png
       key_highlights:
         - title: For Staff
           description: ""
