@@ -4,7 +4,6 @@ permalink: /departments/mathematics/staff/
 description: ""
 third_nav_title: Mathematics
 ---
-
 |     |                          |                                                       |
 |-----|--------------------------|-------------------------------------------------------|
 | MRS | Koo-Chua Zhi Min         | Dean Mathematics (IBDP)                               |
@@ -35,7 +34,6 @@ third_nav_title: Mathematics
 | MS  | Jaime Ong                | Teacher                                               |
 | MS  | Janet Tay Cher Hoon      | Teacher                                               |
 | MR  | Jax Leong                | Teacher                                               |
-| MR  | Lawrence Yong            | Teacher                                               |
 | MS  | Lee Ooi Lian             | Teacher                                               |
 | MR  | Lim Kah Hong             | Teacher                                               |
 | MDM | Loh We Fong              | Teacher                                               |

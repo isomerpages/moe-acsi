@@ -25,18 +25,18 @@ Please note that only the names and details of key-points-of-contact are reflect
 | MT / Chinese | Dean, Mother Tongue | Mdm Lin Hui |
 | Science / Biology | Dean Science/Biology & Life Sciences | Mr See Boon Tiam |
 | Science / Chemistry | Dean, Science (Chemistry) | Mr Dennis Sim Heng Hock |
-| Science / Physics | Dean, Science/Physics (Acting) | Mr Jamin Jeow See Boon |
+| Science / Physics | Dean, Science/Physics  | Mr Jamin Jeow See Boon |
 | Theory of Knowledge | Dean, TOK | Mdm Daphne Teo Siew Gek |
 | Theory of Knowledge | Director, Talent Devt & Special Programmes | Mr Phee Beng Chang |
 | English/Literature | Director Student, Support – Psychological & Emotional Care | Mrs Mervyln Goh |
-| Humanities / History | Director, Professional & Teacher Leader Development | Dr Tan Kok Choon |
+| Humanities / History | Director, Professional & Teacher Leader Development | Dr Tan Kok Choon Wendell  |
 | Humanities / History | Director, Affective Curriculum | Mr Jarett Kan Wern Hau |
 | HPER | Director, Health Physical Education Recreation | Mr Chan Chee Wei |
-| HPER | Director, Health Physical Education Recreation | Mr Lawrence Ang |
+| HPER | Deputy Director, Student Development Experiences | Mr Lawrence Ang |
 | HPER | Director (Acting), Student Development Experiences & Teacher-In-Charge (Discipline Committee) | Mr George Lam Choon Seng |
 | Science / Physics | Director, Information & Communication Technology (ICT) | Mr Foo Kam Meng |
 | Humanities / History | Director, Student Leadership (Acting) | Mr Koh Tiang Peng |
-| Econs / B&M | Director, Career, Opportunities & Guidance | Mrs Juliana Liu-Tengara |
+| Career Opportunities & Guidance | Director, Career, Opportunities & Guidance | Mrs Juliana Liu-Tengara |
 | English/Literature | Director Year 1 | Mrs Diane Choo |
 | Mathematics | Director Year 2 | Mr Gabriel Phee Tang Nam |
 | English/Literature | Director Year 3 | Mr Andrew Wong Toh Hong |
