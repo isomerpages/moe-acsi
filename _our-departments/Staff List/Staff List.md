@@ -49,12 +49,13 @@ Please note that only the names and details of key-points-of-contact are reflect
 | Admin Office | Secretary | Ms Carolyn Tok |
 | Admin Office | Secretary | Ms Eunice Seah |
 | Admin Office | Secretary | Mrs Lilian Aw Yeong |
-| Admin Office | Secretary | Mrs Mabel Koh |
 | Admin Office | Secretary | Ms Nancy Cheng |
 | Admin Office | Secretary | Mdm R.Seetha D/O S. Ragunathan |
 | Admin Corp Communications | Corporate Communications Manager | Mr Lo On Bong Barry |
-| Admin Procurement | Procurement Officer | Mdm Ann Foo Ai Lian |
+| Admin Procurement | Senior Procurement Officer | Mdm Ann Foo Ai Lian |
 | Admin Procurement | Procurement Officer | Ms Aileen Liu Anli |
+| Admin Procurement | Procurement Officer | Mr Chia Zhen Wei |
+| Admin Procurement | Procurement Officer | Ms Serene Zhang Jingting|
 | Boarding School | Domestic Manager | Mrs Jasmin Tan |
 | Boarding School | Admin/Accounts Officer | Ms Amanda Ding Linlin |
 | Agape Counselling Sanctuary | Senior School Counsellor | Mr Charlie Ong Chen Hock |
