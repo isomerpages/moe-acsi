@@ -89,12 +89,12 @@ description: ""
 </tr>
 <tr>
 <td>Teacher</td>
-<td>Ms</td>
+<td>Ms.</td>
 <td>Shirley Lim Xue Ting</td>
 </tr>
 <tr>
 <td>Teacher</td>
-<td>Ms</td>
+<td>Ms.</td>
 <td>Jerine Lim Shu Ting</td>
 </tr>
 <tr>
