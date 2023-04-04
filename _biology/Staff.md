@@ -23,6 +23,6 @@ description: ""
 | Teacher                                                       | Ms.  | Sing Geok Qing             |
 | Lab Superintendent                                            | Mrs. | Reena Quah                 |
 | Deputy Lab Superintendent                                     | Mr.  | Joshua Chong               |
-| Asst Laboratory Technician                                    | Mdm. | Keh Siew Bee               |
+| Laboratory Technician                                    | Mdm. | Keh Siew Bee               |
 | Laboratory Technician                                         | Ms.  | Lim Xian                   |
 | Laboratory Technician                                         | Mr.  | Samuel Yeo Xian Chong                   |
