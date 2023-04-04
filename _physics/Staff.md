@@ -7,14 +7,13 @@ The department is staff by a team of qualified, experienced and passionate teac
 
 |                                    |     |                         |
 |------------------------------------|-----|-------------------------|
-| Dean Science / Physics             | Ms  | Yeap Kar Wei            |
+| Dean Science / Physics             | Mr  | Jamin Jeow See Boon            |
 | Deputy Dean Science / Physics      | Mdm | Colleen Ng Shing Ling   |
 | Director Infocom Technology        | Mr  | Foo Kam Meng            |
 | Deputy Director Infocom Technology | Mr  | Benjamin Chan Kim Choon |
 | Deputy Director Year 4             | Mrs | Alice Teoh Yoke Yin     |
 | Deputy Director Year 3             | Ms  | Au Pui Fun              |
 | Senior Teacher                     | Mr  | Kenneth Seah            |
-| Senior Teacher                     | Mr  | Jamin Jeow See Boon     |
 | Senior Teacher                     | Mrs | Elaine Lui Wei Fun      |
 | Teacher                            | Ms  | Chee Hwai Mei           |
 | Teacher (Computer Science)         | Mrs | Dheepa Murali Narayanan |
