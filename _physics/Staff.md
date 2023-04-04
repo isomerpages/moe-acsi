@@ -28,5 +28,4 @@ The department is staff by a team of qualified, experienced and passionate teac
 | Teacher                            | Mrs | Rekha Vijay             |
 | Teacher                            | Mrs | Sharmila Manoj Saralkar |
 | Laboratory Supervisor              | Mr  | Lam Wai Ping            |
-| Laboratory Technician              | Mdm | Sakuntala Devi          |
 | Laboratory Technician              | Ms  | Lim Wan Xuan            |
