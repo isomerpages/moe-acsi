@@ -4,11 +4,10 @@ permalink: /departments/health-physical-education-and-recreation/staff/
 description: ""
 third_nav_title: Health, PE and Recreation
 ---
-
 | Title               | Name                  |
 |---------------------|-----------------------|
 | Director            | Chan Chee Wei         |
-| Director            | Lawrence Ang          |
+| Deputy Director            | Lawrence Ang          |
 | Deputy Director     | Rasdeen Bin Mohd Ali  |
 | Senior Teacher      | Ho Yee Cheong         |
 | Teacher             | Chia Choy Kian        |
