@@ -4,7 +4,15 @@ permalink: /guitar/teachers/
 description: ""
 third_nav_title: Guitar Orchestra
 ---
-Ms Sherilyn Khng (Overall)  <br> 
+
+
+Ms Jacqueline Liew  
+[jliew@acsindep.edu.sg](mailto:jliew@acsindep.edu.sg)
+
+Ms Vivian Tan Siew Boon <br>
+[viviantansb@acsindep.edu.sg](mailto:viviantansb@acsindep.edu.sg)
+
+Ms Sherilyn Khng&nbsp;(Overall)  <br> 
 sherilynkhngch@acsindep.edu.sg
 
 Mr Benjamin Yeo  <br> 
