@@ -22,7 +22,7 @@ third_nav_title: Library
     
 
 *   Library Partnership with Grace Orchard School from 6 July 2023. Student Librarians to organise activities on OPAC search on books, retrieval of books, poster creation and google cardboard workshop.  
-**
+
 
 **Activities for Year 2022**
 
