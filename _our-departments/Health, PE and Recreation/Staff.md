@@ -17,6 +17,7 @@ third_nav_title: Health, PE and Recreation
 | Teacher             | Timothy Chee          |
 | Teacher             | George Lam Choon Seng |
 | Teacher             | Adrian Low Kian Seng  |
+| Teacher             | Chew Yin Xiang   |
 | Pool Supervisor     | Lau Kum Weng          |
 | Coach (Badminton)   | Dicky Purwotjugiono   |
 | Coach (Rugby)       | Adrian Chong          |
