@@ -1,11 +1,10 @@
 ---
-title: Chinese eDatabase & eJournal
+title: Chinese eDatabase &amp; eJournal
 permalink: /library-digital-toolkit/chinese/chinese-edatabase-ejournal/
 description: ""
 third_nav_title: Chinese
 ---
-
-<table style="box-sizing: border-box; border-collapse: collapse; min-width: 500px; margin-top: 0px; color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: border-box; margin-top: 0px;"><tr style="box-sizing: border-box; margin-top: 0px;"><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px;"><img loading="lazy" class="alignnone wp-image-19048 size-full" src="/images/Library%20Digital%20Toolkit//China-online.png" alt="" width="258" height="119" style="box-sizing: border-box; border-style: none; max-width: 100%; height: auto; margin: 0px 20px 20px 0px;"></td><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px;"><a href="https://eresources.nlb.gov.sg/main/Browse?browseBy=subject&amp;filter=3" style="box-sizing: border-box; background-color: transparent; font-size: 1em; font-family: Arial, sans-serif !important; text-decoration: none; margin-top: 0px;">中国学术期刊数据库 (China Online Journals Database) [NLB]</a></td></tr></tbody></table>
+<table><tbody><tr><td><img src="/images/Library%20Digital%20Toolkit/China-online.png" alt="" width="258" height="119" style="box-sizing: border-box; border-style: none; max-width: 100%; height: auto; margin: 0px 20px 20px 0px;"></td><td><a href="https://eresources.nlb.gov.sg/main/Browse?browseBy=subject&amp;filter=3">中国学术期刊数据库 (China Online Journals Database) [NLB]</a></td></tr></tbody></table>
 
 * * *
 
