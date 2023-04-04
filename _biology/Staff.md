@@ -16,7 +16,6 @@ description: ""
 | Teacher                                                       | Mrs. | Choy Hoay Min              |
 | Teacher                                                       | Ms.  | Lin Zhangli                |
 | Teacher                                                       | Mr.  | Mark Richie Tan Chiang Sun |
-| Teacher                                                       | Mr.  | Terence Ng Eu Ghee         |
 | Teacher                                                       | Dr.  | Hazel Wong En En           |
 | Teacher                                                       | Ms.  | Krystal Lee Ying Ying      |
 | Teacher                                                       | Mr.  | Lee Kian Soon Thomas       |
