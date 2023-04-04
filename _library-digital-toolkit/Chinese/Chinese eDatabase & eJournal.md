@@ -4,7 +4,7 @@ permalink: /library-digital-toolkit/chinese/chinese-edatabase-ejournal/
 description: ""
 third_nav_title: Chinese
 ---
-<table><tbody><tr><td><img loading="lazy" class="alignnone wp-image-19048 size-full" src="/images/Library%20Digital%20Toolkit/China-online.png" alt="" width="258" height="119" style="box-sizing: border-box; border-style: none; max-width: 100%; height: auto; margin: 0px 20px 20px 0px;"></td><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px;"><a href="https://eresources.nlb.gov.sg/main/Browse?browseBy=subject&amp;filter=3" style="box-sizing: border-box; background-color: transparent; font-size: 1em; font-family: Arial, sans-serif !important; text-decoration: none; margin-top: 0px;">中国学术期刊数据库 (China Online Journals Database) [NLB]</a></td></tr></tbody></table>
+<table><tbody><tr><td><img loading="lazy" class="alignnone wp-image-19048 size-full" src="/images/Library%20Digital%20Toolkit/China-online.png" alt="" width="258" height="119" style="box-sizing: border-box; border-style: none; max-width: 100%; height: auto; margin: 0px 20px 20px 0px;"></td><td><a href="https://eresources.nlb.gov.sg/main/Browse?browseBy=subject&amp;filter=3" style="box-sizing: border-box; background-color: transparent; font-size: 1em; font-family: Arial, sans-serif !important; text-decoration: none; margin-top: 0px;">中国学术期刊数据库 (China Online Journals Database) [NLB]</a></td></tr></tbody></table>
 
 * * *
 
