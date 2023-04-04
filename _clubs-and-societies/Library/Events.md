@@ -21,7 +21,7 @@ third_nav_title: Library
 *   &nbsp;[Prove It! Contest](https://sure.nlb.gov.sg/events/proveit2021/) organised by NLB &amp; supported by MOE for 2023. Registering 4 students each for the Written and Video categories by 14 April 2023
     
 
-Library Partnership with Grace Orchard School from 6 July 2023. Student Librarians to organise activities on OPAC search on books, retrieval of books, poster creation and google cardboard workshop.  
+*   Library Partnership with Grace Orchard School from 6 July 2023. Student Librarians to organise activities on OPAC search on books, retrieval of books, poster creation and google cardboard workshop.  
 **
 
 **Activities for Year 2022**
