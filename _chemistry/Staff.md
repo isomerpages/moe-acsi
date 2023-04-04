@@ -156,7 +156,7 @@ description: ""
 <td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 142.67px; height: 24px;"><span style="box-sizing: border-box; margin-top: 0px; font-family: helvetica, arial, sans-serif;">Goh Ying Zheng</span></td>
 </tr>
 <tr style="box-sizing: border-box; height: 24px;">
-<td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px; width: 169.94px; height: 24px;"><span style="box-sizing: border-box; margin-top: 0px; font-family: helvetica, arial, sans-serif;">Asst Laboratory Technician</span></td>
+<td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px; width: 169.94px; height: 24px;">Laboratory Technician</td>
 <td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 107.94px; height: 24px;"><span style="box-sizing: border-box; margin-top: 0px; font-family: helvetica, arial, sans-serif;">Mdm</span></td>
 <td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 142.67px; height: 24px;"><span style="box-sizing: border-box; margin-top: 0px; font-family: helvetica, arial, sans-serif;">Sakuntala Devi</span></td>
 </tr>
