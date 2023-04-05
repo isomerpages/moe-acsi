@@ -6,8 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-<a href="/files/Announcements%20&amp;%20News/ZB-14-Mar-2023.pdf">![](/images/In%20the%20News/zb-14-mar-2023-1024x836.jpg)</a>
+<a href="/files/Announcements%20&amp;%20News/st,%2030%20mar%202023,%20pb14_page-0001.pdf">![](/images/In%20the%20News/st,%2030%20mar%202023.png)</a>
 
-
-
-Source: Lianhe Zaobao / 联合早报 © SPH Media Limited. Permission required for reproduction.
+ Source: The Straits Times © SPH Media Limited. Permission required for reproduction.
