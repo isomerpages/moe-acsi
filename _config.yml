@@ -3,7 +3,7 @@ url: https://www.acsindep.moe.edu.sg
 favicon: /images/acsi faveicon.png
 colors:
   primary-color: "#00205c"
-  secondary-color: "#000000"
+  secondary-color: "#00205c"
   media-colors:
     - title: media-color-one
       color: "#ce0e2d"
