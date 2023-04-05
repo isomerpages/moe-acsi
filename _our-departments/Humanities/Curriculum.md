@@ -4,7 +4,6 @@ permalink: /departments/humanities/curriculum/
 description: ""
 third_nav_title: Humanities
 ---
-
 1.  [Geography Lower Sec Exp](/files/Our%20Departments/Humanities/Geography-Lower-Sec-Exp.pdf)
 2.  [Geography Lower Sec IP](/files/Our%20Departments/Humanities/Geography-Lower-Sec-IP.pdf)
 3.  [Geography Upper Sec Exp](/files/Our%20Departments/Humanities/Geography-Core-Upper-Sec-Exp.pdf)
@@ -19,3 +18,5 @@ third_nav_title: Humanities
 12.  [Humanities (Social Studies, Geography)](/files/Our%20Departments/Humanities/Humanities-SS-Geo.pdf)
 13.  [Humanities (Social Studies, History)](/files/Our%20Departments/Humanities/Humanities-SS-and-History.pdf)
 14.  [Humanities (Social Studies, Literature in English)](/files/Our%20Departments/Humanities/Humanities-SS-and-Literature.pdf)
+
+[dfgddfg](/files/Our%20Departments/Humanities/Geography-Lower-Sec-IP.pdf)
