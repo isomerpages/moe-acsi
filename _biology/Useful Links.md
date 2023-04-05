@@ -3,8 +3,6 @@ title: Useful Links
 permalink: /departments/science/biology/useful-links/
 description: ""
 ---
-# NTU School of Biological Science  link broken
-
 **Organisations**
 
 International Biology Olympiad  [http://www.ibo-info.org/](http://www.ibo-info.org/)
