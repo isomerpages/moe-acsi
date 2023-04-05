@@ -13,7 +13,7 @@ third_nav_title: Humanities
 7.  [History Upper Sec Exp](/files/Our%20Departments/Humanities/history-core-upper-sec-exp.pdf)
 8.  [History Upper Sec IP](/files/Our%20Departments/Humanities/history-upper-sec-ip.pdf)
 9.  [International Studies Upper Sec IP](/files/Our%20Departments/Humanities/ISY3-Subject-Brochure-v2023.pdf)
-10.  [Geography IB HL and SL](/files/Our%20Departments/Humanities/IB-Geography-Brochure-2022-1.pdf)
+10.  [Geography IB HL and SL](/files/Our%20Departments/Humanities/ib-geography-brochure-2022-1.pdf)
 11.  [History IB HL and SL](/files/Our%20Departments/Humanities/IB-History-Brochure-2022-1.pdf)
 12.  [Humanities (Social Studies, Geography)](/files/Our%20Departments/Humanities/Humanities-SS-Geo.pdf)
 13.  [Humanities (Social Studies, History)](/files/Our%20Departments/Humanities/Humanities-SS-and-History.pdf)
