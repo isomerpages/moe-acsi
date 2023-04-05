@@ -17,4 +17,4 @@ third_nav_title: Humanities
 11.  [History IB HL and SL](/files/Our%20Departments/Humanities/IB-History-Brochure-2022-1.pdf)
 12.  [Humanities (Social Studies, Geography)](/files/Our%20Departments/Humanities/Humanities-SS-Geo.pdf)
 13.  [Humanities (Social Studies, History)](/files/Our%20Departments/Humanities/Humanities-SS-and-History.pdf)
-14.  [Humanities (Social Studies, Literature in English)](/files/Our%20Departments/Humanities/Humanities-SS-and-Literature.pdf)
+14.  [Humanities (Social Studies, Literature in English)](/files/Our%20Departments/Humanities/humanities-ss-and-literature.pdf)
