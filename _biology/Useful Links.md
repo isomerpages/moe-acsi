@@ -15,7 +15,7 @@ Singapore Examinations and Assessment Board  [http://www.seab.gov.sg](http://w
 
 NUS Department of Biological Sciences [http://www.dbs.nus.edu.sg](http://www.dbs.nus.edu.sg/)
 
-Raffles Museum of Biodiversity Research  [http://rmbr.nus.edu.sg](http://rmbr.nus.edu.sg/)
+Raffles Museum of Biodiversity Research  [http://rmbr.nus.edu.sg](https://lkcnhm.nus.edu.sg/)
 
 Singapore Science Centre  [http://www.science.edu.sg](http://www.science.edu.sg/)
 
