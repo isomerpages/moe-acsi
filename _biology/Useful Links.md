@@ -3,8 +3,6 @@ title: Useful Links
 permalink: /departments/science/biology/useful-links/
 description: ""
 ---
-# NTU School of Biological Science  link broken
-
 **Organisations**
 
 International Biology Olympiad  [http://www.ibo-info.org/](http://www.ibo-info.org/)
@@ -17,11 +15,11 @@ Singapore Examinations and Assessment Board  [http://www.seab.gov.sg](http://w
 
 NUS Department of Biological Sciences [http://www.dbs.nus.edu.sg](http://www.dbs.nus.edu.sg/)
 
-Raffles Museum of Biodiversity Research  [http://rmbr.nus.edu.sg](http://rmbr.nus.edu.sg/)
+Raffles Museum of Biodiversity Research  [https://lkcnhm.nus.edu.sg/](https://lkcnhm.nus.edu.sg/)
 
 Singapore Science Centre  [http://www.science.edu.sg](http://www.science.edu.sg/)
 
-NTU School of Biological Science  [http://www.sbs.ntu.edu.sg/Pages/Home.aspx](http://www.sbs.ntu.edu.sg/Pages/Home.aspx)
+NTU School of Biological Science  [https://www.ntu.edu.sg/sbs](https://www.ntu.edu.sg/sbs)
 
 **Resources & Journals**
 
