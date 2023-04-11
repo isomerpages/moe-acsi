@@ -4,7 +4,7 @@ permalink: /bowling/student-committee-exco/
 description: ""
 third_nav_title: Bowling
 ---
-<table width="100%">
+<table width="60%">
 <thead>
 <tr>
 <td>
