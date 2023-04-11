@@ -8,4 +8,3 @@ description: ""
 *   [IBDP Chemistry (Years 5 & 6)](/files/Our%20Departments/Chemistry/ib%20chem%20(website)%202024.pdf)
 *   [IB Chem HL Y5 SOW](/files/Our%20Departments/Chemistry/2015-IB-ChemHL-Y5-SOW.pdf)
 *   [IB Chem SL Y5 SOW](/files/Our%20Departments/Chemistry/2015-IB-ChemSL-Y5-SOW.pdf)
-
