@@ -4,7 +4,7 @@ permalink: /bowling/teachers/
 description: ""
 third_nav_title: Bowling
 ---
-<table width="803">
+<table width="60%">
 <thead>
 <tr>
 <td>
