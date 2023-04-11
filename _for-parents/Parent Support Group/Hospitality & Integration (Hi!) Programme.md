@@ -26,5 +26,4 @@ The PSG organises an **International Boarders’ Night** annually (usually in 
 
 ![](/images/Hosting-Entertainment.png)
 
-If you are interested in the hosting programme or supporting the **International Boarders’ Night**, please email **Irene Widiani** at [psg@as.acsi.edu.sg](mailto:psg@as.acsi.edu.sg). Join us, share your blessings and make a difference by becoming a host parent!
-
+If you are interested in the hosting programme or supporting the **International Boarders’ Night**, please email **Rebecca Vagenende** at [psg@as.acsi.edu.sg](mailto:psg@as.acsi.edu.sg). Join us, share your blessings and make a difference by becoming a host parent!
