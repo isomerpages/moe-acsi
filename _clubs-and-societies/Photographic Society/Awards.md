@@ -31,6 +31,8 @@ Claire Khoo and&nbsp;Claire Chua, both Year 5 IB students won the Honourable Men
 
 ### AWARDS 2018
 
+![](/images/Clubs%20And%20Societies/picture41a.png)
+
 **Canon Photomarathon 2018**
 
 – Mikaela Gn (5.18) clinched an individual 2nd place for the theme of GLOW
