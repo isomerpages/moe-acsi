@@ -4,7 +4,6 @@ permalink: /departments/aesthetics/staff/
 description: ""
 third_nav_title: Aesthetics
 ---
-
 | Name               | Portfolio         | Email            |
 |------------|----------|------------------|
 | Mr Benjamin Yeo    | Dean (Aesthetics)                            | [benjaminyeokg@acsindep.edu.sg](mailto:benjaminyeokg@acsindep.edu.sg) |
@@ -14,7 +13,6 @@ third_nav_title: Aesthetics
 | Ms Grace Wong      | MEP / Music IBDP                             |                               |
 | Ms Vivian Tan      | MEP / General Music                          |                               |
 | Ms Isabelle Chung  | MEP / General Music                          |                               |
-| Mrs Elaine Wan     | General Music                                |                               |
 | Ms Jacqueline Liew | Art & Design                                 |                               |
 | Mrs Serilyn Goh    | Art & Design                                 |                               |
 | Ms Candy Zhang     | Art & Design                                 |                               |
