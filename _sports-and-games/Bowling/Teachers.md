@@ -4,27 +4,56 @@ permalink: /bowling/teachers/
 description: ""
 third_nav_title: Bowling
 ---
-<table>
+<table width="803">
 <thead>
-  <tr>
-    <th>Mr Benjamin Wong</th>
-    <th>67739202<br><a href="mailto:benjaminwongzm@acsindep.edu.sg" target="_blank" rel="noopener noreferrer">benjaminwongzm@acsindep.edu.sg</a></th>
-    <th>Overall Teacher in Charge and overseeing C Div</th>
-  </tr>
+<tr>
+<td>
+<p>Mr Benjamin Wong</p>
+</td>
+<td>
+<p>67739202<br> <a href="mailto:benjaminwongzm@acsindep.edu.sg">benjaminwongzm@acsindep.edu.sg</a></p>
+</td>
+<td>
+<p>Overall Teacher in Charge and DSA point of contact</p>
+</td>
+</tr>
 </thead>
 <tbody>
-  <tr>
-    <td>Mr Lee Beng Hwee</td>
-    <td>68700620<br><a href="mailto:benjaminwongzm@acsindep.edu.sg" target="_blank" rel="noopener noreferrer">leebenghwee@acsindep.edu.sg</a></td>
-    <td>Overseeing B Div</td>
-  </tr>
-  <tr>
-    <td>Ms Raelene Chan</td>
-    <td>68700653<br><a href="mailto:raelenechanxy@csindep.edu.sg" target="_blank" rel="noopener noreferrer">raelenechanxy@csindep.edu.sg</a></td>
-    <td>Overseeing A Div</td>
-  </tr>
+<tr>
+<td>
+<p>Mr Lee Beng Hwee</p>
+</td>
+<td>
+<p>68700620<br> <a href="mailto:benjaminwongzm@acsindep.edu.sg">leebenghwee@acsindep.edu.sg</a></p>
+</td>
+<td>
+<p>Overseeing B Div</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ms Raelene Chan</p>
+</td>
+<td>
+<p>68700653<br> <a href="mailto:raelenechanxy@acsindep.edu.sg">raelenechanxy@acsindep.edu.sg</a></p>
+</td>
+<td>
+<p>Overseeing A Div</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mr Dominic Lim</p>
+</td>
+<td>
+<p>68700402<br>
+<a href="mailto:dominiclimjq@acsindep.edu.sg">dominiclimjq@acsindep.edu.sg</a></p>
+</td>
+<td>
+<p>Overseeing C Div</p>
+</td>
+</tr>
 </tbody>
 </table>
 
-<img src="/images/WorldSchool.jpg" 
-     style="width:25%">
+<img src="/images/WorldSchool.jpg" style="width:25%">
