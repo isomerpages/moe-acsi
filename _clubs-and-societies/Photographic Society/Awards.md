@@ -9,8 +9,7 @@ third_nav_title: Photographic Society
 **“ACS135 Photography Competition” Organised by the ACSOBA**
 
 
-<img src="/images/photog%201.png" 
-     style="width:70%">
+<img src="/images/photog%201.png" style="width:70%">
 
 ### AWARDS 2020
 
@@ -18,17 +17,17 @@ third_nav_title: Photographic Society
 
 Kevia Tan and Ang Ryan were both awarded Honorable Mention for this contest. Their photos were displayed on a wall at the Ministry of Education’s Headquarters.
 
-<img src="/images/photog%202.png" 
-     style="width:70%">
+<img src="/images/photog%202.png" style="width:70%">
 		 
 ### AWARDS 2019
 
 **“Our School, Our Stories (OSOS) Photo Contest” Organized by MOE**
 
-<img src="/images/OSOS-trophie-271x300.jpg" 
-     style="width:60%">
+2019 Our School Our Stories winning pic			
+<img src="/images/Clubs%20And%20Societies/picture40a.jpg" style="width:60%">
+<img src="/images/OSOS-trophie-271x300.jpg" style="width:60%">
 
-Claire Khoo and Claire Chua, both Year 5 IB students won the Honourable Mention for Youth Category.
+Claire Khoo and&nbsp;Claire Chua, both Year 5 IB students won the Honourable Mention for Youth Category.
 
 ### AWARDS 2018
 
@@ -50,6 +49,6 @@ Claire Khoo and Claire Chua, both Year 5 IB students won the Honourable Mention
 
 Shannon Lee, 5.13
 
-2nd Runner Up-  Student Category “Celebrations” Theme
+2nd Runner Up-&nbsp; Student Category “Celebrations” Theme
 
 We look forward to winning many more awards in times to come!
