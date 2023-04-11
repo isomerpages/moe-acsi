@@ -9,6 +9,7 @@ Please note that only the names and details of key-points-of-contact are reflect
 | Departments | Appointment | Name |
 | --- | --- | --- |
 | Accounts Office | Head of Finance | Mr Steven Lim |
+| Admin Office | Secretary | Ms Anne Wong Sok Yi |
 | Admin Office | Secretary | Ms Carolyn Tok |
 | Admin Office | Secretary | Ms Eunice Seah |
 | Admin Office | Secretary | Mrs Lilian Aw Yeong |
