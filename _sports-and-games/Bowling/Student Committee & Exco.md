@@ -1,31 +1,46 @@
 ---
-title: Student Committee & Exco
+title: Student Committee &amp; Exco
 permalink: /bowling/student-committee-exco/
 description: ""
 third_nav_title: Bowling
 ---
-<table>
+<table width="60%">
 <thead>
-  <tr>
-    <th>Appointment</th>
-    <th>Name of Student</th>
-  </tr>
+<tr>
+<td>
+<p><strong>Appointment</strong></p>
+</td>
+<td>
+<p><strong>Name of Student</strong></p>
+</td>
+</tr>
 </thead>
 <tbody>
-  <tr>
-    <td>A Division</td>
-    <td>Captain – Ashton Tan<br>Vice Captain – Cody Koh</td>
-  </tr>
-  <tr>
-    <td>B Division</td>
-    <td>Captain – Dylan Lim<br>Vice Captain – Mike Ong<br>Vice Captain – Zephyr Liew</td>
-  </tr>
-  <tr>
-    <td>C Division</td>
-    <td>Leaders yet to be elected</td>
-  </tr>
+<tr>
+<td>
+<p>A Division</p>
+</td>
+<td>
+<p>Captain – Zach Ramin (Boys) / Chee Jaye Min (Girls)<br> Vice Captains – Jag Ng (Boys) / Eugene Yeo (Boys)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>B Division</p>
+</td>
+<td>
+<p>Captain – Wilfred Er<br> Vice Captains – Mike Ong / Ian Tay</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>C Division</p>
+</td>
+<td>
+<p>Captain – Donovan Lim<br>Vice Captain – Izz Irfan</p>
+</td>
+</tr>
 </tbody>
 </table>
 
-<img src="/images/WorldSchool.jpg" 
-     style="width:25%">
+<img src="/images/WorldSchool.jpg" style="width:25%">
