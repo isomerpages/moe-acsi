@@ -2,7 +2,7 @@
 title: Student Council
 permalink: /council/
 description: ""
-third_nav_title: Student Council
+third_nav_title: Student Leadership
 ---
 **Vision**
 

@@ -1,8 +1,8 @@
 ---
-title: Structure
+title: Prefectorial Board Structure
 permalink: /prefects/structure/
 description: ""
-third_nav_title: Prefectorial Board
+third_nav_title: Student Leadership
 ---
 ### Teachers
 

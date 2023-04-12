@@ -1,8 +1,8 @@
 ---
-title: Structure
+title: Student Council Structure
 permalink: /council/structure/
 description: ""
-third_nav_title: Student Council
+third_nav_title: Student Leadership
 ---
 ### Teachers
 
@@ -363,4 +363,3 @@ third_nav_title: Student Council
   </tr>
 </tbody>
 </table>
-

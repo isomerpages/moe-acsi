@@ -1,8 +1,8 @@
 ---
-title: Announcements
-permalink: /prefects/announcements/
+title: Prefectorial Board Announcements
+permalink: /student-development/student-leadership/prefectorial-board-announcements/
 description: ""
-third_nav_title: Prefectorial Board
+third_nav_title: Student Leadership
 ---
 **Upcoming Duties/Events**
 

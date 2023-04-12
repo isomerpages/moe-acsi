@@ -1,8 +1,8 @@
 ---
-title: Our Projects
+title: Prefectorial Board Our Projects
 permalink: /prefects/projects/
 description: ""
-third_nav_title: Prefectorial Board
+third_nav_title: Student Leadership
 ---
 ### School Events
 

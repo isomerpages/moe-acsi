@@ -2,7 +2,10 @@
 title: Houses
 permalink: /student-development/houses/
 description: ""
+third_nav_title: Student Leadership
 ---
+![](/images/House/slide1.jpg)
+
 <a href="/student-development/houses/thoburn-house/">
 <img src="/images/thoburn%20house.png" style="width:60%">
 </a>

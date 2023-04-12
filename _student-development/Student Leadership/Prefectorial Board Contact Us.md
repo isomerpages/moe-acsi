@@ -1,8 +1,8 @@
 ---
-title: Contact Us
+title: Prefectorial Board Contact Us
 permalink: /prefects/contact-us/
 description: ""
-third_nav_title: Prefectorial Board
+third_nav_title: Student Leadership
 ---
 **Anglo-Chinese School (Independent)**​
 

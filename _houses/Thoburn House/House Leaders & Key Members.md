@@ -1,55 +1,69 @@
 ---
-title: House Leaders & Key Members
+title: House Leaders &amp; Key Members
 permalink: /student-development/houses/thoburn-house/house-leaders-key-members/
 description: ""
 third_nav_title: Thoburn House
 ---
-<table>
-<thead>
-  <tr>
-    <th>House Manager</th>
-    <th>Mr Cao Huizhong</th>
-  </tr>
-</thead>
+<table width="614">
 <tbody>
-  <tr>
-    <td>Senior Captain</td>
-    <td>Kenji Chng Xian Si (6.15)</td>
-  </tr>
-  <tr>
-    <td>Senior Vice-Captain</td>
-    <td>Tan Shu Yi (6.06)</td>
-  </tr>
-  <tr>
-    <td>Junior Captain</td>
-    <td>Gnana Amal Paulraj Joshua Andrew (5.08)</td>
-  </tr>
-  <tr>
-    <td>Junior Vice-Captain</td>
-    <td>Ling Li-Ann Alexa (5.03)</td>
-  </tr>
-  <tr>
-    <td>Junior Vice-Captain</td>
-    <td>Eliott E Chong (4.13)</td>
-  </tr>
-  <tr>
-    <th colspan="2">Level Representatives</th>
-  </tr>
-  <tr>
-    <td>Year 4</td>
-    <td>James Lachlan Chin (4.11)</td>
-  </tr>
-  <tr>
-    <td>Year 3</td>
-    <td>Timothy Yoong (3.05)<br><br>Au Yeung Chi Hang Lucas (3.11)</td>
-  </tr>
-  <tr>
-    <td>Year 2</td>
-    <td>Austin Lim Kim En (2.08)<br><br>Asher Hanniel Foo (2.09)</td>
-  </tr>
-  <tr>
-    <td>Year 1</td>
-    <td>Lee Kang Le, mike (1.11)<br><br>Hector Lim-ng Long Yi (1.12)</td>
-  </tr>
+<tr>
+<td width="181">
+<p>Senior Captain</p>
+</td>
+<td width="433">
+<p>James Lachlan Chin (6.14 Joppa)</p>
+</td>
+</tr>
+<tr>
+<td width="181">
+<p>Senior Vice Captain</p>
+</td>
+<td width="433">
+<p>Kwang Rui En (6.03 Bethlehem)</p>
+</td>
+</tr>
+<tr>
+<td width="181">
+<p>Level Representatives</p>
+</td>
+<td width="433">
+</td>
+</tr>
+<tr>
+<td width="181">
+<p>Year 4</p>
+</td>
+<td width="433">
+<p>Austin Lim Kim En (4.04 Ezra)</p>
+<p>Asher Hanniel Foo (4.16 Enoch)</p>
+</td>
+</tr>
+<tr>
+<td width="181">
+<p>Year 3</p>
+</td>
+<td width="433">
+<p>Lee Kang Le, Mike (3.14 Obadiah)</p>
+<p>Hector Lim-Ng Long Yi (3.15 Nahum)</p>
+</td>
+</tr>
+<tr>
+<td width="181">
+<p>Year 2</p>
+</td>
+<td width="433">
+<p>Heng Jie Feng Ayden (2.09 Benjamin)</p>
+<p>Low Jia Jun (2.07 Ephraim)</p>
+</td>
+</tr>
+<tr>
+<td width="181">
+<p>Year 1</p>
+</td>
+<td width="433">
+<p>Bu Junyang, (1.11 Timothy)</p>
+<p>Josiah Lee Yah Weh, (1.08 Paul)</p>
+</td>
+</tr>
 </tbody>
 </table>
