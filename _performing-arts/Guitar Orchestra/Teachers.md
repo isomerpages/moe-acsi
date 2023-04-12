@@ -4,28 +4,23 @@ permalink: /guitar/teachers/
 description: ""
 third_nav_title: Guitar Orchestra
 ---
+Ms Sherilyn Khng (Overall)  
+[sherilynkhngch@acsindep.edu.sg](mailto:sherilynkhngch@acsindep.edu.sg)
 
+Mr Benjamin Yeo  
+[benjaminyeokg@acsindep.edu.sg](mailto:benjaminyeokg@acsindep.edu.sg)
 
 Ms Jacqueline Liew  
 [jliew@acsindep.edu.sg](mailto:jliew@acsindep.edu.sg)
 
-Ms Vivian Tan Siew Boon <br>
+Ms Krystal Lee  
+[krystalleeyy@acsindep.edu.sg](mailto:krystalleeyy@acsindep.edu.sg)
+
+Mr Loy Xing Jian  
+[loyxingjian@acsindep.edu.sg](mailto:loyxingjian@acsindep.edu.sg)
+
+Ms Vivian Tan Siew Boon  
 [viviantansb@acsindep.edu.sg](mailto:viviantansb@acsindep.edu.sg)
-
-Ms Sherilyn Khng&nbsp;(Overall)  <br> 
-sherilynkhngch@acsindep.edu.sg
-
-Mr Benjamin Yeo  <br> 
-benjaminyeokg@acsindep.edu.sg
-
-Mdm Jacqueline Yew  <br> 
-jliew@acsindep.edu.sg
-
-Ms Krystal Lee  <br> 
-krystalleeyy@acsindep.edu.sg
-
-Mr Loy Xing Jian <br> 
-loyxingjian@acsindep.edu.sg
 
 **Coach/Instructors**
 
