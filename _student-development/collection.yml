@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Student Leadership/.keep
       - CCA and Interest Groups/.keep
       - CCA and Interest Groups/CCA and Interest Groups.md
       - CCA and Interest Groups/Sports and Games.md
