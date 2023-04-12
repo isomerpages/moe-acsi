@@ -4,10 +4,10 @@ permalink: /guitar/teachers/
 description: ""
 third_nav_title: Guitar Orchestra
 ---
-Ms Sherilyn Khng (Overall)  
+Ms Sherilyn Khng - Overall Teacher-In-Charge  
 [sherilynkhngch@acsindep.edu.sg](mailto:sherilynkhngch@acsindep.edu.sg)
 
-Mr Benjamin Yeo  
+Mr Benjamin Yeo – Dean (Aesthetics)  
 [benjaminyeokg@acsindep.edu.sg](mailto:benjaminyeokg@acsindep.edu.sg)
 
 Ms Jacqueline Liew  
