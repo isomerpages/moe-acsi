@@ -31,7 +31,7 @@ third_nav_title: Golf
   </tr>
   <tr>
     <td>Vice-Captain</td>
-    <td> Kwong Ching Yat Bruce</td>
+    <td>Tan Zheng Jie Elijah</td>
   </tr>
   <tr>
     <td>‘C’ Division</td>

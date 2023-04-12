@@ -6,8 +6,8 @@ third_nav_title: Golf
 ---
 ### 2007 National School Games Golf Championships
 
-Silver award for C Division  <br>
-4th position for B Division
+Silver award for&nbsp;C Division  <br>
+4th position for&nbsp;B Division
 
 ### 2008 National School Games Golf Championships
 
@@ -16,13 +16,13 @@ Bronze award for B Division
 
 ### 2009 National School Games Golf Championships
 
-Gold award for B Division  
+Gold award for&nbsp;B Division  
 Bronze award for A Division
 
 ### 2010 National School Games Golf Championships
 
-Gold award for B Division  <br>
-4th position for A Division
+Gold award for&nbsp;B Division  <br>
+4th&nbsp;position for A Division
 
 ### 2011 National School Games Golf Championships
 
@@ -31,29 +31,29 @@ Gold award for B Division  <br>
 
 ### 2013 National School Games Golf Championships
 
-1st position for A division <br>
-3rd position for C division
+1st&nbsp;position for A division <br>
+3rd&nbsp;position for C division
 
 ### 2014 National School Games Golf Championships
 
-3rd position for A division <br>
-3rd position for C division
+3rd&nbsp;position for A division <br>
+3rd&nbsp;position for C division
 
 ### 2015 National School Games Golf Championships
 
-A Div – 3rd position <br>
-C Div – 4th position
+A Div – 3rd&nbsp;position <br>
+C Div – 4th&nbsp;position
 
 ### 2016 National School Games Golf Championships
 
-B Div – 3rd position <br>
-C Div – 1st position
+B Div – 3rd&nbsp;position <br>
+C Div –&nbsp;1st&nbsp;position
 
 ### 2017 National School Games Golf Championships
 
-B Div (Team) – Third Runner-up (John Ho Weng Shing & Gabriel Yap Qi Long) <br>
-C Div (Team) – First Runner-up (Sean Lee 2.01 & Yap Zhe Rong 1.04) <br>
-C Div (Individual) – Champion (Sean Lee 2.01)
+B Div (Team) – Third Runner-up (John Ho Weng Shing &amp; Gabriel Yap Qi Long) <br>
+C Div (Team) –&nbsp;First Runner-up (Sean Lee 2.01 &amp; Yap Zhe Rong 1.04) <br>
+C Div (Individual) –&nbsp;Champion (Sean Lee 2.01)
 
 ### 2018 National School Games Golf Championships
 
@@ -252,5 +252,98 @@ C Div (Individual) – Champion (Sean Lee 2.01)
     <td></td>
     <td>First Runner-up (Troy Tian Sorem 1.13)</td>
   </tr>
+</tbody>
+</table>
+
+### 2023 National School Games Golf Championships
+<p>&nbsp;</p>
+<table width="632">
+<thead>
+<tr>
+<td>
+<p>A Div (Team)</p>
+</td>
+<td>
+<p>– First Runner-up (Daryl Low Meng Tiang &amp; Ryan Ng Jin Hui)</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>B Div (Team)</p>
+</td>
+<td>
+<p>– Champion (Lee Brayden &amp; Kwong Ching Yat Bruce)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>C Div (Team)</p>
+</td>
+<td>
+<p>– Champion (Troy Tian Sorem &amp; Lim Yong Rui Dylan)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>A Div (Individual)</p>
+</td>
+<td>
+<p>– Champion (Daryl Low Meng Tiang 6.10)</p>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>
+<p>10<sup>th</sup> position (Koh Juin Yang Colin 5.01)</p>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>
+<p>11<sup>th</sup> position (Ryan Ng Jin Hui 6.11)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>B Div (Individual)</p>
+</td>
+<td>
+<p>– Champion (Lee Brayden 4.07)</p>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>
+<p>Second Runner-up (Kwong Ching Yat Bruce 3.06)</p>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>
+<p>6<sup>th</sup> position (Jayden Loh Eu-Jyn 4.01)</p>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>
+<p>14<sup>th</sup> position (Tan Zheng Jie Elijah 4.07)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>C Div (Individual)</p>
+</td>
+<td>
+<p>– Champion (Troy Tian Sorem 2.13)</p>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>
+<p>17<sup>th</sup> position (Lim Yong Rui Dylan 1.05)</p>
+</td>
+</tr>
 </tbody>
 </table>
