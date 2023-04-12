@@ -16,9 +16,9 @@ third_nav_title: Student Leadership
 <p>&nbsp;</p>
 <p>The specific purpose of each Board is as follows:</p>
 <ul>
-<li><strong>House</strong> serves to strengthen students’ sense of belonging to the school by bringing members of the school family together through their participation in House activities.<a name="_ftnref1" href="#_ftn1">[1]</a></li>
-<li>The <strong>Prefectorial Board</strong> represents students from Years 1-4.</li>
-<li>The <strong>Student Council</strong> represents students from Years 5-6.</li>
+<li><a href="https://www.acsindep.moe.edu.sg/student-development/houses/"><strong>House</strong></a> serves to strengthen students’ sense of belonging to the school by bringing members of the school family together through their participation in House activities.<a name="_ftnref1" href="#_ftn1">[1]</a></li>
+<li>The <a href="https://www.acsindep.moe.edu.sg/prefects/"><strong>Prefectorial Board</strong></a> represents students from Years 1-4.</li>
+<li>The <a href="https://www.acsindep.moe.edu.sg/council/"><strong>Student Council</strong></a> represents students from Years 5-6.</li>
 </ul>
 <p>&nbsp;Student leaders are primarily focused on the following initiatives:</p>
 <table>
@@ -139,4 +139,3 @@ third_nav_title: Student Leadership
 <hr>
 <p><a name="_ftn1" href="#_ftnref1">[1]</a> House forms vertical bonds amongst ACSians throughout Years 1-6 and also provides an additional community for students within each cohort.</p>
 <p><a name="_ftn2" href="#_ftnref2">[2]</a> On a case-by-case basis, student leaders support these events/initiatives after taking into account their range of work at that point in time.</p>
-<p>&nbsp;</p>
