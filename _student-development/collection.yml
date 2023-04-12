@@ -2,7 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - Student Leadership/.keep
       - CCA and Interest Groups/.keep
       - CCA and Interest Groups/CCA and Interest Groups.md
       - CCA and Interest Groups/Sports and Games.md
@@ -10,6 +9,7 @@ collections:
       - CCA and Interest Groups/Performing Arts.md
       - CCA and Interest Groups/Club & Societies.md
       - CCA and Interest Groups/Interest Groups.md
+      - Student Leadership/.keep
       - Student Council/.keep
       - Student Council/Student Council.md
       - Student Council/Structure.md
