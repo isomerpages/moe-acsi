@@ -46,11 +46,15 @@ third_nav_title: Golf
 	<tr>
     <td style="text-align:center"><a href="/images/CCA%20Sports/Golf/2022%20c%20div%20team.jpg"> <img src="/images/CCA%20Sports/Golf/2022%20c%20div%20team.jpg" style="width:200px; height: 130px"></a></td>
     <td style="text-align:center"><a href="/images/CCA%20Sports/Golf/2022%20golf%20competitive%20team.jpg"> <img src="/images/CCA%20Sports/Golf/2022%20golf%20competitive%20team.jpg" style="width:200px"></a>
-		</td><td style="text-align:center"><a href="/images/golf%2015.jpeg"> <img src="/images/golf%2015.jpeg" style="width:200px"></a></td>
-		<td style="text-align:center"><a href="/images/golf%2015.jpeg"> <img src="/images/golf%2015.jpeg" style="width:200px"></a></td>
+		</td><td style="text-align:center"><a href="/images/CCA%20Sports/Golf/2023%20b%20div%20team.png"> <img src="/images/CCA%20Sports/Golf/2023%20b%20div%20team.png" style="width:200px"></a></td>
+		<td style="text-align:center"><a href="/images/CCA%20Sports/Golf/2023%20c%20div%20individual%20champion.png"> <img src="/images/CCA%20Sports/Golf/2023%20c%20div%20individual%20champion.png" style="width:200px"></a></td>
 	</tr>
+	<tr>
+    <td style="text-align:center"><a href="/images/CCA%20Sports/Golf/2023%20c%20div%20team.png"> <img src="/images/CCA%20Sports/Golf/2023%20c%20div%20team.png" style="width:200px; height: 130px"></a></td>
+    <td style="text-align:center"><a href="/images/CCA%20Sports/Golf/2023%20golf%20team.png"> <img src="/images/CCA%20Sports/Golf/2023%20golf%20team.png" style="width:200px"></a>
+		</td><td style="text-align:center"><a href="/images/CCA%20Sports/Golf/2023%20team%20players.png"> <img src="/images/CCA%20Sports/Golf/2023%20team%20players.png" style="width:200px"></a></td>
+		
 	
-</tbody>
+</tr></tbody>
 </table>
-
 
