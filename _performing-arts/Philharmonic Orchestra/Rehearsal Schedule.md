@@ -16,7 +16,7 @@ Attendance at rehearsals is compulsory. Kindly avoid making travel plans during 
 *   March: intensive rehearsals throughout the week
 *   June: No rehearsals
 *   September: No rehearsals
-*   November: Until Week 10 (18 November 2022)
+*   November: Until Week 10 (17 November 2023)
 
 There will be additional rehearsals leading up to events.
 
@@ -24,15 +24,17 @@ Venues for sectionals and combined rehearsals will be announced to students.
 
 * * *
 
-**2022 Rehearsal Schedule:** 
+**2023 Rehearsal Schedule:** 
 
-[2022 Term 4 Rehearsal Schedule Updated 3 Nov](/files/2022-Term-4-Rehearsal-Schedule_v4.pdf)
+
+
+[2023 Term 2 Rehearsal Schedule Updated 10 Apr](/files/CCA/2023%20term%202%20rehearsal%20schedule%20updated%2010%20apr.pdf)
 
 Check this page for regular updates!
 
 * * *
 
-**Absence/ Late-Coming / Early-Dismissal Notification Protocol for 2022**
+**Absence/ Late-Coming / Early-Dismissal Notification Protocol for 2023**
 
 Hi orchestra! Kindly inform and seek approval to be excused from your respective level teachers and Ms Poh should you be unable to attend any rehearsals (or part thereof).
 
@@ -49,4 +51,3 @@ Hi orchestra! Kindly inform and seek approval to be excused from your respective
 *   Parents’ letter/email will be accepted twice a term only
 
 Thanks!
-

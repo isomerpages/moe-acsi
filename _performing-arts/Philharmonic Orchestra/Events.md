@@ -8,7 +8,7 @@ The Orchestra provides its members with many invaluable opportunities to perform
 
 ##### Singapore Youth Festival (SYF) Arts Presentation
 
-The SYF Arts Presentation is a biennial national event for the various performing arts groups in Singapore to showcase their talents and passion for music. The Secondary Orchestra has made its mark in the local music scene by clinching consecutive pinnacle awards (Gold with Honours / Gold / Distinction) over the last two decades, while the IB Orchestra, which was formed only in recent years, achieved a Distinction at the 2017, 2019 and 2021 SYF Arts Presentation.
+The SYF Arts Presentation is a biennial national event for the various performing arts groups in Singapore to showcase their talents and passion for music. The Secondary Orchestra has made its mark in the local music scene by clinching consecutive pinnacle awards (Gold with Honours / Gold / Distinction) over the last two decades, while the IB Orchestra, which was formed only in recent years, achieved a Distinction at the 2017, 2019,  2021, 2021 and 2023 SYF Arts Presentation.
 
 * * *
 
@@ -28,8 +28,7 @@ Organised by the student committees of both schools in a collaborative effort, c
 
 For the year 2017, the Secondary Orchestra organised their first exchange with the TKGS String ensemble and the IB Orchestra organised their first exchange with the ACJC String ensemble. It was certainly a memorable experience for both orchestras!
 
-_With Orchestra of the Music Makers (OMM)  
-_
+_With Orchestra of the Music Makers (OMM)_
 
 Since 2018, the Philharmonic Orchestra has had close ties with OMM. ACS hosts an annual, meaningful collaboration with OMM and their conductor, the esteemed Prof. Chan Tze Law. 2018 saw the musicians come together to form a large string orchestra and explore different sound worlds together, and in 2019, the event involved winds, brasses and percussion as they rehearsed Tchaikovksy’s Symphony No. 5 and Elgar’s Nimrod Variations. Students also support OMM musicians at concerts. ACPO looks forward to more events with OMM, which has provided a significant number of our alumni with invaluable opportunities to continue contributing to Singapore’s music scene even after graduation.
 
