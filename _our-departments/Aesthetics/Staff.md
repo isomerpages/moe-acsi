@@ -13,6 +13,7 @@ third_nav_title: Aesthetics
 | Ms Grace Wong      | MEP / Music IBDP                             |                               |
 | Ms Vivian Tan      | MEP / General Music                          |                               |
 | Ms Isabelle Chung  | MEP / General Music                          |                               |
+| Ms Yuan Peiying    | MEP / General Music                         |                               |
 | Ms Jacqueline Liew | Art & Design                                 |                               |
 | Mrs Serilyn Goh    | Art & Design                                 |                               |
 | Ms Candy Zhang     | Art & Design                                 |                               |
