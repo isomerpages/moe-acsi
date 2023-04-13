@@ -14,7 +14,10 @@ In the most recent SYPC in 2021, a total of 35 schools comprising of 221 teams f
 
 More of SYPC’s website through the years can be found below:
 
-<p>13th SYPC 2021:&nbsp;<a href="https://sypc2021.wixsite.com/">https://sypc2021.wixsite.com/</a>&nbsp;12th SYPC 2019:&nbsp;<a href="https://sypc2019submission.wixsite.com/home">https://sypc2019submission.wixsite.com/home</a>&nbsp;SYPC 2017:&nbsp;<a href="https://sypc2017.wordpress.com/">https://sypc2017.wordpress.com/</a>&nbsp;SYPC 2009:&nbsp;<a href="http://sypc09.blogspot.com/">http://sypc09.blogspot.com/</a></p>
+<p>13th SYPC 2021:&nbsp;<a href="https://sypc2021.wixsite.com/">https://sypc2021.wixsite.com/</a>&nbsp;<br>
+12th SYPC 2019:&nbsp;<a href="https://sypc2019submission.wixsite.com/home">https://sypc2019submission.wixsite.com/home</a>&nbsp;<br>
+SYPC 2017:&nbsp;<a href="https://sypc2017.wordpress.com/">https://sypc2017.wordpress.com/</a><br>
+SYPC 2009:&nbsp;<a href="http://sypc09.blogspot.com/">http://sypc09.blogspot.com/</a></p>
 
 
  ![](/images/Clubs%20And%20Societies/picture32a.jpg)
