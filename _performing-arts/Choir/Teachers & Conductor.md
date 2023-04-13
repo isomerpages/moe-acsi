@@ -1,5 +1,5 @@
 ---
-title: Teachers & Conductor
+title: Teachers &amp; Conductor
 permalink: /choir/teachers-conductor/
 description: ""
 third_nav_title: Choir
@@ -16,21 +16,25 @@ The choir is honored to have capable teachers, several of whom have engaged in v
 </style>
 <table class="tg">
 <thead>
-  <tr>
-    <th class="tg-cly1" rowspan="2">Teachers</th>
-    <th class="tg-cly1">Dr Tham Hong Wan</th>
-    <th class="tg-cly1">Choir Teacher-in-Charge (Admin)</th>
-  </tr>
-  <tr>
-    <th class="tg-cly1">Ms Grace Wong  Xue Ying</th>
-    <th class="tg-cly1">Choir Teacher-in-Charge (Music)</th>
-  </tr>
+<tr>
+<th rowspan="3" class="tg-cly1">Teachers</th>
+<th class="tg-cly1">Dr Tham Hong Wan</th>
+<th class="tg-cly1">Choir Teacher-in-Charge (Admin)</th>
+</tr>
+<tr>
+<th class="tg-cly1">Ms Grace Wong Xue Ying</th>
+<th class="tg-cly1">Choir Teacher-in-Charge (Music)</th>
+</tr>
+<tr>
+<th class="tg-cly1">Mr Cao Huizhong</th>
+<th class="tg-cly1">Choir teacher</th>
+</tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-cly1">Conductor</td>
-    <td class="tg-cly1">Mr Low Xu Hao</td>
-    <td class="tg-cly1">Choir Conductor</td>
-  </tr>
+<tr>
+<td class="tg-cly1">Conductor</td>
+<td class="tg-cly1">Mr Low Xu Hao</td>
+<td class="tg-cly1">Choir Conductor</td>
+</tr>
 </tbody>
 </table>
