@@ -6,7 +6,7 @@ third_nav_title: Philharmonic Orchestra
 ---
 The Philharmonic Orchestra provides the following opportunities to members:
 
-**1) MEP-Philharmonic Orchestra String Scholarship**
+**MEP-Philharmonic Orchestra String Scholarship**
 
 *   Viola (for existing violinists only)
 *   Cello (for non-string players)
@@ -20,7 +20,7 @@ Lessons are conducted in school. Cellists and double bassists are required to pu
 
 All our scholars have an excellent track record at the ABRSM Examinations, with many achieving high Distinctions. Violists typically complete Grade 8 by Year 4, while cellists and double bassists usually graduate with at least a Grade 6. Students under the scholarship receive plenty of performance opportunities and many opt to use this second instrument for MEP Performance examinations. A significant number further their study of the instrument at junior college and even university levels.
 
-**2) Viola Experience Course**
+**Viola Experience Course**
 
 All violinists who join the orchestra are required to attend a viola experience course to gain fresh insights and a better understanding of the instrument, including some fundamental techniques. This fully-subsidized course comprises 3-4 group lessons.
 
@@ -28,7 +28,7 @@ Those who develop a keen interest and wish to pursue may continue with the Viola
 
 Violas will be provided.
 
-**3) Viola Tutorial Programme**
+**Viola Tutorial Programme**
 
 From 2019, Year 1 to 2 students who have undergone the viola experience course and are keen to continue lessons may join this programme. Students will receive partially subsidized lessons and may sign up in pairs if of similar standards. Lessons will be conducted in school and instruments will be on loan to students.
 
