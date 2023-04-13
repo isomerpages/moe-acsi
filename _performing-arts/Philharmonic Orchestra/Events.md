@@ -8,7 +8,7 @@ The Orchestra provides its members with many invaluable opportunities to perform
 
 ##### Singapore Youth Festival (SYF) Arts Presentation
 
-The SYF Arts Presentation is a biennial national event for the various performing arts groups in Singapore to showcase their talents and passion for music. The Secondary Orchestra has made its mark in the local music scene by clinching consecutive pinnacle awards (Gold with Honours / Gold / Distinction) over the last two decades, while the IB Orchestra, which was formed only in recent years, achieved a Distinction at the 2017, 2019 and 2021 SYF Arts Presentation.
+The SYF Arts Presentation is a biennial national event for the various performing arts groups in Singapore to showcase their talents and passion for music. The Secondary Orchestra has made its mark in the local music scene by clinching consecutive pinnacle awards (Gold with Honours / Gold / Distinction) over the last two decades, while the IB Orchestra, which was formed only in recent years, achieved a Distinction at the 2017, 2019,  2021, 2021 and 2023 SYF Arts Presentation.
 
 * * *
 
