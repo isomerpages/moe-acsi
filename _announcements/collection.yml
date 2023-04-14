@@ -2,15 +2,15 @@ collections:
   announcements:
     output: true
     order:
-      - School Calendar.md
       - Announcements.md
       - ACS Independent Online (IO).md
       - ACSPRESS – In – House – Publication.md
       - ACS ECHO.md
+      - School Calendar.md
+      - ACSpression April 2023/.keep
       - ACSpression April 2023/What Ori Means to Me.md
       - ACSpression April 2023/The Anticipation of Adulthood.md
       - ACSpression April 2023/A new ACventure into the ACverse!.md
-      - ACSpression April 2023/.keep
       - ACSpression March 2023/.keep
       - "ACSpression March 2023/Kopi Morning: Parents Get Together.md"
       - ACSpression March 2023/The Singapore Science & Engineering Fair.md
