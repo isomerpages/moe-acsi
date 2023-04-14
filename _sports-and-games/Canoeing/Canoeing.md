@@ -29,8 +29,6 @@ Overall Teacher-In-Charge, Canoeing
 
 (Updated on 14th April 2023)
 
-#### WE ARE NATIONAL TOP 4 IN ALL DIVISIONS!!!
-
 The results are as follows:  
 ‘A’ Division – 3rd  
 ‘B’ Division – 1st  
