@@ -6,47 +6,94 @@ third_nav_title: Canoeing
 ---
 ### Coaches and Teachers
 
-<table>
+<table width="803">
 <thead>
-  <tr>
-    <th>Name</th>
-    <th>Description</th>
-    <th>Email address</th>
-  </tr>
+<tr>
+<td>
+<p><strong>Name</strong></p>
+</td>
+<td>
+<p><strong>Description</strong></p>
+</td>
+<td>
+<p><strong>Email address</strong></p>
+</td>
+</tr>
 </thead>
 <tbody>
-  <tr>
-    <td>Mr Jeffrey Tan</td>
-    <td>Teacher OIC</td>
-    <td><a href="mailto:jeffreyt@acsindep.edu.sg">jeffreyt@acsindep.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td>Ms Kan Ximin</td>
-    <td>Teacher</td>
-    <td><a href="mailto:kanximin@acsindep.edu.sg">kanximin@acsindep.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td>Mr Liong Peen Lee</td>
-    <td>Teacher</td>
-    <td><a href="mailto:liongpeenlee@acsindep.edu.sg">liongpeenlee@acsindep.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td>Mr Mahtani Naresh</td>
-    <td>Teacher</td>
-    <td><a href="mailto:mahtani@acsindep.edu.sg">mahtani@acsindep.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td>Mr Hadrian Ro</td>
-    <td>Head Coach</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Mr Ismail B Mohamed Tahir</td>
-    <td>Assistant Coach</td>
-    <td></td>
-  </tr>
+<tr>
+<td>
+<p>Mr Jeffrey Tan</p>
+</td>
+<td>
+<p>Teacher OIC</p>
+</td>
+<td>
+<p><a href="mailto:jeffreyt@acsindep.edu.sg">jeffreyt@acsindep.edu.sg</a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ms Kan Ximin</p>
+</td>
+<td>
+<p>Teacher</p>
+</td>
+<td>
+<p><a href="mailto:kanximin@acsindep.edu.sg">kanximin@acsindep.edu.sg</a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mr Liong Peen Lee</p>
+</td>
+<td>
+<p>Teacher</p>
+</td>
+<td>
+<p><a href="mailto:liongpeenlee@acsindep.edu.sg">liongpeenlee@acsindep.edu.sg</a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mr Mahtani Naresh</p>
+</td>
+<td>
+<p>Teacher</p>
+</td>
+<td>
+<p><a href="mailto:mahtani@acsindep.edu.sg">mahtani@acsindep.edu.sg</a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mr Hadrian Ro</p>
+</td>
+<td>
+<p>Head Coach</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>Mr Ismail B Mohamed Tahir</p>
+</td>
+<td>
+<p>Assistant Coach</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>Ms Collette Seow</p>
+</td>
+<td>
+<p>Assistant Coach</p>
+</td>
+<td>&nbsp;</td>
+</tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
 
-<img src="/images/WorldSchool.jpg" 
-     style="width:25%">
+<img src="/images/WorldSchool.jpg" style="width:25%">
