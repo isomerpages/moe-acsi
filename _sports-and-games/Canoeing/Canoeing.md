@@ -4,8 +4,7 @@ permalink: /canoeing/
 description: ""
 third_nav_title: Canoeing
 ---
-<img src="/images/pic-Canoeing-2018-Banner-For-Webpage.jpg" 
-     style="width:25%">
+<img src="/images/pic-Canoeing-2018-Banner-For-Webpage.jpg" style="width:25%">
 		 
 The ACS(I) Canoeing Team was formed in January 1998, with the aim of using sports as a platform to build students’ character through experiential learning. By February 1998, there were ten regular members, training with boats and paddles borrowed from the Anglo-Chinese Junior College Canoe Team and the SAFRA Canoe and Dragon Boat Team. The Dragon Boat arm of the Canoeing Team was started in June 2000, as a team building activity.
 
@@ -24,6 +23,18 @@ Click on the following link for more insights on Canoeing as a CCA in ACS(I).
 
 **[Mr Jeffrey](mailto:jeffreyt@acsindep.edu.sg)**  <br>
 Overall Teacher-In-Charge, Canoeing
+
+  * * *
+   
+
+(Updated on 14th April 2023)
+
+#### WE ARE NATIONAL TOP 4 IN ALL DIVISIONS!!!
+
+The results are as follows:  
+‘A’ Division – 3rd  
+‘B’ Division – 1st  
+‘C’ Division – 3rd
 
 * * *
 
@@ -69,5 +80,4 @@ The results are as follows:
 ‘B’ Division – 3rd  
 ‘C’ Division – 2nd
 
-<img src="/images/WorldSchool.jpg" 
-     style="width:25%">
+<img src="/images/WorldSchool.jpg" style="width:25%">
