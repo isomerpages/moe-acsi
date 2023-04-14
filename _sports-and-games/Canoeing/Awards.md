@@ -6,12 +6,93 @@ third_nav_title: Canoeing
 ---
 ### National Inter-Schools Canoeing Championships
 
-<img src="/images/animation-Kayaking-04.gif" 
-     style="width:30%">
+<img src="/images/animation-Kayaking-04.gif" style="width:30%">
 		 
-<img src="/images/animation-smiley-the-wave.gif" 
-     style="width:30%">
+<img src="/images/animation-smiley-the-wave.gif" style="width:30%">
 		 
+<p>(Updated on 14th April 2023)</p>
+<p>The results are as follows:<br> ‘A’ Division – 3rd<br> ‘B’ Division – 1st<br> ‘C’ Division – 3rd</p>
+
+### 2023
+
+<table width="803">
+<thead>
+<tr>
+<td>
+<p><strong>Division</strong></p>
+</td>
+<td>
+<p><strong>Team Results</strong></p>
+</td>
+<td>
+<p><strong>G</strong></p>
+</td>
+<td>
+<p><strong>S</strong></p>
+</td>
+<td>
+<p><strong>B (3rd &amp; 4th)</strong></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>‘A’</p>
+</td>
+<td>
+<p>3<sup>rd</sup></p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>‘B’</p>
+</td>
+<td>
+<p>1<sup>st</sup></p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>‘C’</p>
+</td>
+<td>
+<p>3<sup>rd</sup></p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>2</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+
+***
+
 (Updated on 8th April 2022)
 
 The results are as follows:  <br>
@@ -57,6 +138,8 @@ The results are as follows:  <br>
 </tbody>
 </table>
 
+***
+
 ### 2019
 
 <table>
@@ -93,6 +176,8 @@ The results are as follows:  <br>
   </tr>
 </tbody>
 </table>
+
+***
 
 ### 2018
 
@@ -131,6 +216,8 @@ The results are as follows:  <br>
 </tbody>
 </table>
 
+***
+
 ### 2017
 
 <table>
@@ -167,6 +254,8 @@ The results are as follows:  <br>
   </tr>
 </tbody>
 </table>
+
+***
 
 ### 2016
 
@@ -205,6 +294,8 @@ The results are as follows:  <br>
 </tbody>
 </table>
 
+***
+
 ### 2015
 
 <table>
@@ -241,6 +332,8 @@ The results are as follows:  <br>
   </tr>
 </tbody>
 </table>
+
+***
 
 ### 2014
 
@@ -279,6 +372,8 @@ The results are as follows:  <br>
 </tbody>
 </table>
 
+***
+
 ### 2013
 
 <table>
@@ -315,6 +410,8 @@ The results are as follows:  <br>
   </tr>
 </tbody>
 </table>
+
+***
 
 ### 2012
 
@@ -353,6 +450,8 @@ The results are as follows:  <br>
 </tbody>
 </table>
 
+***
+
 ### 2011
 
 <table>
@@ -389,6 +488,8 @@ The results are as follows:  <br>
   </tr>
 </tbody>
 </table>
+
+***
 
 ### 2010
 
@@ -427,6 +528,8 @@ The results are as follows:  <br>
 </tbody>
 </table>
 
+***
+
 ### 2009
 
 <table>
@@ -451,6 +554,8 @@ The results are as follows:  <br>
   </tr>
 </tbody>
 </table>
+
+***
 
 ### 2008
 
@@ -477,6 +582,8 @@ The results are as follows:  <br>
 </tbody>
 </table>
 
+***
+
 ### 2007
 
 <table>
@@ -502,6 +609,8 @@ The results are as follows:  <br>
 </tbody>
 </table>
 
+***
+
 ### 2006
 
 <table>
@@ -522,6 +631,8 @@ The results are as follows:  <br>
   </tr>
 </tbody>
 </table>
+
+***
 
 ### 2005
 
@@ -544,6 +655,8 @@ The results are as follows:  <br>
 </tbody>
 </table>
 
+***
+
 ### 2004
 
 <table>
@@ -564,6 +677,8 @@ The results are as follows:  <br>
   </tr>
 </tbody>
 </table>
+
+***
 
 ### 2003
 
@@ -586,6 +701,8 @@ The results are as follows:  <br>
 </tbody>
 </table>
 
+***
+
 ### 2002
 
 <table>
@@ -606,6 +723,8 @@ The results are as follows:  <br>
   </tr>
 </tbody>
 </table>
+
+***
 
 ### 2001
 
@@ -628,6 +747,8 @@ The results are as follows:  <br>
 </tbody>
 </table>
 
+***
+
 ### 2000
 
 <table>
@@ -648,6 +769,8 @@ The results are as follows:  <br>
   </tr>
 </tbody>
 </table>
+
+***
 
 ### 1999
 
@@ -670,6 +793,8 @@ The results are as follows:  <br>
 </tbody>
 </table>
 
+***
+
 ### 1998
 
 <table>
@@ -690,7 +815,3 @@ The results are as follows:  <br>
   </tr>
 </tbody>
 </table>
-
-
-
-
