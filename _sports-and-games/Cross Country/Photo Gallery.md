@@ -4,6 +4,10 @@ permalink: /crosscountry/gallery/
 description: ""
 third_nav_title: Cross Country
 ---
+ ### Our ACX Team at Open House 2023
+ 
+ ![](/images/CCA%20Sports/microsoftteams-image%20(43).png)
+
 ### 2023 SSSC National Schools Games Cross Country Championships
 
 ![](/images/CCA%20Sports/microsoftteams-image%20(89).png)
