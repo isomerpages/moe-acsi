@@ -4,68 +4,86 @@ permalink: /crosscountry/dsa/
 description: ""
 third_nav_title: Cross Country
 ---
-<p>These are the following Cross Country CCA requirements for **2023 DIRECT SCHOOL ADMISSION EXERCISE into ACS (INDEPENDENT) YEAR 1 in 2024**:</p>
-<table style="width: 100%; border-color: #1c0a0a;">
+<table>
 <tbody>
 <tr>
-<td style="width: 31px; text-align: center;"><strong>S/N</strong></td>
-<td style="width: 96px; text-align: center;"><strong>Component</strong></td>
-<td style="width: 679px; text-align: center;"><strong>Details</strong></td>
-<td style="width: 347.791px; text-align: center;"><strong>Protocol</strong></td>
+<td>
+<p style="margin-bottom: 1em;"><strong>S/N</strong></p>
+</td>
+<td>
+<p style="margin-bottom: 1em;"><strong>Component</strong></p>
+</td>
+<td>
+<p style="margin-bottom: 1em;"><strong>Details</strong></p>
+</td>
+<td>
+<p style="margin-bottom: 1em;"><strong>Protocol</strong></p>
+</td>
 </tr>
 <tr>
-<td style="width: 31px;">1</td>
-<td style="width: 96px;">Time-Trial</td>
-<td style="width: 679px;">
+<td>
+<p style="margin-bottom: 1em;"><strong>1</strong></p>
+</td>
+<td>
+<p style="margin-bottom: 1em;"><strong>Time-Trial</strong></p>
+</td>
+<td>
 <ul>
-<li>1600m on a standard stadium running track
+<li><strong>1600m on a standard stadium running track</strong>
 <ul>
-<li>7:30am (registration, collection of number tag &amp; safety briefing)</li>
-<li>8:15am (Time-Trial Begins)</li>
-<li>Comfortable running attire is encouraged</li>
-<li>Only non-spiked running shoes will be allowed for safety reasons</li>
+<li><strong>7:30am (registration, collection of number tag &amp; safety briefing)</strong></li>
+<li><strong>8:15am (Time-Trial Begins)</strong></li>
+<li><strong>Comfortable running attire is encouraged</strong></li>
+<li><strong>Only non-spiked running shoes will be allowed for safety reasons</strong></li>
 </ul>
 </li>
 </ul>
 </td>
-<td style="width: 347.791px;">
+<td>
 <ul>
-<li>Time-Trial to be held on ACS(I) School Track (1st or 8th July 2023)</li>
+<li><strong>Time-Trial to be held on ACS(I) School Track (Date to be announced as soon as MOE gives clearance)</strong></li>
 </ul>
 </td>
 </tr>
 <tr>
-<td style="width: 31px;">2</td>
-<td style="width: 96px;">Resume</td>
-<td style="width: 679px;">
+<td>
+<p style="margin-bottom: 1em;"><strong>2</strong></p>
+</td>
+<td>
+<p style="margin-bottom: 1em;"><strong>Resume</strong></p>
+</td>
+<td>
 <ul>
-<li>Sporting achievements related to running&nbsp; (eg. National Schools Games, Singapore&nbsp; Athletics Kids&rsquo; Stadium Run, POSB PAssion Run for Kids, etc.)</li>
-<li>Leadership achievements</li>
-<li>Academic achievements</li>
-<li>School Conduct</li>
+<li><strong>Sporting achievements related to running&nbsp; (eg. National Schools Games, Singapore Athletics Kids’ Stadium Run, POSB PAssion Run for Kids, etc.)</strong></li>
+<li><strong>Leadership achievements</strong></li>
+<li><strong>Academic achievements</strong></li>
+<li><strong>School Conduct</strong></li>
 </ul>
 </td>
-<td style="width: 347.791px;">&nbsp;</td>
+<td>
+<p style="margin-bottom: 1em;">&nbsp;</p>
+</td>
 </tr>
 <tr>
-<td style="width: 31px;">3</td>
-<td style="width: 96px;">Interview</td>
-<td style="width: 679px;">
+<td>
+<p style="margin-bottom: 1em;"><strong>3</strong></p>
+</td>
+<td>
+<p style="margin-bottom: 1em;"><strong>Interview</strong></p>
+</td>
+<td>
 <ul>
-<li>Shortlisted applicants will be contacted for interviews</li>
+<li><strong>Shortlisted applicants will be contacted for interviews</strong></li>
 </ul>
 </td>
-<td style="width: 347.791px;">
+<td>
 <ul>
-<li>Face-to-Face interview in ACS(I) premises</li>
+<li><strong>Face-to-Face interview in ACS(I) premises</strong></li>
 </ul>
 </td>
 </tr>
 </tbody>
 </table>
-For more information, please email Mr Gavin Ang (gavinang@acsindep.edu.sg) or kindly refer to the school website at: 
-
-[/admissions/dsa-year-1/](https://www.acsindep.moe.edu.sg/admissions/dsa-year-1/)
-
-Thank you and we look forward to receiving your application.
-
+<p style="margin-bottom: 1em;">For more information, please email Mr Gavin Ang (gavinang@acsindep.edu.sg) or kindly refer to the school website at:</p>
+<p style="margin-bottom: 1em;"><a aria-label="Link /admissions/dsa-year-1/" rel="noreferrer noopener" target="_blank" href="https://www.acsindep.moe.edu.sg/admissions/dsa-year-1/" title="https://www.acsindep.moe.edu.sg/admissions/dsa-year-1/" style="overflow-wrap: break-word;" class="fui-Link ___1qmgydl f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1hu3pq6 f11qmguv f19f4twv f1tyq0we f1g0x7ka fhxju0i f1qch9an f1cnd47f fqv5qza f1vmzxwi f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh ftqa4ok f2hkw1w fhgqx19 f1olyrje f1p93eir f1h8hb77 f1x7u7e9 f10aw75t fsle3fq">/admissions/dsa-year-1/</a></p>
+<p style="margin-bottom: 1em;">Thank you and we look forward to receiving your application.</p>
