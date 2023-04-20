@@ -21,3 +21,12 @@ Students enthusiastically cheer the players on, with some Houses even coming up 
 Moving on from the myriad of exhilarating events of the festival, taking place not so far away from the fun and festivities, we have the urban hike that takes our students through a long, meandering trail that snakes through the school, across roads and onto the untamed nature right outside the school walls. The students make their merry way out of school as cheerful chatter scatters across the campus, filling the air like a melody of blithe bells. The hike sends students along a journey through the surrounding district and the nearby meadows of lush grass and serenely swaying rain trees. A slow end to the first school term, the hike calmly closed out the first chapter of the school year.
 
 That's it for today everyone! Thank you all for your active participation, and we hope you all had a wonderful time at ACS(I)’s Festival of Sports. See you next year!
+
+![](/images/ACSpression/picture1z.jpg)
+![](/images/ACSpression/picture2z.jpg)
+![](/images/ACSpression/picture3z.jpg)
+![](/images/ACSpression/picture4z.jpg)
+![](/images/ACSpression/picture5z.jpg)
+![](/images/ACSpression/picture6z.jpg)
+![](/images/ACSpression/picture7z.jpg)
+![](/images/ACSpression/picture8z.jpg)
