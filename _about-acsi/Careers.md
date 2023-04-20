@@ -29,8 +29,8 @@ We welcome qualified and highly motivated individuals with a strong passion for 
 
 *   **Art and Design**
     *   **Secondary Levels**
-*   **Art and Design**
-    *   **Secondary Levels**
+*   **Business Management**
+    *   **Junior College Levels**
 *   **Economics**
     *   **Junior College Levels**
 *   **Theory of Knowledge**
@@ -42,7 +42,7 @@ For relief teaching positions, applicants must be a registered relief teacher wi
 
 **Executive and Support Staff**
 
-*   **Custodians (Estate Department)**
-*   **Facilities Maintenance Officers (Estate Department)**
+*   **Custodians (Estate Development Department)**
+*   **Estate Development Officers (Estate Development Department)**
 
 Interested applicants, please email your resume to [lilliantan@acsindep.edu.sg](mailto:lilliantan@acsindep.edu.sg)
