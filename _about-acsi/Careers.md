@@ -29,6 +29,8 @@ We welcome qualified and highly motivated individuals with a strong passion for 
 
 *   **Art and Design**
     *   **Secondary Levels**
+*   **Art and Design**
+    *   **Secondary Levels**
 *   **Economics**
     *   **Junior College Levels**
 *   **Theory of Knowledge**
