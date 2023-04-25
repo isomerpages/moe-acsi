@@ -4,7 +4,7 @@ permalink: /for-parents/acsi-parent-support-group/about-us/2021-2022-psg-committ
 description: ""
 third_nav_title: Parent Support Group
 ---
-![](/images/PSG-Exco-July-2022.jpg)
+![](/images/acsi%20psg%20website.jpg)
 
 <table width="604">
 <tbody>
