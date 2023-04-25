@@ -4,14 +4,139 @@ permalink: /for-parents/acsi-parent-support-group/about-us/2021-2022-psg-committ
 description: ""
 third_nav_title: Parent Support Group
 ---
-![](/images/PSG-Exco-July-2022.jpg)
+![](/images/acsi%20psg%20website.jpg)
 
-<table style="width: 100%;" border="1"><tbody><tr><td width="343">Chairperson</td><td width="354">Choo Choon Teck</td></tr><tr><td width="343">Secretary</td><td width="354">Amelia Chew</td></tr><tr><td width="343">Deputy Secretary</td><td width="354">Grace Chew</td></tr><tr><td width="343">Treasurer</td><td width="354">Sherman Tan</td></tr></tbody></table>
-
-**Sub-Committees**
-
-<table width="100%" border="1"><tbody><tr><td width="307">Parents’ Prayer Group</td><td width="310">Winnie Tan</td></tr><tr><td width="307">Fathers’ Prayer Group</td><td width="310">Kirindeep Singh, Derek Yeo</td></tr><tr><td width="307">Gratitude and Blessing</td><td width="310">Dana Magnus</td></tr><tr><td width="307">Membership &amp; Outreach</td><td width="310">Irene Widiani, Geraldine Lim</td></tr><tr><td width="307">Hospitality &amp; Integration (Hi!) Programme</td><td width="310">Rebecca Vagenende</td></tr><tr><td width="307">Merchandise</td><td width="310">Stephanie Cheong</td></tr><tr><td width="307">Talks, Seminars &amp; Workshops</td><td width="310">Eunice Tay, Shana Tan</td></tr><tr><td width="307">Information Technology &amp; Infrastructure</td><td width="310">Choo Choon Teck, Aaron Goh</td></tr><tr><td width="307">Marketing &amp; Branding</td><td width="310">Choo Choon Teck, Aaron Goh</td></tr></tbody></table>
-
-**School Advisory**
-
-<table style="width: 100%;" border="1"><tbody><tr><td width="341">Principal</td><td width="356">Mr Arene Koh</td></tr><tr><td width="341">Deputy Principal</td><td width="356">Mdm Yong Lee Har</td></tr></tbody></table>
+<table width="604">
+<tbody>
+<tr>
+<td width="297">
+<p>Chairperson</p>
+</td>
+<td width="307">
+<p>Choo Choon Teck</p>
+</td>
+</tr>
+<tr>
+<td width="297">
+<p>Secretary</p>
+</td>
+<td width="307">
+<p>Amelia Chew</p>
+</td>
+</tr>
+<tr>
+<td width="297">
+<p>Deputy Secretary</p>
+</td>
+<td width="307">
+<p>Grace Chew</p>
+</td>
+</tr>
+<tr>
+<td width="297">
+<p>Treasurer</p>
+</td>
+<td width="307">
+<p>Sherman Tan</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Sub-Committees</strong></p>
+<table width="100%">
+<tbody>
+<tr>
+<td width="300">
+<p>Parents’ Prayer Group</p>
+</td>
+<td width="301">
+<p>Winnie Tan</p>
+</td>
+</tr>
+<tr>
+<td width="300">
+<p>Fathers’ Prayer Group</p>
+</td>
+<td width="301">
+<p>Kirindeep Singh, Derek Yeo</p>
+</td>
+</tr>
+<tr>
+<td width="300">
+<p>Gratitude and Blessing</p>
+</td>
+<td width="301">
+<p>Dana Magnus</p>
+</td>
+</tr>
+<tr>
+<td width="300">
+<p>Membership &amp; Outreach</p>
+</td>
+<td width="301">
+<p>Irene Widiani, Geraldine Lim</p>
+</td>
+</tr>
+<tr>
+<td width="300">
+<p>Hospitality &amp; Integration (Hi!) Programme</p>
+</td>
+<td width="301">
+<p>Rebecca Vagenende</p>
+</td>
+</tr>
+<tr>
+<td width="300">
+<p>Merchandise</p>
+</td>
+<td width="301">
+<p>Stephanie Cheong</p>
+</td>
+</tr>
+<tr>
+<td width="300">
+<p>Talks, Seminars &amp; Workshops</p>
+</td>
+<td width="301">
+<p>Eunice Tay</p>
+</td>
+</tr>
+<tr>
+<td width="300">
+<p>Information Technology &amp; Infrastructure</p>
+</td>
+<td width="301">
+<p>Choo Choon Teck, Aaron Goh</p>
+</td>
+</tr>
+<tr>
+<td width="300">
+<p>Marketing &amp; Branding</p>
+</td>
+<td width="301">
+<p>Choo Choon Teck, Aaron Goh</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>School Advisory</strong></p>
+<table width="600">
+<tbody>
+<tr>
+<td width="294">
+<p>Principal</p>
+</td>
+<td width="307">
+<p>Mr Arene Koh</p>
+</td>
+</tr>
+<tr>
+<td width="294">
+<p>Deputy Principal</p>
+</td>
+<td width="307">
+<p>Mdm Yong Lee Har</p>
+</td>
+</tr>
+</tbody>
+</table>
