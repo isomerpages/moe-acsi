@@ -6,3 +6,12 @@ layout: post
 description: ""
 image: ""
 ---
+Dear 2022 Year 4 Express students,
+
+We are pleased to inform you that your School Graduation Certificate is ready for collection.
+
+You may collect this from the Front Office on weekdays (8.30 am to 4.00 pm).
+
+Please provide a written letter of authorisation if a proxy is collecting this on your behalf.
+
+Thank you.
