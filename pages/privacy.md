@@ -10,7 +10,7 @@ We strongly believe and are committed to discharging our duty to ensure that you
 
 This Data Protection Policy is intended to assist you in understanding how we collect, use, disclose, protect and process any personal data that we receive from you, and designed in accordance with the requirements under the Personal Data Protection Act 2012 **(“PDPA”).**
 
-**1.                   Introduction to the Personal Data Protection Act 2012**
+**1. Introduction to the Personal Data Protection Act 2012**
 
 1.1 “Personal Data” is hereinafter defined as data, whether true or not, about an individual who can be identified from that data or from that data and other information to which the organisation has or is likely to have access.
 
@@ -86,7 +86,7 @@ This Data Protection Policy is intended to assist you in understanding how we co
 
 3.3 Where Personal Data is disclosed to third parties with your express consent, we will provide for adequate forms of protection over such Personal Data and employ our best efforts to require such third parties to protect your Personal Data in compliance with the PDPA and our data protection policies.
 
-**4 Request for Access, Correction and/or Withdrawal of Personal Data**
+**4. Request for Access, Correction and/or Withdrawal of Personal Data**
 
 4.1 You may request to access and/or correct the Personal Data currently in our possession, or have the option to withdraw your consent for the collection, use and/or disclosure of your Personal Data in our possession or under our control at any time by submitting a written request to our PDPA Contact Person (See Below).
 
