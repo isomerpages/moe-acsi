@@ -98,29 +98,30 @@ description: ""
 <td>Jerine Lim Shu Ting</td>
 </tr>
 <tr>
-<td>Lab Superintendent</td>
+<td>Laboratory Supervisor</td>
 <td>Mrs.</td>
 <td>Reena Quah</td>
 </tr>
 <tr>
-<td>Deputy Lab Superintendent</td>
+<td>Deputy Laboratory Supervisor</td>
 <td>Mr.</td>
 <td>Joshua Chong</td>
 </tr>
 <tr>
-<td>Laboratory Technician</td>
+<td>Laboratory Technical Officer</td>
 <td>Mdm.</td>
 <td>Keh Siew Bee</td>
 </tr>
 <tr>
-<td>Laboratory Technician</td>
+<td>Laboratory Technical Officer</td>
 <td>Ms.</td>
 <td>Lim Xian</td>
 </tr>
 <tr>
-<td>Laboratory Technician</td>
+<td>Laboratory Technical Officer</td>
 <td>Mr.</td>
 <td>Samuel Yeo Xian Chong</td>
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
