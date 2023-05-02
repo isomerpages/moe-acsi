@@ -108,14 +108,15 @@ The department is staff by a team of&nbsp;qualified, experienced and passionate 
 <td>Nicole Tay Hui Fang</td>
 </tr>
 <tr>
-<td>Laboratory Technician</td>
+<td>Laboratory Technical Officer</td>
 <td>Mr</td>
 <td>Lam Wai Ping</td>
 </tr>
 <tr>
-<td>Laboratory Technician</td>
+<td>Laboratory Technical Officer</td>
 <td>Ms</td>
 <td>Lim Wan Xuan</td>
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
