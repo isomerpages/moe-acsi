@@ -126,39 +126,40 @@ description: ""
 <td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 142.67px; height: 24px;"><span style="box-sizing: border-box; margin-top: 0px; font-family: helvetica, arial, sans-serif;">Kwan Jian Ming</span></td>
 </tr>
 <tr style="box-sizing: border-box; height: 24px;">
-<td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px; width: 169.94px; height: 24px;"><span style="box-sizing: border-box; margin-top: 0px; font-family: helvetica, arial, sans-serif;">Laboratory Superintendent</span></td>
+<td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px; width: 169.94px; height: 24px;">Laboratory Supervisor</td>
 <td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 107.94px; height: 24px;"><span style="box-sizing: border-box; margin-top: 0px; font-family: helvetica, arial, sans-serif;">Mrs</span></td>
 <td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 142.67px; height: 24px;"><span style="box-sizing: border-box; margin-top: 0px; font-family: helvetica, arial, sans-serif;">Reena Quah</span></td>
 </tr>
 <tr style="box-sizing: border-box; height: 24px;">
-<td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px; width: 169.94px; height: 24px;"><span style="box-sizing: border-box; margin-top: 0px; font-family: helvetica, arial, sans-serif;">Assistant Lab Superintendent</span></td>
+<td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px; width: 169.94px; height: 24px;">Deputy Laboratory Supervisor</td>
 <td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 107.94px; height: 24px;"><span style="box-sizing: border-box; margin-top: 0px; font-family: helvetica, arial, sans-serif;">Mr</span></td>
 <td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 142.67px; height: 24px;"><span style="box-sizing: border-box; margin-top: 0px; font-family: helvetica, arial, sans-serif;">Joshua Chong Li Zhong</span></td>
 </tr>
 <tr style="box-sizing: border-box; height: 24px;">
-<td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px; width: 169.94px; height: 24px;"><span style="box-sizing: border-box; margin-top: 0px; font-family: helvetica, arial, sans-serif;">Laboratory Technician</span></td>
+<td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px; width: 169.94px; height: 24px;">Laboratory Technical Officer</td>
 <td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 107.94px; height: 24px;"><span style="box-sizing: border-box; margin-top: 0px; font-family: helvetica, arial, sans-serif;">Mdm</span></td>
 <td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 142.67px; height: 24px;"><span style="box-sizing: border-box; margin-top: 0px; font-family: helvetica, arial, sans-serif;">Candy Ang Khang Ni</span></td>
 </tr>
 <tr style="box-sizing: border-box; height: 24px;">
-<td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px; width: 169.94px; height: 24px;"><span style="box-sizing: border-box; margin-top: 0px; font-family: helvetica, arial, sans-serif;">Laboratory Technician</span></td>
+<td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px; width: 169.94px; height: 24px;">Laboratory Technical Officer</td>
 <td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 107.94px; height: 24px;"><span style="box-sizing: border-box; margin-top: 0px; font-family: helvetica, arial, sans-serif;">Ms</span></td>
 <td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 142.67px; height: 24px;"><span style="box-sizing: border-box; margin-top: 0px; font-family: helvetica, arial, sans-serif;">Irene Law</span></td>
 </tr>
 <tr style="box-sizing: border-box; height: 24px;">
-<td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px; width: 169.94px; height: 24px;"><span style="box-sizing: border-box; margin-top: 0px; font-family: helvetica, arial, sans-serif;">Laboratory Technician</span></td>
-<td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 107.94px; height: 24px;"><span style="box-sizing: border-box; margin-top: 0px; font-family: helvetica, arial, sans-serif;">Mdm</span></td>
-<td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 142.67px; height: 24px;"><span style="box-sizing: border-box; margin-top: 0px; font-family: helvetica, arial, sans-serif;">Wong Huan Ling</span></td>
+<td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px; width: 169.94px; height: 24px;">Laboratory Technical Officer</td>
+<td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 107.94px; height: 24px;">Ms</td>
+<td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 142.67px; height: 24px;">Ms Stefanie Lim</td>
 </tr>
 <tr style="box-sizing: border-box; height: 24px;">
-<td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px; width: 169.94px; height: 24px;"><span style="box-sizing: border-box; margin-top: 0px; font-family: helvetica, arial, sans-serif;">Laboratory Technician&nbsp;</span></td>
+<td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px; width: 169.94px; height: 24px;">Laboratory Technical Officer</td>
 <td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 107.94px; height: 24px;"><span style="box-sizing: border-box; margin-top: 0px; font-family: helvetica, arial, sans-serif;">Mr </span></td>
 <td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 142.67px; height: 24px;"><span style="box-sizing: border-box; margin-top: 0px; font-family: helvetica, arial, sans-serif;">Goh Ying Zheng</span></td>
 </tr>
 <tr style="box-sizing: border-box; height: 24px;">
-<td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px; width: 169.94px; height: 24px;">Laboratory Technician</td>
+<td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px; width: 169.94px; height: 24px;">Laboratory Technical Officer</td>
 <td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 107.94px; height: 24px;"><span style="box-sizing: border-box; margin-top: 0px; font-family: helvetica, arial, sans-serif;">Mdm</span></td>
 <td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 142.67px; height: 24px;"><span style="box-sizing: border-box; margin-top: 0px; font-family: helvetica, arial, sans-serif;">Sakuntala Devi</span></td>
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
