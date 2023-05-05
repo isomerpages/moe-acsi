@@ -14,7 +14,7 @@ description: ""
 <td width="628">
 <p><strong><a rel="noopener noreferrer" target="_blank" href="https://tinyurl.com/Y5Meeting2023">https://tinyurl.com/Y5Meeting2023</a></strong></p>
 <p>Or</p>
-<p></p>
+<p>&lt; insert QR Code&gt;</p>
 </td>
 </tr>
 </tbody>
