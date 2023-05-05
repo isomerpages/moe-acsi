@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+For details on the 2023 Direct School Admission for junior colleges (DSA-JC), please visit [https://www.acsindep.moe.edu.sg/admissions/dsa-year-5/](https://www.acsindep.moe.edu.sg/admissions/dsa-year-5/).
