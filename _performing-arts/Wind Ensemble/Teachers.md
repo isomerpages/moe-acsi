@@ -4,38 +4,52 @@ permalink: /wind/teachers/
 description: ""
 third_nav_title: Wind Ensemble
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1wig"><span style="font-weight:bolder">Name of teacher</span></th>
-    <th class="tg-1wig"><span style="font-weight:bolder">Email</span></th>
-    <th class="tg-1wig"><span style="font-weight:bolder">Area of responsibility</span></th>
-  </tr>
-</thead>
+<table width="619">
 <tbody>
-  <tr>
-    <td class="tg-cly1">Mr Derek Lim Heng Kiat</td>
-    <td class="tg-cly1">dereklimhk@acsindep.edu.sg</td>
-    <td class="tg-cly1">Overall Teacher in-charge</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Mrs Annie Tan</td>
-    <td class="tg-cly1">annietanwml@acsindep.edu.sg</td>
-    <td class="tg-cly1">Second Overall Teacher in-charge<br><br>Wind Ensemble IC</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Mdm Noh Hee Jung</td>
-    <td class="tg-cly1"></td>
-    <td class="tg-cly1">Wind Ensemble Teacher</td>
-  </tr>
+<tr>
+<td width="196">
+<p><strong>Name of Teacher</strong></p>
+</td>
+<td width="227">
+<p><strong>Email Address</strong></p>
+</td>
+<td width="197">
+<p><strong>Area of Responsibility</strong></p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Mr Derek Lim Heng Kiat</p>
+</td>
+<td width="227">
+<p><a href="mailto:dereklimhk@acsindep.edu.sg">dereklimhk@acsindep.edu.sg</a></p>
+</td>
+<td width="197">
+<p>Overall Teacher in-charge</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Mdm Noh Hee Jung</p>
+</td>
+<td width="227">
+<p><a href="mailto:nohheejung@acsindep.edu.sg">nohheejung@acsindep.edu.sg</a></p>
+</td>
+<td width="197">
+<p>Wind Ensemble (IC)</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Ms Tay Lingxin</p>
+</td>
+<td width="227">
+<p>&nbsp;</p>
+</td>
+<td width="197">
+<p>Wind Ensemble</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
