@@ -8,24 +8,24 @@ third_nav_title: Cross Country
 <tbody>
 <tr>
 <td>
-<p style="margin-bottom: 1em;"><strong>S/N</strong></p>
+<p style="margin-bottom: 1em; margin-left: 0px;"><strong>S/N</strong></p>
 </td>
 <td>
-<p style="margin-bottom: 1em;"><strong>Component</strong></p>
+<p style="margin-bottom: 1em; margin-left: 0px;"><strong>Component</strong></p>
 </td>
 <td>
-<p style="margin-bottom: 1em;"><strong>Details</strong></p>
+<p style="margin-bottom: 1em; margin-left: 0px;"><strong>Details</strong></p>
 </td>
 <td>
-<p style="margin-bottom: 1em;"><strong>Protocol</strong></p>
+<p style="margin-bottom: 1em; margin-left: 0px;"><strong>Protocol</strong></p>
 </td>
 </tr>
 <tr>
 <td>
-<p style="margin-bottom: 1em;"><strong>1</strong></p>
+<p style="margin-bottom: 1em; margin-left: 0px;"><strong>1</strong></p>
 </td>
 <td>
-<p style="margin-bottom: 1em;"><strong>Time-Trial</strong></p>
+<p style="margin-bottom: 1em; margin-left: 0px;"><strong>Time-Trial</strong></p>
 </td>
 <td>
 <ul>
@@ -41,16 +41,16 @@ third_nav_title: Cross Country
 </td>
 <td>
 <ul>
-<li><strong>Time-Trial to be held on ACS(I) School Track (Date to be announced as soon as MOE gives clearance)</strong></li>
+<li><strong>Time-Trial to be held on ACS(I) School Track (Choose only 1 session: 24th June or 1st July)</strong></li>
 </ul>
 </td>
 </tr>
 <tr>
 <td>
-<p style="margin-bottom: 1em;"><strong>2</strong></p>
+<p style="margin-bottom: 1em; margin-left: 0px;"><strong>2</strong></p>
 </td>
 <td>
-<p style="margin-bottom: 1em;"><strong>Resume</strong></p>
+<p style="margin-bottom: 1em; margin-left: 0px;"><strong>Resume</strong></p>
 </td>
 <td>
 <ul>
@@ -61,15 +61,15 @@ third_nav_title: Cross Country
 </ul>
 </td>
 <td>
-<p style="margin-bottom: 1em;">&nbsp;</p>
+<p style="margin-bottom: 1em; margin-left: 0px;">&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td>
-<p style="margin-bottom: 1em;"><strong>3</strong></p>
+<p style="margin-bottom: 1em; margin-left: 0px;"><strong>3</strong></p>
 </td>
 <td>
-<p style="margin-bottom: 1em;"><strong>Interview</strong></p>
+<p style="margin-bottom: 1em; margin-left: 0px;"><strong>Interview</strong></p>
 </td>
 <td>
 <ul>
@@ -84,6 +84,5 @@ third_nav_title: Cross Country
 </tr>
 </tbody>
 </table>
-<p style="margin-bottom: 1em;">For more information, please email Mr Gavin Ang (gavinang@acsindep.edu.sg) or kindly refer to the school website at:</p>
-<p style="margin-bottom: 1em;"><a aria-label="Link /admissions/dsa-year-1/" rel="noreferrer noopener" target="_blank" href="https://www.acsindep.moe.edu.sg/admissions/dsa-year-1/" title="https://www.acsindep.moe.edu.sg/admissions/dsa-year-1/" style="overflow-wrap: break-word;" class="fui-Link ___1qmgydl f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1hu3pq6 f11qmguv f19f4twv f1tyq0we f1g0x7ka fhxju0i f1qch9an f1cnd47f fqv5qza f1vmzxwi f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh ftqa4ok f2hkw1w fhgqx19 f1olyrje f1p93eir f1h8hb77 f1x7u7e9 f10aw75t fsle3fq">/admissions/dsa-year-1/</a></p>
-<p style="margin-bottom: 1em;">Thank you and we look forward to receiving your application.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
