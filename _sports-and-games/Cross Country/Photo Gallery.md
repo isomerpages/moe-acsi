@@ -14,8 +14,8 @@ third_nav_title: Cross Country
 ![](/images/CCA%20Sports/Cross%20Country/microsoftteams-image%20(26).png)
 
 
-### Our ACX Team at Open House 2023
- 
+###  Our ACX Team at Open House 2023
+#   
  ![](/images/CCA%20Sports/microsoftteams-image%20(43).png)
 
 ### 2023 SSSC National Schools Games Cross Country Championships
