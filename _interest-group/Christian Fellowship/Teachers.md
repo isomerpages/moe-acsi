@@ -16,7 +16,7 @@ third_nav_title: Christian Fellowship
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-cly1">Ms Bok Hai Choo Christine</th>
+    <th class="tg-cly1">Dr Bok Hai Choo Christine</th>
     <th class="tg-cly1">Teacher I/C</th>
     <th class="tg-vy94"><a href="mailto:bokhaichoo@acsindep.edu.sg"><span style="text-decoration:none;background-color:transparent">bokhaichoo@acsindep.edu.sg</span></a></th>
   </tr>
