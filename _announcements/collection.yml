@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - PERFORMING ARTS NIGHT FESTIVAL (PANF) 2023.md
       - Announcements.md
       - School Calendar.md
       - ACS Independent Online (IO).md
