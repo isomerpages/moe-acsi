@@ -38,5 +38,5 @@ description: ""
 <p>We look forward to having your support as we come together as a school family for PANF 2023.</p>
 <p>To God Be The Glory!</p>
 <p>The Best Is Yet To Be!</p>
-<p><strong><em>Click here</em></strong><strong><em> to download event programme.</em></strong></p>
+<p><a href="/files/Happenings/panf%202023%20programme.pdf"><strong><em>Click here</em></strong><strong><em> to download event programme.</em></strong></a></p>
 <p>&nbsp;</p>
