@@ -4,8 +4,6 @@ permalink: /about-acs-independent/board-of-management/
 description: ""
 third_nav_title: Leadership
 ---
-
-
 |               |                         |
 |---------------|-------------------------|
 | Chairman      | Mr Richard Seow         |
@@ -18,6 +16,6 @@ third_nav_title: Leadership
 | Member        | Mr Lee Lung Nien        |
 | Member        | Mr Wendell Wong         |
 | Member        | Mr Chua Yu-Jin          |
-| Member        | Mr Paul Tham            |
+| Member        | Mr Alvin Tan           |
 
 <center><b>Updated: July 2022</b></center>
