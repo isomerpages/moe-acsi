@@ -18,4 +18,4 @@ third_nav_title: Leadership
 | Member        | Mr Chua Yu-Jin          |
 | Member        | Mr Alvin Tan           |
 
-<center><b>Updated: July 2022</b></center>
+<center><b>Updated: May 2023</b></center>
