@@ -4,14 +4,9 @@ permalink: /announcements/acspression-may-2023/acsi-gos-partnership/
 description: ""
 third_nav_title: ACSpression May 2023
 ---
-
-
 On 29 April, we set up a booth with our friends from Grace Orchard School at Fairfield Methodist School’s _Make Me a Blessing_ carnival. We aimed to promote an awareness of people with special needs and raise funds. At the booth, we sold terrariums and taught visitors how to make terrariums.
-
   
-This was the first time we had a joint VIA project with Grace Orchard School, Through this enriching and meaningful project, we forged new friendships and had a lot of fun interacting
-
-with one another.  
+This was the first time we had a joint VIA project with Grace Orchard School, Through this enriching and meaningful project, we forged new friendships and had a lot of fun interacting with one another.  
   
 We learnt how to make different kinds of terrariums to sell to the public and how to communicate and engage with members of the public. Not only were the terrariums selling fast, but visitors who opted to make their own terrariums enjoyed the experience.
 
