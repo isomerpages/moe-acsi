@@ -12,11 +12,10 @@ description: ""
 <p>This is the first time in our school’s history that the ACS(I) Performing Arts will be performing at the Esplanade, and we would like to extend a warm invitation for you to join us on this momentous occasion.</p>
 <p>Our students from the Cultural Performing Arts Club, Dance Venia, Choir &amp; Vocal ACcord, Guitar Orchestra, Philharmonic Orchestra, Symphonic Band &amp; Wind Ensemble will be performing that night, and our Drama Club performance will also be screened.</p>
 </td>
-<td style="width: 50%;"><img src="/images/Happenings/panf%202023.png" alt="">
+<td style="width: 50%;"><img src="/images/Happenings/panf%202023%20poster%20(final).jpg" alt="">
 </td></tr>
 </tbody>
 </table>
-
 <p>The evening will conclude with a combined 'Wall of Sound' Orchestra and Choir finale performance by students from the Philharmonic Orchestra, Symphonic Band &amp; Wind Ensemble, Choir &amp; Vocal Accord, as well as members of our school's teaching and non-teaching staff.</p>
 <p>We are honoured to have our Old Boy, Mr Jesher Loi, Director of Ya Kun International, to grace our Performing Arts Night Festival at the Esplanade this year.</p>
 <p><strong>Purchase of Tickets </strong></p>
