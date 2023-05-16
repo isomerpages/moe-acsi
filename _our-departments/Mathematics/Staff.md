@@ -26,7 +26,7 @@ third_nav_title: Mathematics
 | MR  | Lawrence Yong            | Senior Teacher                                        |
 | MR  | Ai Xinghuan              | Teacher                                               |
 | MDM | Cheng Siau Yian          | Teacher                                               |
-| MS  | Christine Bok Hai Choo   | Teacher                                               |
+| DR  | Christine Bok Hai Choo   | Teacher                                               |
 | MS  | Clarice Tan En Qi        | Teacher                                               |
 | MS  | Dalwinther Kaur          | Teacher                                               |
 | MR  | Davin Tan Shun Chong     | Teacher                                               |
