@@ -2,7 +2,7 @@
 title: Staff
 permalink: /departments/ell-home/staff/
 description: ""
-third_nav_title: English Language &amp; Literature
+third_nav_title: English Language & Literature
 ---
 <table width="100%" border="1">
 <tbody>
