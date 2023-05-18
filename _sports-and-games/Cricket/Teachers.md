@@ -25,7 +25,7 @@ third_nav_title: Cricket
     <td>Teacher in-charge</td>
   </tr>
   <tr>
-    <td>Mdm Ruvathy Arumugam</td>
+    <td>Ms Nurhafiza</td>
     <td>Teacher-in-Charge</td>
   </tr>
 </tbody>
