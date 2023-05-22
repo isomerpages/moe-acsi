@@ -17,7 +17,6 @@ sections:
         - title: For Parents
           description: ""
           url: /for-parents/
-      background: /images/Homepage/Homepage Main Image.jpg
   - resources:
       subtitle: Announcements
       button: more
@@ -50,9 +49,9 @@ sections:
       image: /images/Student Perf Arts.png
   - infopic:
       title: Deepening values
-      description: "Instilling values through positive modelling and interactions in
+      description: Instilling values through positive modelling and interactions in
         real settings. VIA is a key component of community engagement built into
-        our curriculum. "
+        our curriculum.
       alt: Image alt text
       image: /images/VIA_Homepage.jpg
   - infopic:
@@ -64,9 +63,9 @@ sections:
       image: /images/Tech_Homepage.jpg
   - infopic:
       title: Furthering your passion
-      description: "With 60 CCAs and numerous Academic programmes, students can
+      description: With 60 CCAs and numerous Academic programmes, students can
         discover their interests while developing competencies that will prepare
-        them for a changing world. "
+        them for a changing world.
       button: more
       alt: Image alt text
       url: /talent-development/
