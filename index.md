@@ -17,7 +17,7 @@ sections:
         - title: For Parents
           description: ""
           url: /for-parents/
-      background: /images/acsresize2.png
+      background: /images/Homepage/Homepage Main Image.jpg
   - resources:
       subtitle: Announcements
       button: more
