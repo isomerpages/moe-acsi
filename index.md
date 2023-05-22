@@ -17,6 +17,7 @@ sections:
         - title: For Parents
           description: ""
           url: /for-parents/
+      background: /images/Homepage/panf2023.png
   - resources:
       subtitle: Announcements
       button: more
