@@ -17,7 +17,7 @@ sections:
         - title: For Parents
           description: ""
           url: /for-parents/
-      background: /images/Homepage/acsipanf2023.png
+      background: /images/Homepage/Homepage Main Image.jpg
   - resources:
       subtitle: Announcements
       button: more
