@@ -33,10 +33,10 @@ description: ""
 <tr>
 <td style="text-align: center;"><a href="/talent-development/humanities-scholarship-programme/">&nbsp;<em>Humanities Scholarship and Programme</em></a></td>
 <td style="text-align: center;"><a href="/talent-development/td-mep/">&nbsp;<em>Music Elective Programme</em></a></td>
-<td style="text-align: center;"><a href="/talent-development/pathfinder/">&nbsp;<em>Pathfinder</em></a></td>
+<td style="text-align: center;"><a href="/talent-development/regional-studies-programme/">&nbsp;<em>Regional Studies Programme</em></a></td>
 </tr>
 <tr>
-<td style="text-align: center;"><a href="/talent-development/regional-studies-programme/">&nbsp;<em>Regional Studies Programme</em></a></td>
+
 <td style="text-align: center;"><a href="/talent-development/trailblazer/">&nbsp;<em>Trailblazer</em></a></td>
 <td style="text-align: center;">&nbsp;</td>
 </tr>
