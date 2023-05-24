@@ -4,8 +4,9 @@ permalink: /prefects/
 description: ""
 third_nav_title: Student Leadership
 ---
-The 62nd Prefectorial Board comprises an eclectic mix of 60 Prefects, with areas of expertise that complement one another to perform the versatile and demanding role of being a Prefect. The Board is committed to maintaining its steadfast reputation of excellence, which has been a hallmark trait since its inception in 1961. Prefects strive towards Christlikeness and to be the embodiment of the school values, serving, planning and leading the student body in various diverse activities and events in order to uphold the good name of Anglo-Chinese School (Independent).
+<p>The 63rd Prefectorial Board consists of 59 Prefects who bring together diverse expertise, allowing them to fulfil the versatile and demanding role of Prefects effectively. The Board is dedicated to upholding its longstanding reputation for excellence, a characteristic that has defined it since its establishment in 1961. Prefects diligently work towards embodying the values of Christlikeness and serving as exemplars of the school's principles. They take on responsibilities such as planning and leading a wide range of activities and events, aiming to maintain the good name of Anglo-Chinese School (Independent) and positively impact the student body.</p>
+<h3 style="text-align: center;">Vision Statement</h3>
+<p style="text-align: center;">Ever-growing united leaders, led by God to serve and inspire.</p>
 
 ![](/images/PB.png)
 
-![](/images/ACPC20-1-768x1065.png)
