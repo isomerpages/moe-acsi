@@ -5,38 +5,38 @@ description: ""
 third_nav_title: Student Leadership
 ---
 <h3><strong><u>Teachers</u></strong></h3>
-<p>Mdm Lee Chia Hui Teacher Advisor</p>
-<p>Deputy Director, Student Leadership</p>
-<p>Mrs Beatrice Leong</p>
-<p>Teacher Advisor</p>
+<p>Mdm Lee Chia Hui Teacher Advisor<br>
+Deputy Director, Student Leadership</p>
+<p>Mrs Beatrice Leong<br>
+Teacher Advisor</p>
 <h3><strong><u>Executive Committee </u></strong></h3>
-<p><strong>Head Prefect </strong></p>
-<p><strong>Caden Wong Jing Xi </strong></p>
-<p><strong>4.16</strong></p>
-<p>Vice Head Prefect</p>
-<p>Tan Jin Wee Joshua</p>
-<p>4.07</p>
-<p>Vice Head Prefect</p>
-<p>Chen Shengxu</p>
-<p>4.11</p>
-<p>Vice Head Prefect</p>
-<p>Syn Tze Ren Matthew</p>
-<p>4.16</p>
-<p>Human Resources Councillor</p>
-<p>Julian Chua Cheng Hao</p>
-<p>4.01</p>
-<p>Student Affairs Councillor</p>
-<p>Jason Tan Yan Han</p>
-<p>4.11</p>
-<p>Student Affairs Councillor</p>
-<p>Gabriel Wong Kiat En</p>
-<p>4.16</p>
-<p>Internal Affairs Councillor</p>
-<p>Prai Phusangmook</p>
-<p>4.09</p>
-<p>Internal Affairs Councillor</p>
-<p>Chua Min Jie</p>
-<p>4.12</p>
+<p><strong>Head Prefect </strong><br>
+<strong>Caden Wong Jing Xi </strong><br>
+<strong>4.16</strong></p>
+<p>Vice Head Prefect<br>
+Tan Jin Wee Joshua<br>
+4.07</p>
+<p>Vice Head Prefect<br>
+Chen Shengxu<br>
+4.11</p>
+<p>Vice Head Prefect<br>
+Syn Tze Ren Matthew<br>
+4.16</p>
+<p>Human Resources Councillor<br>
+Julian Chua Cheng Hao<br>
+4.01</p>
+<p>Student Affairs Councillor<br>
+Jason Tan Yan Han<br>
+4.11</p>
+<p>Student Affairs Councillor<br>
+Gabriel Wong Kiat En<br>
+4.16</p>
+<p>Internal Affairs Councillor<br>
+Prai Phusangmook<br>
+4.09</p>
+<p>Internal Affairs Councillor<br>
+Chua Min Jie<br>
+4.12</p>
 <h3><strong><u>Senior Prefects</u></strong></h3>
 <table border="1">
 <tbody>
