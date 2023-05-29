@@ -4,6 +4,23 @@ permalink: /crosscountry/gallery/
 description: ""
 third_nav_title: Cross Country
 ---
+### Cross Camp 2023&nbsp;<br> (**A GIANT THANK YOU** to our **Cross Camp Planning Committee**)
+
+![](/images/CCA%20Sports/Cross%20Country/microsoftteams-image%20(28).png) Voting for our new Captains and Vice-Captain
+
+![](/images/CCA%20Sports/Cross%20Country/microsoftteams-image%20(29).png)
+
+![](/images/CCA%20Sports/Cross%20Country/microsoftteams-image%20(32).png)
+
+![](/images/CCA%20Sports/Cross%20Country/microsoftteams-image%20(33).png) Saying a fond farewell to our graduating runners... sniff... sniff... sob...
+
+![](/images/CCA%20Sports/Cross%20Country/microsoftteams-image%20(30).png) Fun outdoors: Amazing Race + Capture the Flag + Captain Ball
+
+![](/images/CCA%20Sports/Cross%20Country/microsoftteams-image%20(31).png) We have fun indoors as well! Guess who? + Jeopardy (Cross Version)!
+
+![](/images/CCA%20Sports/Cross%20Country/microsoftteams-image%20(34).png) Lunch + Ice-Cream (Thank you Reuben's Mum!)
+
+
 ### 64th National Schools Games Track and Field Championships 2023
 
 ![](/images/CCA%20Sports/Cross%20Country/microsoftteams-image%20(21).png)
@@ -99,7 +116,7 @@ ACXamination Study Group… All the best for the coming Exams!
 
 ![](/images/cross%20country%2028.jpeg)
 
-**2022 National School Games: 63rd Track & Field Championships**
+**2022 National School Games: 63rd Track &amp; Field Championships**
 
 ![](/images/cross%20country%2029.jpeg)
 
