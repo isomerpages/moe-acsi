@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/Homepage/panf2023.png)
 
+ACS(I) will be holding our upcoming Performing Arts Night Festival (PANF) 2023 on **Sunday, 23 July 2023, 5.00 pm**.
 
-For more details, please visit [https://www.acsindep.moe.edu.sg/announcements/panf-2023/](https://www.acsindep.moe.edu.sg/announcements/panf-2023/).
+Please visit [https://www.acsindep.moe.edu.sg/announcements/panf-2023/](https://www.acsindep.moe.edu.sg/announcements/panf-2023/) for more details.
