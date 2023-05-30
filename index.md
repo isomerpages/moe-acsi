@@ -24,9 +24,9 @@ sections:
   - infopic:
       title: PANF 2023
       subtitle: Performing Arts Night Festival
-      description: " For the first time in our school's history, the ACS(I) Performing
-        Arts will be performing at the Esplanade."
-      button: Find Out More Here
+      description: For the first time in our school's history, the ACS(I) Performing
+        Arts will be performing at the Esplanade.
+      button: More
       url: https://www.acsindep.moe.edu.sg/announcements/panf-2023/
       image: /images/Homepage/horizontal banner (1744x1304) hi-res.png
       alt: Performing Arts Night Festival
