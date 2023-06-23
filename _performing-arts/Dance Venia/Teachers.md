@@ -4,7 +4,7 @@ permalink: /dancevenia/teachers/
 description: ""
 third_nav_title: Dance Venia
 ---
-<p>**Teachers-in-Charge**</p>
+<p>Teachers-in-Charge</p>
 <table class="tg">
 <thead>
 <tr>
@@ -23,7 +23,7 @@ third_nav_title: Dance Venia
 </tr>
 </tbody>
 </table>
-<p>**Instructors**</p>
+<p>Instructors</p>
 <table class="tg">
 <thead>
 <tr>
