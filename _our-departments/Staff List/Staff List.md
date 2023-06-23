@@ -209,7 +209,7 @@ Please note that only the names and details of key-points-of-contact are reflect
 <tr>
 <td>Admin Office</td>
 <td>Secretary</td>
-<td>Ms Anne Wong Sok Yi</td>
+<td>Mdm Umadevi D/O Ramalingam</td>
 </tr>
 <tr>
 <td>Admin Office</td>
