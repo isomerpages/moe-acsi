@@ -4,6 +4,8 @@ permalink: /debate/awards/
 description: ""
 third_nav_title: Debate Club
 ---
+<p><u>*This page is updated quarterly. </u></p>
+
 <p><strong>Singapore Secondary Schools Debate Championship (SSSDC) History</strong></p>
 <p>Organised by Julia Gabriel’s and the Debate Association of Singapore, the SSSDC functions as the Nationals of the secondary school debating circuit. Representing our school in Division I, our debaters have consistently performed exceptionally and achieved admirable results.</p>
 <table>
