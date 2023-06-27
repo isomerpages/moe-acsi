@@ -12,19 +12,16 @@ Shane Declan Choong Ken Rui 
 
  6.14 Joppa 
 
-![A group of people playing instruments
-Description automatically generated with medium confidence](file:///C:/Users/ALEXWO~1.ADM/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
+![](/images/ACSpression/June%202023/ac%20sea%201.jpg)
 
 Mr Arene Koh with his band _Afterhours_
 
-![A group of people in bubble balls outside of a building
-Description automatically generated with low confidence](file:///C:/Users/ALEXWO~1.ADM/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
+![](/images/ACSpression/June%202023/ac%20sea%202.jpg)
 
 Our very own bubbly teachers
 
   
 
-![A group of people standing next to a pool
-Description automatically generated with medium confidence](file:///C:/Users/ALEXWO~1.ADM/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)
+![](/images/ACSpression/June%202023/ac%20sea%203.jpg)
 
 The first ever cardboard boat race about to start
