@@ -4,134 +4,200 @@ permalink: /debate/executive-committee-dc/
 description: ""
 third_nav_title: Debate Club
 ---
-**2022/2023**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+<p><strong>2022/2023</strong></p>
+<table>
 <thead>
-  <tr>
-    <th class="tg-1wig"><span style="font-weight:bolder">POSITION</span></th>
-    <th class="tg-1wig"><span style="font-weight:bolder">NAME</span></th>
-  </tr>
+<tr>
+<td>
+<p><strong>POSITION</strong></p>
+</td>
+<td>
+<p><strong>NAME</strong></p>
+</td>
+</tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-cly1">President</td>
-    <td class="tg-cly1">John Junrui Hu Lagman (6.07)</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">IB Team Captain</td>
-    <td class="tg-cly1">Abhinav Kumar Nair A L Mukunda Kumar (6.09)</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Vice-President</td>
-    <td class="tg-cly1">Lucas Looi Jun Hong (6.15)</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">General Secretary</td>
-    <td class="tg-cly1">Gan Yu Xuan Isabelle (6.07)</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Secretary of Publicity</td>
-    <td class="tg-cly1">Edward Koh Rui Qiang (6.18)</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Secretaries of Materials</td>
-    <td class="tg-cly1">Jabelle Lim Ying Xuan (6.04); Yeoh Siang Rong, Jonathan (6.18)</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Secretary of Welfare</td>
-    <td class="tg-cly1">Gokul Ram Hari Preetha (6.08)</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">—–</td>
-    <td class="tg-cly1">—–</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Sec/IP Team Captain</td>
-    <td class="tg-cly1">Gabriel Wong Kiat En (4.16)</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Sec/IP Team Vice-Captain</td>
-    <td class="tg-cly1">Caden Wong Jing Xi (4.16)</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Sec/IP Team Vice-Captain</td>
-    <td class="tg-cly1">Keegan Goh Yu Jie (4.16)</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Secretary of Administration (Sec/IP)</td>
-    <td class="tg-cly1">Yang Zhenglin (4.13)</td>
-  </tr>
+<tr>
+<td>
+<p>President</p>
+</td>
+<td>
+<p>John Junrui Hu Lagman (6.07)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IB Team Captain</p>
+</td>
+<td>
+<p>Abhinav Kumar Nair A L Mukunda Kumar (6.09)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vice-President</p>
+</td>
+<td>
+<p>Lucas Looi Jun Hong (6.15)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>General Secretary</p>
+</td>
+<td>
+<p>Gan Yu Xuan Isabelle (6.07)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Secretary of Publicity</p>
+</td>
+<td>
+<p>Edward Koh Rui Qiang (6.18)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Secretaries of Materials</p>
+</td>
+<td>
+<p>Jabelle Lim Ying Xuan (6.04); Yeoh Siang Rong, Jonathan (6.18)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Secretary of Welfare</p>
+</td>
+<td>
+<p>Gokul Ram Hari Preetha (6.08)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>—–</p>
+</td>
+<td>
+<p>—–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sec/IP Team Captain</p>
+</td>
+<td>
+<p>Gabriel Wong Kiat En (4.16)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sec/IP Team Vice-Captain</p>
+</td>
+<td>
+<p>Caden Wong Jing Xi (4.16)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Secretary of Administration (Sec/IP)</p>
+</td>
+<td>
+<p>Yang Zhenglin (4.13)</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-**2023/2024**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+<p><strong>2023/2024</strong></p>
+<table>
 <thead>
-  <tr>
-    <th class="tg-1wig"><span style="font-weight:bolder">POSITION</span></th>
-    <th class="tg-1wig"><span style="font-weight:bolder">NAME</span></th>
-  </tr>
+<tr>
+<td>
+<p><strong>POSITION</strong></p>
+</td>
+<td>
+<p><strong>NAME</strong></p>
+</td>
+</tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-cly1">President-Designate</td>
-    <td class="tg-cly1">–</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">IB Team Captain-Designate</td>
-    <td class="tg-cly1">–</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Vice-President-Designate</td>
-    <td class="tg-cly1">–</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">General Secretary-Designate</td>
-    <td class="tg-cly1">–</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Secretaries of Publicity-Designate</td>
-    <td class="tg-cly1">–</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Secretaries of Materials-Designate</td>
-    <td class="tg-cly1">–</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Secretary of Welfare-Designate</td>
-    <td class="tg-cly1">–</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">—–</td>
-    <td class="tg-cly1"></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Sec/IP Team Captain-Designate</td>
-    <td class="tg-cly1">–</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Sec/IP Team Vice-Captain-Designate</td>
-    <td class="tg-cly1">–</td>
-  </tr>
+<tr>
+<td>
+<p>President-Designate</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IB Team Captain-Designate</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vice-President-Designate</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>General Secretary-Designate</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Secretaries of Publicity-Designate</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Secretaries of Materials-Designate</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Secretary of Welfare-Designate</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>_______</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>Sec/IP Team Captain-Designate</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sec/IP Team Vice-Captain-Designate</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
