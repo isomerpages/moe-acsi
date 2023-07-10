@@ -7,8 +7,7 @@ third_nav_title: Tennis
 ### NATIONAL INTER-SCHOOL TENNIS CHAMPIONSHIPS RECORDS
 
 
-<img src="/images/tennis.png" 
-     style="width:50%">
+<img src="/images/tennis.png" style="width:50%">
 
 <table>
 <thead>
@@ -21,6 +20,13 @@ third_nav_title: Tennis
   </tr>
 </thead>
 <tbody>
+	 <tr>
+    <td>2023</td>
+    <td>Champion</td>
+    <td>2nd Runner-up</td>
+    <td>Champion</td>
+    <td></td>
+  </tr>
   <tr>
     <td>2022</td>
     <td>Champion</td>
