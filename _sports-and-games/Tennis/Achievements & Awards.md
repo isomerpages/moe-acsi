@@ -7,8 +7,15 @@ third_nav_title: Tennis
 ### NATIONAL INTER-SCHOOL TENNIS CHAMPIONSHIPS RECORDS
 
 
-<img src="/images/tennis.png" 
-     style="width:50%">
+<table style="width:100%">
+<tbody>
+<tr>
+<td style="width:33%"><img alt="" src="/images/CCA%20Sports/Tennis/b%20div%20team.jpeg"></td>
+<td style="width:33%"><img alt="" src="/images/CCA%20Sports/Tennis/celebrating%20the%20win%20with%20our%20principal,%20senior%20admin,%20teachers%20and%20coaches.jpeg"></td>
+<td style="width:33%"><img alt="" src="/images/CCA%20Sports/Tennis/team%20photos.jpeg"></td>
+</tr>
+</tbody>
+</table>
 
 <table>
 <thead>
@@ -21,6 +28,13 @@ third_nav_title: Tennis
   </tr>
 </thead>
 <tbody>
+	 <tr>
+    <td>2023</td>
+    <td>Champion</td>
+    <td>2nd Runner-up</td>
+    <td>Champion</td>
+    <td></td>
+  </tr>
   <tr>
     <td>2022</td>
     <td>Champion</td>
