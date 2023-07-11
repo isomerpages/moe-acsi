@@ -4,8 +4,6 @@ permalink: /about-acs-independent/board-of-governors/
 description: ""
 third_nav_title: Leadership
 ---
-
-
 |               |                               |
 |---------------|-------------------------------|
 | Chairman      | Mr Richard Seow Yung Liang    |
@@ -15,11 +13,11 @@ third_nav_title: Leadership
 | Member        | Dr Wong Heng Yu               |
 | Member        | Mr Choe Peng Sum              |
 | Member        | Rev Kenneth Huang Teng Han    |
-| Member        | Rev Dr Malcolm Tan Thian Hock |
+| Member        | Rev Dr Aaron Tay Tian Yeow |
 | Member        | Mr Lim Teck Yin               |
 | Member        | A/Prof Ong Biauw Chi          |
 | Member        | Mr Hugh Lim                   |
 | Member        | Mr Gerald Balendran Singham   |
 | Member        | Dr Wong Chiang Yin            |
 
-<center><b>Updated June 2022</b></center>
+<center><b>Updated July 2023</b></center>
