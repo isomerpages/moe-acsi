@@ -3,7 +3,6 @@ title: Careers
 permalink: /about-acs-independent/careers/
 description: ""
 ---
-
 <p>ACS (Independent) invites highly motivated, committed and qualified candidates with a strong passion for teaching and pastoral care to be part of our dynamic, creative and innovative team.</p>
 <p>Founded in 1886, ACS (Independent) strives to be a beacon of truth and light, a world class institution through the holistic development of our students. We are a Methodist institution with a strong foundation in spiritual values, a tradition of excellence and a global perspective. Every staff member contributes towards providing a strong and caring learning environment and educational opportunities for each student.</p>
 <p>A sixth form school and an International Baccalaureate (IB) World School, ACS (Independent) offers two academic tracks: the four-year Express programme leading to the GCE “O” Level Examination and the four-year Integrated Programme leading to the two-year International Baccalaureate Diploma Programme. The school operates as a single session with an enrolment of 3,000 students (Years 1 to 4 (Boys)); Year 5 &amp; 6 (mixed)).</p>
@@ -19,10 +18,6 @@ description: ""
 <ul>
 <li><strong>Secondary Levels</strong></li>
 </ul>
-<li><strong>Business Management </strong>(Experience in teaching GCE ‘O’ Level Business Studies or Principles of Accounts)</li>
-<ul>
-<li><strong>Junior College Levels</strong></li>
-</ul>
 <li><strong>Economics</strong></li>
 <ul>
 <li><strong>Junior College Levels</strong></li>
@@ -30,6 +25,10 @@ description: ""
 <li><strong>English Language &amp; Literature</strong></li>
 <ul>
 <li><strong>Secondary &amp; Junior College Levels</strong></li>
+</ul>
+<li><strong>Theory of Knowledge</strong></li>
+<ul>
+<li><strong>Junior College Levels</strong></li>
 </ul>
 </ul>
 <p>Interested applicants, please email your resume to&nbsp;<a href="mailto:lilliantan@acsindep.edu.sg">lilliantan@acsindep.edu.sg</a></p>
