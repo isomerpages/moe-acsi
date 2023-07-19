@@ -34,7 +34,7 @@ Under MOE’s Bilingual Policy,
 
 IBDP students must take 3 Higher Level subjects and 3 Standard Level subjects. They must select 1 subject each from Groups 1 to 5. In selecting a subject from&nbsp;**Group 2: Language Acquisition**, the student may choose:
 
-Chinese B, English B, Malay B, Tamil B, Hindi B at Standard Level
+Chinese B, Malay B, Tamil B, Hindi B at Standard Level
 
 OR
 
