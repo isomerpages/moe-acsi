@@ -2,7 +2,6 @@ collections:
   library-digital-toolkit:
     output: true
     order:
-      - Trial eResources/.keep
       - ACS(I) Library Digital Toolkit.md
       - Physics/.keep
       - Physics/Physics eDatabase & eJournal.md
@@ -103,3 +102,4 @@ collections:
       - Library Facility/.keep
       - Library Facility/Library Facility Self Service Printing.md
       - Library Facility/Self Service Photocopying.md
+      - Trial eResources/.keep
