@@ -117,10 +117,11 @@ description: ""
 </tr>
 <tr>
 <td>
-<h3><a rel="noopener noreferrer" href="/library-digital-toolkit/library-facility/library-facility/"><img height="150" width="150" alt="" src="/images/Library Digital Toolkit/trail123.png"></a></h3>
+<h3><a rel="noopener noreferrer" href="/library-digital-toolkit/trial-eresources/ejournal-edatabase/"><img height="150" width="150" alt="" src="/images/Library Digital Toolkit/trail123.png"></a></h3>
 </td>
 <td>
-<h3><strong><strong>Trial eResources</strong></strong></h3>
+<h3><a href="/library-digital-toolkit/trial-eresources/ejournal-edatabase/"><strong><strong>Trial eResources</strong></strong></a></h3>
+
 </td>
 </tr>
 </tbody>
