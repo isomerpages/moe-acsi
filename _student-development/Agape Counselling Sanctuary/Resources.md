@@ -20,7 +20,9 @@ Online resources off campus include:
 
 Resources for Students
 
-*   [Cheer Model](https://www.acsindep.moe.edu.sg/wp-content/uploads/2022/03/CHEER-Model.pdf)
+*   [Cheer Model](/files/Counselling/cheer%20model%20for%20upload%20on%20agape%20website.pdf)
+
+
 
 Resources for Parents
 
