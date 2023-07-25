@@ -26,6 +26,10 @@ description: ""
 <ul>
 <li><strong>Secondary &amp; Junior College Levels</strong></li>
 </ul>
+<li><strong>Mathematics</strong></li>
+<ul>
+<li><strong>Junior College Levels</strong></li>
+</ul>
 <li><strong>Theory of Knowledge</strong></li>
 <ul>
 <li><strong>Junior College Levels</strong></li>
