@@ -62,7 +62,8 @@ third_nav_title: Debate Club
 <p>Secretaries of Materials</p>
 </td>
 <td>
-<p>Jabelle Lim Ying Xuan (6.04); Yeoh Siang Rong, Jonathan (6.18)</p>
+<p>Jabelle Lim Ying Xuan (6.04)</p>
+<p>Yeoh Siang Rong, Jonathan (6.18)</p>
 </td>
 </tr>
 <tr>
@@ -107,9 +108,10 @@ third_nav_title: Debate Club
 </tr>
 </tbody>
 </table>
+<p><strong>&nbsp;</strong></p>
 <p><strong>2023/2024</strong></p>
 <table>
-<thead>
+<tbody>
 <tr>
 <td>
 <p><strong>POSITION</strong></p>
@@ -118,14 +120,12 @@ third_nav_title: Debate Club
 <p><strong>NAME</strong></p>
 </td>
 </tr>
-</thead>
-<tbody>
 <tr>
 <td>
 <p>President-Designate</p>
 </td>
 <td>
-<p>–</p>
+<p>Kwah Hsiang Rui David (5.05)</p>
 </td>
 </tr>
 <tr>
@@ -133,7 +133,7 @@ third_nav_title: Debate Club
 <p>IB Team Captain-Designate</p>
 </td>
 <td>
-<p>–</p>
+<p>Zachary Matthew Khoo Wen Kai (5.08)</p>
 </td>
 </tr>
 <tr>
@@ -141,7 +141,7 @@ third_nav_title: Debate Club
 <p>Vice-President-Designate</p>
 </td>
 <td>
-<p>–</p>
+<p>See Yue (5.08)</p>
 </td>
 </tr>
 <tr>
@@ -149,7 +149,7 @@ third_nav_title: Debate Club
 <p>General Secretary-Designate</p>
 </td>
 <td>
-<p>–</p>
+<p>Cherelle Lee Shi En (5.16)</p>
 </td>
 </tr>
 <tr>
@@ -157,28 +157,28 @@ third_nav_title: Debate Club
 <p>Secretaries of Publicity-Designate</p>
 </td>
 <td>
-<p>–</p>
+<p>Andre Bertrand Chua Zhe Kai (5.03)<br> Caitlin Lau Yi Lin (5.1)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Secretaries of Materials-Designate</p>
+<p>Secretary of Materials-Designate</p>
 </td>
 <td>
-<p>–</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Secretary of Welfare-Designate</p>
-</td>
-<td>
-<p>–</p>
+<p>Zackary Chong Kim Leong (5.18)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>_______</p>
+<p>Secretaries of Welfare-Designate</p>
+</td>
+<td>
+<p>Chan Yat Him Cody (5.12)<br> Riyana Kelin (5.07)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>—–</p>
 </td>
 <td>&nbsp;</td>
 </tr>
@@ -187,15 +187,24 @@ third_nav_title: Debate Club
 <p>Sec/IP Team Captain-Designate</p>
 </td>
 <td>
-<p>–</p>
+<p>Jerome Ong (3.16)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Sec/IP Team Vice-Captain-Designate</p>
+<p>Sec/IP Team Vice-Captains-Designate</p>
 </td>
 <td>
-<p>–</p>
+<p>Ephraim Wu I-Hng (3.10)</p>
+<p>Jerome Chan Yeak Yern (3.16)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sec/IP Secretary</p>
+</td>
+<td>
+<p>Evan Ong I-En (3.08)</p>
 </td>
 </tr>
 </tbody>
