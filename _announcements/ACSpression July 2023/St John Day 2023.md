@@ -2,7 +2,7 @@
 title: St John Day 2023
 permalink: /announcements/acspression-june-2023/st-john-day-2023/
 description: ""
-third_nav_title: ACSpression June 2023
+third_nav_title: ACSpression July 2023
 ---
 On 27 June, the St John cadets commemorated St John Day. The parade contingent comprised Year Two, Three and Four cadets, who were dressed smartly in their full brigade uniforms. The parade commander was Senior Staff Sergeant, Ranen Tan Zhen Yi from class 4.11.
 

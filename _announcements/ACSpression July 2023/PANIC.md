@@ -2,7 +2,7 @@
 title: PANIC
 permalink: /announcements/acspression-june-2023/panic/
 description: ""
-third_nav_title: ACSpression June 2023
+third_nav_title: ACSpression July 2023
 ---
 7TH JULY 2023, FRIDAY.
 

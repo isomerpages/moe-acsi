@@ -2,7 +2,7 @@
 title: NCC Day 2023
 permalink: /announcements/acspression-june-2023/ncc-day-023/
 description: ""
-third_nav_title: ACSpression June 2023
+third_nav_title: ACSpression July 2023
 ---
 The observance ceremony to commemorate the National Cadet Corps Day 2023 on 6 July was held indoors due to inclement weather but this did not dampen our high spirits. It was indeed a great opportunity for the 3 NCC units, NCC (Land), NCC (Sea) and NCC (Air), to come together as one NCC, amidst the various training commitments.
 
