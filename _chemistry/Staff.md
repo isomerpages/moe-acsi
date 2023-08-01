@@ -155,5 +155,9 @@ description: ""
 <td>Mdm</td>
 <td>Sakuntala Devi</td>
 </tr>
+<tr><td>Laboratory Technical Officer</td>
+<td>Ms</td>
+<td>Nurul Mahirah Binte Zailani</td>
+</tr>
 </tbody>
 </table>
