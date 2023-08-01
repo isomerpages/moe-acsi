@@ -32,11 +32,6 @@ description: ""
 </tr>
 <tr>
 <td>Teacher</td>
-<td>Mr</td>
-<td>Chan Xin Wei</td>
-</tr>
-<tr>
-<td>Teacher</td>
 <td>Ms</td>
 <td>Kwoh Siew Lay</td>
 </tr>
