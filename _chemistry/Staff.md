@@ -32,11 +32,6 @@ description: ""
 </tr>
 <tr>
 <td>Teacher</td>
-<td>Mr</td>
-<td>Chan Xin Wei</td>
-</tr>
-<tr>
-<td>Teacher</td>
 <td>Ms</td>
 <td>Kwoh Siew Lay</td>
 </tr>
@@ -159,6 +154,10 @@ description: ""
 <td>Laboratory Technical Officer</td>
 <td>Mdm</td>
 <td>Sakuntala Devi</td>
+</tr>
+<tr><td>Laboratory Technical Officer</td>
+<td>Ms</td>
+<td>Nurul Mahirah Binte Zailani</td>
 </tr>
 </tbody>
 </table>

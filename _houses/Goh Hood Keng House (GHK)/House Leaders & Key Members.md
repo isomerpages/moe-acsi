@@ -1,5 +1,5 @@
 ---
-title: House Leaders &amp; Key Members
+title: House Leaders & Key Members
 permalink: /student-development/houses/ghk-house/house-leaders-key-members/
 description: ""
 third_nav_title: Goh Hood Keng House (GHK)
@@ -44,7 +44,6 @@ third_nav_title: Goh Hood Keng House (GHK)
 </td>
 <td width="369">
 <p>Lim Yao Quan Michael (3.09 Zephaniah)</p>
-<p>Lim Jingkai Aloysius (3.16 Habakkuk)</p>
 </td>
 </tr>
 <tr>

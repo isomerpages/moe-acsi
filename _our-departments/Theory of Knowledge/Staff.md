@@ -4,7 +4,6 @@ permalink: /departments/theory-of-knowledge/staff/
 description: ""
 third_nav_title: Theory of Knowledge
 ---
-
 |                                                              |    |                       |
 |--------------------------------------------------------------|----|-----------------------|
 | Dean (TOK)                                                   | Ms | Daphne Teo            |
@@ -16,3 +15,4 @@ third_nav_title: Theory of Knowledge
 | Teacher                                                      | Mr | Kenneth Ong           |
 | Teacher                                                      | Mr | Derrick Teo           |
 | Teacher                                                      | Ms | Kate Wang             |
+| Teacher                                                      | Mr | John Paul Foenander           |
