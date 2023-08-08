@@ -5,3 +5,6 @@ description: ""
 third_nav_title: ACSpression August 2023
 ---
 ![](/images/ACSpression/August/picture2.jpg)
+
+
+Here’s an illustration from Ms Zhang Qing, an IB teacher from the Mathematics Department.
