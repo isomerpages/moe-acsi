@@ -4,3 +4,4 @@ permalink: /announcements/acspression-august-2023/illustration-from-ms-zhang-qin
 description: ""
 third_nav_title: ACSpression August 2023
 ---
+![](/images/ACSpression/August/picture2.jpg)
