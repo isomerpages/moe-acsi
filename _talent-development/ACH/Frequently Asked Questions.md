@@ -10,7 +10,7 @@ third_nav_title: ACH
 <p>While all these aims are currently found in our existing programmes, the ACH aims to provide students who are ready to be challenged with opportunities such as mentoring, service-learning and enriched curricula in Language Arts and the Humanities.</p>
 <h4><strong>2. How will it be different from the rest of the IP classes?</strong></h4>
 <p>The learning experience of the ACH students will be largely the same as the rest of the IP classes, with the enhancement of the learning opportunities mentioned. ACH students will also be encouraged to participate more fully in the existing programmes organised by MOE, e.g. Creative Arts Programme, Literature Seminar, Humanities and Social Sciences Research Programme, Model United Nations @ AC.</p>
-<h4><strong>3. Are these MOE programmes exclusive to the ACH students, i.e., a student needs to be in ACH before he will be considered for these programmes?</strong></h4>
+<p><strong>3. Are these MOE programmes exclusive to the ACH students, i.e., a student needs to be in ACH before he will be considered for these programmes?</strong></p>
 <p>No. These programmes are available to all students who qualify, regardless of whether they are part of ACH or not. These programmes are conducted outside of the main curriculum, but because of the focus of ACH, there will be better integration of knowledge, skills and aptitude development applied in these programmes and in the ACH classroom.</p>
 <p><strong>4.</strong> <strong>What will be the class size?</strong></p>
 <p>In general, the IP class size range from 28 – 35 students. ACH will be housed in an intact class.</p>
@@ -38,5 +38,5 @@ third_nav_title: ACH
 <p>If a Singaporean ACH student remains passionate about the humanities, application to the HSP will be a natural next step when they move on to Year 5. It is our hope that the ACH programme will benefit students who are keen to take up the HSP.</p>
 <p><strong>12.</strong> <strong>How are the Humanities subjects differentiated?</strong></p>
 <p>Please refer to the respective subject brochures found in the&nbsp;<a rel="noopener" target="_blank" href="https://www.acsindep.moe.edu.sg/talent-development/accelerated-class-for-humanities-ach/subjects-offered/">Subjects Offered</a>&nbsp;section.</p>
-<h4><strong>13. What is the mentoring programme?</strong></h4>
+<p><strong>13. What is the mentoring programme?</strong></p>
 <p>The mentoring programme is a two-year mentoring programme that is available to ACH students and provides academic support, and coaching by the Year 5 and 6 students of the Humanities Scholarship Programme (HSP). When a student joins the ACH in Year 3, he will be assigned to a Year 5 student who is in the HSP. There will be scheduled mentoring sessions during which the senior students will make themselves available to offer academic advice and assistance.</p>
