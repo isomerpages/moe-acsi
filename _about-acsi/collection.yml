@@ -2,13 +2,6 @@ collections:
   about-acsi:
     output: true
     order:
-      - ACSpression July 2023/.keep
-      - ACSpression June 2023/.keep
-      - ACSpression May 2023/.keep
-      - ACSpression April 2023/.keep
-      - ACSpression March 2023/.keep
-      - ACSpression February 2023/.keep
-      - ACSpression January 2023/.keep
       - About ACS(I).md
       - School Profile/.keep
       - School Profile/School Profile.md
@@ -34,6 +27,13 @@ collections:
       - ACS Independent Online (IO).md
       - ACSPRESS – In – House – Publication.md
       - ACS ECHO.md
+      - ACSpression July 2023/.keep
+      - ACSpression June 2023/.keep
+      - ACSpression May 2023/.keep
+      - ACSpression April 2023/.keep
+      - ACSpression March 2023/.keep
+      - ACSpression February 2023/.keep
+      - ACSpression January 2023/.keep
       - Financial Information.md
       - Boarding School/.keep
       - Boarding School/Boarding School.md
