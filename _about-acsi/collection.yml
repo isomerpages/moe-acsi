@@ -2,7 +2,6 @@ collections:
   about-acsi:
     output: true
     order:
-      - ACSpression August 2023/.keep
       - About ACS(I).md
       - School Profile/.keep
       - School Profile/School Profile.md
@@ -28,9 +27,11 @@ collections:
       - ACS Independent Online (IO).md
       - ACSPRESS – In – House – Publication.md
       - ACS ECHO.md
+      - ACSpression August 2023/.keep
       - ACSpression July 2023/.keep
-      - ACSpression June 2023/AC in the Sea.md
       - ACSpression June 2023/.keep
+      - ACSpression June 2023/AC in the Sea.md
+      - ACSpression May 2023/.keep
       - ACSpression May 2023/ACS(I) Peer Helpers Well being Activities.md
       - ACSpression May 2023/Yes Mdm.md
       - ACSpression May 2023/Project Cardia.md
@@ -42,7 +43,7 @@ collections:
       - ACSpression May 2023/In Anticipation of Adulthood.md
       - ACSpression May 2023/OPEN HOUSE 2023.md
       - ACSpression May 2023/Walls have ears.md
-      - ACSpression May 2023/.keep
+      - ACSpression April 2023/.keep
       - ACSpression April 2023/B Division Tennis.md
       - ACSpression April 2023/Rating my last CNY celebration in school.md
       - ACSpression April 2023/A Message to my Juniors.md
@@ -54,7 +55,7 @@ collections:
       - ACSpression April 2023/What Ori Means to Me.md
       - ACSpression April 2023/The Anticipation of Adulthood.md
       - ACSpression April 2023/A new ACventure into the ACverse!.md
-      - ACSpression April 2023/.keep
+      - ACSpression March 2023/.keep
       - "ACSpression March 2023/Kopi Morning: Parents Get Together.md"
       - ACSpression March 2023/The Singapore Science & Engineering Fair.md
       - ACSpression March 2023/Dungeons & Dragons Character Creation Workshop.md
@@ -67,7 +68,7 @@ collections:
       - ACSpression March 2023/World Scout Day 2023.md
       - ACSpression March 2023/West Area Founder’s Day.md
       - ACSpression March 2023/ARTWORKS BY OUR VISUAL ARTS STUDENTS 4 (2022).md
-      - ACSpression March 2023/.keep
+      - ACSpression February 2023/.keep
       - ACSpression February 2023/ARTWORKS BY OUR VISUAL ARTS STUDENTS 3
         (2022).md
       - ACSpression February 2023/How to fold wantons.md
@@ -79,7 +80,7 @@ collections:
       - ACSpression February 2023/My Most Memorable Recess.md
       - ACSpression February 2023/ARTWORKS BY OUR VISUAL ARTS STUDENTS (2022).md
       - ACSpression February 2023/A Reflection on traditions.md
-      - ACSpression February 2023/.keep
+      - ACSpression January 2023/.keep
       - ACSpression January 2023/Chinese New Year Concert 2023.md
       - ACSpression January 2023/ARTWORKS BY OUR VISUAL ARTS STUDENTS (2022).md
       - ACSpression January 2023/Transitions….md
@@ -102,7 +103,6 @@ collections:
       - ACSpression January 2023/Gallery Night 2022.md
       - ACSpression January 2023/The Boys’ Brigade 12th Company BBSG Car Flag
         Off.md
-      - ACSpression January 2023/.keep
       - Financial Information.md
       - Boarding School/.keep
       - Boarding School/Boarding School.md
