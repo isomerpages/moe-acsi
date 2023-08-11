@@ -2,7 +2,6 @@ collections:
   about-acsi:
     output: true
     order:
-      - Happenings.md
       - About ACS(I).md
       - School Profile/.keep
       - School Profile/School Profile.md
@@ -22,20 +21,21 @@ collections:
       - Leadership/ACS(I) Board of Management.md
       - Leadership/ACS Board of Governors.md
       - The Principal’s Message in Echo.md
+      - Happenings.md
       - School Calendar.md
       - ACS Independent Online (IO).md
       - ACSPRESS – In – House – Publication.md
       - ACS ECHO.md
+      - ACSpression August 2023/.keep
       - ACSpression August 2023/Cross Country 2023.md
       - ACSpression August 2023/Illustration from Ms Zhang Qing.md
-      - ACSpression August 2023/.keep
+      - ACSpression July 2023/.keep
       - ACSpression July 2023/ACS (I) Blood Drive 2023.md
       - ACSpression July 2023/Acnicity.md
       - ACSpression July 2023/PANIC.md
       - ACSpression July 2023/NCC Day 2023.md
       - ACSpression July 2023/St John Day 2023.md
       - ACSpression July 2023/SCHOOL DAY MOODBOARD.md
-      - ACSpression July 2023/.keep
       - ACSpression June 2023/.keep
       - ACSpression June 2023/AC in the Sea.md
       - ACSpression May 2023/.keep
