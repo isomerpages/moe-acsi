@@ -2,6 +2,7 @@ collections:
   about-acsi:
     output: true
     order:
+      - Announcements.md
       - About ACS(I).md
       - School Profile/.keep
       - School Profile/School Profile.md
