@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Announcements.md
       - ACSpression August 2023/.keep
       - ACSpression July 2023/.keep
       - ACSpression June 2023/.keep
