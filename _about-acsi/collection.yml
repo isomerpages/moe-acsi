@@ -2,6 +2,7 @@ collections:
   about-acsi:
     output: true
     order:
+      - ACS ECHO.md
       - ACSPRESS – In – House – Publication.md
       - ACS Independent Online (IO).md
       - Performing Arts Night Festival (PANF) 2023.md
