@@ -2,7 +2,6 @@ collections:
   announcements:
     output: true
     order:
-      - School Calendar.md
       - Performing Arts Night Festival (PANF) 2023.md
       - ACS Independent Online (IO).md
       - ACSPRESS – In – House – Publication.md
