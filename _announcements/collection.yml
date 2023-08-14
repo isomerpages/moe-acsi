@@ -2,11 +2,11 @@ collections:
   announcements:
     output: true
     order:
+      - Announcements.md
+      - School Calendar.md
       - ACSPRESS – In – House – Publication.md
       - ACS Independent Online (IO).md
       - ACS ECHO.md
-      - School Calendar.md
-      - Announcements.md
       - ACSpression August 2023/.keep
       - ACSpression July 2023/.keep
       - ACSpression June 2023/.keep
