@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - ACS Independent Online (IO).md
       - ACS ECHO.md
       - School Calendar.md
       - Announcements.md
