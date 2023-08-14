@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - ACS ECHO.md
       - School Calendar.md
       - Announcements.md
       - ACSpression August 2023/.keep
