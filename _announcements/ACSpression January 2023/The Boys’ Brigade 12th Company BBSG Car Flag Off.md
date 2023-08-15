@@ -4,7 +4,6 @@ permalink: /acspress1/the-boys-brigade-12th-company-bbsg-car-flag-off/
 description: ""
 third_nav_title: ACSpression January 2023
 ---
-
 The BB 12th company held the BB Share-A-Gift car flag off on 2 December 2022. The car flag off is an annual event where the 12th Company works together with volunteer drivers to deliver food hampers containing halal canned food, biscuits and many more items to those in need.  
 84 drivers reached out to over 700 households during the festive season.
 

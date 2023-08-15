@@ -4,7 +4,6 @@ permalink: /announcements/ACSpression-February-2023/A-Reflection-on-traditions/
 description: ""
 third_nav_title: ACSpression February 2023
 ---
-
 *Nian Nian You Yu* **[1]** Huat ah!” My family and I chant haphazardly tossing carrots, radishes and other _yusheng_ ingredients into the air.
 
 It’s just one of the many traditions we practise during Chinese New Year, along with the giving and receiving of *hongbaos* **[2]** and visits to families. In fact, Chinese New Year seems to be the only time my family exhibits any semblance of regard for such cultural traditions. Having spent our childhood years in the United States, my siblings and I unfortunately grew up without a strong sense of connection to our Chinese heritage. While our peers in Singapore had weekly, non-negotiable family dinners with their grandparents, we became accustomed to seeing our grandparents once every two years. While they opened all the doors and windows when they moved house to allow the *qi***[3]** to flow through the new house, we hosted a barbeque when we moved house and invited our new neighbours. Of course, when we returned to Singapore, classmates and friends teased us and jokingly called us ABCs – American-born Chinese for knowing more about the American culture than our own.

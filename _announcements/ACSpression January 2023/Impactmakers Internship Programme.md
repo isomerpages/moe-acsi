@@ -4,7 +4,6 @@ permalink: /announcements/ACSpression-January-2023/Impactmakers-Internship-Progr
 description: ""
 third_nav_title: ACSpression January 2023
 ---
-
 The Impactmakers Internship is a programme launched by the St Andrew’s Autism Centre (SAAC). The three interns in this programme from ACS(I) were assigned to different departments – Corporate Communications, Allied Professionals and Teaching in the Day Activity Centre (DAC) and Autism School.
 
 Here are the thoughts and reflections of two interns of the 2022 Year 6 cohort who are    undergoing the internship:

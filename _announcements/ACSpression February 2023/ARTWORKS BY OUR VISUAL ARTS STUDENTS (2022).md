@@ -4,7 +4,6 @@ permalink: /announcements/ACSpression-February-2023/ARTWORKS-BY-OUR-VISUAL-ARTS-
 description: ""
 third_nav_title: ACSpression February 2023
 ---
-
 On 8 November, the 2022 IB HL Visual Arts students hosted a gallery night. They displayed a selection of artworks which comprised mediums ranging from oil and acrylic paints, colour pencil, charcoal, and paper sculpture.
 
 This series was created by Lee Ying Hui, Esther.

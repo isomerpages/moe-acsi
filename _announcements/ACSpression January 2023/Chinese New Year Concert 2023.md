@@ -4,7 +4,6 @@ permalink: /announcements/ACSpression-January-2023/Chinese-New-Year-Concert-2023
 description: ""
 third_nav_title: ACSpression January 2023
 ---
-
 I was delighted to be the emcee for the Chinese New Year concert alongside Jabelle Lim of 6.04 for the Chinese New Year concert.
 
 The performances by the Cultural Performing Arts Club drummers, Vocal Accord, Philharmonic Orchestra and Dance Venia were all very entertaining. When the teachers sang popular tunes, the students took their mobile phones and waved their flashlights in the air. From backstage, this was truly a sight to behold.

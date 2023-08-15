@@ -20,5 +20,4 @@ Many lessons can be gleaned from simply taking the time to reflect on our experi
  
 Finally, let us not forget that through the journeys of life, including this transition into adulthood, we are not alone. Friends, family and most importantly God, will always be there when you need help. Simply being there and supporting each other can also go a long way. 
  
-Anticipating adulthood is undeniably scary, and we all have our own individual anxieties and worries about growing up. However, by keeping this transition in perspective, and committing to live with hope, we can be sure that we will all turn out fine. 
-
+Anticipating adulthood is undeniably scary, and we all have our own individual anxieties and worries about growing up. However, by keeping this transition in perspective, and committing to live with hope, we can be sure that we will all turn out fine.

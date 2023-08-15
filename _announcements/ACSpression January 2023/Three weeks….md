@@ -4,7 +4,6 @@ permalink: /announcements/ACSpression-January-2023/Three-weeks/
 description: ""
 third_nav_title: ACSpression January 2023
 ---
-
 Just three weeks into this new world and I’ve already seen it all.
 
 Those spiral staircases, huge auditoriums, spacious courtyards. Level one, level two, level three— breathlessness awaits atop the flight of stairs. I rush down the long corridor, down a memorised path, to the fifth classroom on the left. Chatter fills and lingers in the coolness of the air-conditioned room.

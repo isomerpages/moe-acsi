@@ -4,7 +4,6 @@ permalink: /announcements/ACSpression-February-2023/My-Most-Memorable-Recess/
 description: ""
 third_nav_title: ACSpression February 2023
 ---
-
 The most memorable recess I’ve ever had in AC was the “Virus Recess”.
 
 For those of you who know what “Virus” is, you would be aware that it involves a lot of running. It is a game only primary schoolers partake in. For those who don’t, it essentially is a modified game of tagging. Depending on the group size, one or two people are the “virus” and they are meant to spread the “virus” by tagging others who must avoid getting the “virus” by not getting tagged.

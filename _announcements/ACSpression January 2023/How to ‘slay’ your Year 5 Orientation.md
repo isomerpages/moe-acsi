@@ -4,7 +4,6 @@ permalink: /announcements/ACSpression-January-2023/How-to-slay-your-Year-5-Orien
 description: ""
 third_nav_title: ACSpression January 2023
 ---
-
 Like any popular game, orientation is split into levels. Four levels, to be specific. Depending on how extroverted or introverted you are, the difficulty can range from easy to expert. But fear not, I have created this beginner’s guide to help you, player one, clear this game with a high score.
 
 Level 1: Gearing up

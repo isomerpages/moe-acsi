@@ -4,7 +4,6 @@ permalink: /acspress1/35th-discovery-camp-2023/
 description: ""
 third_nav_title: ACSpression January 2023
 ---
-
 We welcomed the Year 1s on 3 January and from the get-go, they participated in our six-day Discovery Camp with enthusiasm. With “Our Heritage, Our Family, Our ACS” as our theme, the camp aimed to initiate our Year 1s into the rich and long-standing culture of our school.
 
 The students enjoyed everything there was to offer – Performing Arts showcases, CCA trials and Sports Bazaar, and learned more about the school in School, House Orientation and team building activities.
@@ -24,4 +23,3 @@ Year 1 Director
 <img src="/images/Picture26.jpg">
 <figcaption> <strong> A proud parent</strong> </figcaption>
 </figure>
-

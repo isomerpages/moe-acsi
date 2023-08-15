@@ -4,7 +4,6 @@ permalink: /announcements/ACSpression-February-2023/MyFavouriteCNYTradition/
 description: ""
 third_nav_title: ACSpression February 2023
 ---
-
 I opened the door and was greeted with a familiar fragrance – the aroma of herbal soup tinged with the sharp tang of _mala_ oil. The house was alive with the sounds of cooking:  the sizzling of oil in a frying pan, the crackling of fire at the stove, and a metallic clanking as the ladle moved around the sides of the pot. I took off my school shoes and ran inside the house, eager to kick start the first day of Chinese New Year celebrations.
 
 As a resident of the ACS(I) boarding school, I spend much of the after-school hours by myself. Of course, I enjoy the thrill that comes with living alone, and the refreshing independence I gain. But at the end of each week, I would always look forward to seeing my parents again. After all, nothing can beat the warmth of familial love, and the comfort of one’s home.
