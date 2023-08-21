@@ -6,9 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-
 Please be informed that the ACS(I) Front Office will be closed for a school function on Thursday, 31 August 2023, from 10.30 am onwards.
 
-The Front Office will resume operations on Friday, 1 September, 7.00 am.
+The Front Office will resume operations on Monday, 4 September, 7.00 am.
 
 Thank you.
