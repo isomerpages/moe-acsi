@@ -4,8 +4,9 @@ permalink: /cricket/accolades/
 description: ""
 third_nav_title: Cricket
 ---
-![](/images/Cricket-Achievement-in-2022.png)
-![](/images/Cricket-Achievements-for-the-past-10-years_for-noticeboard-Updated-as-of-2022-002.jpg)
+![](/images/CCA%20Sports/Cricket/cricket%20achievement%20in%202023_.png)
+![](/images/CCA%20Sports/Cricket/cricket%20achievements%202011%20to%202023.png)
+
 
 **Singapore Schools Sports Council – Sports Boy of the year 2017 – Cricket CCA**
 
@@ -23,11 +24,11 @@ Mr Mohamed Shariff
 
 Teacher In charge – Cricket CCA.
 
-School sports: Third straight C Division cricket title for ACS (I) [https://www.straitstimes.com/sport/schools/school-sports-third-straight-c-division-cricket-title-for-acs-i?&utm\_source=whatsapp&utm\_medium=social-media&utm\_campaign=addtoany](https://www.straitstimes.com/sport/schools/school-sports-third-straight-c-division-cricket-title-for-acs-i?&utm_source=whatsapp&utm_medium=social-media&utm_campaign=addtoany)
+School sports: Third straight C Division cricket title for ACS (I)&nbsp;[https://www.straitstimes.com/sport/schools/school-sports-third-straight-c-division-cricket-title-for-acs-i?&amp;utm\_source=whatsapp&amp;utm\_medium=social-media&amp;utm\_campaign=addtoany](https://www.straitstimes.com/sport/schools/school-sports-third-straight-c-division-cricket-title-for-acs-i?&amp;utm_source=whatsapp&amp;utm_medium=social-media&amp;utm_campaign=addtoany)
 
-Straits Times “C Division 2017” Article: [http://www.straitstimes.com/sport/new-cricket-format-no-issue-for-acsians?&utm\_source=email&utm\_medium=social-media&utm\_campaign=addtoany](http://www.straitstimes.com/sport/new-cricket-format-no-issue-for-acsians?&utm_source=email&utm_medium=social-media&utm_campaign=addtoany)
+Straits Times “C Division 2017” Article:&nbsp;[http://www.straitstimes.com/sport/new-cricket-format-no-issue-for-acsians?&amp;utm\_source=email&amp;utm\_medium=social-media&amp;utm\_campaign=addtoany](http://www.straitstimes.com/sport/new-cricket-format-no-issue-for-acsians?&amp;utm_source=email&amp;utm_medium=social-media&amp;utm_campaign=addtoany)
 
-The school would also like to commend some of our current outstanding Cricketers who have represented us in national and international matches and who have brought glory to our country and school:
+The school would also like to commend&nbsp;some of our current outstanding Cricketers who have represented us in national and international matches and who have brought glory to our country and school:
 
 1.  Somil Mahesh Batavia
 2.  Shezad Sulyman Imran Hassan
@@ -44,10 +45,7 @@ Singapore School’s Sports Boy of the Year Award (2016)
 
 *   Somil Mahesh Batavia (Vice-Captain ‘A’ Division 2016)
 
-<img src="/images/Somil-photo-1-768x432.jpg" 
-     style="width:40%">
+<img src="/images/Somil-photo-1-768x432.jpg" style="width:40%">
 		 
 Somil Batavia  <br>
 Singapore School’s Sports Boy of the Year 2016
-
-
