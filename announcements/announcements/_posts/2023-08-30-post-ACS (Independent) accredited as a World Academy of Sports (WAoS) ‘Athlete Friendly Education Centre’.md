@@ -9,7 +9,7 @@ image: ""
 ---
 <p><strong>Wednesday 30 August 2023, Singapore: </strong>Anglo-Chinese School (Independent) [ACS(I)] has been accredited as an ‘Athlete Friendly Education Centre’ (AFEC) from World Academy of Sports<sup>1</sup> (WAoS). As an AFEC, ACS(I) will be better able to further support our top-tier student athletes with the offering of a three-year International Baccalaureate (IB) Diploma Programme for these students.</p>
 <p>&nbsp;With the accreditation, ACS(I) will receive the following support from WAoS:&nbsp;</p>
-<ol>
+<ol style="list-style-type: lower-alpha;">
 <li>Access to the WAoS Athlete Certificate and Teacher Resources</li>
 <li>Opportunities to participate in AFEC Professional Development workshops and webinars</li>
 <li>Access to resources on individual plans and workload mapping tools to support student athletes</li>
