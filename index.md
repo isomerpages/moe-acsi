@@ -22,13 +22,13 @@ sections:
       subtitle: Announcements
       button: more
   - infopic:
-      title: PANF 2023
-      subtitle: Performing Arts Night Festival
-      description: For the first time in our school's history, the ACS(I) Performing
-        Arts will be performing at the Esplanade.
+      title: Athlete Friendly Education Centre
+      subtitle: World Academy of Sports
+      description: ACS(I) is accredited as an ‘Athlete Friendly Education Centre’
+        (AFEC) from World Academy of Sports.
       button: More
-      url: https://www.acsindep.moe.edu.sg/announcements/panf-2023/
-      image: /images/Homepage/horizontal banner (1744x1304) hi-res.png
+      url: https://www.acsindep.moe.edu.sg/announcements/announcements/waos/
+      image: /images/afec123.png
       alt: Performing Arts Night Festival
   - infopic:
       title: Sharpening the mind
