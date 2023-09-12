@@ -24,10 +24,8 @@ sections:
   - infopic:
       title: Athlete Friendly Education Centre
       subtitle: World Academy of Sports
-      description: >
-        ACS(I) is accredited as an ‘Athlete Friendly Education Centre’ (AFEC)
-        from World Academy of Sports. As an AFEC, ACS(I) will be better able to
-        further support
+      description: ACS(I) is accredited as an ‘Athlete Friendly Education Centre’
+        (AFEC) from World Academy of Sports.
       button: More
       url: https://www.acsindep.moe.edu.sg/announcements/announcements/waos/
       image: /images/afec123.png
