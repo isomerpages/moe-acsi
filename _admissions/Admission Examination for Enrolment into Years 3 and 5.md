@@ -7,4 +7,4 @@ description: ""
 
         
 
-**Application to take the admission examination for enrolment into 2024 Years 3 and 5 Intake has closed.  Kindly visit the school website in early August 2024 if you are interested to take the admission examination for 2025 Intake.  Thank you.**
+Application to take the admission examination for enrolment into 2024 Years 3 and 5 Intake has closed.  Kindly visit the school website in early August 2024 if you are interested to take the admission examination for 2025 Intake.  Thank you.
