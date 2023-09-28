@@ -18,25 +18,29 @@ description: ""
 <ul>
 <li><strong>Secondary Levels</strong></li>
 </ul>
-<li><strong>Economics</strong></li>
+<li><strong>Chinese Language</strong></li>
 <ul>
-<li><strong>Junior College Levels</strong></li>
+<li><strong>Secondary Levels</strong></li>
 </ul>
 <li><strong>English Language &amp; Literature</strong></li>
 <ul>
-<li><strong>Secondary &amp; Junior College Levels</strong></li>
+<li><strong>Secondary Levels</strong></li>
 </ul>
 <li><strong>Geography</strong></li>
 <ul>
 <li><strong>Secondary Levels</strong></li>
 </ul>
+<li><strong>History &amp; Social Studies</strong></li>
+<ul>
+<li><strong>Secondary Levels</strong></li>
+</ul>
 <li><strong>Mathematics</strong></li>
 <ul>
-<li><strong>Secondary &amp; Junior College Levels</strong></li>
-</ul>
-<li><strong>Theory of Knowledge</strong></li>
-<ul>
 <li><strong>Junior College Levels</strong></li>
+</ul>
+<li><strong>Tamil Language</strong></li>
+<ul>
+<li><strong>Secondary Levels</strong></li>
 </ul>
 </ul>
 <p><strong><u>Executive and Support Staff</u></strong></p>
