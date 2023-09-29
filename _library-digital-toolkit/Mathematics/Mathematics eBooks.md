@@ -4,7 +4,18 @@ permalink: /library-digital-toolkit/mathematics/athematicsooks/
 description: ""
 third_nav_title: Mathematics
 ---
-![](/images/Library%20Digital%20Toolkit/Content-to-be-300x47.png)
+<table>
+<tbody>
+<tr>
+<td><a href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eBook.aspx"><img alt="" src="/images/Library%20Digital%20Toolkit/proquest.jpg"></a></td>
+<td>
+<p>&nbsp;</p>
+<p><a href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eBook.aspx"><span style="font-weight: 400;">Proquest Ebook [ACS(I)]</span></a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 
 * * *
 
