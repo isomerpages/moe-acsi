@@ -4,6 +4,16 @@ permalink: /tennis/awards/
 description: ""
 third_nav_title: Tennis
 ---
+### SINGAPORE SCHOOLS SPORTS COUNCIL COLOURS AWARD 2023
+BEST SPORTSBOY (TENNIS):  Chua Min Jie , 4.12 <br />
+BEST SPORTSGIRL (TENNIS): Tong Ying Shan, Audrey, 5.07 <br />
+### SINGAPORE SCHOOLS SPORTS COUNCIL SPORTSMANSHIP AWARD 2023
+Kayla Chin Wern Rui, 6.04 <br />
+Charles Yong, 5.04 <br />
+Chan Jun Hui Ethan, 3.15 <br />
+Asher Ong Yule, 2.10 <br />
+
+
 ### NATIONAL INTER-SCHOOL TENNIS CHAMPIONSHIPS RECORDS
 
 
