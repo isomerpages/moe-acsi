@@ -31,10 +31,9 @@ invoice for the outstanding amount will be sent to parents / guardians at their 
 address and through email. An administrative charge of $20 will be levied for any GIRO
 failure due to insufficient funds.
 
-5.Parents/guardians are advised to ensure that sufficient funds are available in their
-accounts on the due dates. When the deduction by GIRO scheme is unsuccessful, the
-invoice for the outstanding amount will be sent to parents / guardians at their residential
-address and through email. An administrative charge of $20 will be levied for any GIRO
-failure due to insufficient funds.
+5.No Singaporean admitted to ACS (Independent) will be turned away because he/she is
+unable to afford school fees. Singapore citizens may apply for MOE Independent School
+Bursary (ISB) Scheme and/or School-based Financial Assistance Schemes. Please
+refer to the school’s website for details.
 
 6.Full disclosure is necessary for applications to be processed.
