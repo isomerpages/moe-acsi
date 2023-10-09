@@ -10,10 +10,10 @@ third_nav_title: School Fees
 
 | Months                                          |          |    GIRO Deduction Dates |
 |-------------------------------------------------|----------|-------------------------|
-| January, February &amp; March 2024                  | 3 Months | 22/03/2023 (Friday)     |
-| April, May &amp; June 2024 plus Yearly Printing Fee | 3 Months | 10/05/2023 (Friday)     |
-| July, August &amp; September 2024                   | 3 Months | 02/08/2023 (Friday)     |
-| October, November &amp; December 2024               | 3 Months | 04/10/2023 (Friday)     |
+| January, February &amp; March 2024                  | 3 Months | 22/03/2024 (Friday)     |
+| April, May &amp; June 2024 plus Yearly Printing Fee | 3 Months | 10/05/2024 (Friday)     |
+| July, August &amp; September 2024                   | 3 Months | 02/08/2024 (Friday)     |
+| October, November &amp; December 2024               | 3 Months | 04/10/2024 (Friday)     |
 
 <a href="/files/About%20ACS(I)/2023-GIRO-APPLICATION-FORM-ALL-LEVEL.pdf">Click here for the GIRO Application Form</a>
 
