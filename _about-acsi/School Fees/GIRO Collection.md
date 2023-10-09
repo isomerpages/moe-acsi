@@ -6,7 +6,7 @@ third_nav_title: School Fees
 ---
 **Collection of School Fees and Miscellaneous Fees**
 
-1.  Fees are collected via GIRO and the due dates for school fees and miscellaneous fees are indicated below:
+1. Fees are collected via GIRO and the due dates for school fees and miscellaneous fees are indicated below:
 
 | Months                                          |          |    GIRO Deduction Dates |
 |-------------------------------------------------|----------|-------------------------|
@@ -19,22 +19,22 @@ third_nav_title: School Fees
 
 (Please submit the original copy to our Accounts Receivable Department at Admin Office – Level 3. The bank may take up to 4-6 weeks to process the GIRO application.)
 
-2.  Fees paid are not refundable.
+2. Fees paid are not refundable.
 
-3.  Under the GIRO scheme, official receipts for payment of school fees and miscellaneous
+3. Under the GIRO scheme, official receipts for payment of school fees and miscellaneous
 fees will not be issued. Deduction will be reflected in the parent’s/guardian’s bank
 statement.
 
-4.  Parents/guardians are advised to ensure that sufficient funds are available in their
+4. Parents/guardians are advised to ensure that sufficient funds are available in their
 accounts on the due dates. When the deduction by GIRO scheme is unsuccessful, the
 invoice for the outstanding amount will be sent to parents / guardians at their residential
 address and through email. An administrative charge of $20 will be levied for any GIRO
 failure due to insufficient funds.
 
-5.  Parents/guardians are advised to ensure that sufficient funds are available in their
+5. Parents/guardians are advised to ensure that sufficient funds are available in their
 accounts on the due dates. When the deduction by GIRO scheme is unsuccessful, the
 invoice for the outstanding amount will be sent to parents / guardians at their residential
 address and through email. An administrative charge of $20 will be levied for any GIRO
 failure due to insufficient funds.
 
-6.  Full disclosure is necessary for applications to be processed.
+6. Full disclosure is necessary for applications to be processed.
