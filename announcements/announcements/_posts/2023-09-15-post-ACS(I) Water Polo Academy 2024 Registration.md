@@ -12,7 +12,7 @@ The programme is held at ACS(I), run by our teachers and in-house water polo coa
 
 For Primary 2 or Primary 3 boys who are keen to enrol in ACS(I) WPA’s 2024 intake, you are invited to register for the Selection Trials taking place on **21 Oct (Sat)** at [https://tinyurl.com/acsiwaterpolo](https://tinyurl.com/acsiwaterpolo).
 
-**Registration ends on 13 Oct 2023.**
+**Registration ends on 17 Oct 2023.**
 
 For more information, please refer to or download the brochure below.
 
