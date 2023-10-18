@@ -2,7 +2,7 @@
 title: Siren Song
 permalink: /announcements/acspression-october-2023/siren-song/
 description: ""
-third_nav_title: Siren Song
+third_nav_title: ACSpression October 2023
 ---
 ![](/images/ACSpression/October%202023/siren%20song1.png)
 
