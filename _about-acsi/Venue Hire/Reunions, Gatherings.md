@@ -7,13 +7,7 @@ third_nav_title: Venue Hire
 
 Organise your reunions and special occasions in school and recreate a unique experience that will be memorable for you and your guests. The school halls and open areas provide a superb setting for functions and photography.
 
-# Dining Hall 1
 
-<a href="/images/About%20ACS(I)/Venue%20Hire/Reunions,%20Gatherings/Dining-hall-300x200.jpg"><img src="/images/About%20ACS(I)/Venue%20Hire/Reunions,%20Gatherings/Dining-hall-300x200.jpg" style="width:25%; float:left;padding:5px"></a>
-<a href="/images/About%20ACS(I)/Venue%20Hire/Reunions,%20Gatherings/BS-Dining-Hall_01-300x200.jpg"><img src="/images/About%20ACS(I)/Venue%20Hire/Reunions,%20Gatherings/BS-Dining-Hall_01-300x200.jpg" style="width:25%;float:left;padding:5px"></a>
-<a href="/images/About%20ACS(I)/Venue%20Hire/Reunions,%20Gatherings/BS-Dining-Hall_02-300x200.jpg"><img src="/images/About%20ACS(I)/Venue%20Hire/Reunions,%20Gatherings/BS-Dining-Hall_02-300x200.jpg" style="width:25%;float:left;padding:5px"></a>
-<a href="/images/About%20ACS(I)/Venue%20Hire/Reunions,%20Gatherings/BS-Dining-Hall_03-300x200.jpg"><img src="/images/About%20ACS(I)/Venue%20Hire/Reunions,%20Gatherings/BS-Dining-Hall_03-300x200.jpg" style="width:25%;float:left;padding:5px"></a>
-<br clear="left">
 # Dining Hall 2
 
 <a href="/images/About%20ACS(I)/Venue%20Hire/Reunions,%20Gatherings/Dining-Hall2_01-300x200.jpg"><img src="/images/About%20ACS(I)/Venue%20Hire/Reunions,%20Gatherings/Dining-Hall2_01-300x200.jpg" style="width:25%;float:left;padding:5px"></a>
