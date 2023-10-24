@@ -6,7 +6,7 @@ third_nav_title: School Fees
 ---
 **Financial Assistance**
 
-Our school has various financial assistance programmes in place. Should you require assistance with school fees, please approach our Deputy Principal, Mr Patrick Soo (patrick@acsindep.edu.sg) or School Secretary, Ms Eunice Seah (eunice@acsindep.edu.sg).
+Our school has various financial assistance programmes in place. Should you require assistance with school fees, please approach our Deputy Principal, Mr Patrick Soo ([patrick@acsindep.edu.sg](mailto:patrick@acsindep.edu.sg)) or School Secretary, Ms Eunice Seah ([eunice@acsindep.edu.sg](mailto:eunice@acsindep.edu.sg)).
 
 **MOE INDEPENDENT SCHOOLS BURSARY**
 
@@ -48,7 +48,7 @@ The UPLIFT scholarship for Independent Schools provides a monetary award of $1,0
 
 The UPLIFT scholarship is automatically awarded to eligible students and no separate application is needed. 
 
-For more information please refer to&nbsp;[https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships](https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships)
+For more information please refer to [this website](https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships).
 
 **Apart from the MOE ISB, our school has following scholarships, bursaries and assistance scheme in place:**&nbsp;
 
