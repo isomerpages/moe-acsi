@@ -8,6 +8,7 @@ third_nav_title: Debate Club
 
 <p><strong>Singapore Secondary Schools Debate Championship (SSSDC) History</strong></p>
 <p>Organised by Julia Gabriel’s and the Debate Association of Singapore, the SSSDC functions as the Nationals of the secondary school debating circuit. Representing our school in Division I, our debaters have consistently performed exceptionally and achieved admirable results.</p>
+
 <table>
 <tbody>
 <tr>
@@ -256,6 +257,39 @@ third_nav_title: Debate Club
 </td>
 <td width="274">
 <p><strong>Result</strong></p>
+</td>
+</tr>
+<tr>
+<td width="106">
+<p>October 2023</p>
+</td>
+<td width="213">
+<p>Thoburn Cup 2023</p>
+</td>
+<td width="274">
+<p>Champions (Team B); 1<sup>st</sup> Runners-Up (Team A); Gabriel Wong Kiat En—Individual 1<sup>st</sup>; Yang Zhenglin—Individual 3<sup>rd</sup>; Heng Jie Feng Ayden—Individual 4<sup>th</sup>; Caden Wong Jing Xi—Individual 5<sup>th</sup>; Jerome Ong—Individual 9<sup>th</sup></p>
+</td>
+</tr>
+<tr>
+<td width="106">
+<p>August 2023</p>
+</td>
+<td width="213">
+<p>Lasallian Debate League 2023</p>
+</td>
+<td width="274">
+<p>2<sup>nd</sup> Runners-Up; Gabriel Wong Kiat En—Individual 1<sup>st</sup>; Jerome Chan Yeak Yern—Individual 2<sup>nd</sup>; Ephraim Wu I-Hng—Individual 6<sup>th</sup>; Caden Wong Jing Xi—Individual 9<sup>th</sup></p>
+</td>
+</tr>
+<tr>
+<td width="106">
+<p>August 2023</p>
+</td>
+<td width="213">
+<p>Dialogic Academy U-14 Championships 2023</p>
+</td>
+<td width="274">
+<p>Participants; Heng Jie Feng Ayden—Individual 7<sup>th</sup></p>
 </td>
 </tr>
 <tr>
