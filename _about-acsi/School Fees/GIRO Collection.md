@@ -15,7 +15,7 @@ third_nav_title: School Fees
 | July, August &amp; September 2024                   | 3 Months | 02/08/2024 (Friday)     |
 | October, November &amp; December 2024               | 3 Months | 04/10/2024 (Friday)     |
 
-<a href="/files/About%20ACS(I)/2023-GIRO-APPLICATION-FORM-ALL-LEVEL.pdf">Click here for the GIRO Application Form</a>
+<a href="/files/About%20ACS(I)/2024_giro_application_form_all_level.pdf">Click here for the GIRO Application Form</a>
 
 (Please submit the original copy to our Accounts Receivable Department at Admin Office – Level 3. The bank may take up to 4-6 weeks to process the GIRO application.)
 
