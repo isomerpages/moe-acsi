@@ -2,7 +2,7 @@
 title: FAQ
 permalink: /for-parents/parent-portal/faq/
 description: ""
-third_nav_title: Parents’ Portal (AsknLearn)
+third_nav_title: Parents’ Portal
 ---
 **1\. Who can access the Parents’ Portal or ASKnLearn™ app? Father, Mother or Guardian?**  
 The school has adopted the following access criteria in providing access to student information:  

@@ -2,9 +2,9 @@ collections:
   for-parents:
     output: true
     order:
-      - Parents’ Portal (AsknLearn)/.keep
-      - Parents’ Portal (AsknLearn)/Parents’ Portal (AsknLearn).md
-      - Parents’ Portal (AsknLearn)/FAQ.md
+      - Parents’ Portal/.keep
+      - Parents’ Portal/Parents’ Portal.md
+      - Parents’ Portal/FAQ.md
       - Parents Gateway.md
       - Road Safety and Traffic Matters.md
       - Online Health Declaration Form.md

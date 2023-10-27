@@ -1,8 +1,8 @@
 ---
-title: Parents’ Portal (AsknLearn)
+title: Parents’ Portal
 permalink: /for-parents/parent-portal/
 description: ""
-third_nav_title: Parents’ Portal (AsknLearn)
+third_nav_title: Parents’ Portal
 ---
 The [**Parents’ Portal**](https://lms.acsindep.edu.sg/ACSIndep/login.aspx) provides resources and students record modules. The PP allows parents to
 
