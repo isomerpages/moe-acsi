@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Parents’ Portal (AsknLearn)/.keep
-      - Parents’ Portal (AsknLearn)/Parents’ Portal.md
+      - Parents’ Portal (AsknLearn)/Parents’ Portal (AsknLearn).md
       - Parents’ Portal (AsknLearn)/FAQ.md
       - Parents Gateway.md
       - Road Safety and Traffic Matters.md
