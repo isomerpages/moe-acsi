@@ -10,7 +10,7 @@ The [**Parents’ Portal**](https://lms.acsindep.edu.sg/ACSIndep/login.aspx) p
 *   view your child’s term reports, subject teachers list and CCA records
 *   view Parents Resources such as Exam/Common Test timetable, Circulars and Principal presentations.
 
-Please refer to the user guide for help : **[\[Instructions to Access ACS (Independent) Parents’ Portal\]](https://www.acsindep.moe.edu.sg/files/instructions-to-access-acs-indep-parents-portal_v6.pdf)**
+Please refer to the user guide for help : **[\[Instructions to Access ACS (Independent) Parents’ Portal\]](/files/instructions%20to%20access%20acs%20(indep)%20parents%20portal_v7.pdf)**
 
 Queries on the Parents’ Portal should be directed to the LMS Administrator ([lms-admin@acsindep.edu.sg](mailto:lms-admin@acsindep.edu.sg).)
 
