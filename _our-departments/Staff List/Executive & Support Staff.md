@@ -23,7 +23,7 @@ Please note that only the names and details of key-points-of-contact are reflect
 <tr>
 <td>Admin Office</td>
 <td>Secretary</td>
-<td>Mdm Umadevi D/O Ramalingam</td>
+<td>Mdm Vimala D/O Sathasivam</td>
 </tr>
 <tr>
 <td>Admin Office</td>

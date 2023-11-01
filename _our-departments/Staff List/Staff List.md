@@ -4,9 +4,7 @@ permalink: /about-acs-independent/staff-list/
 description: ""
 third_nav_title: Staff List
 ---
-Please note that only the names and details of key-points-of-contact are reflected in the staff Directory. For the **full contact list** of teachers and staff, Parents **may log in to the** [**Parents’ Portal**](http://lms.acsindep.edu.sg/ACSIndep/logon_new.aspx?type=parents) and view the Staff List under Parent’s Resources tab.
-
-
+<p>Please note that only the names and details of key-points-of-contact are reflected in the staff Directory. For the **full contact list** of teachers and staff, Parents **may log in to the** [**Parents’ Portal**](http://lms.acsindep.edu.sg/ACSIndep/logon_new.aspx?type=parents) and view the Staff List under Parent’s Resources tab.</p>
 <table>
 <thead>
 <tr>
@@ -153,7 +151,7 @@ Please note that only the names and details of key-points-of-contact are reflect
 </tr>
 <tr>
 <td>Humanities / History</td>
-<td>Director, Student Leadership (Acting)</td>
+<td>Director, Student Leadership</td>
 <td>Mr Koh Tiang Peng</td>
 </tr>
 <tr>
@@ -209,7 +207,7 @@ Please note that only the names and details of key-points-of-contact are reflect
 <tr>
 <td>Admin Office</td>
 <td>Secretary</td>
-<td>Mdm Umadevi D/O Ramalingam</td>
+<td>Mdm Vimala D/O Sathasivam</td>
 </tr>
 <tr>
 <td>Admin Office</td>
@@ -353,3 +351,4 @@ Please note that only the names and details of key-points-of-contact are reflect
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
