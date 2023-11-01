@@ -4,7 +4,7 @@ permalink: /cricket/accolades/
 description: ""
 third_nav_title: Cricket
 ---
-![](/images/CCA%20Sports/Cricket/cricket%20achievement%20in%202023_.png)
+![](/images/CCA%20Sports/cricket%20achievement%20in%202023%20.png)
 ![](/images/CCA%20Sports/Cricket/cricket%20achievements%202011%20to%202023.png)
 
 
