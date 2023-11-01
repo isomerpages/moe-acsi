@@ -1,5 +1,5 @@
 ---
-title: Dean &amp; Directors
+title: Dean & Directors
 permalink: /dean-directors/
 description: ""
 third_nav_title: Staff List
@@ -28,7 +28,7 @@ Please note that only the names and details of key-points-of-contact are reflect
 | HPER | Deputy Director, Student Development Experiences | Mr Lawrence Ang |
 | HPER | Director (Acting), Student Development Experiences &amp; Teacher-In-Charge (Discipline Committee) | Mr George Lam Choon Seng |
 | Science / Physics | Director, Information &amp; Communication Technology (ICT) | Mr Foo Kam Meng |
-| Humanities / History | Director, Student Leadership (Acting) | Mr Koh Tiang Peng |
+| Humanities / History | Director, Student Leadership | Mr Koh Tiang Peng |
 | Career Opportunities &amp; Guidance | Director, Career, Opportunities &amp; Guidance | Mrs Juliana Liu-Tengara |
 | English/Literature | Director Year 1 | Mrs Diane Choo |
 | Mathematics | Director Year 2 | Mr Gabriel Phee Tang Nam |
