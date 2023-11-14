@@ -3,6 +3,7 @@ title: Teachers
 permalink: /cpa/teachers/
 description: ""
 third_nav_title: Cultural Performing Arts Club
+variant: markdown
 ---
 ### Mdm Linda Hung Hsiu Chi (Overall Teacher in-charge)
 
@@ -10,12 +11,12 @@ third_nav_title: Cultural Performing Arts Club
 
 _Office: 67739208_
 
-### Mdm Venkatesan Alagurani (Indian section)
+### Mdm Vimaldevi Venkhatesham Pillai (Indian section)
 
 
-_Email: [rani@acsindep.edu.sg](mailto:rani@acsindep.edu.sg)_ 
+_Email: [vimaldevi@acsindep.edu.sg](mailto:vimaldevi@acsindep.edu.sg)_ 
 
-_Office: 68700436_
+_Office: 68700667
 
 ### Ms Mira Azunah Binte Hassan (Malay section)
 _Email: miraazunah@acsindep.edu.sg_
