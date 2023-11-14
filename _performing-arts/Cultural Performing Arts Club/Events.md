@@ -3,7 +3,25 @@ title: Events
 permalink: /cpa/events/
 description: ""
 third_nav_title: Cultural Performing Arts Club
+variant: markdown
 ---
+
+### Performances in 2023
+
+**School Performance/ Events**
+
+*   Year One Discovery Camp 2023 (Multi-cultural Drums)
+*   Chinese New Year Concert 2023 (Festive Drum)
+*   Founder’s Day 2023 (Multi-cultural Drums)
+*   Open House 2023 (Multi-cultural Drums)
+*   Performing Arts Night Festival at Esplanade (Multi-cultural Drums combined with Dance Venia)
+*   National Day celebration (Multi-cultural Drums)
+*   Honours Day celebration (Multi-cultural Drums)
+
+**External Performance**
+
+*   Methodist Get-together 2023 (Festive Drum)
+
 ### Performances in 2022
 
 **School Performance/ Events**
