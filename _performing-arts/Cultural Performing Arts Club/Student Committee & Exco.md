@@ -3,162 +3,282 @@ title: Student Committee & Exco
 permalink: /cpa/student-committee-exco/
 description: ""
 third_nav_title: Cultural Performing Arts Club
+variant: markdown
 ---
-**2023 Festive Drum EXCO members**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1wig"><span style="font-weight:bolder">Position</span></th>
-    <th class="tg-1wig"><span style="font-weight:bolder">Name</span></th>
-    <th class="tg-1wig"><span style="font-weight:bolder">Class</span></th>
-  </tr>
-</thead>
+<ul>
+<li><strong>2024 Festive Drum EXCO members</strong></li>
+</ul>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-cly1">President (overall)</td>
-    <td class="tg-cly1">Fu Yuheng</td>
-    <td class="tg-cly1">6.13</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Vice President</td>
-    <td class="tg-cly1">Jonnas Zaman</td>
-    <td class="tg-cly1">4.05</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Drum technics</td>
-    <td class="tg-cly1">Theodore Tan Yu Hong</td>
-    <td class="tg-cly1">3.08</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Publicity</td>
-    <td class="tg-cly1">Liew Yan Tao</td>
-    <td class="tg-cly1">2.11</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Safety</td>
-    <td class="tg-cly1">Carlos Goh Ka Fai</td>
-    <td class="tg-cly1">2.10</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Secretary</td>
-    <td class="tg-cly1">Liang Kuan Yun (Long Guanyu)</td>
-    <td class="tg-cly1">2.03</td>
-  </tr>
+<tr>
+<td width="240">
+<p><strong>Position</strong></p>
+</td>
+<td width="237">
+<p><strong>Name of Student</strong></p>
+</td>
+<td width="88">
+<p><strong>Class</strong></p>
+</td>
+</tr>
+<tr>
+<td width="240">
+<p>President (overall)</p>
+</td>
+<td width="237">
+<p>Theodore Tan Yu Hong</p>
+</td>
+<td width="88">
+<p>4.02</p>
+</td>
+</tr>
+<tr>
+<td width="240">
+<p>Vice President</p>
+</td>
+<td width="237">
+<p>TIMOTHY CHOY REN SHYAN</p>
+</td>
+<td width="88">
+<p>6.04</p>
+</td>
+</tr>
+<tr>
+<td width="240">
+<p>Student conductor</p>
+</td>
+<td width="237">
+<p>Liew Yan Tao</p>
+</td>
+<td width="88">
+<p>3.11</p>
+</td>
+</tr>
+<tr>
+<td width="240">
+<p>Secretary</p>
+</td>
+<td width="237">
+<p>NGUYEN TUAN MINH</p>
+</td>
+<td width="88">
+<p>4.05</p>
+</td>
+</tr>
+<tr>
+<td width="240">
+<p>Safety</p>
+</td>
+<td width="237">
+<p>Carlos Goh Ka Fai</p>
+</td>
+<td width="88">
+<p>3.09</p>
+</td>
+</tr>
+<tr>
+<td width="240">
+<p>Instrument manager</p>
+</td>
+<td width="237">
+<p>LE HOANG DUONG</p>
+</td>
+<td width="88">
+<p>4.07</p>
+</td>
+</tr>
+<tr>
+<td width="240">
+<p>Publicity/Welfare</p>
+</td>
+<td width="237">
+<p>BAMBANG HARDJO</p>
+</td>
+<td width="88">
+<p>4.08</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-**2023 Indian section EXCO members**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1wig"><span style="font-weight:bolder">Position</span></th>
-    <th class="tg-1wig"><span style="font-weight:bolder">Name</span></th>
-    <th class="tg-1wig"><span style="font-weight:bolder">Class</span></th>
-  </tr>
-</thead>
+<p>&nbsp;</p>
+<ul>
+<li><strong>2024 Indian Section EXCO members</strong></li>
+</ul>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-cly1">Chairperson</td>
-    <td class="tg-cly1">Sureyaaprakash Kalaimahan Subramaniam</td>
-    <td class="tg-cly1">6.01</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Vice-Chairman</td>
-    <td class="tg-cly1">Kavin s/o Devaraj</td>
-    <td class="tg-cly1">6.12</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Upper Sec CCA Executive Committee / Secretary</td>
-    <td class="tg-cly1">Kavin Sasikumar</td>
-    <td class="tg-cly1">Y5</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Student conductor</td>
-    <td class="tg-cly1">Thirumalai Adhithyavelan</td>
-    <td class="tg-cly1">Y5</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Lower Sec CCA Executive Committee Member</td>
-    <td class="tg-cly1">Kavin Manimaran</td>
-    <td class="tg-cly1">Y3</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Lower Sec CCA Committee Member</td>
-    <td class="tg-cly1">Madhan Selvakumar</td>
-    <td class="tg-cly1">2.01</td>
-  </tr>
+<tr>
+<td width="295">
+<p><strong>Position</strong></p>
+</td>
+<td width="189">
+<p><strong>Name</strong></p>
+</td>
+<td width="62">
+<p><strong>Class</strong></p>
+</td>
+</tr>
+<tr>
+<td width="295">
+<p>Chairman / Student conductor</p>
+</td>
+<td width="189">
+<p>Thirumalai Adhithyavelan</p>
+</td>
+<td width="62">
+<p>5.02</p>
+</td>
+</tr>
+<tr>
+<td width="295">
+<p>Vice-Chairman</p>
+</td>
+<td width="189">
+<p>Kavin Sasikumar</p>
+</td>
+<td width="62">
+<p>5.08</p>
+</td>
+</tr>
+<tr>
+<td width="295">
+<p>Secretary</p>
+</td>
+<td width="189">
+<p>Kavin Manimaran</p>
+</td>
+<td width="62">
+<p>3.10</p>
+</td>
+</tr>
+<tr>
+<td width="295">
+<p>Instrument Manager</p>
+</td>
+<td width="189">
+<p>Madhan Selvakumar</p>
+</td>
+<td width="62">
+<p>Y3</p>
+</td>
+</tr>
+<tr>
+<td width="295">
+<p>Lower Sec CCA Committee Member</p>
+</td>
+<td width="189">
+<p>Gong Wei Yi Jeremiah</p>
+</td>
+<td width="62">
+<p>2.01</p>
+</td>
+</tr>
+<tr>
+<td width="295">
+<p>Lower Sec CCA Committee Member</p>
+</td>
+<td width="189">
+<p>Yap Shi Min Tyler</p>
+</td>
+<td width="62">
+<p>2.01</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-**2023 Malay section EXCO members:**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1wig"><span style="font-weight:bolder">Position</span></th>
-    <th class="tg-1wig"><span style="font-weight:bolder">Name</span></th>
-    <th class="tg-1wig"><span style="font-weight:bolder">Class</span></th>
-  </tr>
-</thead>
+<p>&nbsp;</p>
+<ul>
+<li><strong>2024 Malay section EXCO members:</strong></li>
+</ul>
+<table width="651">
 <tbody>
-  <tr>
-    <td class="tg-cly1">Chairperson</td>
-    <td class="tg-cly1">Izz Zayan Bin Azman</td>
-    <td class="tg-cly1">4.06</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Vice-Chairperson 1</td>
-    <td class="tg-cly1">Ely Anakin Bin Nor Sazly</td>
-    <td class="tg-cly1">Y5</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Vice-Chairperson 2</td>
-    <td class="tg-cly1">Farid Bin Samad</td>
-    <td class="tg-cly1">Y3</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Secretary</td>
-    <td class="tg-cly1">Jonathan Jevielin Kristianto</td>
-    <td class="tg-cly1">Y3</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Logistics</td>
-    <td class="tg-cly1">Izz Zafir Bin Jeffri</td>
-    <td class="tg-cly1">Y3</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Welfare</td>
-    <td class="tg-cly1">Izz Irfan Bin Ismail</td>
-    <td class="tg-cly1">2.03</td>
-  </tr>
+<tr>
+<td width="156">
+<p><strong>Position</strong></p>
+</td>
+<td width="404">
+<p><strong>Name</strong></p>
+</td>
+<td width="91">
+<p><strong>Class</strong></p>
+</td>
+</tr>
+<tr>
+<td width="156">
+<p>Chairman</p>
+</td>
+<td width="404">
+<p>AZIZZUL HAKIM</p>
+</td>
+<td width="91">
+<p>6.10</p>
+</td>
+</tr>
+<tr>
+<td width="156">
+<p>Vice-Chairman 1</p>
+</td>
+<td width="404">
+<p>RADHIZUL ARMAN BIN MUHAMMAD ROSTAM</p>
+</td>
+<td width="91">
+<p>4.13</p>
+</td>
+</tr>
+<tr>
+<td width="156">
+<p>Vice-Chairman 2</p>
+</td>
+<td width="404">
+<p>JONATHAN JEVIELIN KRISTIANTO</p>
+</td>
+<td width="91">
+<p>4.15</p>
+</td>
+</tr>
+<tr>
+<td width="156">
+<p>Secretary</p>
+</td>
+<td width="404">
+<p>JERIEL LAI ZHEN CHOONG</p>
+</td>
+<td width="91">
+<p>6.10</p>
+</td>
+</tr>
+<tr>
+<td width="156">
+<p>Student Conductor</p>
+</td>
+<td width="404">
+<p>NOOR IRFAN BIN RAIMI</p>
+</td>
+<td width="91">
+<p>2.01</p>
+</td>
+</tr>
+<tr>
+<td width="156">
+<p>Instrument Manager</p>
+</td>
+<td width="404">
+<p>EDWARD NICOLAS WEI</p>
+</td>
+<td width="91">
+<p>2.01</p>
+</td>
+</tr>
+<tr>
+<td width="156">
+<p>Welfare</p>
+</td>
+<td width="404">
+<p>MOHAMMED ALI BIN MOHAMMED FARHAN AL-NUHII</p>
+</td>
+<td width="91">
+<p>2.01</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
