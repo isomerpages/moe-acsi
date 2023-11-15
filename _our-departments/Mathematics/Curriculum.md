@@ -9,10 +9,12 @@ variant: markdown
 
 Click on the course options to read more about the types of Mathematics offered in ACS(Independent).
 
+[](/files/Our%20Departments/Mathematics%202024/Year_3_Express_Add_Math.pdf)
+
 *   <a href="/files/Our%20Departments/Mathematics/Year-1-Express-Mathematics.pdf" target="_blank">Year 1&nbsp;Mathematics</a>
 *   <a href="/files/Our%20Departments/Mathematics%202024/Year_2_Express_Mathematics.pdf" target="_blank">Year 2&nbsp;Mathematics</a>
 *   <a href="/files/Our%20Departments/Mathematics%202024/Year_3_Express_Mathematics.pdf" target="_blank">Year 3 Mathematics</a>
-*   <a href="/files/Our%20Departments/Mathematics/Year-3-Express-Additional-Mathematics.pdf" target="_blank">Year 3 Additional Mathematics</a>
+*   <a href="/files/Our%20Departments/Mathematics%202024/Year_3_Express_Add_Math.pdf" target="_blank">Year 3 Additional Mathematics</a>
 *   <a href="/files/Our%20Departments/Mathematics%202024/Year_4_Express_Mathematics.pdf" target="_blank">Year 4 Mathematics</a>
 *   <a href="/files/Our%20Departments/Mathematics%202024/Year_4_Express_Add_Math.pdf" target="_blank">Year 4 Additional Mathematics</a>
 
