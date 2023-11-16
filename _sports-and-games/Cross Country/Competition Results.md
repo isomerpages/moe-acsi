@@ -3,7 +3,18 @@ title: Competition Results
 permalink: /crosscountry/competition-2019/
 description: ""
 third_nav_title: Cross Country
+variant: markdown
 ---
+**2023 National Schools Games Track &amp; Field Championships**
+
+**“A” Division Boys: 4th**
+
+**“B” Division Boys: 2nd**
+
+**“C” Division Boys: 3rd**
+
+
+
 **2023 National Schools Games Cross Country Championships**
 
 **"A" Division Boys: 3rd**
