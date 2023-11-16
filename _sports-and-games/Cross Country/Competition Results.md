@@ -13,7 +13,15 @@ variant: markdown
 
 **“C” Division Boys: 3rd**
 
+![](/images/CCA%20Sports/Cross%20Country/4_15_40.jpeg)
 
+![](/images/CCA%20Sports/Cross%20Country/5L2A2227.JPG)
+
+![](/images/CCA%20Sports/Cross%20Country/5L2A5211.JPG)
+
+![](/images/CCA%20Sports/Cross%20Country/5L2A8073.JPG)
+
+![](/images/CCA%20Sports/Cross%20Country/IMG_1051.jpg)
 
 **2023 National Schools Games Cross Country Championships**
 
