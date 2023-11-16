@@ -20,26 +20,14 @@ variant: markdown
 <td>68700677</td>
 </tr>
 <tr>
-<td>
-<p>Mr Jason Lai</p>
-</td>
-<td>
-<p>jasonlaijr@acsindep.edu.sg</p>
-</td>
-<td>
-<p>68700695</p>
-</td>
+<td>Mr Jason Lai</td>
+<td>jasonlaijr@acsindep.edu.sg</td>
+<td>68700695</td>
 </tr>
 <tr>
-<td>
-<p>Mr John Foenander</p>
-</td>
-<td>
-<p>foenanderjohnpaul@acsindep.edu.sg</p>
-</td>
-<td>
-<p>67768563</p>
-</td>
+<td>Mr John Foenander</td>
+<td>foenanderjohnpaul@acsindep.edu.sg</td>
+<td>67768563</td>
 </tr>
 </tbody>
 </table>
