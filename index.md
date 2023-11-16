@@ -18,6 +18,12 @@ sections:
           description: ""
           url: /for-parents/
       background: /images/Homepage/Homepage Main Image.jpg
+  - infopic:
+      title: Theme Verse 2024
+      id: infopic
+      image: /images/Theme Verse
+        Infopic/School_Theme_2024_for_major_events_verse_2a.jpg
+      alt: Image alt text
   - resources:
       subtitle: Announcements
       button: more
