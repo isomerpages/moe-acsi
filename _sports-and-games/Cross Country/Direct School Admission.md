@@ -3,6 +3,7 @@ title: Direct School Admission
 permalink: /crosscountry/dsa/
 description: ""
 third_nav_title: Cross Country
+variant: markdown
 ---
 <table>
 <tbody>
@@ -41,7 +42,7 @@ third_nav_title: Cross Country
 </td>
 <td>
 <ul>
-<li><strong>Time-Trial to be held on ACS(I) School Track (Choose only 1 session: 24th June or 1st July)</strong></li>
+<li><strong>Time-Trial to be held on ACS(I) School Track (TBC)</strong></li>
 </ul>
 </td>
 </tr>
