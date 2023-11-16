@@ -3,7 +3,16 @@ title: Photo Gallery
 permalink: /crosscountry/gallery/
 description: ""
 third_nav_title: Cross Country
+variant: markdown
 ---
+### Final Year Examination Study Group 2023
+
+![](/images/CCA%20Sports/Cross%20Country/1.jpg)Absolute silence and concentration
+
+![](/images/CCA%20Sports/Cross%20Country/2.jpg)Playing together during "Mind-Break" time
+
+![](/images/CCA%20Sports/Cross%20Country/3.jpg)Seniors helping their Juniors... Thank you Seniors!
+
 ### Cross Camp 2023&nbsp;<br> (**A GIANT THANK YOU** to our **Cross Camp Planning Committee**)
 
 ![](/images/CCA%20Sports/Cross%20Country/microsoftteams-image%20(28).png) Voting for our new Captains and Vice-Captain
