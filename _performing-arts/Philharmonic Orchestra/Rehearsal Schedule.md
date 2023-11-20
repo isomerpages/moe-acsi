@@ -3,34 +3,24 @@ title: Rehearsal Schedule
 permalink: /philharmonic/rehearsal-schedule/
 description: ""
 third_nav_title: Philharmonic Orchestra
+variant: markdown
 ---
 ### Rehearsal Days
 
 ![](/images/schedule.png)
 
-
 **HOLIDAY REHEARSALS:**
 
-Attendance at rehearsals is compulsory. Kindly avoid making travel plans during March and Nov.
+Attendance at rehearsals is **compulsory (to bold)**. Kindly avoid making travel plans during March and Nov.
 
 *   March: intensive rehearsals throughout the week
 *   June: No rehearsals
 *   September: No rehearsals
-*   November: Until Week 10 (17 November 2023)
+*   November: Until Week 10 (15 November 2024)
 
 There will be additional rehearsals leading up to events.
 
 Venues for sectionals and combined rehearsals will be announced to students.
-
-* * *
-
-**2023 Rehearsal Schedule:** 
-
-
-
-[2023 Term 2 Rehearsal Schedule Updated 10 Apr](/files/CCA/2023%20term%202%20rehearsal%20schedule%20updated%2010%20apr.pdf)
-
-Check this page for regular updates!
 
 * * *
 
