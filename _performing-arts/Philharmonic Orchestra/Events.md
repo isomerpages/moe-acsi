@@ -3,20 +3,21 @@ title: Events
 permalink: /philharmonic/events-2/
 description: ""
 third_nav_title: Philharmonic Orchestra
+variant: markdown
 ---
 The Orchestra provides its members with many invaluable opportunities to perform over the course of the year. Several key events we participate in include:
 
 ##### Singapore Youth Festival (SYF) Arts Presentation
 
-The SYF Arts Presentation is a biennial national event for the various performing arts groups in Singapore to showcase their talents and passion for music. The Secondary Orchestra has made its mark in the local music scene by clinching consecutive pinnacle awards (Gold with Honours / Gold / Distinction) over the last two decades, while the IB Orchestra, which was formed only in recent years, achieved a Distinction at the 2017, 2019,  2021, 2021 and 2023 SYF Arts Presentation.
+The SYF Arts Presentation is a biennial national event for the various performing arts groups in Singapore to showcase their talents and passion for music. The Secondary Orchestra has made its mark in the local music scene by clinching consecutive pinnacle awards (Gold with Honours / Gold / Distinction) over the last two decades, while the IB Orchestra, which was formed only in recent years, achieved a Distinction at the 2017 to 2023 SYF Arts Presentation.
 
 * * *
 
 #### Festival Of Arts & Performing Arts Night Festival
 
-Held shortly after the SYF Arts presentation, the Performing Arts Night Festival allows the orchestra to showcase our SYF repertoire alongside other Performing Arts CCAs.
+Held shortly after the SYF Arts presentation, the Performing Arts Night Festival allows the orchestra to showcase our SYF repertoire alongside other Performing Arts CCAs. In 2023, we held our very first Performing Arts Night Festival @ the Esplanade.
 
-The Festival of Arts (FOA), on the other hand, sees each Performing Arts CCA putting up individual evening concert during non-SYF years with our Orchestra’s FOA typically taking place in April or May. We perform music from different periods and genres (including works by alumni), many of which allows our members to explore challenging pieces.
+The Festival of Arts (FOA), on the other hand, sees each Performing Arts CCA putting up an individual evening concert during non-SYF years with our Orchestra’s FOA typically taking place in April or May. We perform music from different periods and genres (including works by alumni), many of which allows our members to explore challenging pieces.
 
 * * *
 
@@ -54,6 +55,6 @@ The open house is a yearly event where interested students and parents may visit
 
 #### Outreach
 
-The orchestra students have a huge heart of service and find numerous ways to serve the wider community. Since 2017, the IB Orchestra has done a music outreach assembly programme at Kuo Chuan Presbyterian Primary School. Students from the orchestra also volunteer to perform for elderly guests from the Dover community during the Chinese New Year lunch hosted by the school.
+The orchestra students have a huge heart of service and find numerous ways to serve the wider community. Since 2017, the IB Orchestra has done a music outreach assembly programme at Kuo Chuan Presbyterian Primary School. Students from the orchestra also volunteer to perform for elderly guests from the Dover community during the Chinese New Year lunch hosted by the school. 2023 marked the start of our VIA partnership with Rainbow Centre.
 
 Students who wish to plan adhoc music outreach projects and events are given guidance and support.
