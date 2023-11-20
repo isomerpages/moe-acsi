@@ -3,6 +3,7 @@ title: Philharmonic Orchestra
 permalink: /philharmonic/
 description: ""
 third_nav_title: Philharmonic Orchestra
+variant: markdown
 ---
 **OUR HISTORY**
 
@@ -18,4 +19,4 @@ Finally, in 2006, the inaugural cohort of International Baccalaureate students f
 
 The ACS (Independent) Philharmonic Orchestra’s mission is to cultivate youth leadership through music. With strong support from the school, the orchestra seeks to explore the symphonic repertoire under the music direction of Mr Yang Zheng Yi (secondary orchestra) and Mr Edward Tan (IB orchestra), further their contributions to Singapore’s increasingly vibrant music scene, as well as maintain old partnerships whilst establishing new ones with orchestras, chamber groups, schools, and conservatories around the world.
 
-The orchestra has also clinched eleven consecutive top awards at the biennial Singapore Youth Festival Central Judging (1999-2021) – a feat no other school has achieved – and hopes to continue bringing glory to God and the school.
+The orchestra has also clinched eleven consecutive top awards at the biennial Singapore Youth Festival Central Judging (1999-2023) – a feat no other school has achieved – and hopes to continue bringing glory to God and the school.
