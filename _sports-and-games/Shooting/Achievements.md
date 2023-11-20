@@ -3,7 +3,114 @@ title: Achievements
 permalink: /shooting/achievements/
 description: ""
 third_nav_title: Shooting
+variant: markdown
 ---
+### 2023
+
+      
+In 2023, our ‘A’, ‘B’ and ‘C’ Division shooters from the ACS (Independent) Shooting CCA competed in the National School Games (NSG). In preparation for the NSG, our shooters trained tirelessly, always giving their best and striving for excellence in their sport, despite challenges to balance their academic commitments with their rigorous training schedules.
+
+We are proud to announce that our shooters’ hard work has paid off, and that they have achieved commendable results in all categories. 2023 was also the first year with individual finals since 2019 due to the pandemic, and hence competing in the finals was a new experience for most of us, myself included. The results are as follows:
+
+<table cellpadding="0" cellspacing="0" width="604" border="1">
+<tbody>
+<tr>
+<td width="189">
+<p><strong>Category</strong></p>
+</td>
+<td width="180">
+<p><strong>Placement</strong></p>
+</td>
+<td width="236">
+<p><strong>Individual Finals</strong></p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>‘A’ Division Pistol</p>
+</td>
+<td width="180">
+<p>Team 2<sup>nd</sup></p>
+</td>
+<td width="236">
+<p>2<sup>nd</sup> (Justin Loei)</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>‘A’ Division Rifle</p>
+</td>
+<td width="180">
+<p>Team 4<sup>th</sup></p>
+</td>
+<td width="236">
+<p>4<sup>th</sup> (Matthew Khoo)</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>‘B’ Division Pistol</p>
+</td>
+<td width="180">
+<p>Team 2<sup>nd</sup>&nbsp;</p>
+</td>
+<td width="236">
+<p>7<sup>th</sup> (Bhargav Venkatraman)</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>‘B’ Division Rifle</p>
+</td>
+<td width="180">
+<p>Team 5<sup>th</sup></p>
+</td>
+<td width="236">
+<p>5<sup>th</sup> (Ryken Lum)</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>‘C’ Division Pistol</p>
+</td>
+<td width="180">
+<p>Team 3<sup>rd</sup></p>
+</td>
+<td width="236">
+<p>6<sup>th</sup> (Matthew Yeo)</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>‘C’ Division Rifle</p>
+</td>
+<td width="180">
+<p>Team 5<sup>th</sup></p>
+</td>
+<td width="236">
+<p>11<sup>th</sup> (Tang Zhang Cheng)</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+We are extremely proud of our shooters’ dedication and achievements, as well as their perseverance to excel in the sport. These achievements have been made possible not only through our shooters’ own hard work, but also the constant support and encouragement from our teachers, Mrs. Ho-Toh Ling Lee, Ms. Mazlind and Mr. Teo Eng Han, throughout their NSG journey. We must also not forget the guidance and mentorship from our patient coaches, Coach Fan Xiaoping and Coach Gai Bin, and above all God.
+
+To God be the glory, the best is yet to be!
+
+![](/images/CCA%20Sports/Shooting%20CCA/Picture6.jpg) ‘A’ Div Team with Coach Fan
+
+![](/images/CCA%20Sports/Shooting%20CCA/Picture7.jpg) ‘B’ Div Team with Coach Gai and Coach Fan
+
+![](/images/CCA%20Sports/Shooting%20CCA/Picture8.jpg) ‘C’ Div Team with Mr. Koh and teachers
+
+![](/images/CCA%20Sports/Shooting%20CCA/Picture9.jpg) Our ‘B’ Div rifle shooter, Keagen Sim, in action.
+
+![](/images/CCA%20Sports/Shooting%20CCA/Picture10.jpg) Jerome Ong of ‘B’ Div pistol team taking an aim to deliver a good shot.
+
+
+
+
 ### 2022
 
 In the year of 2022, our ‘A’, ‘B’ and ‘C’ Division shooters from the ACS (Independent) Shooting CCA competed in the National School Games (NSG). In preparation for the NSG, our shooters trained tirelessly, always giving their best and striving for excellence in their sport. It was challenging for them as they had to balance their academic commitments with their rigorous training schedules. We are proud to announce that our shooters’ hard work has paid off, and that they have achieved commendable results in all categories.
@@ -45,14 +152,13 @@ The results are as follows:
 </tbody>
 </table>
 
-In addition to the team accolades, we would also like to congratulate **Chua Joel** from Class 2.06 (attained 2nd in ‘C’ Division Rifle), **Jason Kok Wen Hao** from Class 3.15 (attained 4th in ‘B’ Division Rifle) as well as **Justin Loei Wen Hao** from Class 5.07 (attained 2nd in ‘A’ Division Pistol) on their outstanding individual performances. Well-done, everyone!
+In addition to the team accolades, we would also like to congratulate&nbsp;**Chua Joel**&nbsp;from Class 2.06 (attained 2nd&nbsp;in ‘C’ Division Rifle),&nbsp;**Jason Kok Wen Hao**&nbsp;from Class 3.15 (attained 4th&nbsp;in ‘B’ Division Rifle) as well as&nbsp;**Justin Loei Wen Hao**&nbsp;from Class 5.07 (attained 2nd&nbsp;in ‘A’ Division Pistol) on their outstanding individual performances. Well-done, everyone!
 
 We are extremely proud of our shooters’ dedication and achievements, and their perseverance in the face of challenges. These achievements have been made possible through our shooters’ hard work as well as the constant support and encouragement from our teachers, namely Mrs. Ho-Toh Ling Lee, Ms. Mazlind and Mr. Teo Eng Han. We must also not forget the guidance and mentorship from our patient coaches, Coach Fan Xiaoping and Coach Gai Bin, and above all God.
 
 To God be the glory, the best is yet to be!
 
-<img src="/images/shooting.png" 
-     style="width:40%">
+<img src="/images/shooting.png" style="width:40%">
 		 
 Submitted By <br>
 Matthew Khoo Yi-Ren (Class 4.13) <br>
@@ -78,11 +184,9 @@ The following ‘B’ Division Air Pistol Shooters also won individual medals:
 
 To God be the glory, The Best Is Yet To Be.
 
-<img src="/images/shooting%202.png" 
-     style="width:40%">
+<img src="/images/shooting%202.png" style="width:40%">
 		 
-<img src="/images/shooting%203.png" 
-     style="width:40%">
+<img src="/images/shooting%203.png" style="width:40%">
 		 
 * * * 
 
@@ -189,10 +293,9 @@ All these achievements were only made possible through the hard work and dedicat
 
 To God be the glory, the best is truly yet to be!
 
-Written by Roy Yian (3.04 Ezekiel) & Joshua Neo (3.12 Amos)
+Written by Roy Yian (3.04 Ezekiel) &amp; Joshua Neo (3.12 Amos)
 
-<img src="/images/shooting%204.png" 
-     style="width:40%">
+<img src="/images/shooting%204.png" style="width:40%">
 
 * * *
 
@@ -200,7 +303,7 @@ Written by Roy Yian (3.04 Ezekiel) & Joshua Neo (3.12 Amos)
 
 The ACS (Independent) Shooting Club participated in several competitions such as the Nanyang Technological University Invitational Shoot, the National University of Singapore Invitational Shoot and the Singapore Youth Olympic Festival in preparation for the 22nd National Inter-School Shooting Championships. Our shooters fought hard against intense competition from worthy opponents, giving their all and eventually attaining well-deserved awards.
 
-The results for the **22nd National Inter-School Shooting Championships** are:
+The results for the&nbsp;**22nd National Inter-School Shooting Championships**&nbsp;are:
 
 <table>
 <thead>
@@ -434,7 +537,7 @@ From Roy Yian (2.03 Gad) and Joshua Neo (2.04 Judah)
 
 *   2nd place in the Rifle Team event – Toran Seth (Year 6), Andrew Mark Lim (5.09) and Aaron Leong (Year 3).
 
-3. 18th Nationals Inter-School Shooting Championships
+3. 18th&nbsp;Nationals Inter-School Shooting Championships
 4. 
 5. **_SPECIAL MENTIONS:_**
 
@@ -442,9 +545,9 @@ From Roy Yian (2.03 Gad) and Joshua Neo (2.04 Judah)
 
 *We are proud of Keith Chan (class 5.06), a National Youth Team member, who represented Singapore in several international competitions listed below. For his invaluable contributions, he was awarded the ACS Old Boys’ Association President’s Award at Honours Day 2014.
 
-*   _7 – 14 March: 7th Asian Championship, Kuwait. Out of a total of 46 participants from 19 Countries. Achieved individual 24th and team 5th._
+*   _7 – 14 March: 7th&nbsp;Asian Championship, Kuwait. Out of a total of 46 participants from 19 Countries. Achieved individual 24th&nbsp;and team 5th._
 *   _4 – 13 June: ISSF World Cup Rifle/Pistol/Shotgun held in Munich, Germany. An open category competition with a total of 133 participants from 57 countries. Achieved individual 93th place_
-*   _23 July – 3 August: 20th Commonwealth Games held in Glasgow, England. An open category competition with a total of 21 participants from 12 countries. Achieved individual 11th place._
+*   _23 July – 3 August: 20th&nbsp;Commonwealth Games held in Glasgow, England. An open category competition with a total of 21 participants from 12 countries. Achieved individual 11th&nbsp;place._
 
 *We would like to congratulate Gregg Chan (class 2.06) for his brilliant performance at the Singapore Invitational Shoot 2014. In the men’s 10m air rifle final on 8th December, Gregg Chan won the elimination-style finals with a total of 203.2 points, ahead of Japan’s Kazuma Hashizume (202.1). Well done!
 
@@ -480,9 +583,9 @@ From Roy Yian (2.03 Gad) and Joshua Neo (2.04 Judah)
 *   In the School Category: The C division Air Pistol Team won the Zonal Team Silver while the B division Air Rifle Team won the Overall and Zonal Team Golds.
 *   In the Individual Category: Keith Chan achieved the Zonal Individual Gold medal, while Toran Seth and Li Huang Kang won the Zonal Individual Silver medals. Lin Jia Kai won the Individual Bronze medal.
 
-2. 16th Nationals Inter-School Shooting Championship 2012
+2. 16th&nbsp;Nationals Inter-School Shooting Championship 2012
 
-*   Attained 2nd runner up position for B Division Air Rifle Team
+*   Attained 2nd&nbsp;runner up position for B Division Air Rifle Team
 *   Individual Champion for B Division Air Rifle – Keith Chan (Class 3.18)
 
 3. Singapore Open Shooting Championships 2012
