@@ -98,6 +98,17 @@ We are extremely proud of our shooters’ dedication and achievements, as well a
 
 To God be the glory, the best is yet to be!
 
+![](/images/CCA%20Sports/Shooting%20CCA/Picture6.jpg) ‘A’ Div Team with Coach Fan
+
+![](/images/CCA%20Sports/Shooting%20CCA/Picture7.jpg) ‘B’ Div Team with Coach Gai and Coach Fan
+
+![](/images/CCA%20Sports/Shooting%20CCA/Picture8.jpg) ‘C’ Div Team with Mr. Koh and teachers
+
+![](/images/CCA%20Sports/Shooting%20CCA/Picture9.jpg) Our ‘B’ Div rifle shooter, Keagen Sim, in action.
+
+![](/images/CCA%20Sports/Shooting%20CCA/Picture10.jpg) Jerome Ong of ‘B’ Div pistol team taking an aim to deliver a good shot.
+
+
 
 
 ### 2022
