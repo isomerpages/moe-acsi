@@ -3,6 +3,7 @@ title: Teachers and Student Committees
 permalink: /philharmonic/teachers/
 description: ""
 third_nav_title: Philharmonic Orchestra
+variant: markdown
 ---
 ### **Teachers In-Charge**
 
@@ -47,4 +48,5 @@ third_nav_title: Philharmonic Orchestra
 </tbody>
 </table>
 
-![](/images/20222023-Exco-1.jpg)
+![](/images/Performing%20Arts/Philharmonic%20Orchestra%20/Picture5.png)
+
