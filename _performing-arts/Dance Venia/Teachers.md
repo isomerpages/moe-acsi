@@ -3,6 +3,7 @@ title: Teachers
 permalink: /dancevenia/teachers/
 description: ""
 third_nav_title: Dance Venia
+variant: markdown
 ---
 <p>Teachers-in-Charge</p>
 <table class="tg">
@@ -18,7 +19,7 @@ third_nav_title: Dance Venia
 <td class="tg-cly1">Teacher in-charge</td>
 </tr>
 <tr>
-<td class="tg-cly1">Mdm Jacqueline <span style="font-weight: bolder;">LIEW</span></td>
+<td class="tg-cly1"> Mdm <span style="font-weight: bolder;">XU</span> ZhiWei </td>
 <td class="tg-cly1">Teacher in-charge</td>
 </tr>
 </tbody>
