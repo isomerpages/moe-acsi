@@ -38,7 +38,8 @@ variant: markdown
 <td class="tg-cly1">Choreographer/Instructor</td>
 </tr>
 <tr>
-<td class="tg-cly1">Ms Dapheny <span style="font-weight: bolder;">CHEN</span> Ziwei</td>
+<td class="tg-cly1">Mr Nicholas Long&nbsp;
+ <span style="font-weight: bolder;">LONG</span> </td>
 <td class="tg-cly1">Choreographer/Instructor</td>
 </tr>
 </tbody>
