@@ -38,7 +38,7 @@ variant: markdown
 <td class="tg-cly1">Choreographer/Instructor</td>
 </tr>
 <tr>
-<td class="tg-cly1">Mr Nicholas Long&nbsp;
+<td class="tg-cly1">Mr Nicholas&nbsp;
  <span style="font-weight: bolder;">LONG</span> </td>
 <td class="tg-cly1">Choreographer/Instructor</td>
 </tr>
