@@ -3,8 +3,8 @@ title: Scholarships
 permalink: /talent-development/regional-studies-programme/scholarships/
 description: ""
 third_nav_title: Regional Studies Programme
+variant: markdown
 ---
-
 The RSP scholarships are open to all Year 1 Singaporean students. The scholarship terms include :
 
 *   Scholarship allowance of $1,000 per annum
@@ -26,4 +26,4 @@ The scholarship is subject to yearly renewal based on academic results.
 
 **Application**
 
-For more information on RSP, please contact the Acting Dean of Humanities, Mr Liu Guoyi (liuguoyi@acsindep.edu.sg). Alternatively, you can contact the RSP Coordinator Ms Salinah Latiff (salinah@acsindep.edu.sg) or RSP Year 1 Coordinator Mrs Ruvathy Arumugam (ruvathyarumugam@acsindep.edu.sg).
+For more information on RSP, please contact the RSP Coordinator, Mdm Salinah Latiff at salinah@acsindep.edu.sg.
