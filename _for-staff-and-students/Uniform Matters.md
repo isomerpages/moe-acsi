@@ -114,7 +114,7 @@ The operating hours for our retail shop and factory are as follows:
     <td class="tg-0lax">9 am to 6 pm</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Sat (Dec 3, 10 &amp; 17)</td>
+    <td class="tg-0lax">Sat (Dec 16, 23 &amp; 30)</td>
     <td class="tg-0lax">9 am to 5 pm</td>
   </tr>
   <tr>
@@ -126,9 +126,13 @@ The operating hours for our retail shop and factory are as follows:
 
 ### Dates for School Uniform Sales
 
-21 Dec 2022: 11 am to 4 pm  <br>
-22 Dec 2022: 9 am to 4 pm  <br>
-23, 27 to 30 Dec 2022: 9 am to 2 pm
+Dates for School Uniform Sales 2023
+
+21 Dec 2023: 11 am to 4 pm
+
+22 Dec 2023: 9 am to 4 pm  
+
+26, 27, 28 and 29 Dec 2023: 9 am to 2 pm
 
 Venue: Within school premises.
 
