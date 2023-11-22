@@ -3,8 +3,12 @@ title: Canoeing
 permalink: /canoeing/
 description: ""
 third_nav_title: Canoeing
+variant: markdown
 ---
 <img src="/images/pic-Canoeing-2018-Banner-For-Webpage.jpg" style="width:25%">
+
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/5Av1XamNSIM?si=lf9fNOVa9G0CK13a" height="315" width="560"></iframe>
 		 
 The ACS(I) Canoeing Team was formed in January 1998, with the aim of using sports as a platform to build students’ character through experiential learning. By February 1998, there were ten regular members, training with boats and paddles borrowed from the Anglo-Chinese Junior College Canoe Team and the SAFRA Canoe and Dragon Boat Team. The Dragon Boat arm of the Canoeing Team was started in June 2000, as a team building activity.
 
