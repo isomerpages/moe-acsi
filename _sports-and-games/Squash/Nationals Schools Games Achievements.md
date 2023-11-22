@@ -3,6 +3,7 @@ title: Nationals Schools Games Achievements
 permalink: /squash/nationals-schools-squash-achievements/
 description: ""
 third_nav_title: Squash
+variant: markdown
 ---
 <img src="/images/IMG_1519-800x598-300x224.jpg" style="width:50%">
 		 
@@ -188,6 +189,13 @@ third_nav_title: Squash
 <td>Champions</td>
 <td>Champions</td>
 <td>4th</td>
+</tr>
+	<tr>
+<td>2023</td>
+<td>Champions</td>
+<td>Champions</td>
+<td>Champions</td>
+<td>Champions</td>
 </tr>
 </tbody>
 </table>
