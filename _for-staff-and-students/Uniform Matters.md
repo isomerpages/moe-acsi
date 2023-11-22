@@ -128,11 +128,11 @@ The operating hours for our retail shop and factory are as follows:
 
 Dates for School Uniform Sales 2023
 
-21 Dec 2023: 11 am to 4 pm
+**21 Dec 2023:** 11 am to 4 pm
 
-22 Dec 2023: 9 am to 4 pm  
+**22 Dec 2023:** 9 am to 4 pm  
 
-26, 27, 28 and 29 Dec 2023: 9 am to 2 pm
+**26, 27, 28 and 29 Dec 2023**: 9 am to 2 pm
 
 Venue: Within school premises.
 
@@ -216,11 +216,34 @@ Website link to purchase:&nbsp;[https://finestuniform.com/collections/anglo-chin
   </tr>
 </tbody>
 </table>
-
-### Dates for School Uniform Sales
-
-Dec 2022: 2, 5, 7, 9, 12, 14, 15, 16, 19, 20, 21, 22, 23, 27, 28, 29 &amp; 30  <br>
-Jan 2023: 3, 4, 5, 6
-
-Time: 9 am to 3 pm  <br>
-Venue: Within school premises.
+<p>80 Playfair Road, #01-14, Kapo Factory Building,</p>
+<p>Singapore&nbsp;367998</p>
+<p>Phone: 8284 8586</p>
+<p>&nbsp;</p>
+<table width="845">
+<thead>
+<tr>
+<td colspan="2">
+<p><strong>Operating Hours</strong></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="368">
+<p>Mon – Fridays</p>
+</td>
+<td width="477">
+<p>10 am to 4 pm</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p><strong>Closed on Saturdays, Sundays &amp; Public Holidays</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Dates for School Uniform Sales</p>
+<p>Dec 1 2 4 5 7 8 11 12 14 15 , 21 22 26 27 28&nbsp;</p>
+<p>Time: 9 am to 3 pm<br> Venue: Within school premises.</p>
