@@ -245,5 +245,5 @@ Website link to purchase:&nbsp;[https://finestuniform.com/collections/anglo-chin
 </tbody>
 </table>
 <p>Dates for School Uniform Sales</p>
-<p>Dec 1 2 4 5 7 8 11 12 14 15 , 21 22 26 27 28&nbsp;</p>
+<p>Dec 1, 2, 4, 5, 7, 8, 11, 12, 14, 15, 21, 22, 26, 27 &amp; 28</p>
 <p>Time: 9 am to 3 pm<br> Venue: Within school premises.</p>
