@@ -2,16 +2,16 @@
 title: Uniform Matters
 permalink: /for-students/uniform/
 description: ""
+variant: markdown
 ---
-### BIBI & BABA
+### BIBI &amp; BABA
 
-ACS (Independent) online order link: [https://www.schooluniforms.sg/acs-independent-11](https://www.schooluniforms.sg/acs-independent-11)
+ACS (Independent) online order link:&nbsp;[https://www.schooluniforms.sg/acs-independent-11](https://www.schooluniforms.sg/acs-independent-11)
 
-Appointment booking – currently not required, but subject to prevailing SMMs.
 
 The operating hours for our retail shop and factory are as follows:
 
-**BIBI & BABA @ Far East Shopping Centre**
+**BIBI &amp; BABA @ Far East Shopping Centre**
 
 **545 Orchard Road #02-28** <br>
 **Singapore 238882**  <br>
@@ -61,17 +61,17 @@ The operating hours for our retail shop and factory are as follows:
     <td class="tg-0lax">CLOSED</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Jan 1 (2023)</td>
+    <td class="tg-0lax">Jan 1 (2024)</td>
     <td class="tg-0lax">10 am to 6 pm</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Jan 2 (2023)</td>
-    <td class="tg-0lax">10 am to 6 pm</td>
+    <td class="tg-0lax">Jan 2 (2024)</td>
+    <td class="tg-0lax">10 am to 7 pm</td>
   </tr>
 </tbody>
 </table>
 
-**BIBI & BABA @ Henderson Factory  
+**BIBI &amp; BABA @ Henderson Factory  
 **_(For Made-to-Measure Orders)_
 
 **213 Henderson Road #01-12** <br>
@@ -114,7 +114,7 @@ The operating hours for our retail shop and factory are as follows:
     <td class="tg-0lax">9 am to 6 pm</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Sat (Dec 3, 10 &amp; 17)</td>
+    <td class="tg-0lax">Sat (Dec 16, 23 &amp; 30)</td>
     <td class="tg-0lax">9 am to 5 pm</td>
   </tr>
   <tr>
@@ -126,13 +126,17 @@ The operating hours for our retail shop and factory are as follows:
 
 ### Dates for School Uniform Sales
 
-21 Dec 2022: 11 am to 4 pm  <br>
-22 Dec 2022: 9 am to 4 pm  <br>
-23, 27 to 30 Dec 2022: 9 am to 2 pm
+Dates for School Uniform Sales 2023
+
+**21 Dec 2023:** 11 am to 4 pm
+
+**22 Dec 2023:** 9 am to 4 pm  
+
+**26, 27, 28 and 29 Dec 2023**: 9 am to 2 pm
 
 Venue: Within school premises.
 
-_Please note that you are encouraged to bring your own bag for purchases with Bibi&Baba as plastic bags are chargeable at 20 cents each, in their effort to do their part to reduce the use of plastic and to help save the environment._
+_Please note that you are encouraged to bring your own bag for purchases with Bibi&amp;Baba as plastic bags are chargeable at 20 cents each, in their effort to do their part to reduce the use of plastic and to help save the environment._
 
 _All funds collected will go towards charity._
 
@@ -176,11 +180,11 @@ Wearers are required to make an e-appointment prior to coming down to ESTA’s o
 
 ![](/images/uniform1.png)
 
-ESTA will accept only cashless payment via PayNow for the purchase of uniforms.
+ESTA will accept only&nbsp;cashless payment via PayNow&nbsp;for the purchase of uniforms.
 
 **FINEST FASHION PTE LTD**
 
-Website link to purchase: [https://finestuniform.com/collections/anglo-chinese-secondary-school](https://finestuniform.com/collections/anglo-chinese-secondary-school)
+Website link to purchase:&nbsp;[https://finestuniform.com/collections/anglo-chinese-secondary-school](https://finestuniform.com/collections/anglo-chinese-secondary-school)
 
 **144 Upper Bukit Timah Road** <br>
 **Beauty World Centre, B1-03** <br>
@@ -212,11 +216,34 @@ Website link to purchase: [https://finestuniform.com/collections/anglo-chinese-
   </tr>
 </tbody>
 </table>
-
-### Dates for School Uniform Sales
-
-Dec 2022: 2, 5, 7, 9, 12, 14, 15, 16, 19, 20, 21, 22, 23, 27, 28, 29 & 30  <br>
-Jan 2023: 3, 4, 5, 6
-
-Time: 9 am to 3 pm  <br>
-Venue: Within school premises.
+<p>80 Playfair Road, #01-14, Kapo Factory Building,</p>
+<p>Singapore&nbsp;367998</p>
+<p>Phone: 8284 8586</p>
+<p>&nbsp;</p>
+<table width="845">
+<thead>
+<tr>
+<td colspan="2">
+<p><strong>Operating Hours</strong></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="368">
+<p>Mon – Fridays</p>
+</td>
+<td width="477">
+<p>10 am to 4 pm</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p><strong>Closed on Saturdays, Sundays &amp; Public Holidays</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Dates for School Uniform Sales</p>
+<p>Dec 1, 2, 4, 5, 7, 8, 11, 12, 14, 15, 21, 22, 26, 27 &amp; 28</p>
+<p>Time: 9 am to 3 pm<br> Venue: Within school premises.</p>
