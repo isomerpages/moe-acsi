@@ -2,5 +2,8 @@
 title: Update of Particulars
 permalink: /for-parents/update-of-particulars/
 description: ""
+variant: markdown
 ---
-Click [here](/files/Update-of-Information.pdf) to view the form.
+Click [here](/files/For%20Parents/Update_of_Information.pdf) to view the form.
+
+[](/files/For%20Parents/Update_of_Information.pdf)
