@@ -12,11 +12,9 @@ variant: markdown
 Lee Shi Ji Aidan 4.12 together with Ryan Chen Yi Xuan and Isaac Lim Sze-Yuan won the top prize. They were given a chance to represent Singapore at the 8th Higashikawa Photo Festival in Japan.
 
 ![](/images/Clubs%20And%20Societies/Photo%20Club/Picture21.jpg)
-
 One of the winning pics during SYPC
 
 ![](/images/Clubs%20And%20Societies/Photo%20Club/Picture22.jpg)
-
 Team Award in Japan
 
 
