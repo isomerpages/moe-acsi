@@ -23,7 +23,7 @@ _Perkhemahan Budaya 2023_
 
 Kelab Seni Persembahan Budaya atau _Cultural Performing Arts Club (CPAC)_
 
-![](/images/Our%20Departments/Malay/Picture15.jpg)
+![](/images/Our%20Departments/Malay/Picture15.png)
 
 Pelajar-pelajar Bahasa Melayu dan Bahasa Melayu Lanjutan sangat digalakkan untuk menyertai Kelab Seni Persembahan Budaya atau _Cultural Performing Arts Club (CPAC)_. Penyertaan pelajar-pelajar berbilang bangsa juga dialu-alukan. Penglibatan pelajar-pelajar dalam CPAC diharapkan dapat membina kemahiran pelajar dalam seni muzik Melayu. Dalam CPAC, pelajar-pelajar akan mempelajari tentang seni bermain kompang. Pelajar-pelajar akan berpeluang menonjolkan bakat dalam pelbagai persembahan di acara-acara sekolah dan luar sekolah.
 
