@@ -6,4 +6,3 @@ variant: markdown
 ---
 Click [here](/files/For%20Parents/Update_of_Information.pdf) to view the form.
 
-[](/files/For%20Parents/Update_of_Information.pdf)
