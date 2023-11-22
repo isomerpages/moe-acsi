@@ -3,6 +3,7 @@ title: National Police Cadet Corps (NPCC)
 permalink: /npccland/
 description: ""
 third_nav_title: National Police Cadet Corps
+variant: markdown
 ---
 ![](/images/npcc-whole-grp-foto.jpg)
 
@@ -34,14 +35,13 @@ to serve our country and community.
 We will always preserve the peace  
 and uphold the law.”
 
-**UNITS IN NPCC AREA 16**
+**UNITS IN NPCC AREA 15**
 
 *   Anglo – Chinese School (Independent)
 *   Clementi Town Secondary School
 *   Kent Ridge Secondary School
 *   Nan Hua High School
 *   New Town Secondary School
-*   Tanglin Secondary School
 
 **NPCC Training Areas – Law Enforcement**
 

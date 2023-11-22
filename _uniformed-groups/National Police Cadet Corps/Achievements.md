@@ -3,6 +3,7 @@ title: Achievements
 permalink: /npccland/achievements/
 description: ""
 third_nav_title: National Police Cadet Corps
+variant: markdown
 ---
 ![](/images/npcc.png)
 
@@ -10,6 +11,7 @@ third_nav_title: National Police Cadet Corps
 
 **_NPCC Unit Overall Proficiency Award_**
 
+*   2022 - Distinction award
 *   2019 – Gold Award
 *   2018 – Gold Award
 *   2017 – Gold Award
@@ -34,6 +36,8 @@ third_nav_title: National Police Cadet Corps
 
 **NPCC Inter-Unit Competitions (Finals)**
 
+*   2023 - 2nd and 7th position in Revolver Shoot Competition
+*   2023 - Top in Individual Cadet Inspector Shooter Category in Revolver Shoot Competition, CI (NPCC) Colin Koh
 *   2019 – 2nd in Drill Competition
 *   2019 – 2nd in Individual Shooter Category for Revolver Shoot Competition  
     – SSGT (NPCC) Kyan Lee
