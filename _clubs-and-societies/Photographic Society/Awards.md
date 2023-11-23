@@ -21,8 +21,7 @@ Team Award in Japan
 
 **“ACS135 Photography Competition” Organised by the ACSOBA**
 
-![A collage of people in yellow shirts
-Description automatically generated](file:///C:/Users/alexwoo.ADMIN/AppData/Local/Packages/oice_16_974fa576_32c1d314_1dad/AC/Temp/msohtmlclip1/01/clip_image002.png)
+![](/images/Clubs%20And%20Societies/Photo%20Club/Picture12.png)
 
 ### AWARDS 2020
 
@@ -30,16 +29,16 @@ Description automatically generated](file:///C:/Users/alexwoo.ADMIN/AppData/Loca
 
 Kevia Tan and Ang Ryan were both awarded Honorable Mention for this contest. Their photos were displayed on a wall at the Ministry of Education’s Headquarters.
 
-![](file:///C:/Users/alexwoo.ADMIN/AppData/Local/Packages/oice_16_974fa576_32c1d314_1dad/AC/Temp/msohtmlclip1/01/clip_image004.png)
+![](/images/Clubs%20And%20Societies/Photo%20Club/Picture13.png)
 
 ### AWARDS 2018
 
-![A close up of water drops
-Description automatically generated](file:///C:/Users/alexwoo.ADMIN/AppData/Local/Packages/oice_16_974fa576_32c1d314_1dad/AC/Temp/msohtmlclip1/01/clip_image006.png)
+![](/images/Clubs%20And%20Societies/Photo%20Club/Picture14.png)
+
 
 **Canon Photomarathon 2018**
 
-![](file:///C:/Users/alexwoo.ADMIN/AppData/Local/Packages/oice_16_974fa576_32c1d314_1dad/AC/Temp/msohtmlclip1/01/clip_image008.png)
+![](/images/Clubs%20And%20Societies/Photo%20Club/Picture15.png)
 
 – Mikaela Gn (5.18) clinched an individual 2nd place for the theme of GLOW
 
