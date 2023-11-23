@@ -16,14 +16,12 @@ One of the winning pics during SYPC
 
 ![](/images/Clubs%20And%20Societies/Photo%20Club/Picture22.jpg)
 Team Award in Japan
-
-
+     
 ### AWARDS 2021
 
 **“ACS135 Photography Competition” Organised by the ACSOBA**
 
-
-<img src="/images/photog%201.png" style="width:70%">
+![](/images/Clubs%20And%20Societies/Photo%20Club/Picture12.png)
 
 ### AWARDS 2020
 
@@ -31,25 +29,16 @@ Team Award in Japan
 
 Kevia Tan and Ang Ryan were both awarded Honorable Mention for this contest. Their photos were displayed on a wall at the Ministry of Education’s Headquarters.
 
-<img src="/images/photog%202.png" style="width:70%">
-		 
-### AWARDS 2019
-
-**“Our School, Our Stories (OSOS) Photo Contest” Organized by MOE**
-
-2019 Our School Our Stories winning pic			
-<img src="/images/Clubs%20And%20Societies/picture40a.jpg" style="width:60%">
-<img src="/images/OSOS-trophie-271x300.jpg" style="width:60%">
-
-Claire Khoo and&nbsp;Claire Chua, both Year 5 IB students won the Honourable Mention for Youth Category.
+![](/images/Clubs%20And%20Societies/Photo%20Club/Picture13.png)
 
 ### AWARDS 2018
 
-![](/images/Clubs%20And%20Societies/picture41a.png)
+![](/images/Clubs%20And%20Societies/Photo%20Club/Picture14.png)
+
 
 **Canon Photomarathon 2018**
 
-![](/images/Clubs%20And%20Societies/picture42a.png)
+![](/images/Clubs%20And%20Societies/Photo%20Club/Picture15.png)
 
 – Mikaela Gn (5.18) clinched an individual 2nd place for the theme of GLOW
 
@@ -67,6 +56,6 @@ Claire Khoo and&nbsp;Claire Chua, both Year 5 IB students won the Honourable Men
 
 Shannon Lee, 5.13
 
-2nd Runner Up-&nbsp; Student Category “Celebrations” Theme
+2nd Runner Up-  Student Category “Celebrations” Theme
 
 We look forward to winning many more awards in times to come!
