@@ -21,3 +21,5 @@ Zhang Sijun (5.16, 2023)
 
 ![](/images/Clubs%20And%20Societies/Photo%20Club/Picture5.jpg)
 
+![](/images/Clubs%20And%20Societies/Photo%20Club/Picture16.jpg)
+
