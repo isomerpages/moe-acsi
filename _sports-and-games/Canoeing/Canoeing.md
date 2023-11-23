@@ -8,7 +8,7 @@ variant: markdown
 <img src="/images/pic-Canoeing-2018-Banner-For-Webpage.jpg" style="width:25%">
 
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/5Av1XamNSIM?si=lf9fNOVa9G0CK13a" height="315" width="560"></iframe>
+
 		 
 The ACS(I) Canoeing Team was formed in January 1998, with the aim of using sports as a platform to build students’ character through experiential learning. By February 1998, there were ten regular members, training with boats and paddles borrowed from the Anglo-Chinese Junior College Canoe Team and the SAFRA Canoe and Dragon Boat Team. The Dragon Boat arm of the Canoeing Team was started in June 2000, as a team building activity.
 
@@ -22,8 +22,8 @@ The ACS(I) Canoeing team offers students opportunities to achieve / develop the 
 *   Self-discipline
 *   Leadership
 
-Click on the following link for more insights on Canoeing as a CCA in ACS(I).  
-[ACS(I) Canoeing Team](https://www.acsindep.moe.edu.sg/wp-content/uploads/2020/06/video-ACS-Independent-Canoeing-Team-1.mp4)
+ **Watch the Youtube video for more insights on Canoeing as a CCA in ACS(I).**
+ <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/5Av1XamNSIM?si=lf9fNOVa9G0CK13a" height="315" width="560"></iframe>
 
 **[Mr Jeffrey](mailto:jeffreyt@acsindep.edu.sg)**  <br>
 Overall Teacher-In-Charge, Canoeing
