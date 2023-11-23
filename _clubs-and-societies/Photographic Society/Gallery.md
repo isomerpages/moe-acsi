@@ -3,6 +3,7 @@ title: Gallery
 permalink: /photog/gallery/
 description: ""
 third_nav_title: Photographic Society
+variant: markdown
 ---
 Brandon Tan Ming Xuan, 2.06 (2023)
 
