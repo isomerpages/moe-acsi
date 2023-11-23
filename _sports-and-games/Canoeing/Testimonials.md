@@ -7,10 +7,11 @@ variant: markdown
 ---
 ![](/images/artwork-Jacket-20180124-From-John-Front-Logo-Correct-Colour-Tone-1350x656.jpg)
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/5Av1XamNSIM?si=lf9fNOVa9G0CK13a" height="315" width="560"></iframe>
-
-Click on the following 2 links for more insights on Canoeing as a CCA in ACS(I).  
-[ACS(I) Canoeing Team Video](https://www.acsindep.moe.edu.sg/wp-content/uploads/2020/06/video-ACS-Independent-Canoeing-Team-1.mp4)  
+ **Watch the Youtube video for more insights on Canoeing as a CCA in ACS(I).**
+ 
+ <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/5Av1XamNSIM?si=lf9fNOVa9G0CK13a" height="315" width="560"></iframe>
+ 
+ 
 [Photo Gallery](https://tinyurl.com/acanoe)
 
 * * *
