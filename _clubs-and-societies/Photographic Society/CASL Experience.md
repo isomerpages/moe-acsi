@@ -13,19 +13,16 @@ Some of the past CASL projects include:
 
 The training culminates in a trip to Botanic Garden where pupils from both schools had fun with photography while immersed in nature.
 
-![A white flower with yellow center
-Description automatically generated](file:///C:/Users/alexwoo.ADMIN/AppData/Local/Packages/oice_16_974fa576_32c1d314_1dad/AC/Temp/msohtmlclip1/01/clip_image002.jpg)
+![](/images/Clubs%20And%20Societies/Photo%20Club/Picture7.jpg)
 
-![A close-up of a tree trunk
-Description automatically generated](file:///C:/Users/alexwoo.ADMIN/AppData/Local/Packages/oice_16_974fa576_32c1d314_1dad/AC/Temp/msohtmlclip1/01/clip_image003.jpg)
+![](/images/Clubs%20And%20Societies/Photo%20Club/Picture8.jpg)
 
 2.&nbsp;Teaching photography to pupils of Grace Orchid School (2017)
 
-![A person holding a camera
-Description automatically generated](file:///C:/Users/alexwoo.ADMIN/AppData/Local/Packages/oice_16_974fa576_32c1d314_1dad/AC/Temp/msohtmlclip1/01/clip_image004.jpg)
+![](/images/Clubs%20And%20Societies/Photo%20Club/Picture9.jpg)
 
-![A person taking a picture with a camera
-Description automatically generated](file:///C:/Users/alexwoo.ADMIN/AppData/Local/Packages/oice_16_974fa576_32c1d314_1dad/AC/Temp/msohtmlclip1/01/clip_image005.jpg)
+![](/images/Clubs%20And%20Societies/Photo%20Club/Picture10.jpg)
+
 
 3.&nbsp;Teaching photography to pupils of Rainbow Center, Singapore (2018)
 
@@ -33,8 +30,7 @@ Description automatically generated](file:///C:/Users/alexwoo.ADMIN/AppData/Loca
 
 5.&nbsp;Capturing and documenting school events during Covid period (2022)
 
-![A white and pink background with black text
-Description automatically generated](file:///C:/Users/alexwoo.ADMIN/AppData/Local/Packages/oice_16_974fa576_32c1d314_1dad/AC/Temp/msohtmlclip1/01/clip_image007.png)
+![](/images/Clubs%20And%20Societies/Photo%20Club/Picture11.png)
 
 6. Organising Singapore Young Photography Convention (SYPC), under the umbrella of NYAA and ITE (2023)
 
