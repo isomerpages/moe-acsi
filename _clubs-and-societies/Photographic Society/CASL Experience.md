@@ -30,7 +30,7 @@ The training culminates in a trip to Botanic Garden where pupils from both schoo
 
 5.&nbsp;Capturing and documenting school events during Covid period (2022)
 
-![](/images/Clubs%20And%20Societies/Photo%20Club/Picture11.png)
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/7vQ6KmrAe3Y?si=7pz8jWqVy9vejNtd" height="315" width="560"></iframe>
 
 6. Organising Singapore Young Photography Convention (SYPC), under the umbrella of NYAA and ITE (2023)
 
@@ -41,4 +41,3 @@ SYPC is a national photography competition for students organised by students.
 **SHIELD** stands for **S**teadfast, **H**umility, **I**ntegrity, **E**mpathy, **L**oyalty and **D**iligence. The photo montage seeks to capture ACSians exhibiting SHIELD values. The video is as below: 
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/fJW66v2GkRM?si=gQ4RtKM6IpCT2JRP" height="315" width="560"></iframe>
-
