@@ -10,11 +10,11 @@ variant: markdown
 <li>FINEST FASHION PTE LTD</li>
 <li>ESTA PTE LTD</li>
 </ol>
+<ol>
 
+<li><strong>BIBI &amp; BABA</strong></li>
 
-##### <p>1. BIBI &amp; BABA</p>
- 
-
+</ol>
 <p><strong>Online Order Link:&nbsp;</strong><a href="https://www.schooluniforms.sg/acs-independent-11">https://www.schooluniforms.sg/acs-independent-11</a></p>
 <p>The operating hours for their retail shop and factory are as follows:</p>
 <p><strong><u>BIBI &amp; BABA @ Far East Shopping Centre</u></strong></p>
@@ -177,6 +177,7 @@ variant: markdown
 </ol>
 <p><strong>Online Order Link:</strong>&nbsp;<a href="https://finestuniform.com/collections/anglo-chinese-secondary-school">https://finestuniform.com/collections/anglo-chinese-secondary-school</a></p>
 <p>You may purchase your uniforms from both outlets with made-to-measure orders available at both locations. The operating hours for their retail shop and factory are as follows:</p>
+<p>&nbsp;</p>
 <p><strong>144 Upper Bukit Timah Road<br> Beauty World Centre, B1-03<br> Singapore 588177<br> Office Tel: 6466 5697 / Mobile: 9029 5135</strong></p>
 <table width="845">
 <thead>
@@ -232,10 +233,11 @@ variant: markdown
 <p><u>Dates for School Uniform Sales in School:</u></p>
 <p>Dec 2023: 1, 2, 4, 5, 7, 8, 11, 12, 14, 15, 21, 22, 26, 27 &amp; 28</p>
 <p>Time: 9 am to 3 pm<br> Venue: Within ACS(I) school premises.</p>
-
-##### <p> 3. ESTA PTE LTD – For IB Girls’ Uniform</p>
-
+<ol start="3">
+<li><strong>ESTA PTE LTD – For IB Girls’ Uniform</strong></li>
+</ol>
 <p><strong>1 Commonwealth Lane One Commonwealth #06-24<br> Singapore 149544<br> Tel: 6438 8012</strong></p>
+<p><strong>&nbsp;</strong></p>
 <p><strong>Non-IB Girls’ Uniform is available too from ESTA Pte Ltd</strong></p>
 <table width="845">
 <thead>
@@ -248,30 +250,19 @@ variant: markdown
 <tbody>
 <tr>
 <td>
-<p>Mon, Wed &amp; Thur</p>
+<p>Mon - Fri</p>
 </td>
 <td>
 <p>9.30 am to 6 pm</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sun</p>
-</td>
-<td>
-<p>10 am to 6 pm</p>
-</td>
-</tr>
-<tr>
 <td colspan="2">
-<p>Closed from 12.30 pm to 2.00 pm<br> Closed on Saturdays, Sundays &amp; Public Holidays</p>
+<p>Please avoid lunch time from 12.30 pm to 2.00 pm<br> Closed on Saturdays, Sundays &amp; Public Holidays</p>
 </td>
 </tr>
 </tbody>
 </table>
-
 <p><strong>You are required to make an e-appointment prior to coming down to ESTA’s office. You may find the appointment link </strong><a href="https://r2wpteltd.setmore.com/"><strong>here</strong></a><strong>.</strong></p>
-![](/images/uniform1.png)
+<p><strong>&nbsp;<img alt="" src="/images/uniform1.png"></strong></p>
 <p><em>Please note that ESTA will accept only&nbsp;cashless payment via PayNow&nbsp;for the purchase of uniforms.</em></p>
-
-
