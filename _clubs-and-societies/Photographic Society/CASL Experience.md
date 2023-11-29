@@ -32,11 +32,11 @@ The training culminates in a trip to Botanic Garden where pupils from both schoo
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/7vQ6KmrAe3Y?si=7pz8jWqVy9vejNtd" height="315" width="560"></iframe>
 
-6. Organising Singapore Young Photography Convention (SYPC), under the umbrella of NYAA and ITE (2023)
+6.&nbsp;Organising Singapore Young Photography Convention (SYPC), under the umbrella of NYAA and ITE (2023)
 
 SYPC is a national photography competition for students organised by students.
 
-7. Photo montage depicting the school’s SHIELD values (2023)
+7.&nbsp;Photo montage depicting the school’s SHIELD values (2023)
 
 **SHIELD** stands for **S**teadfast, **H**umility, **I**ntegrity, **E**mpathy, **L**oyalty and **D**iligence. The photo montage seeks to capture ACSians exhibiting SHIELD values. The video is as below: 
 
