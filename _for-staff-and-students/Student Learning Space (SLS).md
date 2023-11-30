@@ -2,8 +2,8 @@
 title: Student Learning Space (SLS)
 permalink: /for-students/singapore-student-learning-space/
 description: ""
+variant: markdown
 ---
-
 From 1 Dec 2022, the [Singapore Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login) will adopt the MOE Identity Management System (MIMS) as an authentication system.
 
 For students, the MIMS username is the same as the student’s iCON email address, ending with @students.edu.sg.
@@ -21,4 +21,4 @@ Students who encounter issues logging into SLS through MIMS and having difficult
 
 Refer to the [ePoster](/files/ePoster-for-Students-on-simplified-login-to-SLS-via-MIMS-Updated.pdf) for students on simplified login to SLS via MIMS.
 
-For Login Troubleshooting guide, please refer to the following URL: [https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html](https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html)
+For Login Troubleshooting guide, please refer to the following URL: [https://www.learning.moe.edu.sg/files/Login%20Troubleshooting/SLS%20Account%20Management%20-%20Guide%20for%20Students%20(SecJCCI).pdf](https://www.learning.moe.edu.sg/files/Login%20Troubleshooting/SLS%20Account%20Management%20-%20Guide%20for%20Students%20(SecJCCI).pdf)
