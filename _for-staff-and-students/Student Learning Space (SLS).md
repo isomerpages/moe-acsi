@@ -22,3 +22,6 @@ Students who encounter issues logging into SLS through MIMS and having difficult
 Refer to the [ePoster](/files/ePoster-for-Students-on-simplified-login-to-SLS-via-MIMS-Updated.pdf) for students on simplified login to SLS via MIMS.
 
 For Login Troubleshooting guide, please refer to the following URL: [https://www.learning.moe.edu.sg/files/Login%20Troubleshooting/SLS%20Account%20Management%20-%20Guide%20for%20Students%20(SecJCCI).pdf](https://www.learning.moe.edu.sg/files/Login%20Troubleshooting/SLS%20Account%20Management%20-%20Guide%20for%20Students%20(SecJCCI).pdf)
+
+For Student’s User Guide, please refer to the following URL:
+[https://www.learning.moe.edu.sg/student-user-guide/index/](https://www.learning.moe.edu.sg/student-user-guide/index/)
