@@ -13,8 +13,7 @@ Venue: Meet at the Parade ground.
 
 **BB Band**
 
-Every Friday from 1400 to 1600
-				
+Every Friday from 1400 to 1600 <br>				
 Every Saturday 1330 to 1530
 
 Venue: Meet at the BB Band room.
