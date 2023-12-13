@@ -3,6 +3,7 @@ title: Staff List
 permalink: /about-acs-independent/staff-list/
 description: ""
 third_nav_title: Staff List
+variant: markdown
 ---
 <p>Please note that only the names and details of key-points-of-contact are reflected in the staff Directory. For the **full contact list** of teachers and staff, Parents **may log in to the** [**Parents’ Portal**](http://lms.acsindep.edu.sg/ACSIndep/logon_new.aspx?type=parents) and view the Staff List under Parent’s Resources tab.</p>
 <table>
@@ -289,11 +290,7 @@ third_nav_title: Staff List
 <td>Well-Being Counsellor</td>
 <td>Ms Wint Wah Kyaw</td>
 </tr>
-<tr>
-<td>Careers Counselling</td>
-<td>College Counsellors</td>
-<td>Ms Shahidah Binte Kamalludin</td>
-</tr>
+
 <tr>
 <td>Careers Counselling</td>
 <td>College Counsellors</td>
