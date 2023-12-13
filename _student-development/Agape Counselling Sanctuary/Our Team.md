@@ -63,5 +63,3 @@ Email:&nbsp;[samuellummj@acsindep.edu.sg](mailto:samuellummj@acsindep.edu.sg)
 
 Telephone: 6773 9513
 
-<img src="/images/Khor-Han-Meis-ACSI-profile-photo-252x300.jpg" style="width:45%">
-
