@@ -3,6 +3,7 @@ title: Our Team
 permalink: /student-development/agape/our-team/
 description: ""
 third_nav_title: Agape Counselling Sanctuary
+variant: markdown
 ---
 ### Director (Student Support) Psychological and Emotional Care:
 
@@ -64,15 +65,3 @@ Telephone: 6773 9513
 
 <img src="/images/Khor-Han-Meis-ACSI-profile-photo-252x300.jpg" style="width:45%">
 
-**Khor Han Mei (Mdm)**
-
-Han Mei believes in building a strong therapeutic alliance with her students, helping them find their strengths and motivating them along the way. As a mother of 4 children herself, she understands the struggles that parents and children go through. She finds it a great joy to support them holistically and has also contributed actively to their schools’ Parent Support Groups.
-
-Han Mei has worked at a youth mental health agency when she pursued her undergraduate studies in Psychology in the United States. Subsequently, she pursued a Master in Counselling from Monash University. She has since worked with youths in the local community settings and provided counselling for youths under probation and smoking cessation. She was also involved in the mentoring program for secondary schools under Mentoring Alliance Singapore.
-
-Member of SAC (Singapore Association for Counselling) <br>
-Member of Association of Christian Counsellors (Singapore)
-
-Email:&nbsp;[khorhanmei@acsindep.edu.sg](mailto:khorhanmei@acsindep.edu.sg)
-
-Telephone: 6773 9512
