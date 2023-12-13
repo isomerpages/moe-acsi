@@ -3,6 +3,7 @@ title: Executive & Support Staff
 permalink: /executive-support-staff/
 description: ""
 third_nav_title: Staff List
+variant: markdown
 ---
 Please note that only the names and details of key-points-of-contact are reflected in the staff Directory. For the&nbsp;**full contact list**&nbsp;of teachers and staff, Parents&nbsp;**may log in to the**&nbsp;<a href="http://lms.acsindep.edu.sg/ACSIndep/logon_new.aspx?type=parents" target="_blank"><b>Parents’ Portal</b></a>&nbsp;and view the Staff List under Parent’s Resources tab.
 
@@ -105,11 +106,7 @@ Please note that only the names and details of key-points-of-contact are reflect
 <td>Well-Being Counsellor</td>
 <td>Ms Wint Wah Kyaw</td>
 </tr>
-<tr>
-<td>Careers Counselling</td>
-<td>College Counsellors</td>
-<td>Ms Shahidah Binte Kamalludin</td>
-</tr>
+
 <tr>
 <td>Careers Counselling</td>
 <td>College Counsellors</td>
