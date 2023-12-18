@@ -2,6 +2,7 @@ collections:
   acspression-2023:
     output: true
     order:
+      - ACSpression June 2023/.keep
       - ACSpression May 2023/.keep
       - ACSpression April 2023/.keep
       - ACSpression March 2023/.keep
