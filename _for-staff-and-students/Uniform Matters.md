@@ -170,9 +170,7 @@ variant: markdown
 <p>26 Dec 2023 : 9.00 am to 2.00 pm</p>
 <p>27 Dec 2023 : 9.00 am to 2.00 pm</p>
 <p>28 Dec 2023 : 9.00 am to 2.00 pm</p>
-<p>&nbsp;</p>
 <p>&nbsp;Venue: CCA1 Room</p>
-<p>&nbsp;</p>
 <p><em>Please note that you are encouraged to bring your own bag for purchases with Bibi&amp;Baba as plastic bags are chargeable at 20 cents each, in their effort to do their part to reduce the use of plastic and to help save the environment.</em></p>
 <p><em>All funds collected will go towards charity.</em></p>
 <ol start="2">
