@@ -4,7 +4,6 @@ permalink: /announcements/acspression-october-2023/yuhua-community-club-national
 description: ""
 third_nav_title: ACSpression October 2023
 ---
-
 On August 9, 2023, seven members of the ACS (I) scout troop participated in the National Day Observance Ceremony at Yuhua Community Club. We began the ceremony with a parade, led by our Scout Leader, Wong Leong Tze Ethan. Thereafter, we ran a booth featuring traditional games, specifically hopscotch. We put a lot of effort into designing the hopscotch boards to make them as engaging and attractive as possible. We enjoyed celebrating National Day with members of the public, which served as a reminder of our strong Singaporean spirit.
 
 <p>Sumanyu Agarwal Jayagobi (3.09 Zephaniah)</p>
