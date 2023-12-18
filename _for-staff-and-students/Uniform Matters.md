@@ -170,7 +170,9 @@ variant: markdown
 <p>26 Dec 2023 : 9.00 am to 2.00 pm</p>
 <p>27 Dec 2023 : 9.00 am to 2.00 pm</p>
 <p>28 Dec 2023 : 9.00 am to 2.00 pm</p>
+<p>&nbsp;</p>
 <p>&nbsp;Venue: CCA1 Room</p>
+<p>&nbsp;</p>
 <p><em>Please note that you are encouraged to bring your own bag for purchases with Bibi&amp;Baba as plastic bags are chargeable at 20 cents each, in their effort to do their part to reduce the use of plastic and to help save the environment.</em></p>
 <p><em>All funds collected will go towards charity.</em></p>
 <ol start="2">
@@ -233,7 +235,7 @@ variant: markdown
 </table>
 <p><u>Dates for School Uniform Sales in School:</u></p>
 <p>Dec 2023: 1, 2, 4, 5, 7, 8, 11, 12, 14, 15, 21, 22, 26, 27 &amp; 28</p>
-<p>Time: 9 am to 3 pm<br> Venue: Within ACS(I) school premises.</p>
+<p>Time: 9 am to 3 pm<br> Venue: Ground floor next to Heritage Alumni</p>
 <ol start="3">
 <li><strong>ESTA PTE LTD – For IB Girls’ Uniform</strong></li>
 </ol>
