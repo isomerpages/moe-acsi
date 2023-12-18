@@ -11,9 +11,7 @@ variant: markdown
 <li>ESTA PTE LTD</li>
 </ol>
 <ol>
-
 <li><strong>BIBI &amp; BABA</strong></li>
-
 </ol>
 <p><strong>Online Order Link:&nbsp;</strong><a href="https://www.schooluniforms.sg/acs-independent-11">https://www.schooluniforms.sg/acs-independent-11</a></p>
 <p>The operating hours for their retail shop and factory are as follows:</p>
@@ -166,10 +164,13 @@ variant: markdown
 </tbody>
 </table>
 <p><u>Dates for School Uniform Sales in School:</u></p>
-<p>21 Dec 2023:&nbsp;11 am to 4 pm</p>
-<p>22 Dec 2023:&nbsp;9 am to 4 pm</p>
-<p>26, 27, 28 and 29 Dec 2023: 9 am to 2 pm</p>
-<p>Venue: Within ACS(I) school premises</p>
+<p>20 Dec 2023 : 11.00 am to 4.00 pm</p>
+<p>21 Dec 2023 : 9.00 am to 4.00 pm</p>
+<p>22 Dec 2023 : 9.00 am to 2.00 pm</p>
+<p>26 Dec 2023 : 9.00 am to 2.00 pm</p>
+<p>27 Dec 2023 : 9.00 am to 2.00 pm</p>
+<p>28 Dec 2023 : 9.00 am to 2.00 pm</p>
+<p>&nbsp;Venue: CCA1 Room</p>
 <p><em>Please note that you are encouraged to bring your own bag for purchases with Bibi&amp;Baba as plastic bags are chargeable at 20 cents each, in their effort to do their part to reduce the use of plastic and to help save the environment.</em></p>
 <p><em>All funds collected will go towards charity.</em></p>
 <ol start="2">
