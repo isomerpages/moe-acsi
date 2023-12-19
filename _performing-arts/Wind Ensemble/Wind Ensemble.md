@@ -3,6 +3,7 @@ title: Wind Ensemble
 permalink: /wind/
 description: ""
 third_nav_title: Wind Ensemble
+variant: markdown
 ---
 The Wind Ensemble is a musical band consisting of Year 5 and 6 students from the school. Besides producing music pleasant to the ears, we also aspire to build strong and everlasting bonds within the co-curricular activity (CCA) through having fun as one band.
 
@@ -18,4 +19,4 @@ Student initiative is crucial in our CCA, and we nurture this important quality 
 
 There are various members of the alumni who have been part of the ACS Band family. These include composer Dr Kelly Tang, as well as conductors Mr Darrell Ang and Mr Seow Yibin.
 
-Last but not least, the Wind Ensemble performed well in the 2021 Singapore Youth Festival Arts Presentation, receiving the Distinction Awards for Flexible Band and Percussion Ensemble. The ACS(I) Band (comprising Symphonic Band and Wind Ensemble) was also awarded the Champion Band in the 2022 Singapore International Band Festival, Division 2A, and performed at the Esplanade Concert Hall for the SIBF Winners’ Concert on 31 July, 2022.
+Last but not least, the ACS(I) Band (comprising Symphonic Band and Wind Ensemble) was also awarded the Champion Band in the 2022 Singapore International Band Festival, Division 2A, and performed at the Esplanade Concert Hall for the SIBF Winners’ Concert on 31 July, 2022. The Wind Ensemble performed well at the 2023 Singapore Youth Festival Arts Presentation, receiving the Certificate of Accomplishment for its Brass Ensemble and the Certificate of Distinction for its Percussion Ensemble.
