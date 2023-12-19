@@ -3,55 +3,69 @@ title: Training Schedule & Upcoming Events
 permalink: /symband/schedule/
 description: ""
 third_nav_title: Symphonic Band
+variant: markdown
 ---
-### **Band Schedule:**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-cly1">Band</th>
-    <th class="tg-cly1">Day</th>
-    <th class="tg-cly1">Time</th>
-    <th class="tg-cly1">Venue</th>
-  </tr>
-</thead>
+<p><strong>TRAINING SCHEDULE</strong></p>
+<table width="643">
 <tbody>
-  <tr>
-    <td class="tg-cly1">Symphonic Band</td>
-    <td class="tg-cly1">Monday, Thursday, Friday</td>
-    <td class="tg-cly1">Monday/Thursday:<br><br>3.15pm – 6.30pm<br>Friday:<br>1.30pm – 6.30pm</td>
-    <td class="tg-cly1">Band Room / Classrooms</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Junior Band<br><br>(Year 1 students and New members)</td>
-    <td class="tg-cly1">Tuesday, Friday</td>
-    <td class="tg-cly1">Tuesday:<br><br>3.15pm – 6.30pm<br>Friday:<br>1.30pm – 6pm</td>
-    <td class="tg-cly1">Band Room / Classrooms</td>
-  </tr>
+<tr>
+<td width="127">
+<p>Band</p>
+</td>
+<td width="138">
+<p>Day</p>
+</td>
+<td width="264">
+<p>Time</p>
+</td>
+<td width="114">
+<p>Venue</p>
+</td>
+</tr>
+<tr>
+<td width="127">
+<p>Symphonic Band</p>
+</td>
+<td width="138">
+<p>Monday, Thursday, Friday</p>
+</td>
+<td width="264">
+<p>3.15pm – 6.30pm (Monday/Thursday)</p>
+<p>1.30pm – 6.30pm (Friday)</p>
+</td>
+<td width="114">
+<p>Band Room / Classrooms</p>
+</td>
+</tr>
+<tr>
+<td width="127">
+<p>Junior Band (New Members)</p>
+</td>
+<td width="138">
+<p>Tuesday, Friday</p>
+</td>
+<td width="264">
+<p>3.15pm – 6.30pm (Tuesday)</p>
+<p>1.30pm – 6pm (Friday)</p>
+</td>
+<td width="114">
+<p>Band Room / Classrooms</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-The training schedule above serves as a guide. There will be additional rehearsals to prepare for the concerts / competitions in which the Symphonic Band performs in.
-
-Please refer to the link below for the detailed schedule or email the respective teacher-in-charge.
-
-[https://www.google.com/calendar/embed?src=acsbands%40gmail.com&ctz=Asia%2FSingapore&gsessionid=OK](https://www.google.com/calendar/embed?src=acsbands%40gmail.com&ctz=Asia%2FSingapore&gsessionid=OK)
-
-The Symphonic Band participates in competitions which take place on alternate years:
-
-*   Singapore Youth Festival (April)
-*   Singapore International Band Festival (July)
-
-**Upcoming Events:**
-
-*   2023 Singapore Youth Festival Arts Presentation: Mid-April to 1st week of May
-*   Band Night: 26 May, Friday, 7.30pm, CPA 2 (on campus), Tickets details to be announced
-*   ACS(I) Performing Arts Night Festival @ Esplanade: 23 July, Sunday evening, details to be announced
+<p>The training schedule above serves as a guide. There will be additional rehearsals to prepare for the concerts / competitions in which the Symphonic Band performs in.</p>
+<p>Please refer to the link below for the detailed schedule or email the respective teacher-in-charge.</p>
+<p><a href="https://www.google.com/calendar/embed?src=acsbands%40gmail.com&amp;ctz=Asia%2FSingapore&amp;gsessionid=OK">https://www.google.com/calendar/embed?src=acsbands%40gmail.com&amp;ctz=Asia%2FSingapore&amp;gsessionid=OK</a></p>
+<p>The Symphonic Band participates in competitions which take place on alternate years:</p>
+<ul>
+<li>Singapore Youth Festival (April)</li>
+<li>Singapore International Band Festival (July)</li>
+</ul>
+<p></p>
+<p><strong>UPCOMING EVENTS</strong></p>
+<ul>
+<li>17 May 2024, Friday Band Festival of the Arts</li>
+<li>2 August 2024, Friday Junior Band Recital (New Members Graduation)</li>
+<li>15 November 2024, Friday 2024 Thanksgiving Concert</li>
+</ul>
