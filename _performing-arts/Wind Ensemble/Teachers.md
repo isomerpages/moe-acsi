@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Wind Ensemble
 variant: markdown
 ---
+<ul>
+<li>
 <table width="619">
 <tbody>
 <tr>
@@ -45,7 +47,6 @@ variant: markdown
 <p>Ms Tay Lingxin</p>
 </td>
 <td width="227">
-<p>&nbsp;</p>
 </td>
 <td width="197">
 <p>Wind Ensemble</p>
@@ -53,5 +54,5 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-
+</li>
+</ul>
