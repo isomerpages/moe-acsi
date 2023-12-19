@@ -3,55 +3,89 @@ title: Student Executive Committee (2022 to 2023)
 permalink: /wind/student-committee-exco-20162017/
 description: ""
 third_nav_title: Wind Ensemble
+variant: markdown
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1wig"><span style="font-weight:bolder">Position</span></th>
-    <th class="tg-1wig"><span style="font-weight:bolder">Name of Student</span></th>
-  </tr>
-</thead>
+<table width="414">
 <tbody>
-  <tr>
-    <td class="tg-cly1">President</td>
-    <td class="tg-cly1">Tan Jie Xin</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Vice-President (Admin)</td>
-    <td class="tg-cly1">Jie Qing</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Vice-President (Welfare)</td>
-    <td class="tg-cly1">Samuel Cheng Wei En</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Student Conductor</td>
-    <td class="tg-cly1">Cher Zhi Rong Barnabas</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Quartermaster</td>
-    <td class="tg-cly1">Chua Wei-Ian Hansel</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Quartermaster</td>
-    <td class="tg-cly1">Xiong Shiyu</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Head Librarian</td>
-    <td class="tg-cly1">Tay Yong Xian</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Head Logistics / Creative Director</td>
-    <td class="tg-cly1">Chen Anhong</td>
-  </tr>
+<tr>
+<td width="198">
+<p><strong>Appointment</strong></p>
+</td>
+<td width="216">
+<p><strong>Name of Student</strong></p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>President</p>
+</td>
+<td width="216">
+<p>Wong Jun Yang, Gordon</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Vice-President (Admin)</p>
+</td>
+<td width="216">
+<p>Hilary Chan Seok Teng</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Vice-President (Welfare)</p>
+</td>
+<td width="216">
+<p>Lim En Ling Alexis</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Student Conductor</p>
+</td>
+<td width="216">
+<p>Grace Sen Le Yi</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Quartermaster</p>
+</td>
+<td width="216">
+<p>Elijah Cheng Tzy Shin</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Quartermaster</p>
+</td>
+<td width="216">
+<p>Zong Shengbo</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Head Librarian</p>
+</td>
+<td width="216">
+<p>Aiden Loh E Kye</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Head Logistics</p>
+</td>
+<td width="216">
+<p>Zacchaeus Goh Jing En</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Creative Director</p>
+</td>
+<td width="216">
+<p>Ethan Chng Xue Heng</p>
+</td>
+</tr>
 </tbody>
 </table>
