@@ -3,35 +3,23 @@ title: Achievements & Awards
 permalink: /symband/achievements-awards/
 description: ""
 third_nav_title: Symphonic Band
+variant: markdown
 ---
-2005: Gold (with Honours) Award at Singapore Youth Festival Central Judging 
-
-2006: Gold Award at the 17th Australian International Music Festival in Sydney, Australia 
-
-2007: Gold (with Honours) Award at Singapore Youth Festival Central Judging 
-
-2008 : Second Place at the inaugural Singapore International Band Festival 
-
-2009: Gold (with Honours) Award at Singapore Youth Festival Central Judging 
-
-2010 : Silver Award at the Singapore International Band Festival 
-
-2011: Gold Award at Singapore Youth Festival Central Judging 
-
-2012: Gold Award at the Singapore International Band Festival 
-
-2013: Certificate of Distinction at Singapore Youth Festival Arts Presentation 
-
-2014: Gold Award at the Singapore International Band Festival 
-
-2015: Certificate of Distinction at Singapore Youth Festival Arts Presentation 
-
-2016: Gold Award and Champion Band for 2A Division at the Singapore International Band Festival  
-
-2017: Certificate of Distinction at Singapore Youth Festival Arts Presentation 
-
-2019: Certificate of Distinction at Singapore Youth Festival Arts Presentation 
-
-2021: Certificate of Distinction at Singapore Youth Festival Arts Presentation for 2 Flexible Bands and Percussion Ensemble
-
-2022: Champion Band for 2A Division at the Singapore International Band Festival
+<ul>
+<li>2016 Gold Award and Champion Band for Division 2A at the Singapore International Band Festival</li>
+</ul>
+<ul>
+<li>Gold (with Honours) and Gold Award at the Singapore Youth Festival Central Judging since 2005</li>
+</ul>
+<ul>
+<li>Certificate of Distinction at the Singapore Youth Festival Arts Presentation since 2013</li>
+</ul>
+<ul>
+<li>Certificate of Distinction for 2 Flexible Bands and 1 Percussion Ensemble at the 2021 Singapore Youth Festival Arts Presentation</li>
+</ul>
+<ul>
+<li>Champion Band for Division 2A at the 2022 Singapore International Band Festival [ACS(I) Band made up of Symphonic Band and Wind Ensemble]</li>
+</ul>
+<ul>
+<li>Certificate of Distinction at the 2023 Singapore Youth Festival Arts Presentation</li>
+</ul>

@@ -3,54 +3,76 @@ title: Teachers
 permalink: /symband/teachers/
 description: ""
 third_nav_title: Symphonic Band
+variant: markdown
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1wig"><span style="font-weight:bolder">Name of Teacher</span></th>
-    <th class="tg-1wig"><span style="font-weight:bolder">Email Address</span></th>
-    <th class="tg-1wig"><span style="font-weight:bolder">Areas of responsibility</span></th>
-  </tr>
-</thead>
+<p><strong>&nbsp;</strong></p>
+<table width="624">
 <tbody>
-  <tr>
-    <td class="tg-cly1">Mr Derek Lim Heng Kiat</td>
-    <td class="tg-cly1">dereklimhk@acsindep.edu.sg</td>
-    <td class="tg-cly1">Overall Teacher in-charge<br><br>Main Band (IC)</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Mdm Sarah Huang</td>
-    <td class="tg-cly1"></td>
-    <td class="tg-cly1">Main Band</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Mdm Xu Zhi Wei</td>
-    <td class="tg-cly1"></td>
-    <td class="tg-cly1">Main Band</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Ms Yuan Peiying</td>
-    <td class="tg-cly1"></td>
-    <td class="tg-cly1">Main Band</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Ms Carmen Wang</td>
-    <td class="tg-cly1">carmenwangjw@acsindep.edu.sg</td>
-    <td class="tg-cly1">Junior Band (IC)</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Ms Isabelle Chung</td>
-    <td class="tg-cly1"></td>
-    <td class="tg-cly1">Junior Band</td>
-  </tr>
+<tr>
+<td width="174">
+<p><strong>Name of Teacher</strong></p>
+</td>
+<td width="252">
+<p><strong>Email Address</strong></p>
+</td>
+<td width="198">
+<p><strong>Area of Responsibility</strong></p>
+</td>
+</tr>
+<tr>
+<td width="174">
+<p>Mr Derek Lim Heng Kiat</p>
+</td>
+<td width="252">
+<p><a href="mailto:dereklimhk@acsindep.edu.sg">dereklimhk@acsindep.edu.sg</a></p>
+</td>
+<td width="198">
+<p>Overall Teacher in-charge</p>
+</td>
+</tr>
+<tr>
+<td width="174">
+<p>Mdm Sarah Huang</p>
+</td>
+<td width="252">
+<p>&nbsp;</p>
+</td>
+<td width="198">
+<p>Main Band</p>
+</td>
+</tr>
+<tr>
+<td width="174">
+<p>Mr Jonathan Lau</p>
+</td>
+<td width="252">
+<p>&nbsp;</p>
+</td>
+<td width="198">
+<p>Main Band</p>
+</td>
+</tr>
+<tr>
+<td width="174">
+<p>Ms Carmen Wang</p>
+</td>
+<td width="252">
+<p><a href="mailto:carmenwangjw@acsindep.edu.sg">carmenwangjw@acsindep.edu.sg</a></p>
+</td>
+<td width="198">
+<p>Junior Band (IC)</p>
+</td>
+</tr>
+<tr>
+<td width="174">
+<p>Ms Mylene Tan</p>
+</td>
+<td width="252">
+<p>&nbsp;</p>
+</td>
+<td width="198">
+<p>Junior Band</p>
+</td>
+</tr>
 </tbody>
 </table>

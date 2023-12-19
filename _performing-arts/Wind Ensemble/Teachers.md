@@ -3,6 +3,7 @@ title: Teachers
 permalink: /wind/teachers/
 description: ""
 third_nav_title: Wind Ensemble
+variant: markdown
 ---
 <table width="619">
 <tbody>
@@ -53,3 +54,4 @@ third_nav_title: Wind Ensemble
 </tbody>
 </table>
 <p>&nbsp;</p>
+
