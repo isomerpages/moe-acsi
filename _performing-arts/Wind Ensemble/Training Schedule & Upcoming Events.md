@@ -3,60 +3,69 @@ title: Training Schedule & Upcoming Events
 permalink: /wind/schedule/
 description: ""
 third_nav_title: Wind Ensemble
+variant: markdown
 ---
-**Training Schedule:**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-cly1">Day</th>
-    <th class="tg-cly1">Time</th>
-    <th class="tg-cly1">Venue</th>
-    <th class="tg-cly1">Comments</th>
-  </tr>
-</thead>
+<p><strong>RAINING SCHEDULE</strong>&nbsp;</p>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-cly1">Tuesday</td>
-    <td class="tg-cly1">4.15pm – 6.30pm</td>
-    <td class="tg-cly1">Band Room</td>
-    <td class="tg-cly1">Combined</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Friday</td>
-    <td class="tg-cly1">1.30pm – 6.30pm</td>
-    <td class="tg-cly1">Band Room / Classrooms</td>
-    <td class="tg-cly1">Combined / Tutorials</td>
-  </tr>
+<tr>
+<td width="91">
+<p>Day</p>
+</td>
+<td width="138">
+<p>Time</p>
+</td>
+<td width="198">
+<p>Venue</p>
+</td>
+<td width="189">
+<p>Comments</p>
+</td>
+</tr>
+<tr>
+<td width="91">
+<p>Tuesday</p>
+</td>
+<td width="138">
+<p>4.15pm – 6.30pm</p>
+</td>
+<td width="198">
+<p>Band Room</p>
+</td>
+<td width="189">
+<p>Combined</p>
+</td>
+</tr>
+<tr>
+<td width="91">
+<p>Friday</p>
+</td>
+<td width="138">
+<p>1.30pm – 6.30pm</p>
+</td>
+<td width="198">
+<p>Band Room / Classrooms</p>
+</td>
+<td width="189">
+<p>Combined and Tutorials</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-The training schedule above serves as a guide. There will be additional rehearsals to prepare for the concerts / competitions in which the Wind Ensemble performs in.
-
-Please refer to the link below for the detailed schedule or email the respective teacher-in-charge.
-
-[https://calendar.google.com/calendar/embed?src=acsbands@gmail.com&ctz=Asia/Singapore&gsessionid=OK](https://calendar.google.com/calendar/embed?src=acsbands@gmail.com&ctz=Asia/Singapore&gsessionid=OK)
-
-The IB Wind Ensemble performs/competes in several events over the course of two years:
-
-*   Singapore International Band Festival
-*   Singapore Youth Festival Arts Presentation
-*   ACS (Independent) Festival of Arts
-*   Band Showcase
-*   Band Thanksgiving Concert
-*   ACS (Independent) Founder’s Day Parade
-*   ACS (Independent) National Day Parade
-
-**Upcoming Events:**
-
-*   2023 Singapore Youth Festival Arts Presentation: 1st week of May
-*   Band Night: 26 May, Friday, 7.30pm, CPA 2 (on campus), Tickets details to be announced
-*   ACS(I) Performing Arts Night Festival @ Esplanade: 23 July, Sunday evening, details to be announced
+<p>&nbsp;The training schedule above serves as a guide. There will be additional rehearsals to prepare for the concerts / competitions in which the Wind Ensemble performs in.</p>
+<p>&nbsp;Please refer to the link below for the detailed schedule or email the respective teacher-in-charge.</p>
+<p>&nbsp;<a href="https://calendar.google.com/calendar/embed?src=acsbands@gmail.com&amp;ctz=Asia/Singapore&amp;gsessionid=OK">https://calendar.google.com/calendar/embed?src=acsbands@gmail.com&amp;ctz=Asia/Singapore&amp;gsessionid=OK</a>&nbsp;</p>
+<p>The IB Wind Ensemble performs/competes in several events over the course of two years:</p>
+<ul>
+<li>Singapore International Band Festival</li>
+<li>Singapore Youth Festival Arts Presentation</li>
+<li>ACS (Independent) Festival Of Arts</li>
+<li>Band Thanksgiving Concert</li>
+<li>ACS (Independent) Founder's Day Parade</li>
+<li>ACS (Independent) National Day Parade</li>
+</ul>
+<p>&nbsp;<strong>UPCOMING EVENTS</strong>&nbsp;</p>
+<ul>
+<li>17 May 2024, Friday Band Festival of the Arts</li>
+<li>15 November 2024, Friday 2024 Thanksgiving Concert</li>
+</ul>
