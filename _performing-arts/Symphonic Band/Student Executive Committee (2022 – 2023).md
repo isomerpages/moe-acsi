@@ -3,79 +3,137 @@ title: Student Executive Committee (2022 – 2023)
 permalink: /symband/student-committee-exco/
 description: ""
 third_nav_title: Symphonic Band
+variant: markdown
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1wig"><span style="font-weight:bolder">Appointment</span></th>
-    <th class="tg-1wig"><span style="font-weight:bolder">Name of Student</span></th>
-  </tr>
-</thead>
+<table width="457">
 <tbody>
-  <tr>
-    <td class="tg-cly1">Band Major</td>
-    <td class="tg-cly1">Joshua Michael Goutama</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Drum Major</td>
-    <td class="tg-cly1">Dante Tan Yu Jie</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Student Conductor</td>
-    <td class="tg-cly1">Isaac Tan Heng</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Student Conductor</td>
-    <td class="tg-cly1">Foo Tee En, Jonathan</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Head of Administration</td>
-    <td class="tg-cly1">Javelle Kok En-Kai</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Head Recruit-IC</td>
-    <td class="tg-cly1">Leong Ho Tim</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Head Recruit-IC</td>
-    <td class="tg-cly1">Aiden Wee Jie</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Head Quartermaster</td>
-    <td class="tg-cly1">Ngien Zi En, Joel</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Asst. Head Quartermaster</td>
-    <td class="tg-cly1">Isaac Atticus Lee</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Head Events Coordinator</td>
-    <td class="tg-cly1">Jonnas Zaman</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Head Events Coordinator</td>
-    <td class="tg-cly1">Chua Wesley Connor Tanlimco</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Head of Library</td>
-    <td class="tg-cly1">Pang Junjia, Darion</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Head Logistics</td>
-    <td class="tg-cly1">Saurav Menon</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Asst. Head Logistics</td>
-    <td class="tg-cly1">Elijah Ng Shi Cong</td>
-  </tr>
+<tr>
+<td width="225">
+<p><strong>Appointment</strong></p>
+</td>
+<td width="232">
+<p><strong>Name of Student</strong></p>
+</td>
+</tr>
+<tr>
+<td width="225">
+<p>Band Major</p>
+</td>
+<td width="232">
+<p>Chow Yen Yu</p>
+</td>
+</tr>
+<tr>
+<td width="225">
+<p>Drum Major</p>
+</td>
+<td width="232">
+<p>Goh Rui Kai Ryan</p>
+</td>
+</tr>
+<tr>
+<td width="225">
+<p>Student Conductor</p>
+</td>
+<td width="232">
+<p>Caleb Tham Kai Le</p>
+</td>
+</tr>
+<tr>
+<td width="225">
+<p>Student Conductor</p>
+</td>
+<td width="232">
+<p>Ryan Liang Zhen An</p>
+</td>
+</tr>
+<tr>
+<td width="225">
+<p>Head Administration</p>
+</td>
+<td width="232">
+<p>Javelle Kok En-Kai</p>
+</td>
+</tr>
+<tr>
+<td width="225">
+<p>Head Recruit IC</p>
+</td>
+<td width="232">
+<p>Wee En-Sherng Russell</p>
+</td>
+</tr>
+<tr>
+<td width="225">
+<p>Head Recruit IC</p>
+</td>
+<td width="232">
+<p>Thong Yu Xuan, Kaiden</p>
+</td>
+</tr>
+<tr>
+<td width="225">
+<p>Head Quartermaster</p>
+</td>
+<td width="232">
+<p>Jeriah Phua Yijie</p>
+</td>
+</tr>
+<tr>
+<td width="225">
+<p>Head Quartermaster</p>
+</td>
+<td width="232">
+<p>Quentin Heng Chee Hock</p>
+</td>
+</tr>
+<tr>
+<td width="225">
+<p>Head of Events Coordinator</p>
+</td>
+<td width="232">
+<p>Jaden Lau Jin-Teck</p>
+</td>
+</tr>
+<tr>
+<td width="225">
+<p>Creative Director</p>
+</td>
+<td width="232">
+<p>Stalin Athilesh</p>
+</td>
+</tr>
+<tr>
+<td width="225">
+<p>Head Librarian</p>
+</td>
+<td width="232">
+<p>Ernest Ong Yuyoung</p>
+</td>
+</tr>
+<tr>
+<td width="225">
+<p>Assistant Head Librarian</p>
+</td>
+<td width="232">
+<p>Tristan Lee Wei Hang</p>
+</td>
+</tr>
+<tr>
+<td width="225">
+<p>Head Logistics</p>
+</td>
+<td width="232">
+<p>Tay Joachim</p>
+</td>
+</tr>
+<tr>
+<td width="225">
+<p>Assistant Head Logistics</p>
+</td>
+<td width="232">
+<p>Aw Jun Hong Dylan</p>
+</td>
+</tr>
 </tbody>
 </table>
