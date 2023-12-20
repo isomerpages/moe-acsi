@@ -1,5 +1,5 @@
 ---
-title: Chatbot for queries following the release of PSLE Results (Updated)
+title: Chatbot for queries following the release of PSLE Results (Updated 20 December)
 permalink: /announcements/announcements/chatbot-for-queries-following-the-release-of-psle-results/
 date: 2023-11-21
 layout: post
