@@ -11,7 +11,7 @@ variant: markdown
 <p>Incoming 2024 Year 1 students, please complete <strong>ALL</strong> <strong>three</strong> <strong>steps</strong> below, in the order as shown, to ensure you do not miss out on any important administrative procedure and are well prepared for the new school year.</p>
 <p><strong>Step 1</strong><strong>: Registration for 2024 – ONLINE ONLY </strong></p>
 <p>Students posted to ACS(I) need not report to the school after the release of school posting results. However, <strong><u>ALL</u></strong> incoming 2024 Year 1 students, including DSA students, <strong><u>MUST</u></strong> register online using the school’s online registration portal. Registration will be done online only.</p>
-<p>The ACS(I) online registration portal will only be opened from <strong>3pm onwards on Wednesday, 20 December 2023. Registration will run for three days, closing at 10am on Friday, 22 December 2023. The link will be provided here only from 1pm onwards on Wednesday, 20 December 2023. </strong></p>
+<p>The ACS(I) online registration portal will only be opened from <strong>3pm onwards on Wednesday, 20 December 2023. Registration will run for three days, closing at 10am on Friday, 22 December 2023. The link will be provided here only from 3pm onwards on Wednesday, 20 December 2023. </strong></p>
 <p>Parents with no Internet access may register using the laptop in our front office, which will be available from 8.00 am to 4.00 pm during these days. The front office will be open from 8am – 4pm (20 – 22 Dec 2023). To register, please follow these steps:</p>
 <ul>
 <li>Clear the browser cache</li>
