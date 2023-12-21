@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Staff List
 variant: markdown
 ---
-<p>Please note that only the names and details of key-points-of-contact are reflected in the staff Directory. For the **full contact list** of teachers and staff, Parents **may log in to the** [**Parents’ Portal**](http://lms.acsindep.edu.sg/ACSIndep/logon_new.aspx?type=parents) and view the Staff List under Parent’s Resources tab.</p>
+<p>Please note that only the names and details of key-points-of-contact are reflected in the staff Directory. For the <strong>full contact list</strong> of teachers and staff, Parents <strong>may log in to the</strong> <a href="http://lms.acsindep.edu.sg/ACSIndep/logon_new.aspx?type=parents"><strong>Parents’ Portal</strong></a> and view the Staff List under Parent’s Resources tab.</p>
 <table>
 <thead>
 <tr>
@@ -62,8 +62,13 @@ variant: markdown
 </tr>
 <tr>
 <td>English/Literature</td>
-<td>Dean, English Language &amp; Literature</td>
+<td>Master Lead Teacher</td>
 <td>Mr Ferdinand Quek</td>
+</tr>
+<tr>
+<td>English/Literature</td>
+<td>Dean, English Language &amp; Literature (Integrated Programme / O Level) (Acting)</td>
+<td>Ms Karen Ng</td>
 </tr>
 <tr>
 <td>Humanities / History</td>
@@ -142,7 +147,7 @@ variant: markdown
 </tr>
 <tr>
 <td>HPER</td>
-<td>Director (Acting), Student Development Experiences &amp; Teacher-In-Charge (Discipline Committee)</td>
+<td>Director, Student Development Experiences &amp; Teacher-In-Charge (Discipline Committee)</td>
 <td>Mr George Lam Choon Seng</td>
 </tr>
 <tr>
@@ -290,7 +295,6 @@ variant: markdown
 <td>Well-Being Counsellor</td>
 <td>Ms Wint Wah Kyaw</td>
 </tr>
-
 <tr>
 <td>Careers Counselling</td>
 <td>College Counsellors</td>
@@ -333,8 +337,8 @@ variant: markdown
 </tr>
 <tr>
 <td>IT Development</td>
-<td>IT Development Manager</td>
-<td>Mr Teo Poh Chye</td>
+<td>IT Development Manager (Acting)</td>
+<td>Mr Siow Pei Fang</td>
 </tr>
 <tr>
 <td>Laboratory</td>
