@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Staff List
 variant: markdown
 ---
-Please note that only the names and details of key-points-of-contact are reflected in the staff Directory. For the&nbsp;**full contact list**&nbsp;of teachers and staff, Parents&nbsp;**may log in to the**&nbsp;<a href="http://lms.acsindep.edu.sg/ACSIndep/logon_new.aspx?type=parents" target="_blank"><b>Parents’ Portal</b></a>&nbsp;and view the Staff List under Parent’s Resources tab.
-
+<p>Please note that only the names and details of key-points-of-contact are reflected in the staff Directory. For the <strong>full contact list</strong> of teachers and staff, Parents <strong>may log in to the</strong> <a href="http://lms.acsindep.edu.sg/ACSIndep/logon_new.aspx?type=parents"><strong>Parents’ Portal</strong></a> and view the Staff List under Parent’s Resources tab.</p>
 <table>
 <thead>
 <tr>
@@ -16,6 +15,7 @@ Please note that only the names and details of key-points-of-contact are reflect
 </tr>
 </thead>
 <tbody>
+
 <tr>
 <td>Finance</td>
 <td>Head of Finance</td>
@@ -106,7 +106,6 @@ Please note that only the names and details of key-points-of-contact are reflect
 <td>Well-Being Counsellor</td>
 <td>Ms Wint Wah Kyaw</td>
 </tr>
-
 <tr>
 <td>Careers Counselling</td>
 <td>College Counsellors</td>
@@ -149,8 +148,8 @@ Please note that only the names and details of key-points-of-contact are reflect
 </tr>
 <tr>
 <td>IT Development</td>
-<td>IT Development Manager</td>
-<td>Mr Teo Poh Chye</td>
+<td>IT Development Manager (Acting)</td>
+<td>Mr Siow Pei Fang</td>
 </tr>
 <tr>
 <td>Laboratory</td>
@@ -164,3 +163,4 @@ Please note that only the names and details of key-points-of-contact are reflect
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
