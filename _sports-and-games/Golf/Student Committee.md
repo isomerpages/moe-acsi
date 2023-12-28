@@ -3,49 +3,63 @@ title: Student Committee
 permalink: /golf/student-committee/
 description: ""
 third_nav_title: Golf
+variant: markdown
 ---
 ### Key appointments for 2023
 
-<table>
-<thead>
-  <tr>
-    <th>Team</th>
-    <th>Roles</th>
-    <th>Golf Leaders</th>
-  </tr>
-</thead>
+<table width="472">
 <tbody>
-  <tr>
-    <td rowspan="2">‘A’ Division </td>
-    <td>Captain</td>
-    <td>Daryl Low Meng Tiang</td>
-  </tr>
-  <tr>
-    <td>Vice-Captain</td>
-    <td>Koh Juin Hao Colin</td>
-  </tr>
-  <tr>
-    <td rowspan="2">‘B’ Division</td>
-    <td>Captain</td>
-    <td>Lee Brayden</td>
-  </tr>
-  <tr>
-    <td>Vice-Captain</td>
-    <td>Tan Zheng Jie Elijah</td>
-  </tr>
-  <tr>
-    <td>‘C’ Division</td>
-    <td>Captain</td>
-    <td>Troy Tian Storm</td>
-  </tr>
-  <tr>
-    <td rowspan="2">Recreational</td>
-    <td>Captain</td>
-    <td>Leow Zheng Kai, Marcus</td>
-  </tr>
-  <tr>
-    <td>Vice-Captain</td>
-    <td>Dylan Tan Kai Wen</td>
-  </tr>
+<tr>
+<td width="160">
+<p>‘A’ Division</p>
+</td>
+<td width="132">
+<p>Captain</p>
+</td>
+<td width="180">
+<p>Koh Juin Hao Colin</p>
+</td>
+</tr>
+<tr>
+<td width="160">
+<p>‘B’ Division</p>
+</td>
+<td width="132">
+<p>Captain</p>
+</td>
+<td width="180">
+<p>Troy Tian Storm</p>
+</td>
+</tr>
+<tr>
+<td width="160">
+<p>‘C’ Division</p>
+</td>
+<td width="132">
+<p>Captain</p>
+</td>
+<td width="180">
+<p>Lim Yong Rui Dylan</p>
+</td>
+</tr>
+<tr>
+<td width="160" rowspan="2">
+<p>Recreational</p>
+</td>
+<td width="132">
+<p>Captain</p>
+</td>
+<td width="180">
+<p>Dylan Tan Kai Wen</p>
+</td>
+</tr>
+<tr>
+<td width="132">
+<p>Vice-Captain</p>
+</td>
+<td width="180">
+<p>Lucas Wong Jun Xian</p>
+</td>
+</tr>
 </tbody>
 </table>
