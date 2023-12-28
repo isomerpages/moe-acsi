@@ -3,10 +3,11 @@ title: Schedule
 permalink: /schedule-2/
 description: ""
 third_nav_title: Golf
+variant: markdown
 ---
-**The schedule below serves as a guide to the training schedule. Throughout the season, teachers may adjust the schedule to suit competition and school commitments.**
+**The schedule below serves as a guide to the training schedule. Throughout the season, teachers may adjust the schedule&nbsp;to suit competition and school commitments.**
 
-**Students who are interested in joining Golf as CCA are required to e-mail directly to the teacher in charge to indicate their interest at  [jaxleongcw@acsindep.edu.sg](mailto:jaxleongcw@acsindep.edu.sg)**  **at the start of the academic year.**
+**Students who are interested in joining Golf as CCA are required to e-mail directly to the teacher in charge to indicate their interest at&nbsp;&nbsp;[jaxleongcw@acsindep.edu.sg](mailto:jaxleongcw@acsindep.edu.sg)**&nbsp; **at the start of the academic year.**
 
 **Recreational group:**
 
@@ -41,90 +42,78 @@ third_nav_title: Golf
 </tbody>
 </table>
 
-### Training Schedule 2023:
+### Training Schedule 2024:
 
-<table>
-<thead>
-  <tr>
-    <th>Month</th>
-    <th>Dates</th>
-  </tr>
-</thead>
+<p><strong>Recreational group:</strong></p>
+<table width="237">
 <tbody>
-  <tr>
-    <td>February</td>
-    <td>15th, 22nd</td>
-  </tr>
-  <tr>
-    <td>March</td>
-    <td>8th</td>
-  </tr>
-  <tr>
-    <td>April</td>
-    <td>5th, 12th</td>
-  </tr>
-  <tr>
-    <td>May</td>
-    <td>3rd, 10th, 17th, 24th</td>
-  </tr>
-  <tr>
-    <td>June</td>
-    <td>28th</td>
-  </tr>
-  <tr>
-    <td>July</td>
-    <td>5th,12th, 19th</td>
-  </tr>
+<tr>
+<td width="236" colspan="3">
+<p>Training Schedule 2024</p>
+</td>
+</tr>
+<tr>
+<td width="102">
+<p>February</p>
+</td>
+<td width="119">
+<p>21st, 28th</p>
+</td>
+</tr>
+<tr>
+<td width="102">
+<p>March</p>
+</td>
+<td width="119">
+<p>6th, 20th</p>
+</td>
+</tr>
+<tr>
+<td width="102">
+<p>April</p>
+</td>
+<td width="119">
+<p>3rd, 24th</p>
+</td>
+</tr>
+<tr>
+<td width="102">
+<p>May</p>
+</td>
+<td width="119">
+<p>15th</p>
+</td>
+</tr>
+<tr>
+<td width="102">
+<p>June</p>
+</td>
+<td width="119">
+<p>26th</p>
+</td>
+</tr>
+<tr>
+<td width="102">
+<p>July</p>
+</td>
+<td width="134" colspan="2">
+<p>3rd, 10th, 17th, 31st</p>
+</td>
+</tr>
+<tr>
+<td width="102">
+<p>August</p>
+</td>
+<td width="119">
+<p>7th</p>
+</td>
+</tr>
 </tbody>
 </table>
 
 *Training dates may change due to unforeseen school events.
 
-<table>
-<thead>
-  <tr>
-    <th colspan="3">Competitive group: Regular Training</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Venue : TBC</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Day</td>
-    <td>: Friday</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Time</td>
-    <td>: 4.00 pm onwards</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td colspan="3">Sports Psychology</td>
-  </tr>
-  <tr>
-    <td>Day</td>
-    <td>:</td>
-    <td>Friday</td>
-  </tr>
-  <tr>
-    <td>Time</td>
-    <td>:</td>
-    <td>1.20 pm to 2.20pm</td>
-  </tr>
-  <tr>
-    <td>Venue</td>
-    <td>:</td>
-    <td>ACS(I) Classroom 3.01 (Red level 1st classroom from the lift)</td>
-  </tr>
-  <tr>
-    <td>Date</td>
-    <td>:</td>
-    <td>13th, 27th January, 3rd, 10th, 17th, 24th February, 3rd, 10th , 24th, 31st March</td>
-  </tr>
-</tbody>
-</table>
+**Competitive group:**
 
+Sports Psychology<br>
+Date :&nbsp; 12th, 19th January, 2nd, 16th, 23rd February, 22nd March, 12th April
