@@ -3,52 +3,88 @@ title: Mathematics Competition Team
 permalink: /mathcompetition/
 description: ""
 third_nav_title: Mathematics Competition Team
+variant: markdown
 ---
-### Major Competitions/Activities
-
-Please check Mathematics Competition Team Calendar for the details, updates and latest information:
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-cly1">1</th>
-    <th class="tg-cly1">6 Jan</th>
-    <th class="tg-cly1">Annual General Meeting (AGM) Online</th>
-  </tr>
-</thead>
+<h3>Major Competitions/Activities</h3>
+<p>Please check Mathematics Competition Team Calendar for the details, updates and latest information:</p>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-cly1">2</td>
-    <td class="tg-cly1">6 Jan</td>
-    <td class="tg-cly1">Math Competition Registration Phase 1</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">3</td>
-    <td class="tg-cly1">2 Feb</td>
-    <td class="tg-cly1">United Kingdom Intermediate Mathematics Challenge (UKIMC)</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">5</td>
-    <td class="tg-cly1">20 May</td>
-    <td class="tg-cly1">ACS(I) Inter-class Mathematics Challenge (ACMC)</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">6</td>
-    <td class="tg-cly1">Early Jun</td>
-    <td class="tg-cly1">Singapore Mathematics Olympiad (SMO), dates to be determined by organizers</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">7</td>
-    <td class="tg-cly1">Early Aug</td>
-    <td class="tg-cly1">Australian Mathematics Competition (AMC), date to be determined by organizers</td>
-  </tr>
+<tr>
+<td width="28">
+<p>1</p>
+</td>
+<td width="74">
+<p>5 Jan</p>
+</td>
+<td width="597">
+<p>Annual General Meeting (AGM) Online</p>
+</td>
+</tr>
+<tr>
+<td width="28">
+<p>2</p>
+</td>
+<td width="74">
+<p>5 Jan</p>
+</td>
+<td width="597">
+<p>Math Competition Registration Phase 1</p>
+</td>
+</tr>
+<tr>
+<td width="28">
+<p>3</p>
+</td>
+<td width="74">
+<p>1 Feb</p>
+</td>
+<td width="597">
+<p>United Kingdom Intermediate Mathematics Challenge (UKIMC)</p>
+</td>
+</tr>
+<tr>
+<td width="28">
+<p>5</p>
+</td>
+<td width="74">
+<p>11 May</p>
+</td>
+<td width="597">
+<p>ACS(I) Inter-class Mathematics Challenge (ACMC)</p>
+</td>
+</tr>
+<tr>
+<td width="28">
+<p>6</p>
+</td>
+<td width="74">
+<p>Early Jun</p>
+</td>
+<td width="597">
+<p>Singapore Mathematics Olympiad (SMO), dates to be determined by organizers</p>
+</td>
+</tr>
+<tr>
+<td width="28">
+<p>7</p>
+</td>
+<td width="74">
+<p>Early Aug</p>
+</td>
+<td width="597">
+<p>Australian Mathematics Competition (AMC), date to be determined by organizers</p>
+</td>
+</tr>
+<tr>
+<td width="28">
+<p>8</p>
+</td>
+<td width="74">
+<p>Early Nov</p>
+</td>
+<td width="597">
+<p>American Mathematics Contest (AMC10A, AMC10B, AMC12A, AMC12B)</p>
+</td>
+</tr>
 </tbody>
 </table>
