@@ -25,6 +25,7 @@ sections:
       title: Theme Verse 2024
       id: infopic
       image: /images/Theme_2024_For_Webpage_Banner_c.jpg
+      alt: Theme Verse 2024
   - infopic:
       title: Athlete Friendly Education Centre
       subtitle: World Academy of Sports
