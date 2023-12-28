@@ -13,6 +13,8 @@ variant: markdown
 | Mr Derek Lim       | MEP / Music IBDP / Lower Sec Music Coordinator |                               |
 | Ms Isabelle Chung  | MEP / Music IBDP                          |                               |
 | Ms Yuan Peiying    | MEP / Lower Sec Music                         |                               |
+| Mrs Elaine Wan     | Lower Sec Music                         |                               |
 | Ms Jacqueline Liew | Art & Design                                 |                               |
 | Mrs Serilyn Goh    | Art & Design                                 |                               |
 | Ms Candy Zhang     | Art & Design                                 |                               |
+| Mr Malcolm Tan      | Art & Design                                 |                               |
