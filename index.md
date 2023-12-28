@@ -22,6 +22,10 @@ sections:
       subtitle: Announcements
       button: more
   - infopic:
+      title: Theme Verse 2024
+      id: infopic
+      image: /images/Theme_2024_For_Webpage_Banner_c.jpg
+  - infopic:
       title: Athlete Friendly Education Centre
       subtitle: World Academy of Sports
       description: ACS(I) is accredited as an ‘Athlete Friendly Education Centre’

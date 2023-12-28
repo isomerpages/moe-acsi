@@ -5,7 +5,10 @@ description: ""
 third_nav_title: School Fees
 variant: markdown
 ---
-<p>School fees with effect from 1 January 2024 are tabulated below. Admission to our school is merit-based and no Singaporean admitted to ACS (Independent) will be turned away because he / she cannot afford school fees. Singapore citizens may seek information on the various financial assistance programmes from our Deputy Principal, Mr Patrick Soo (patrick@acsindep.edu.sg). **FEES CHARGES**</p>
+<p>School fees with effect from 1 January 2024 are tabulated below. Admission to our school is merit-based and no Singaporean admitted to ACS (Independent) will be turned away because he / she cannot afford school fees. Singapore citizens may seek information on the various financial assistance programmes from our Deputy Principal, Mr Patrick Soo (patrick@acsindep.edu.sg). </p>
+
+**FEES CHARGES**
+
 <table width="100%" border="1" style="box-sizing: border-box; border-collapse: collapse; min-width: 500px; color: #000000; font-family: Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
 <tbody style="box-sizing: border-box; margin-top: 0px;">
 <tr style="box-sizing: border-box; margin-top: 0px;">
