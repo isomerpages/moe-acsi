@@ -2,14 +2,16 @@
 title: Training MTC
 permalink: /mathcompetition/training/
 description: ""
+variant: markdown
 ---
 ### Mathematics Olympiads Training Schedule
 
-For mathematics competition team members, training includes three parts
+Members need to achieve above 75% attendance. Attendance will be tracked via:
 
-1.  Online training in LMS & competition of assignements/tasks.
-2.  Classroom training after school (scheduled from Monday to Thursday).
-3.  Participation & performance in key competitions.
+*   Weekly Training sessions in Math Lab. Pls check MCT calendar at [https://goo.gl/SgaJnA](https://goo.gl/SgaJnA)
+*   Online e-learning videos on MCT Channel
+*   Participation in competitions and events
+*   Mentorship program
 
 Please check the calendar for the schedule below. All training sessions will be updated once confirmed.
 
