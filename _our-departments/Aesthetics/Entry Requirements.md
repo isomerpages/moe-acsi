@@ -3,8 +3,8 @@ title: Entry Requirements
 permalink: /departments/aesthetics/music-elective-programme/entry-requirements/
 description: ""
 third_nav_title: Aesthetics
+variant: markdown
 ---
-
 1\. Selection for the MEP will be based on musical concepts and skills covered in the Primary Music syllabus, with a competent level of performance skills that can be developed through music CCAs (e.g. display basic fluency and sound fundamental technique) and/or through other musical experiences.
 
 2\. All applicants must go through a selection exercise, which consists of a written test and an audition. In the written test, students will listen to short musical extracts taken from both Western and non-Western musical traditions, and respond through a series of short-answer questions. The scope of the questions will include the identification and/or description of the following:
@@ -21,4 +21,4 @@ third_nav_title: Aesthetics
 
 4\. Applicants who have composed music could bring along their scores/recordings for their interview. Please note that this is not a mandatory requirement.
 
-The **2023** Selection Test will take place during Term 1 Weeks 2-3.
+The **2024** Selection Test will take place during Term 1 Weeks 2-3.
