@@ -3,11 +3,11 @@ title: Golf
 permalink: /golf/
 description: ""
 third_nav_title: Golf
+variant: markdown
 ---
-Golf in ACS (Independent) is an exciting and challenging CCA. We welcome students who have a passion in learning the sport and wish to make friends with a common interest.
+Golf is a really fun and challenging activity at our school. We'd love for students who enjoy the sport and want to make friends who share the same interests to join us.
 
-The school participates in National Golf Championship in A, B and C Divisions every year. The students in the competitive group can choose to either train under the golf professionals at the club or have their own training schedules to prepare them to participate in the National Championships. We encourage students with handicap 18 and below to go for try outs in order to participate in the National Golf Championship at the individual level.
+Every year, our school takes part in the National School Games (NSG) Golf Championships in A, B, and C Divisions. If you're in the competitive group, you can choose to train with golf professionals at the club or follow your own training schedule to prepare for the Championships. We encourage students with a handicap of 18 and below to try out for a chance to participate individually in the NSG.
+If you're into golf as a hobby, we have a recreational group too! Join us to improve your skills and have a good time. You can check with the teacher in charge via Microsoft Teams for more details.
 
-Golf is also offered as a recreational sport in ACS (Independent). We encourage interested students to join the recreational group to hone their skills in the sport. Students must be PC in order to join the recreational group.
-
-All students are required to bring to their own golf equipment for the training sessions and be in the attire required for the sport.
+Remember to bring your own golf equipment to training, and make sure to wear the right clothes for the sport. Let's have a great time playing golf together!
