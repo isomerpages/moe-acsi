@@ -3,6 +3,7 @@ title: Parents’ Portal
 permalink: /for-parents/parent-portal/
 description: ""
 third_nav_title: Parents’ Portal
+variant: markdown
 ---
 The [**Parents’ Portal**](https://lms.acsindep.edu.sg/ACSIndep/login.aspx) provides resources and students record modules. The PP allows parents to
 
@@ -12,7 +13,7 @@ The [**Parents’ Portal**](https://lms.acsindep.edu.sg/ACSIndep/login.aspx) p
 
 Please refer to the user guide for help : **[\[Instructions to Access ACS (Independent) Parents’ Portal\]](/files/instructions%20to%20access%20acs%20(indep)%20parents%20portal_v7.pdf)**
 
-Queries on the Parents’ Portal should be directed to the LMS Administrator ([lms-admin@acsindep.edu.sg](mailto:lms-admin@acsindep.edu.sg).)
+Queries on the Parents’ Portal should be directed to the IT helpdesk ([helpdesk@acsindep.edu.sg](mailto:helpdesk@acsindep.edu.sg).)
 
 With effect from 2020, circulars, consent forms and other school announcements will be sent through the **Parents Gateway** (PG) mobile app ([https://pg.moe.edu.sg/](https://pg.moe.edu.sg/)).
 
