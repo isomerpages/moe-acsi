@@ -3,6 +3,7 @@ title: Teachers
 permalink: /guitar/teachers/
 description: ""
 third_nav_title: Guitar Orchestra
+variant: markdown
 ---
 Ms Sherilyn Khng - Overall Teacher-In-Charge  
 [sherilynkhngch@acsindep.edu.sg](mailto:sherilynkhngch@acsindep.edu.sg)
@@ -19,13 +20,15 @@ Ms Krystal Lee
 Mr Loy Xing Jian  
 [loyxingjian@acsindep.edu.sg](mailto:loyxingjian@acsindep.edu.sg)
 
-Ms Vivian Tan Siew Boon  
-[viviantansb@acsindep.edu.sg](mailto:viviantansb@acsindep.edu.sg)
+Ms Yu See Yee  
+[yuseeyee@acsindep.edu.sg](mailto:yuseeyee@acsindep.edu.sg)
 
 **Coach/Instructors**
 
-Mr Balraj Gopal
-
 Mr Ang Dun Hao
 
+Mr Balraj Gopal
+
 Mr Leslie Danker
+
+Mr Tan Han Siang
