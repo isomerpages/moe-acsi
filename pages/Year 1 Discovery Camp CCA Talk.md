@@ -1,6 +1,6 @@
 ---
 title: Year 1 Discovery Camp CCA Talk
-permalink: /year-1-disovery-camp-cca-talk/
+permalink: /year-1-discovery-camp-ict-talk/
 description: ""
 variant: markdown
 ---
