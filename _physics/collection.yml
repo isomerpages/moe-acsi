@@ -1,0 +1,10 @@
+collections:
+  physics:
+    output: true
+    order:
+      - Physics.md
+      - Staff.md
+      - Curriculum.md
+      - Science Research Challenge.md
+      - Useful Resources.md
+      - IB Physics Bot (Trial).md

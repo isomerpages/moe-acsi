@@ -1,0 +1,7 @@
+collections:
+  curriculum-for-year-1-to-4:
+    output: true
+    order:
+      - The Literature in English Curriculum.md
+      - The English Language Curriculum.md
+      - The Language Arts Curriculum.md

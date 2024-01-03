@@ -1,0 +1,12 @@
+collections:
+  mathematics-competition-team:
+    output: true
+    order:
+      - Mathematics Competition Team.md
+      - Announcements.md
+      - Calendar.md
+      - Competitions.md
+      - Training MTC.md
+      - Achievements MTC.md
+      - Gallery.md
+      - About.md

@@ -1,0 +1,10 @@
+collections:
+  for-staff-and-students:
+    output: true
+    order:
+      - Uniform Matters.md
+      - Student Accident Insurance/.keep
+      - Student Accident Insurance/Student Accident Insurance.md
+      - Textbook Matters.md
+      - Student Email & Office 365.md
+      - Student Learning Space (SLS).md

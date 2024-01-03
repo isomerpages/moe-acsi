@@ -1,0 +1,11 @@
+collections:
+  science-research-challenge:
+    output: true
+    order:
+      - Science Research Challenge.md
+      - Teachers.md
+      - Executive Committee.md
+      - Schedule.md
+      - List of Competition, Science Fair, Research Programme.md
+      - Awards.md
+      - Gallery.md

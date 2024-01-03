@@ -1,0 +1,14 @@
+logo: /images/Homepage/acs(i) school crest_full colour.jpg
+links:
+  - title: About
+    collection: about-acsi
+  - title: The ACS(I) Experience
+    collection: the-acsi-experience
+  - title: Faculty
+    collection: our-departments
+  - title: Talent Development
+    collection: talent-development
+  - title: Admissions
+    collection: admissions
+  - title: Student Development
+    collection: student-development

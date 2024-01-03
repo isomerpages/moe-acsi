@@ -1,0 +1,26 @@
+collections:
+  the-acsi-experience:
+    output: true
+    order:
+      - The ACS(I) Experience.md
+      - Approach.md
+      - Express Programme/.keep
+      - Express Programme/Express Programme.md
+      - Express Programme/Curriculum Overview.md
+      - Integrated Programme/.keep
+      - Integrated Programme/Integrated Programme.md
+      - Integrated Programme/Curriculum Overview.md
+      - Integrated Programme/Assessment Modes.md
+      - IBDP/.keep
+      - IBDP/International Baccalaureate Diploma Programme (IBDP).md
+      - IBDP/Curriculum Overview.md
+      - IBDP/Core Requirements.md
+      - IBDP/Subjects Offered.md
+      - IBDP/Assessment & Grading System.md
+      - School Based Gifted Education/.keep
+      - School Based Gifted Education/School Based Gifted Education (SBGE).md
+      - School Based Gifted Education/Programme.md
+      - PCCG/.keep
+      - PCCG/Pastoral Care & Career Guidance (PCCG).md
+      - PCCG/Well being Education.md
+      - PCCG/MOE Sexuality Education in Schools.md

@@ -1,0 +1,147 @@
+---
+title: Awards
+permalink: /swimming/awards/
+description: ""
+third_nav_title: Swimming
+---
+### National Inter School Swimming Championships
+
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Year</td>
+    <td>C Div Boys</td>
+    <td>B Div Boys</td>
+    <td>A Div Boys</td>
+    <td>A Div Girls</td>
+  </tr>
+  <tr>
+    <td>2019</td>
+    <td>1st</td>
+    <td>1st</td>
+    <td>1st</td>
+    <td>2nd</td>
+  </tr>
+  <tr>
+    <td>2018</td>
+    <td>1st</td>
+    <td>1st</td>
+    <td>1st</td>
+    <td>2nd</td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>1st</td>
+    <td>1st</td>
+    <td>1st</td>
+    <td>2nd</td>
+  </tr>
+  <tr>
+    <td>2016</td>
+    <td>1st</td>
+    <td>1st</td>
+    <td>1st</td>
+    <td>3rd</td>
+  </tr>
+  <tr>
+    <td>2015</td>
+    <td>1st</td>
+    <td>1st</td>
+    <td>1st</td>
+    <td>3rd</td>
+  </tr>
+  <tr>
+    <td>2014</td>
+    <td>1st</td>
+    <td>1st</td>
+    <td>1st</td>
+    <td>3rd</td>
+  </tr>
+  <tr>
+    <td>2013</td>
+    <td>1st</td>
+    <td>1st</td>
+    <td>1st</td>
+    <td>3rd</td>
+  </tr>
+  <tr>
+    <td>2012</td>
+    <td>1st</td>
+    <td>1st</td>
+    <td>3rd</td>
+    <td>3rd</td>
+  </tr>
+  <tr>
+    <td>2011</td>
+    <td>1st</td>
+    <td>1st</td>
+    <td>3rd</td>
+    <td>5th</td>
+  </tr>
+  <tr>
+    <td>2010</td>
+    <td>1st</td>
+    <td>1st</td>
+    <td>3rd</td>
+    <td>4th</td>
+  </tr>
+  <tr>
+    <td>2009</td>
+    <td>1st</td>
+    <td>1st</td>
+    <td>3rd</td>
+    <td>4th</td>
+  </tr>
+  <tr>
+    <td>2008</td>
+    <td>2nd</td>
+    <td>2nd</td>
+    <td>2nd</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2007</td>
+    <td>1st</td>
+    <td>2nd</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2006</td>
+    <td>2nd</td>
+    <td>1st</td>
+    <td> </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2005</td>
+    <td>2nd</td>
+    <td>1st</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2004</td>
+    <td>1st</td>
+    <td>1st</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2003</td>
+    <td>1st</td>
+    <td>2nd</td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>

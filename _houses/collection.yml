@@ -1,0 +1,68 @@
+collections:
+  houses:
+    output: true
+    order:
+      - Thoburn House/.keep
+      - Thoburn House/Thoburn House.md
+      - Thoburn House/House Leaders & Key Members.md
+      - Thoburn House/House Mascot.md
+      - Thoburn House/Individual House Report.md
+      - Thoburn House/Gallery.md
+      - Oldham House (Oldham)/.keep
+      - Oldham House (Oldham)/Oldham House (Oldham).md
+      - Oldham House (Oldham)/House Leaders & Key Members.md
+      - Oldham House (Oldham)/House Mascot.md
+      - Oldham House (Oldham)/Individual House Report.md
+      - Oldham House (Oldham)/Gallery.md
+      - Cheong Koon Seng House (CKS)/.keep
+      - Cheong Koon Seng House (CKS)/Cheong Koon Seng House (CKS).md
+      - Cheong Koon Seng House (CKS)/House Leaders & Key Members.md
+      - Cheong Koon Seng House (CKS)/House Mascot.md
+      - Cheong Koon Seng House (CKS)/Individual House Report.md
+      - Cheong Koon Seng House (CKS)/Gallery.md
+      - Tan Kah Kee House (TKK)/.keep
+      - Tan Kah Kee House (TKK)/Tan Kah Kee House (TKK).md
+      - Tan Kah Kee House (TKK)/House Leaders & Key Members.md
+      - Tan Kah Kee House (TKK)/House Mascot.md
+      - Tan Kah Kee House (TKK)/Individual House Report.md
+      - Tan Kah Kee House (TKK)/Gallery.md
+      - Lee Seng Gee House (LSG)/.keep
+      - Lee Seng Gee House (LSG)/Lee Seng Gee House (LSG).md
+      - Lee Seng Gee House (LSG)/House Leaders & Key Members.md
+      - Lee Seng Gee House (LSG)/House Mascot.md
+      - Lee Seng Gee House (LSG)/Individual House Report.md
+      - Lee Seng Gee House (LSG)/Gallery.md
+      - Goh Hood Keng House (GHK)/.keep
+      - Goh Hood Keng House (GHK)/Goh Hood Keng House (GHK).md
+      - Goh Hood Keng House (GHK)/House Leaders & Key Members.md
+      - Goh Hood Keng House (GHK)/House Mascot.md
+      - Goh Hood Keng House (GHK)/Individual House Report.md
+      - Goh Hood Keng House (GHK)/Gallery.md
+      - Shaw Vee Meng House (SVM)/.keep
+      - Shaw Vee Meng House (SVM)/Shaw Vee Meng House (SVM).md
+      - Shaw Vee Meng House (SVM)/House Leaders & Key Members.md
+      - Shaw Vee Meng House (SVM)/House Mascot.md
+      - Shaw Vee Meng House (SVM)/Individual House Report.md
+      - Shaw Vee Meng House (SVM)/Gallery.md
+      - Tan Chin Tuan House (TCT)/.keep
+      - Tan Chin Tuan House (TCT)/Tan Chin Tuan House (TCT).md
+      - Tan Chin Tuan House (TCT)/House Leaders & Key Members.md
+      - Tan Chin Tuan House (TCT)/House Mascot.md
+      - Tan Chin Tuan House (TCT)/Individual House Report.md
+      - Tan Chin Tuan House (TCT)/Gallery.md
+      - Annual Swimming Championships/.keep
+      - Annual Swimming Championships/Annual Swimming Championships.md
+      - Annual Swimming Championships/Meet Program.md
+      - Annual Swimming Championships/Schedule of Events.md
+      - Annual Swimming Championships/Results of Swim Meet.md
+      - Track & Field/.keep
+      - Track & Field/Track & Field.md
+      - Track & Field/Confirmed Participant List.md
+      - Track & Field/Meet Programme.md
+      - Track & Field/Schedule of Events.md
+      - Track & Field/Results – Overall & Daily.md
+      - Cross Country Championships/.keep
+      - Cross Country Championships/Annual Cross Country Championships.md
+      - Cross Country Championships/Confirmed Participant List.md
+      - Cross Country Championships/Schedule of Events.md
+      - Cross Country Championships/Results – Overall & Daily.md

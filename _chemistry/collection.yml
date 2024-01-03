@@ -1,0 +1,8 @@
+collections:
+  chemistry:
+    output: true
+    order:
+      - Chemistry.md
+      - Staff.md
+      - Curriculum.md
+      - Useful Links.md
