@@ -7,7 +7,7 @@ description: ""
 <table>
 <tbody>
 <tr>
-<td>ACSpression 2024</td>
+<td><a href="/acspression-2024/new-year-resolutions/">ACSpression 2024</a></td>
 <td><a href="/announcements/acspression-november-2023/auntie-meng-keow/">ACSpression 2023</a></td>
 <td>&nbsp;</td>
 </tr>
