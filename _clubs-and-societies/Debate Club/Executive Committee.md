@@ -3,10 +3,11 @@ title: Executive Committee
 permalink: /debate/executive-committee-dc/
 description: ""
 third_nav_title: Debate Club
+variant: markdown
 ---
-<p><strong>2022/2023</strong></p>
+<p><strong>2023/2024</strong></p>
 <table>
-<thead>
+<tbody>
 <tr>
 <td>
 <p><strong>POSITION</strong></p>
@@ -15,14 +16,12 @@ third_nav_title: Debate Club
 <p><strong>NAME</strong></p>
 </td>
 </tr>
-</thead>
-<tbody>
 <tr>
 <td>
 <p>President</p>
 </td>
 <td>
-<p>John Junrui Hu Lagman (6.07)</p>
+<p>Kwah Hsiang Rui David (6.05)</p>
 </td>
 </tr>
 <tr>
@@ -30,7 +29,7 @@ third_nav_title: Debate Club
 <p>IB Team Captain</p>
 </td>
 <td>
-<p>Abhinav Kumar Nair A L Mukunda Kumar (6.09)</p>
+<p>Zachary Matthew Khoo Wen Kai (6.08)</p>
 </td>
 </tr>
 <tr>
@@ -38,7 +37,7 @@ third_nav_title: Debate Club
 <p>Vice-President</p>
 </td>
 <td>
-<p>Lucas Looi Jun Hong (6.15)</p>
+<p>See Yue (6.08)</p>
 </td>
 </tr>
 <tr>
@@ -46,38 +45,34 @@ third_nav_title: Debate Club
 <p>General Secretary</p>
 </td>
 <td>
-<p>Gan Yu Xuan Isabelle (6.07)</p>
+<p>Cherelle Lee Shi En (6.16)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Secretary of Publicity</p>
+<p>Secretaries of Publicity</p>
 </td>
 <td>
-<p>Edward Koh Rui Qiang (6.18)</p>
+<p>Andre Bertrand Chua Zhe Kai (6.03)<br> Caitlin Lau Yi Lin (6.10)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Secretaries of Materials</p>
+<p>Secretary of Materials</p>
 </td>
 <td>
-<p>Jabelle Lim Ying Xuan (6.04)</p>
-<p>Yeoh Siang Rong, Jonathan (6.18)</p>
+<p>Zackary Chong Kim Leong (6.18)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Secretary of Welfare</p>
+<p>Secretaries of Welfare</p>
 </td>
 <td>
-<p>Gokul Ram Hari Preetha (6.08)</p>
+<p>Chan Yat Him Cody (6.12)<br> Riyana Kelin (6.07)</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>—–</p>
-</td>
 <td>
 <p>—–</p>
 </td>
@@ -87,29 +82,29 @@ third_nav_title: Debate Club
 <p>Sec/IP Team Captain</p>
 </td>
 <td>
-<p>Gabriel Wong Kiat En (4.16)</p>
+<p>Jerome Ong (4.16)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Sec/IP Team Vice-Captain</p>
+<p>Sec/IP Team Vice-Captains</p>
 </td>
 <td>
-<p>Caden Wong Jing Xi (4.16)</p>
+<p>Ephraim Wu I-Hng (4.10)</p>
+<p>Jerome Chan Yeak Yern (4.16)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Secretary of Administration (Sec/IP)</p>
+<p>Sec/IP Secretary</p>
 </td>
 <td>
-<p>Yang Zhenglin (4.13)</p>
+<p>Evan Ong I-En (4.08)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong></p>
-<p><strong>2023/2024</strong></p>
+<p><strong>2024/2025</strong></p>
 <table>
 <tbody>
 <tr>
@@ -125,7 +120,7 @@ third_nav_title: Debate Club
 <p>President-Designate</p>
 </td>
 <td>
-<p>Kwah Hsiang Rui David (5.05)</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -133,7 +128,7 @@ third_nav_title: Debate Club
 <p>IB Team Captain-Designate</p>
 </td>
 <td>
-<p>Zachary Matthew Khoo Wen Kai (5.08)</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -141,7 +136,7 @@ third_nav_title: Debate Club
 <p>Vice-President-Designate</p>
 </td>
 <td>
-<p>See Yue (5.08)</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -149,7 +144,7 @@ third_nav_title: Debate Club
 <p>General Secretary-Designate</p>
 </td>
 <td>
-<p>Cherelle Lee Shi En (5.16)</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -157,7 +152,7 @@ third_nav_title: Debate Club
 <p>Secretaries of Publicity-Designate</p>
 </td>
 <td>
-<p>Andre Bertrand Chua Zhe Kai (5.03)<br> Caitlin Lau Yi Lin (5.1)</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -165,7 +160,7 @@ third_nav_title: Debate Club
 <p>Secretary of Materials-Designate</p>
 </td>
 <td>
-<p>Zackary Chong Kim Leong (5.18)</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -173,40 +168,40 @@ third_nav_title: Debate Club
 <p>Secretaries of Welfare-Designate</p>
 </td>
 <td>
-<p>Chan Yat Him Cody (5.12)<br> Riyana Kelin (5.07)</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
 <td>
 <p>—–</p>
 </td>
-<td>&nbsp;</td>
+<td>
+<p>-</p>
+</td>
 </tr>
 <tr>
 <td>
 <p>Sec/IP Team Captain-Designate</p>
 </td>
 <td>
-<p>Jerome Ong (3.16)</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Sec/IP Team Vice-Captains-Designate</p>
+<p>Sec/IP Team Vice-Captain-Designate</p>
 </td>
 <td>
-<p>Ephraim Wu I-Hng (3.10)</p>
-<p>Jerome Chan Yeak Yern (3.16)</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Sec/IP Secretary</p>
+<p>Sec/IP Secretary-Designate</p>
 </td>
 <td>
-<p>Evan Ong I-En (3.08)</p>
+<p>-</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
