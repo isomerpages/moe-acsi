@@ -2,6 +2,11 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - ACreatives/.keep
+      - ACreatives/ACreatives.md
+      - ACreatives/Teachers.md
+      - ACreatives/Executive Committee.md
+      - ACreatives/Schedule.md
       - ACSpression.md
       - ACtive ACsians/.keep
       - ACtive ACsians/ACtive ACsians.md
