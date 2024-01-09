@@ -11,6 +11,8 @@ Currently there are five schools who offer the RSP and up to 100 scholarships wi
 
 RSP curriculum will include overseas immersion programmes and structured enrichment programmes spread out during the course.
 
-[RSP application form 2023](/files/Talent%20Development/RSP/RSP-applicationform-2023.pdf)   
-[RSP and MSP FAQ 2023](/files/Talent%20Development/RSP/RSP_and_MSP_FAQ_2024_updated.pdf)   
-[slides for Yr 1 parents briefing on RSP](/files/Talent%20Development/RSP/slides-for-Yr-1-parents-briefing-on-RSP-.pdf)
+[RSP application form 2024](/files/RSP_applicationform_2024.pdf)   
+[RSP and MSP FAQ 2024](/files/RSP_and_MSP_FAQ_2024_.pdf)   
+[slides for Yr 1 parents briefing on RSP](/files/Y1_parents_RSP_briefing_slides_2024.pdf)
+
+
