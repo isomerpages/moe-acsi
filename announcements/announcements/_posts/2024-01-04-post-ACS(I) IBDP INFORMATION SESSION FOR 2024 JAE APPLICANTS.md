@@ -16,3 +16,5 @@ variant: markdown
 <p>Venue: LT1, ACS (Independent), 121 Dover Road Singapore 139650</p>
 <p>This session is open to 2024 Joint Admissions Exercise (JAE) applicants from all secondary schools. </p>
 <p>Seats are limited, please register through <a href="https://forms.office.com/r/3eiZ8a8Qfc">https://forms.office.com/r/3eiZ8a8Qfc</a>.</p>
+
+![](/images/Map_for_IB_Information_Session.png)
