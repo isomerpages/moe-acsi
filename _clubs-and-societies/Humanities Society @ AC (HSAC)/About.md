@@ -17,20 +17,3 @@ third_nav_title: Humanities Society @ AC (HSAC)
 <p>Tuesdays</p>
 <p>4.00 pm - 5. 30 pm</p>
 <p>Humanities Room</p>
-<p><strong>Exco Members (2023/2024)</strong></p>
-<p>President: Koh Yong Diat, Isaac (6.18)</p>
-<p>Vice - President: Chenyu Marcus Cheong (Year 5)</p>
-<p>History and Political Wing Head: Josephine Petra Ho En (6.18)</p>
-<p>Law Wing Head: Jonavon Yeo Shen Yi (6.18)</p>
-<p>Social Science Wing Head: Samuel Nicholas Chia (6.16)</p>
-<p>Writing and Literature Wing Head: Timothy Renhui Hu Lagman (6.18)</p>
-<p>Economics Wing Head: Yu Zong Hao, Kerwin (6.02)</p>
-<p>Secretary: Wayne Choo Zee Chen (6.06)</p>
-<p>History and Political Deputy Wing Head: Lim Jun Yong Thomas (6.07)</p>
-<p>Law Wing Deputy Head: Phang Zhi Xuan Belle (6.13)</p>
-<p>Social Science Deputy Wing Head: Gabriel Sam Boh Shao Wei (6.01)</p>
-<p>Writing and Literature Deputy Wing Head: Joshua Ho Kai An (Year 5)</p>
-<p>Economics Deputy Wing Head: Lee Junxian, Aidan (4.16)</p>
-<p>Publicity: Kang Xin Hean, Vera (6.10)</p>
-<p><strong>Reach out to us!</strong></p>
-<p>Instagram: @hsac_indep&nbsp;</p>

@@ -1,5 +1,5 @@
 ---
-title: Executive Committee (2021 – 2022)
+title: Executive Committee
 permalink: /yes/executive-committee-2017-2018/
 description: ""
 third_nav_title: Young Entrepreneurs’ Society
