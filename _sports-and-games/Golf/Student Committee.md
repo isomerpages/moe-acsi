@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Golf
 variant: markdown
 ---
-### Key appointments for 2023
-
+<p><strong><u>Key appointments for 2024</u></strong></p>
 <table width="472">
 <tbody>
 <tr>
