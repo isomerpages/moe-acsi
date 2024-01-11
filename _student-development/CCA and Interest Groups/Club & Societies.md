@@ -5,6 +5,8 @@ description: ""
 third_nav_title: CCA and Interest Groups
 variant: markdown
 ---
+
+![](/images/Humanities_Society___AC__HSAC_.jpg)
 <a href="/clubs-and-societies/acreatives/acreatives/">
 <img src="/images/ACreatives.jpg" style="width:70%">
 </a>
@@ -39,6 +41,10 @@ variant: markdown
 <br>
 <a href="/healthfitness/">
 <img src="/images/health&amp;fitness.png" style="width:70%">
+</a>
+<br>
+<a href="/clubs-and-societies/humanities-society-ac-hsac/about/">
+<img src="/images/Humanities_Society___AC__HSAC_.jpg" style="width:70%">
 </a>
 <br>
 <a href="/interact/">
