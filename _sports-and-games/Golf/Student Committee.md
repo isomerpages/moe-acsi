@@ -57,7 +57,7 @@ variant: markdown
 <p>Vice-Captain</p>
 </td>
 <td width="180">
-<p>Lucas Wong Jun Xian</p>
+<p>Chuang Eng Teck Ethan</p>
 </td>
 </tr>
 </tbody>
