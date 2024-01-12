@@ -3,13 +3,14 @@ title: Chinese
 permalink: /departments/mother-tongue/chinese/
 description: ""
 third_nav_title: Mother Tongue
+variant: markdown
 ---
-
 What’s New
 ==========
 
 |                  |                          |          |
 |------------------|--------------------------|----------|
+|  内容更新10/01/24| 2024教师阵容           |   教师阵容 |
 | 内容更新06/01/22 | 2022年教师阵容           | 教师阵容 |
 | 内容更新10/05/21 | 2021年李丽英演说奖       | 部门活动 |
 | 内容更新22/02/21 | 2021年线上新春大会       | 部门活动 |
