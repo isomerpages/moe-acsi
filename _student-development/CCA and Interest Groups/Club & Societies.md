@@ -5,8 +5,6 @@ description: ""
 third_nav_title: CCA and Interest Groups
 variant: markdown
 ---
-
-![](/images/Humanities_Society___AC__HSAC_.jpg)
 <a href="/clubs-and-societies/acreatives/acreatives/">
 <img src="/images/ACreatives.jpg" style="width:70%">
 </a>
