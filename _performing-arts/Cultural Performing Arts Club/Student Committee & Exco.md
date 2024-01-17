@@ -100,7 +100,6 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <ul>
 <li><strong>2024 Indian Section EXCO members</strong></li>
 </ul>
@@ -125,7 +124,7 @@ variant: markdown
 <p>Thirumalai Adhithyavelan</p>
 </td>
 <td width="62">
-<p>5.02</p>
+<p>6.02</p>
 </td>
 </tr>
 <tr>
@@ -136,7 +135,7 @@ variant: markdown
 <p>Kavin Sasikumar</p>
 </td>
 <td width="62">
-<p>5.08</p>
+<p>6.08</p>
 </td>
 </tr>
 <tr>
@@ -147,7 +146,7 @@ variant: markdown
 <p>Kavin Manimaran</p>
 </td>
 <td width="62">
-<p>3.10</p>
+<p>4.10</p>
 </td>
 </tr>
 <tr>
@@ -158,7 +157,7 @@ variant: markdown
 <p>Madhan Selvakumar</p>
 </td>
 <td width="62">
-<p>Y3</p>
+<p>3.13</p>
 </td>
 </tr>
 <tr>
@@ -185,7 +184,6 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <ul>
 <li><strong>2024 Malay section EXCO members:</strong></li>
 </ul>
@@ -281,4 +279,3 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
