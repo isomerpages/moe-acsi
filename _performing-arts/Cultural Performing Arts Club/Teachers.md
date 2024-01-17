@@ -23,9 +23,3 @@ _Email: miraazunah@acsindep.edu.sg_
 
  _Office: 68700331_
 
-### Mdm Liu Jian
-
-
-_Email: [liujian@acsindep.edu.sg](mailto:liujian@acsindep.edu.sg)_
-
-_Office: 68700445_
