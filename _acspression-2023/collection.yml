@@ -2,6 +2,7 @@ collections:
   acspression-2023:
     output: true
     order:
+      - Term 1/Library Book Sale 2022.md
       - Term 1/10th Anniversary of the HSP.md
       - Term 1/HSSRP Symposium 2022.md
       - Term 1/Gallery Night 2022.md
