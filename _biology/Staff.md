@@ -2,6 +2,7 @@
 title: Staff
 permalink: /departments/science/biology/staff/
 description: ""
+variant: markdown
 ---
 <table>
 <thead>
@@ -18,11 +19,6 @@ description: ""
 <td>See Boon Tiam</td>
 </tr>
 <tr>
-<td>Deputy Dean Science/Biology &amp; Life Sciences (Lower Secondary)</td>
-<td>Ms.</td>
-<td>Ong Wei Ling</td>
-</tr>
-<tr>
 <td>Deputy Dean Science/Biology &amp; Life Sciences</td>
 <td>Mr.</td>
 <td>Charles Low Soo Peng</td>
@@ -31,6 +27,11 @@ description: ""
 <td>Deputy Year Director Year 4</td>
 <td>Mdm.</td>
 <td>Tan Huili</td>
+</tr>
+<tr>
+<td>Acting Deputy Dean, Life Science/Biology(Lower Secondary)</td>
+<td>Ms.</td>
+<td>Krystal Lee Ying Ying</td>
 </tr>
 <tr>
 <td>Senior Teacher</td>
@@ -54,11 +55,6 @@ description: ""
 </tr>
 <tr>
 <td>Teacher</td>
-<td>Mrs.</td>
-<td>Choy Hoay Min</td>
-</tr>
-<tr>
-<td>Teacher</td>
 <td>Ms.</td>
 <td>Lin Zhangli</td>
 </tr>
@@ -66,21 +62,6 @@ description: ""
 <td>Teacher</td>
 <td>Mr.</td>
 <td>Mark Richie Tan Chiang Sun</td>
-</tr>
-<tr>
-<td>Teacher</td>
-<td>Dr.</td>
-<td>Hazel Wong En En</td>
-</tr>
-<tr>
-<td>Teacher</td>
-<td>Ms.</td>
-<td>Krystal Lee Ying Ying</td>
-</tr>
-<tr>
-<td>Teacher</td>
-<td>Mr.</td>
-<td>Lee Kian Soon Thomas</td>
 </tr>
 <tr>
 <td>Teacher</td>
@@ -96,6 +77,26 @@ description: ""
 <td>Teacher</td>
 <td>Ms.</td>
 <td>Jerine Lim Shu Ting</td>
+</tr>
+<tr>
+<td>Teacher</td>
+<td>Mr.</td>
+<td>Bobby Tantri</td>
+</tr>
+<tr>
+<td>Teacher</td>
+<td>Ms.</td>
+<td>Chan Yu Mun</td>
+</tr>
+<tr>
+<td>Teacher</td>
+<td>Ms.</td>
+<td>Khoo Jiezhu Carolyn</td>
+</tr>
+<tr>
+<td>Teacher</td>
+<td>Mrs.</td>
+<td>Tan Gek Jia Mylene</td>
 </tr>
 <tr>
 <td>Laboratory Supervisor</td>
