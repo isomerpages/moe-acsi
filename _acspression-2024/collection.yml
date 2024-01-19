@@ -2,5 +2,6 @@ collections:
   acspression-2024:
     output: true
     order:
+      - Term 1/.keep
       - ACSpression January 2024/New Year Resolutions.md
       - ACSpression January 2024/.keep
