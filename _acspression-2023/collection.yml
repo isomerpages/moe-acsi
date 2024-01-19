@@ -2,6 +2,7 @@ collections:
   acspression-2023:
     output: true
     order:
+      - Term 3/.keep
       - Term 2/.keep
       - Term 1/.keep
       - ACSpression November 2023/Auntie Meng Keow.md
