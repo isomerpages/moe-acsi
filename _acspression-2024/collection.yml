@@ -2,6 +2,7 @@ collections:
   acspression-2024:
     output: true
     order:
+      - Term 1/haiku.md
       - Term 1/2023 Inter JC Staff football tournament.md
       - Term 1/2023 THOBURN CUP WINNERS.md
       - Term 1/ACSpressivo.md
