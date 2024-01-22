@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Health and Fitness Club
 variant: markdown
 ---
-#### Please note that the club is open to Year 5 – Year 6 students only
+### Please note that the club is open to Year 5 – Year 6 students only
 
-**YEAR 5 & 6**
+##### **YEAR 5 & 6**
 
 Wednesday(s)  3:15 pm – 4:40 pm Old MPH for Fitness (Monthly/Bi-Monthly sessions)
 
