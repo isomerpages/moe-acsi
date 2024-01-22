@@ -3,6 +3,7 @@ title: Awards
 permalink: /nccair/awards/
 description: ""
 third_nav_title: National Cadet Corps (Air)
+variant: markdown
 ---
 ### 2001
 
@@ -127,7 +128,7 @@ Second Runner up for Orienteering route Competition
 
 ### 2015
 
-Best Air Unit Competition 2015 & Gold Award
+Best Air Unit Competition 2015 &amp; Gold Award
 
 ### 2016
 
@@ -188,3 +189,11 @@ Air District Champion for Frisbee<br>
 HQ NCC Outstanding Cadet Award 2022 (MSG Rahul Sankar)<br>
 HQ NCC Outstanding Cadet Award 2022 (MSG Muthukumar Karthikeyan)<br>
 ACS (Independent) Sword of Honour Award 2022 (MSG Rahul Sankar)
+
+### 2023
+
+Unit Recognition (Distinction)  <br>
+Air District Third Placing for Soccer  <br>
+HQ NCC Outstanding Cadet Award 2023 (MSG Novi Lew)  <br>
+HQ NCC Outstanding Cadet Award 2023 (MSG Raphael Tan Xun)  <br>
+ACS (Independent) Sword of Honour Award 2022 (MSG Novi Lew)
