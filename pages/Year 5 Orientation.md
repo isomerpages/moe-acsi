@@ -1,7 +1,8 @@
 ---
 title: Year 5 Orientation
-permalink: /ib-evening/
+permalink: /246783235678/
 description: ""
+variant: tiptap
 ---
 <p><strong>Link for IB Evening Principal’s briefing&nbsp;</strong><strong>on 6 Feb, 4.30-5.30pm</strong></p>
 <p></p>
