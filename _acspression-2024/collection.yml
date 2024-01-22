@@ -2,6 +2,7 @@ collections:
   acspression-2024:
     output: true
     order:
+      - Term 1/ACSpressivo.md
       - Term 1/FishX.md
       - Term 1/Humanities Scholars Programme Overseas Educational Trip.md
       - Term 1/Inter Hostel Competition 2023.md
