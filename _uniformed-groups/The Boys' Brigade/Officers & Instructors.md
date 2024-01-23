@@ -3,8 +3,339 @@ title: Officers & Instructors
 permalink: /bb/officers-and-instructors/
 description: ""
 third_nav_title: The Boys' Brigade
+variant: markdown
 ---
-**12 I Officers’ Council 2023**
-===============================
-
-<table style="height: 100%; border-color: #d1d1d1;" width="100%" border="1"><tbody><tr><td style="width: 204px;">12th Group Chairman and Financial Controller</td><td style="width: 177px;">Mr Tye Yew Meng, LTA</td></tr><tr><td style="width: 204px;">12th Group Chaplain (BRMC PIC)</td><td style="width: 177px;">Rev Wendy Watson, LTA (Interim)</td></tr><tr><td style="width: 204px;">12th I Assistant Chaplain (LWMC PIC)</td><td style="width: 177px;">Rev Khoo Kay Huat</td></tr><tr><td style="width: 204px;">12th I Assistant Chaplain</td><td style="width: 177px;">Rev Alex Chew</td></tr><tr><td style="width: 204px;">Captain</td><td style="width: 177px;">Mr Gareth Tan, LTA</td></tr><tr><td style="width: 204px;">Teacher-in-Charge, Company Treasurer</td><td style="width: 177px;">Mrs Elaine Lui, LTA</td></tr><tr><td style="width: 204px;">Officer-Commanding</td><td style="width: 177px;">Mr Chue Zheng Yang, 2LT</td></tr><tr><td style="width: 204px;">Deputy Officer Commanding</td><td style="width: 177px;">Mr Samuel Wang, LTA</td></tr><tr><td style="width: 204px;">Administration Operations Coordinator</td><td style="width: 177px;">Mr Timothy Lim</td></tr><tr><td style="width: 204px;"></td><td style="width: 177px;"></td></tr><tr><td style="width: 204px;"></td><td style="width: 177px;"></td></tr><tr><td style="width: 204px;"><b>Y1Y4 Generation</b></td><td style="width: 177px;"></td></tr><tr><td style="width: 204px;">Year 1&nbsp;TIC</td><td style="width: 177px;">Mrs Maybelline Tan</td></tr><tr><td style="width: 204px;">Year 1 OIC</td><td style="width: 177px;">Mr Samuel Song</td></tr><tr><td style="width: 204px;">Year 1 Team</td><td style="width: 177px;">Mr Reuben Wong</td></tr><tr><td style="width: 204px;"></td><td style="width: 177px;">Mr Tan Chyi Hann</td></tr><tr><td style="width: 204px;">Year 4 TIC</td><td style="width: 177px;">Mrs Elaine Lui</td></tr><tr><td style="width: 204px;">Year 4&nbsp;OIC</td><td style="width: 177px;">Mr Darrell Lim</td></tr><tr><td style="width: 204px;">Year 4 Team</td><td style="width: 177px;">Mr James Hong</td></tr><tr><td style="width: 204px;"></td><td style="width: 177px;">Mr Jonathan Ang</td></tr><tr><td style="width: 204px;">Y1Y4 GCoord</td><td style="width: 177px;">Ms Megan Chong</td></tr><tr><td style="width: 204px;"></td><td style="width: 177px;"></td></tr><tr><td style="width: 204px;"></td><td style="width: 177px;"></td></tr><tr><td style="width: 204px;"><b>Y2Y5 Generation</b></td><td style="width: 177px;"></td></tr><tr><td style="width: 204px;">&nbsp;Year 2&nbsp;TIC, BB Week Coordinator</td><td style="width: 177px;">Mdm Lin Yuhong</td></tr><tr><td style="width: 204px;">&nbsp;Year 2 OIC</td><td style="width: 177px;">Mr Timothy Lim</td></tr><tr><td style="width: 204px;">Year 2 Team</td><td style="width: 177px;">Mr Tobias Lee</td></tr><tr><td style="width: 204px;"></td><td style="width: 177px;">Ms Peace Lim</td></tr><tr><td style="width: 204px;"></td><td style="width: 177px;">Ms Faith Sze</td></tr><tr><td style="width: 204px;">Year 5 TIC, School Cockpit Coordinator (Y4-6)</td><td style="width: 177px;">Ms Li Yuexia</td></tr><tr><td style="width: 204px;">Year 5 OIC</td><td style="width: 177px;">Mr Ryan Chong</td></tr><tr><td style="width: 204px;">Year 5 Team</td><td style="width: 177px;">Mr Isaac Lee</td></tr><tr><td style="width: 204px;"></td><td style="width: 177px;">Mr Matthias Liew</td></tr><tr><td style="width: 204px;"></td><td style="width: 177px;">Ms Rachel Koh</td></tr><tr><td style="width: 204px;"></td><td style="width: 177px;">Mr Daniel Tang</td></tr><tr><td style="width: 204px;"></td><td style="width: 177px;">Mr Justin Lee</td></tr><tr><td style="width: 204px;">Y2Y5 GCoord</td><td style="width: 177px;">Mr Isaac Lee</td></tr><tr><td style="width: 204px;"></td><td style="width: 177px;"></td></tr><tr><td style="width: 204px;"></td><td style="width: 177px;"></td></tr><tr><td style="width: 204px;"><b>Y3Y6 Generation</b></td><td style="width: 177px;"></td></tr><tr><td style="width: 204px;">Year 3 TIC, BB Enrollment Coordinator</td><td style="width: 177px;">Mr James Tan</td></tr><tr><td style="width: 204px;">Year 3 OIC</td><td style="width: 177px;">Mr Aaron Heng</td></tr><tr><td style="width: 204px;">Year 3 Team</td><td style="width: 177px;">Mr Matthew Tan</td></tr><tr><td style="width: 204px;"></td><td style="width: 177px;">Mr Cheng Jun Yuan</td></tr><tr><td style="width: 204px;"></td><td style="width: 177px;">Mr Jerome Tan</td></tr><tr><td style="width: 204px;">Year 6 TIC, School Cockpit Coordinator (Y1-3)</td><td style="width: 177px;">Ms Rimjhim Relan</td></tr><tr><td style="width: 204px;">Year 6 OIC</td><td style="width: 177px;">Mr Benjamin Goh</td></tr><tr><td style="width: 204px;">Primers Coord</td><td style="width: 177px;">Mr Joseph Lai</td></tr><tr><td style="width: 204px;">Year 6 Team</td><td style="width: 177px;">Mr Brendan Soh</td></tr><tr><td style="width: 204px;"></td><td style="width: 177px;">Ms Megan Chong</td></tr><tr><td style="width: 204px;">Y3Y6 GCoord</td><td style="width: 177px;">Ms Megan Chong</td></tr><tr><td style="width: 204px;"></td><td style="width: 177px;"></td></tr><tr><td style="width: 204px;"></td><td style="width: 177px;"></td></tr><tr><td style="width: 204px;">Band TIC, CQ TIC</td><td style="width: 177px;">Mrs Jaime Ong</td></tr><tr><td style="width: 204px;">Band OIC</td><td style="width: 177px;">Mr Matthias Liew</td></tr><tr><td style="width: 204px;">Band Team</td><td style="width: 177px;">Mr Ryan Chong</td></tr><tr><td style="width: 204px;"></td><td style="width: 177px;">Mr Tobias Lee</td></tr><tr><td style="width: 204px;"></td><td style="width: 177px;">Mr Brendan Soh</td></tr><tr><td style="width: 204px;"></td><td style="width: 177px;">Mr Jarett Kan, 2LT</td></tr><tr><td style="width: 204px;"></td><td style="width: 177px;"></td></tr><tr><td style="width: 204px;"><strong>Company Appointments</strong></td><td style="width: 177px;"></td></tr><tr><td style="width: 204px;">Deputy Officer Commanding</td><td style="width: 177px;">Mr Samuel Wang</td></tr><tr><td style="width: 204px;">Administration and Operations Coordinator</td><td style="width: 177px;">Mr Timothy Lim</td></tr><tr><td style="width: 204px;">Parade Orders Coordinator</td><td style="width: 177px;">Mr Timothy Lim</td></tr><tr><td style="width: 204px;">Company Logistics TIC</td><td style="width: 177px;">Mr Cheng Jun Yuan, Mrs Elaine Lui</td></tr><tr><td style="width: 204px;">Awards OIC</td><td style="width: 177px;">Mr Cheng Jun Yuan</td></tr><tr><td style="width: 204px;">LEAPS 2.0 and RAMS TIC</td><td style="width: 177px;">Mrs Elaine Lui</td></tr><tr><td style="width: 204px;">Discipline Officer</td><td style="width: 177px;">Dr Andrew Yong</td></tr><tr><td style="width: 204px;">School Flag-Raising Duty TIC</td><td style="width: 177px;">Mrs Jaime Ong</td></tr><tr><td style="width: 204px;">School Cockpit TIC (Y1-3)</td><td style="width: 177px;">Ms Rimjhim Relan</td></tr><tr><td style="width: 204px;">School Cockpit TIC (Y4-6)</td><td style="width: 177px;">Ms Li Yuexia</td></tr><tr><td style="width: 204px;">Company Food Officer</td><td style="width: 177px;">Mr Jonathan Ng</td></tr><tr><td style="width: 204px;"></td><td style="width: 177px;"></td></tr><tr><td style="width: 204px;"><strong>Core Assessments</strong></td><td style="width: 177px;"></td></tr><tr><td style="width: 204px;">Seniors Program Coordinator</td><td style="width: 177px;">Mr Matthew Tan</td></tr><tr><td style="width: 204px;">Seniors Program Officer</td><td style="width: 177px;">Mr Timothy Lim</td></tr><tr><td style="width: 204px;">Seniors Program Mentor</td><td style="width: 177px;">Mr Jarett Kan</td></tr><tr><td style="width: 204px;">Adventure Program Coordinator</td><td style="width: 177px;">Mr Chue Zheng Yang</td></tr><tr><td style="width: 204px;">Community Service Program Coordinator</td><td style="width: 177px;">Mr Justin Lee</td></tr><tr><td style="width: 204px;">Drill Program Coordinator</td><td style="width: 177px;">Mr Cheng Jun Yuan</td></tr><tr><td style="width: 204px;"></td><td style="width: 177px;"></td></tr><tr><td style="width: 204px;"><strong>Awards</strong></td><td style="width: 177px;"></td></tr><tr><td style="width: 204px;">NYAA Bronze</td><td style="width: 177px;">Mdm Lin Yuhong</td></tr><tr><td style="width: 204px;">NYAA Silver</td><td style="width: 177px;">Mr James Tan</td></tr><tr><td style="width: 204px;">NYAA Gold</td><td style="width: 177px;">Ms Li Yuexia</td></tr><tr><td style="width: 204px;">Founder’s Men Award</td><td style="width: 177px;">Mrs Elaine Lui</td></tr><tr><td style="width: 204px;">President’s Men Award</td><td style="width: 177px;">Ms Sheena Sutherson, Ms Rimjhim Relan</td></tr><tr><td style="width: 204px;">JMF Strategist / Submissions Coordinator</td><td style="width: 177px;">Mr Samuel Wang, Mr Chue Zheng Yang, Mr Gareth Tan</td></tr><tr><td style="width: 204px;">Anchors Award</td><td style="width: 177px;">Ms Rimjhim Relan</td></tr><tr><td style="width: 204px;">CAS Coorindator</td><td style="width: 177px;">Ms Rimjhim Relan</td></tr><tr><td style="width: 204px;">School UG Awards</td><td style="width: 177px;">Mrs Elaine Lui and Cohort TICs</td></tr></tbody></table>
+<table width="0">
+<tbody>
+<tr>
+<td colspan="2">
+<p><strong>12I Senior Leadership 2023</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>12th Group Chairman</p>
+</td>
+<td>
+<p>Mr Tye Yew Meng</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Financial Controller</p>
+</td>
+<td>
+<p>Mr Tye Yew Meng</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>12th Group Chaplain (BRMC PIC)</p>
+</td>
+<td>
+<p>Ps Wendy Watson</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>12I Asst Chaplain (LWMC PIC)</p>
+</td>
+<td>
+<p>Ps Khoo Kay Huat</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>12I Asst Chaplain</p>
+</td>
+<td>
+<p>Ps Alex Chew</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Captain</p>
+</td>
+<td>
+<p>Mr Gareth Tan</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Teacher-in-Charge</p>
+</td>
+<td>
+<p>Mrs Elaine Lui</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Officer Commanding</p>
+</td>
+<td>
+<p>Mr Chue Zheng Yang</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table width="307">
+<tbody>
+<tr>
+<td colspan="2">
+<p><strong>2024 Jan - Jun</strong></p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p><strong>Cohort Appointments</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Year 1 TIC</p>
+</td>
+<td>
+<p>Ms Maybelline Tan</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Year 4 TIC</p>
+</td>
+<td>
+<p>Mr Joseph Sim</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Year 4 OIC</p>
+</td>
+<td>
+<p>Mr Aaron Heng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>Y4 Team</p>
+</td>
+<td>
+<p>Mr Matthew Tan</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mr Cheng Jun Yuan</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mr Jerome Tan</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mr Joel Long</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Y1Y4 Gen Coord</p>
+</td>
+<td>
+<p>Ms Megan Chong</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Year 2 TIC</p>
+</td>
+<td>
+<p>Mrs Elaine Lui</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Year 2 OIC</p>
+</td>
+<td>
+<p>Mr Samuel Song</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Year 2 Team</p>
+</td>
+<td>
+<p>Mr Reuben Wong</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mr Eber Fu</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mr Zachary See</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Year 5 TIC</p>
+</td>
+<td>
+<p>Ms Li Yuexia</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Year 5 OIC</p>
+</td>
+<td>
+<p>Mr Darrell Lim</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Y5 Team</p>
+</td>
+<td>
+<p>Mr Trinh Tran</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Y2Y5 Gen Coord</p>
+</td>
+<td>
+<p>Mr Trinh Tran</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Year 3 TIC</p>
+</td>
+<td>
+<p>Mr James Tan</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Year 3 OIC</p>
+</td>
+<td>
+<p>Ms Faith Sze &amp; Ms Peace Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Year 3 Team</p>
+</td>
+<td>
+<p>Mr Ryan Chin</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mr Brendan Soh</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mr Tobias Lee</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Year 6 TIC</p>
+</td>
+<td>
+<p>Ms Li Yuexia</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Year 6 OIC</p>
+</td>
+<td>
+<p>Mr Daniel Tang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Y6 Team</p>
+</td>
+<td>
+<p>Mr Justin Lee</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mr Isaac Lee</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ms Rachel Koh</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Primers Coord</p>
+</td>
+<td>
+<p>Mr Joseph Lai</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Y3Y6 Gen Coord</p>
+</td>
+<td>
+<p>Mr Isaac Lee</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Band TIC</p>
+</td>
+<td>
+<p>Ms Jaime Ong</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Band OIC</p>
+</td>
+<td>
+<p>Mr Brendan Soh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>Band Team</p>
+</td>
+<td>
+<p>Mr Lucas Goh</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mr Ryan Chong</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mr Tobias Lee</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mr Matthias Liew</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
