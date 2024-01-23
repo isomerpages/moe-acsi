@@ -3,11 +3,160 @@ title: Student Leaders
 permalink: /bb/student-leaders/
 description: ""
 third_nav_title: The Boys' Brigade
+variant: markdown
 ---
-### Company Administration 2023
-
-<table style="border-color: #d1d1d1; width: 100%; height: 100%;" border="1"><tbody><tr><td style="width: 32.6707%;"><strong>Appointment</strong></td><td style="width: 49.3293%;"><strong>Name of Student</strong></td><td style="width: 10%; text-align: center;"><strong>Class</strong></td></tr><tr><td style="width: 32.6707%;">Company Sergeant Major (CSM)</td><td style="width: 49.3293%;"><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ISAAC TAN WEE TIONG (CSM)&quot;}" data-sheets-userformat="{&quot;2&quot;:15357,&quot;3&quot;:{&quot;1&quot;:0},&quot;5&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:[null,2,0]},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;6&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:[null,2,0]},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;7&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:[null,2,0]},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;8&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:[null,2,0]},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;9&quot;:0,&quot;10&quot;:0,&quot;11&quot;:0,&quot;12&quot;:0,&quot;14&quot;:[null,2,0],&quot;15&quot;:&quot;Proxima Nova&quot;,&quot;16&quot;:10}">SSG/4 Chen Shengxu</span></td><td style="width: 10%; text-align: center;">4.11</td></tr><tr><td style="width: 32.6707%;">Deputy Company Sergeant Major (DyCSM)</td><td style="width: 49.3293%;">SSG/4 See Hwee Benaiah</td><td style="width: 10%; text-align: center;">4.11</td></tr><tr><td style="width: 32.6707%;">Deputy Company Sergeant Major (DyCSM)</td><td style="width: 49.3293%;">SSG/4 Julian Chua Cheng Hao</td><td style="width: 10%; text-align: center;">4.01</td></tr><tr><td style="width: 32.6707%;">Band Major</td><td style="width: 49.3293%;">SSG/4 Matthew Samuel Chacko</td><td style="width: 10%; text-align: center;">4.16</td></tr><tr><td style="width: 32.6707%;">Administrative Sergeant</td><td style="width: 49.3293%;">SSG/4 Yeo Shi Min Jonathan</td><td style="width: 10%; text-align: center;">4.03</td></tr><tr><td style="width: 32.6707%;">Christian Education Sergeant</td><td style="width: 49.3293%;">SSG/4 Joshua Fang Ern Jie</td><td style="width: 10%; text-align: center;">4.06</td></tr><tr><td style="width: 32.6707%;">Company Quartermaster Sergeant</td><td style="width: 49.3293%;">SSG/4 Zachary Tan Kuan Shao</td><td style="width: 10%; text-align: center;">4.14</td></tr><tr><td style="width: 32.6707%;">Juniors Sergeant</td><td style="width: 49.3293%;">SSG/4 Michael Khoo Teng Kai</td><td style="width: 10%; text-align: center;">4.01</td></tr><tr><td style="width: 32.6707%;">Projects Sergeant</td><td style="width: 49.3293%;">SSG/4 Aaron Yeyint Thwint</td><td style="width: 10%; text-align: center;">4.14</td></tr><tr><td style="width: 32.6707%;">Training Sergeant</td><td style="width: 49.3293%;">SSG/4 Tan Eu Meng, Samuel</td><td style="width: 10%; text-align: center;">4.16</td></tr><tr><td style="width: 32.6707%;">Wing Sergeant Major</td><td style="width: 49.3293%;">SSG/4 Sahni Aarya</td><td style="width: 10%; text-align: center;">4.11</td></tr></tbody></table>
-
-### Primers Steering Committee 2023
-
-<table style="border-color: #d1d1d1; width: 100%; height: 100%;" border="1"><tbody><tr><td style="width: 33%;"><strong>Appointment</strong></td><td style="width: 49.3175%;"><strong>Name of Student</strong></td><td style="width: 10.6825%; text-align: center;"><strong>Class</strong></td></tr><tr><td style="width: 33%;">Head Primer</td><td style="width: 49.3175%;">SCL/6 Ian Thng Zi An</td><td style="width: 10.6825%; text-align: center;">6.01</td></tr><tr><td style="width: 33%;">Deputy Head Primer</td><td style="width: 49.3175%;">SCL/6 Michael Chi Cheng Lock</td><td style="width: 10.6825%; text-align: center;">6.11</td></tr><tr><td style="width: 33%;">Deputy Head Primer</td><td style="width: 49.3175%;">SCL/6 Loh Min-En, Ruth</td><td style="width: 10.6825%; text-align: center;">6.07</td></tr><tr><td style="width: 33%;">Training and Admin Head</td><td style="width: 49.3175%;">SCL/6 Ayrton Poh Guo Xuan</td><td style="width: 10.6825%; text-align: center;">6.12</td></tr><tr><td style="width: 33%;">Service &amp; Relations Committee Head</td><td style="width: 49.3175%;">SCL/6 Choo Ian Ray</td><td style="width: 10.6825%; text-align: center;">6.02</td></tr><tr><td style="width: 33%;">Y2 Coordinator</td><td style="width: 49.3175%;">SCL/6 John Junrui Hu Lagman</td><td style="width: 10.6825%; text-align: center;">6.07</td></tr></tbody></table>
+<table width="0">
+<tbody>
+<tr>
+<td colspan="2">
+ <p><strong>Company Administration Key Appointments</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Company Segeant Major</p>
+</td>
+<td>
+<p>SGT/4 Daniel Gaw</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Deputy Company Segeant Major</p>
+</td>
+<td>
+<p>SGT/4 Ian Hoong</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Deputy Company Segeant Major</p>
+</td>
+<td>
+<p>SGT/4 Jonathan Yong</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Band Major</p>
+</td>
+<td>
+<p>SGT/4 Xander Quah</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Administrative and Logistics Sergeant</p>
+</td>
+<td>
+<p>SGT/4 Raphael Tan</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Christian Education Sergeant</p>
+</td>
+<td>
+<p>SGT/4 Shayne Tan</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Juniors Sergeant</p>
+</td>
+<td>
+<p>SGT/4 Lukas Chew</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Projects Sergeant</p>
+</td>
+<td>
+<p>SGT/4 Joel Chang</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Training Sergeant</p>
+</td>
+<td>
+<p>SGT/4 Evan Ong</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Wing Sergeant Major</p>
+</td>
+<td>
+<p>SGT/4 Julian Seah</p>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td colspan="2">
+<p><strong>Primers Steering Committee</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Head Primer</p>
+</td>
+<td>
+<p>CLT/6 Benjamin Lee</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Deputy Head Primer</p>
+</td>
+<td>
+<p>CLT/6 Joel Lee</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Deputy Head Primer</p>
+</td>
+<td>
+<p>CLT/6 Shana Lam</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Administrative Head</p>
+</td>
+<td>
+<p>CLT/6 Amber Ong</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Christian Education Head</p>
+</td>
+<td>
+<p>CLT/6 Samuel Kok</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Service &amp; Relations Head</p>
+</td>
+<td>
+<p>CLT/6 Lucas Ang</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Training Head</p>
+</td>
+<td>
+<p>CLT/6 Caleb Pang</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
