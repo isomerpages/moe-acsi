@@ -3,5 +3,121 @@ title: Teachers
 permalink: /bb/teachers/
 description: ""
 third_nav_title: The Boys' Brigade
+variant: markdown
 ---
-<table style="border-color: #d1d1d1; width: 100%; height: 100%;" cellspacing="0" cellpadding="0" border="1"><tbody><tr style="height: 24px;"><td style="height: 24px;" valign="middle"><strong>Name</strong></td><td style="height: 24px;" valign="middle"><strong>Contact Number</strong></td><td style="height: 24px;" valign="middle"><strong>Email Address</strong></td><td style="height: 24px;" valign="middle"><strong>Role(s)</strong></td></tr><tr style="height: 24px;"><td style="height: 24px;" valign="middle">Mrs Elaine Lui, LTA</td><td style="height: 24px;" valign="middle">68700499</td><td style="height: 24px;" valign="middle">weifun@acsindep.edu.sg</td><td style="height: 24px;" valign="middle">Teacher-in-Charge</td></tr><tr style="height: 24px;"><td style="height: 24px;" valign="middle">Mrs Maybelline Tan</td><td style="height: 24px;" valign="middle">67769532</td><td style="height: 24px;" valign="middle">maybellinetan@acsindep.edu.sg</td><td style="height: 24px;" valign="middle">Year 1</td></tr><tr style="height: 24px;"><td style="height: 24px;" valign="middle">Mdm Lin Yuhong</td><td style="height: 24px;" valign="middle">68700472</td><td style="height: 24px;" valign="middle">linyuhong@acsindep.edu.sg</td><td style="height: 24px;" valign="middle">Year&nbsp;2</td></tr><tr style="height: 24px;"><td style="height: 24px;" valign="middle">Mr James Tan</td><td style="height: 24px;" valign="middle">68700617</td><td style="height: 24px;" valign="middle">jamestansh@acsindep.edu.sg</td><td style="height: 24px;" valign="middle">Year 3</td></tr><tr style="height: 24px;"><td style="height: 24px;" valign="middle">Mrs Elaine Lui, LTA</td><td style="height: 24px;" valign="middle">68700422</td><td style="height: 24px;" valign="middle">wilsonwanwh@acsindep.edu.sg</td><td style="height: 24px;" valign="middle">Year 4</td></tr><tr style="height: 24px;"><td style="height: 24px;" valign="middle">Ms Li Yuexia</td><td style="height: 24px;" valign="middle">68700412</td><td style="height: 24px;" valign="middle">liyuexia@acsindep.edu.sg</td><td style="height: 24px;" valign="middle">Year 5</td></tr><tr style="height: 22.6667px;"><td style="height: 22.6667px;" valign="middle">Ms Rimjhim Relan</td><td style="height: 22.6667px;" valign="middle">68700642</td><td style="height: 22.6667px;" valign="middle">rimjhimrelan@acsindep.edu.sg</td><td style="height: 22.6667px;" valign="middle">Year 6</td></tr><tr style="height: 22.6667px;"><td style="height: 22.6667px;" valign="middle">Mrs Jaime Ong</td><td style="height: 22.6667px;" valign="middle">68700665</td><td style="height: 22.6667px;" valign="middle">jaimeongyc@acsindep.edu.sg</td><td style="height: 22.6667px;" valign="middle">BB Bagpipe Band</td></tr><tr style="height: 24px;"><td style="height: 24px;" valign="middle"></td><td style="height: 24px;" valign="middle"></td><td style="height: 24px;" valign="middle"></td><td style="height: 24px;" valign="middle"></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0" width="100%" border="0">
+<tbody>
+<tr>
+<td>
+<p><strong>Name</strong></p>
+</td>
+<td>
+<p><strong>Contact Number</strong></p>
+</td>
+<td>
+<p><strong>Email Address</strong></p>
+</td>
+<td>
+<p><strong>Role(s)</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mrs Elaine Lui, LTA</p>
+</td>
+<td>
+<p>68700499</p>
+</td>
+<td>
+<p><a href="mailto:weifun@acsindep.edu.sg">weifun@acsindep.edu.sg</a></p>
+</td>
+<td>
+<p>Teacher-in-Charge</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mrs Maybelline Tan</p>
+</td>
+<td>
+<p>67769532</p>
+</td>
+<td>
+<p><a href="mailto:maybellinetan@acsindep.edu.sg">maybellinetan@acsindep.edu.sg</a></p>
+</td>
+<td>
+<p>Year 1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mrs Elaine Lui, LTA</p>
+</td>
+<td>
+<p>68700499</p>
+</td>
+<td>
+<p><a href="mailto:weifun@acsindep.edu.sg">weifun@acsindep.edu.sg</a></p>
+</td>
+<td>
+<p>Year&nbsp;2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mr James Tan</p>
+</td>
+<td>
+<p>68700617</p>
+</td>
+<td>
+<p><a href="mailto:jamestansh@acsindep.edu.sg">jamestansh@acsindep.edu.sg</a></p>
+</td>
+<td>
+<p>Year 3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mr Joseph Sim</p>
+</td>
+<td>
+<p>68700491</p>
+</td>
+<td>
+<p><a href="mailto:simmingkwang@acsindep.edu.sg">simmingkwang@acsindep.edu.sg</a></p>
+</td>
+<td>
+<p>Year 4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ms Li Yuexia</p>
+</td>
+<td>
+<p>68700412</p>
+</td>
+<td>
+<p><a href="mailto:liyuexia@acsindep.edu.sg">liyuexia@acsindep.edu.sg</a></p>
+</td>
+<td>
+<p>Years 5 and 6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mrs Jaime Ong</p>
+</td>
+<td>
+<p>68700665</p>
+</td>
+<td>
+<p><a href="mailto:jaimeongyc@acsindep.edu.sg">jaimeongyc@acsindep.edu.sg</a></p>
+</td>
+<td>
+<p>BB Bagpipe Band</p>
+</td>
+</tr>
+</tbody>
+</table>
