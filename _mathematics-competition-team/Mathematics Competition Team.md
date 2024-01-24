@@ -4,9 +4,12 @@ permalink: /mathcompetition/
 description: ""
 variant: markdown
 ---
-### Major Competitions/Activities
+### Selection Criteria and Procedure for DSA Math Applicants
 
-Please check Mathematics Competition Team Calendar for the details, updates and latest information:
+Only APMOPS (Round 1) **Platinum** awardees will be considered. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+APMOPS is Asia-Pacific Mathematical Olympiad for Primary Schools organised by HCI. Previously known as SMOPS.
+
+Only shortlisted applicants will be notified and called up for face to face interview.
 
 <h3>Major Competitions/Activities</h3>
 <p>Please check Mathematics Competition Team Calendar for the details, updates and latest information:</p>
