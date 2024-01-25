@@ -4,7 +4,7 @@ permalink: /246783235678/
 description: ""
 variant: tiptap
 ---
-<p><strong>Link for IB Evening Principal’s briefing&nbsp;on 6 Feb, 4.30-5.30pm</strong>
+<p><strong>Link for IB Evening Principal’s briefing&nbsp;on 5 Feb, 4.30-5.30pm</strong>
 </p>
 <p></p>
 <table>
