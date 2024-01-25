@@ -4,30 +4,25 @@ permalink: /246783235678/
 description: ""
 variant: markdown
 ---
-<p><strong>Link for IB Evening Principal’s briefing&nbsp;on 5 Feb, 4.30-5.30pm</strong>
-</p>
-<p></p>
+<p><strong>Link for IB Evening Principal’s briefing&nbsp;on 5 Feb, 4.30-5.30pm</strong></p>
+<p>&nbsp;</p>
 <table>
-    <tbody>
-        <tr>
-            <td rowspan="1" colspan="1">
-                <p><strong>Zoom Live Event Link (Passcode: 110359)</strong>
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="1" colspan="1">
-                <p><a href="https://go.gov.sg/gltw5k" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gltw5k</a>
-                </p>
-                <p>Or</p>
-                <p></p>
-                <div class="isomer-image-wrapper">
-                    <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/QR_code.png">
-                </div>
-            </td>
-        </tr>
-    </tbody>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p style="text-align: center;"><strong>Zoom Live Event Link (Passcode: 110359)</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p style="text-align: center;"><a rel="noopener noreferrer nofollow" target="_blank" href="https://go.gov.sg/gltw5k">https://go.gov.sg/gltw5k</a></p>
+<p style="text-align: center;">Or</p>
+<div class="isomer-image-wrapper"><img height="auto" width="100%" alt="" src="/images/QR_code.png" style="width: 25%;"></div>
+</td>
+</tr>
+</tbody>
 </table>
+<p>&nbsp;</p>
 <p></p>
 <p><strong>Links for IB Evening Subject Course Outlines</strong>
 </p>
