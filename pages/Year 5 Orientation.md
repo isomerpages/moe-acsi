@@ -20,7 +20,10 @@ variant: tiptap
                 <p><a href="https://go.gov.sg/gltw5k" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gltw5k</a>
                 </p>
                 <p>Or</p>
-                <p>&lt; insert QR Code&gt;</p>
+                <p></p>
+                <div class="isomer-image-wrapper">
+                    <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/QR_code.png">
+                </div>
             </td>
         </tr>
     </tbody>
