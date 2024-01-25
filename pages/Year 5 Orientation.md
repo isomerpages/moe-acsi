@@ -11,7 +11,7 @@ variant: tiptap
     <tbody>
         <tr>
             <td rowspan="1" colspan="1">
-                <p><strong>Teams Live Event Link</strong>
+                <p><strong>Zoom Live Event Link (Passcode: 110359)</strong>
                 </p>
             </td>
         </tr>
