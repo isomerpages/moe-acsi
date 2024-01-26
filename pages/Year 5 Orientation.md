@@ -69,9 +69,9 @@ variant: markdown
                 <p>History &amp; Geography</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Geography Course Outline</a>
+                <p><a href="/files/IB%20Evening/Group_3_Geography_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Geography Course Outline</a>
                 </p>
-                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">History Course Outline</a>
+                <p><a href="/files/IB%20Evening/Group_3_History_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">History Course Outline</a>
                 </p>
             </td>
         </tr>
@@ -80,9 +80,9 @@ variant: markdown
                 <p>Economics &amp; Business Management</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Business Management Course Outline</a>
+                <p><a href="/files/IB%20Evening/Group_3_Business_Management_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Business Management Course Outline</a>
                 </p>
-                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Economics Course Outline</a>
+                <p><a href="/files/IB%20Evening/Group_3_Economics_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Economics Course Outline</a>
                 </p>
             </td>
         </tr>
