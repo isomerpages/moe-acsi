@@ -58,9 +58,9 @@ variant: markdown
                     &amp; French Ab Initio</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Language Ab Course Outline</a>
+                <p><a href="/files/IB%20Evening/Group_2_Language_Ab_Initio_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Language Ab Course Outline</a>
                 </p>
-                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;Language B Course Outline</a>
+                <p><a href="/files/IB%20Evening/Group_2_Language_B_Course_Outlines_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;Language B Course Outline</a>
                 </p>
             </td>
         </tr>
