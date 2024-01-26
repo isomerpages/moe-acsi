@@ -136,9 +136,9 @@ variant: markdown
                 <p>Music &amp; Visual Arts</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Music Course Outline</a>
+                <p><a href="/files/IB%20Evening/Group_6_Music_and_Visual_Art_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Music and Visual Art Course Outline</a>
                 </p>
-                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Visual Arts Course Outline</a>
+                <p>
                 </p>
             </td>
         </tr>
@@ -147,7 +147,7 @@ variant: markdown
                 <p>Creativity, Activity &amp; Service (CAS)</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Creativity, Activity &amp; Service (CAS) Course Outline</a>
+                <p><a href="/files/IB%20Evening/IB_Core_CAS_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Creativity, Activity &amp; Service (CAS) Course Outline</a>
                 </p>
             </td>
         </tr>
