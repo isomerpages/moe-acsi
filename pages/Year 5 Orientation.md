@@ -180,11 +180,11 @@ variant: markdown
                 <p>Circulars and Forms</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">GIRO Application Form</a>
+                <p><a href="/files/IB%20Evening/2024_GIRO_Application_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">GIRO Application Form</a>
                 </p>
-                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1 Principal’s Circular</a>
+                <p><a href="/files/IB%20Evening/2024_Term_1_Principal_s_Circular_final2.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1 Principal’s Circular</a>
                 </p>
-                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Y5 School &amp; Misc Fees</a>
+                <p><a href="/files/IB%20Evening/2024_Year_5_School___Misc_Fees.pdf" rel="noopener noreferrer nofollow" target="_blank">Y5 School &amp; Misc Fees</a>
                 </p>
                 <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">ECG Letter 2023 (IB)</a>
                 </p>
@@ -194,7 +194,7 @@ variant: markdown
                 </p>
                 <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE Pre U Scholarship Application for O level students</a>
                 </p>
-                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 5 Orientation &amp; Lecture Schedule</a>
+                <p><a href="/files/IB%20Evening/Orientation___Lecture_Schedule_2024__Student_Version_.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 5 Orientation &amp; Lecture Schedule</a>
                 </p>
             </td>
         </tr>
