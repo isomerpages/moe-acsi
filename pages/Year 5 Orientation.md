@@ -156,7 +156,7 @@ variant: markdown
                 <p>Extended Essay (EE) &amp; Theory of Knowledge (TOK)</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Theory of Knowledge (TOK) Course Outline</a>
+                <p><a href="/files/IB%20Evening/IB_Core_TOK_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Theory of Knowledge (TOK) Course Outline</a>
                 </p>
             </td>
         </tr>
@@ -165,7 +165,7 @@ variant: markdown
                 <p>Humanities Scholarship Programme (HSP)</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">HSP Brochure</a>
+                <p><a href="/files/IB%20Evening/Humanities_Scholarship_Programme_Course_Outlines_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">HSP Brochure</a>
                 </p>
             </td>
         </tr>
