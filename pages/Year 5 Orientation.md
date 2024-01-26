@@ -44,11 +44,11 @@ variant: markdown
                 <p>English</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><a href="https://www-acsindep-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2023/01/Group-1-English-Language-Literature-Course-Outline-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language &amp; Literature Course Outline&nbsp;</a>
+                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language &amp; Literature Course Outline&nbsp;</a>
                 </p>
-                <p><a href="https://www-acsindep-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2023/01/Group-1-English-Literature-HL-Course-Outline-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">English Literature HL Course Outline</a>
+                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">English Literature HL Course Outline</a>
                 </p>
-                <p><a href="https://www-acsindep-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2023/01/Group-1-English-Literature-HSP-Course-Outline-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">English Literature HSP Course Outline</a>
+                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">English Literature HSP Course Outline</a>
                 </p>
             </td>
         </tr>
