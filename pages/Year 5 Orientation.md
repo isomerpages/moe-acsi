@@ -44,11 +44,11 @@ variant: markdown
                 <p>English</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language &amp; Literature Course Outline&nbsp;</a>
+                <p><a href="/files/IB%20Evening/Group_1_Language_and_Literature_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language &amp; Literature Course Outline&nbsp;</a>
                 </p>
                 <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">English Literature HL Course Outline</a>
                 </p>
-                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">English Literature HSP Course Outline</a>
+                <p>
                 </p>
             </td>
         </tr>
