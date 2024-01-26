@@ -58,9 +58,9 @@ variant: markdown
                     &amp; French Ab Initio</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><a href="https://www-acsindep-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2023/01/Group-2-Language-Ab-Course-Outline-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Language Ab Course Outline</a>
+                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Language Ab Course Outline</a>
                 </p>
-                <p><a href="https://www-acsindep-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2023/01/Group-2-Language-B-Course-Outline-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;Language B Course Outline</a>
+                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;Language B Course Outline</a>
                 </p>
             </td>
         </tr>
@@ -69,9 +69,9 @@ variant: markdown
                 <p>History &amp; Geography</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><a href="https://www-acsindep-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2023/01/Group-3-Geography-Course-Outline-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Geography Course Outline</a>
+                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Geography Course Outline</a>
                 </p>
-                <p><a href="https://www-acsindep-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2023/01/Group-3-History-Course-Outline-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">History Course Outline</a>
+                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">History Course Outline</a>
                 </p>
             </td>
         </tr>
@@ -80,9 +80,9 @@ variant: markdown
                 <p>Economics &amp; Business Management</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><a href="https://www-acsindep-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2023/01/Group-3-Business-Management-Course-Outline-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Business Management Course Outline</a>
+                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Business Management Course Outline</a>
                 </p>
-                <p><a href="https://www-acsindep-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2023/01/Group-3-Economics-Course-Outline-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Economics Course Outline</a>
+                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Economics Course Outline</a>
                 </p>
             </td>
         </tr>
