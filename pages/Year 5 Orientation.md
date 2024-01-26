@@ -91,7 +91,7 @@ variant: markdown
                 <p>Physics</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><a href="https://www-acsindep-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2023/01/Group-4-Physics-Course-Outline-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Physics Course Outline</a>
+                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Physics Course Outline</a>
                 </p>
             </td>
         </tr>
@@ -100,7 +100,7 @@ variant: markdown
                 <p>Chemistry</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><a href="https://www-acsindep-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2023/01/Group-4-Chemistry-Course-Outline-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Chemistry Course Outline</a>
+                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Chemistry Course Outline</a>
                 </p>
             </td>
         </tr>
@@ -109,7 +109,7 @@ variant: markdown
                 <p>Biology</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><a href="https://www-acsindep-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2023/01/Group-4-Biology-Course-Outline-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Biology Course Outline</a>
+                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Biology Course Outline</a>
                 </p>
             </td>
         </tr>
@@ -118,7 +118,7 @@ variant: markdown
                 <p>Computer Science</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><a href="https://www-acsindep-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2023/01/Group-4-Computer-Science-Course-Outline-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Computer Science Course Outline</a>
+                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Computer Science Course Outline</a>
                 </p>
             </td>
         </tr>
@@ -127,7 +127,7 @@ variant: markdown
                 <p>Mathematics</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><a href="https://www-acsindep-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2023/01/Group-5-Mathematics-Course-Outline-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Mathematics Course Outline</a>
+                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Mathematics Course Outline</a>
                 </p>
             </td>
         </tr>
@@ -136,9 +136,9 @@ variant: markdown
                 <p>Music &amp; Visual Arts</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><a href="https://www-acsindep-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2023/01/Group-6-Music-Course-Outline-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Music Course Outline</a>
+                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Music Course Outline</a>
                 </p>
-                <p><a href="https://www-acsindep-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2023/01/Group-6-Visual-Arts-Course-Outline-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Visual Arts Course Outline</a>
+                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Visual Arts Course Outline</a>
                 </p>
             </td>
         </tr>
@@ -147,7 +147,7 @@ variant: markdown
                 <p>Creativity, Activity &amp; Service (CAS)</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><a href="https://www-acsindep-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2023/01/IB-Core-CAS-Course-Outline-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Creativity, Activity &amp; Service (CAS) Course Outline</a>
+                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Creativity, Activity &amp; Service (CAS) Course Outline</a>
                 </p>
             </td>
         </tr>
@@ -156,7 +156,7 @@ variant: markdown
                 <p>Extended Essay (EE) &amp; Theory of Knowledge (TOK)</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><a href="https://www-acsindep-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2023/01/IB-Core-TOK-Course-Outline-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Theory of Knowledge (TOK) Course Outline</a>
+                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Theory of Knowledge (TOK) Course Outline</a>
                 </p>
             </td>
         </tr>
@@ -165,7 +165,7 @@ variant: markdown
                 <p>Humanities Scholarship Programme (HSP)</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><a href="https://www-acsindep-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2023/01/HSP-Brochure-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">HSP Brochure</a>
+                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">HSP Brochure</a>
                 </p>
             </td>
         </tr>
@@ -180,21 +180,21 @@ variant: markdown
                 <p>Circulars and Forms</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><a href="https://www-acsindep-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2023/01/2023-GIRO-Application-Form.pdf" rel="noopener noreferrer nofollow" target="_blank">GIRO Application Form</a>
+                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">GIRO Application Form</a>
                 </p>
-                <p><a href="https://www-acsindep-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2023/01/2023-Term-1-Principals-Circular.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1 Principal’s Circular</a>
+                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1 Principal’s Circular</a>
                 </p>
-                <p><a href="https://www-acsindep-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2023/01/2023-Year-5-School-Misc-Fees-Updated-.pdf" rel="noopener noreferrer nofollow" target="_blank">Y5 School &amp; Misc Fees</a>
+                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Y5 School &amp; Misc Fees</a>
                 </p>
-                <p><a href="https://www-acsindep-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2023/01/ECG-Letter-2023-IB.pdf" rel="noopener noreferrer nofollow" target="_blank">ECG Letter 2023 (IB)</a>
+                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">ECG Letter 2023 (IB)</a>
                 </p>
-                <p><a href="https://www-acsindep-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2023/01/ECG-Schedule-for-non-ACSI-IP.pdf" rel="noopener noreferrer nofollow" target="_blank">ECG Schedule for non-ACS(I) IP</a>
+                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">ECG Schedule for non-ACS(I) IP</a>
                 </p>
-                <p><a href="https://www-acsindep-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2023/01/MOE-Independent-School-Bursary-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE Independent School Bursary</a>
+                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdff" rel="noopener noreferrer nofollow" target="_blank">MOE Independent School Bursary</a>
                 </p>
-                <p><a href="https://www-acsindep-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2023/01/MOE-Pre-U-Scholarship-Application-for-O-level-students-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE Pre U Scholarship Application for O level students</a>
+                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE Pre U Scholarship Application for O level students</a>
                 </p>
-                <p><a href="https://www-acsindep-moe-edu-sg-admin.cwp.sg/wp-content/uploads/2023/01/Year-5-Orientation-Lecture-Schedule-2023-Stdn.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 5 Orientation &amp; Lecture Schedule</a>
+                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 5 Orientation &amp; Lecture Schedule</a>
                 </p>
             </td>
         </tr>
