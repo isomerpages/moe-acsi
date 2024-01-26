@@ -91,7 +91,7 @@ variant: markdown
                 <p>Physics</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Physics Course Outline</a>
+                <p><a href="/files/IB%20Evening/Group_4_Physics_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Physics Course Outline</a>
                 </p>
             </td>
         </tr>
@@ -100,7 +100,7 @@ variant: markdown
                 <p>Chemistry</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Chemistry Course Outline</a>
+                <p><a href="/files/IB%20Evening/Group_4_Chemistry_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Chemistry Course Outline</a>
                 </p>
             </td>
         </tr>
@@ -109,7 +109,7 @@ variant: markdown
                 <p>Biology</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Biology Course Outline</a>
+                <p><a href="/files/IB%20Evening/Group_4_Biology_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Biology Course Outline</a>
                 </p>
             </td>
         </tr>
@@ -118,7 +118,7 @@ variant: markdown
                 <p>Computer Science</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Computer Science Course Outline</a>
+                <p><a href="/files/IB%20Evening/Group_4_Computer_Science_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Computer Science Course Outline</a>
                 </p>
             </td>
         </tr>
@@ -127,7 +127,7 @@ variant: markdown
                 <p>Mathematics</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><a href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Mathematics Course Outline</a>
+                <p><a href="/files/IB%20Evening/Group_5_Mathematics_Course_Outline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Mathematics Course Outline</a>
                 </p>
             </td>
         </tr>
