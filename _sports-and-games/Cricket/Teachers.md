@@ -26,5 +26,9 @@ variant: markdown
     <td>Ms Nurhafiza</td>
     <td>Teacher-in-Charge</td>
   </tr>
+	<tr>
+    <td>Mr Bobby Tantri</td>
+    <td>Teacher-in-Charge</td>
+  </tr>
 </tbody>
 </table>
