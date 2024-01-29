@@ -88,7 +88,7 @@ variant: markdown
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/Group_5_Mathematics_Course_Outline_2024.pdf">Mathematics Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/group_5_mathematics_course_outline_2024.pdf">Mathematics Course Outline</a></p>
 </td>
 </tr>
 <tr>
@@ -145,3 +145,4 @@ variant: markdown
 </tbody>
 </table>
 <p>&nbsp;</p>
+
