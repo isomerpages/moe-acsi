@@ -5,7 +5,6 @@ description: ""
 variant: markdown
 ---
 <p><strong>Links for IB Evening Subject Course Outlines</strong></p>
-<p>&nbsp;</p>
 <table>
 <tbody>
 <tr>
