@@ -4,29 +4,7 @@ permalink: /246783235678/
 description: ""
 variant: markdown
 ---
-<p><strong>Link for IB Evening Principal’s briefing&nbsp;on 5 Feb, 4.30-5.30pm</strong></p>
-<p>&nbsp;</p>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p style="text-align: center;"><strong>Zoom Live Event Link (Passcode: 110359)</strong></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p style="text-align: center;"><a rel="noopener noreferrer nofollow" target="_blank" href="https://go.gov.sg/gltw5k">https://go.gov.sg/gltw5k</a></p>
-<p style="text-align: center;">Or</p>
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper"><img height="auto" width="100%" alt="" src="/images/QR_code.png" style="width: 25%;"></div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>Links for IB Evening Subject Course Outlines</strong></p>
-<p>&nbsp;</p>
 <table>
 <tbody>
 <tr>
