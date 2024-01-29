@@ -5,13 +5,13 @@ description: ""
 third_nav_title: Tennis
 variant: markdown
 ---
-##### **2024 Y1 Selection Trial** #####
+##### **Y5 Tennis Selection Trial 2024 for both Boys and Girls** #####
  
-**Date: 9 and 11 Jan 2024, 3.30pm - 4.30pm**<br>
-**Report to the tennis courts (outdoor)**<br>
-**Sports attire and bring your own racquets.**
-
-**School team or experienced players**&nbsp;**ONLY.**
+**Date: Friday 16 February 2024**<br>
+**Time: Report by 1430**<br>
+**Venue: Tennis Court (Outdoor)**<br>
+**Please report in your sports attire and bring your own tennis racquets.**<br>
+**Only for school team or experienced players.**
 
 * * *
 
