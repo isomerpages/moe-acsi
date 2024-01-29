@@ -5,8 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Term 1
 ---
-<p><strong>Service Learning Trip to Cambodia</strong>
-</p>
 <p><strong>40 Year 4 boys from our 2023 Integrated Programme embarked on an</strong> Overseas
 Values-in-Action (VIA) Service-Learning trip to Baray, Cambodia. <strong>VIA service-learning trip to Baray, Cambodia, from January 15th to 20th.</strong> Mimicking
 a CAS project, they expressed their <strong>creativity</strong> by painting
