@@ -11,9 +11,9 @@ variant: markdown
 
 Wednesday(s)  3:15 pm – 4:40 pm Old MPH for Fitness (Monthly/Bi-Monthly sessions)
 
-               Activities: Kick-Boxing, Cross Fit to name a few
+               Activities: Kick-Boxing, Cross Fit to name a few. Attendance is mandatory
 
-Students can also use their CAS physical activity as participation for the club.
+Students can also use their CAS physical activity as additional participation for the club.
 
 VIA and or other Projects 2024 – Beyond Active: World Fitness Event; Members must volunteer for the 3 day activity for only 1 day, and attend a talk (free) at the event.
 
