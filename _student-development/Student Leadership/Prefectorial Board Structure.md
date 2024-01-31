@@ -10,6 +10,10 @@ variant: tiptap
 <br>Deputy Director, Student Leadership</p>
 <p>Mrs Beatrice Leong
 <br>Teacher Advisor</p>
+<p>Mdm Tan Hui Ming
+<br>Teacher Advisor</p>
+<p></p>
+<p></p>
 <table>
 <tbody>
 <tr>
