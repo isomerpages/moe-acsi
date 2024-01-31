@@ -5,362 +5,357 @@ description: ""
 third_nav_title: Student Leadership
 variant: tiptap
 ---
-### Teachers
-
+<h3>Teachers</h3>
 <table>
-<thead>
-  <tr>
-    <th>Mr Koh Tiang Peng</th>
-    <th>Director, Student Leadership (Acting)</th>
-  </tr>
-</thead>
 <tbody>
-  <tr>
-    <td>Mdm Angela Ong</td>
-    <td>Teacher Advisor</td>
-  </tr>
-  <tr>
-    <td>Ms Nicole Tay</td>
-    <td>Teacher Advisor</td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Angela Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Council IC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nicole Tay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher Advisor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Koh Tiang Peng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Director, Student Leadership</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-### Executive Committee
-
 <table>
-<thead>
-  <tr>
-    <th>Poon Phusangmook</th>
-    <th>5.03</th>
-    <th>President</th>
-  </tr>
-</thead>
 <tbody>
-  <tr>
-    <td>Tan Yun Xuan</td>
-    <td>5.01</td>
-    <td>Vice President</td>
-  </tr>
-  <tr>
-    <td>Yuki Ng Xin Ying </td>
-    <td>5.09</td>
-    <td>Vice President</td>
-  </tr>
-  <tr>
-    <td>Justin Ang Wa Shin</td>
-    <td>5.11</td>
-    <td>Vice President</td>
-  </tr>
-  <tr>
-    <td>Marcus Tay Tse En</td>
-    <td>5.03</td>
-    <td>Human Resource Manager</td>
-  </tr>
-  <tr>
-    <td>Ng Shi Ting Kay</td>
-    <td>5.15</td>
-    <td>Human Resource Manager</td>
-  </tr>
-  <tr>
-    <td>Ethan Chua Jie Fan</td>
-    <td>5.03</td>
-    <td>Director, Council Welfare</td>
-  </tr>
-  <tr>
-    <td>Georgia Gwee Hui Foong</td>
-    <td>5.03</td>
-    <td>Student Relations Officer</td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Executive Committee</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Raynen Ngoh Zhe Yu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.09</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>President</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nyeo Zi Xin Kieran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.01</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice President</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ong Yuan Jing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.03</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice President</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sophie Khoo Tze Yun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.09</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice President</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dylan Teo Jing Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.05</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Human Resource Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Phang Zhi Xuan Belle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Human Resource Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Clarabelle Tan Shih Jieh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.18</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Relations Officer</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-### Junior Councillors
-
+<p>&nbsp;</p>
 <table>
-<thead>
-  <tr>
-    <th>Elizabeth Lang Wan Yun</th>
-    <th>5.01</th>
-  </tr>
-</thead>
 <tbody>
-  <tr>
-    <td>Kristen Low Hui Wen</td>
-    <td>5.01</td>
-  </tr>
-  <tr>
-    <td>Tan Yun Xuan</td>
-    <td>5.01</td>
-  </tr>
-  <tr>
-    <td>Nikheil Naythen Kalaichelvan</td>
-    <td>5.02</td>
-  </tr>
-  <tr>
-    <td>Ethan Chua Jie Fan</td>
-    <td>5.03</td>
-  </tr>
-  <tr>
-    <td>Georgia Gwee Hui Foong</td>
-    <td>5.03</td>
-  </tr>
-  <tr>
-    <td>Marcus Tay Tse En</td>
-    <td>5.03</td>
-  </tr>
-  <tr>
-    <td>Mok Joon Loong Gareth</td>
-    <td>5.03</td>
-  </tr>
-  <tr>
-    <td>Poon Phusangmook</td>
-    <td>5.03</td>
-  </tr>
-  <tr>
-    <td>Annika Yeo En-Wei</td>
-    <td>5.04</td>
-  </tr>
-  <tr>
-    <td>Foo Yi Ming, Ted</td>
-    <td>5.04</td>
-  </tr>
-  <tr>
-    <td>Woo Jun Kit, Koen</td>
-    <td>5.04</td>
-  </tr>
-  <tr>
-    <td>Yeoh Yong Jun</td>
-    <td>5.04</td>
-  </tr>
-  <tr>
-    <td>Krystal Lim Jia Xin</td>
-    <td>5.05</td>
-  </tr>
-  <tr>
-    <td>Bryan Cheung Jia Jie</td>
-    <td>5.06</td>
-  </tr>
-  <tr>
-    <td>Jadon Goh</td>
-    <td>5.06</td>
-  </tr>
-  <tr>
-    <td>Man Rui Xin Leanne</td>
-    <td>5.06</td>
-  </tr>
-  <tr>
-    <td>Chua Wei-Ian Hansel</td>
-    <td>5.07</td>
-  </tr>
-  <tr>
-    <td>Tong Han Wei Stefan</td>
-    <td>5.07</td>
-  </tr>
-  <tr>
-    <td>Kyra Teo</td>
-    <td>5.08</td>
-  </tr>
-  <tr>
-    <td>Matthew Luke Lim Kaijun</td>
-    <td>5.09</td>
-  </tr>
-  <tr>
-    <td>Yuki Ng Xin Ying</td>
-    <td>5.09</td>
-  </tr>
-  <tr>
-    <td>Jeffrey Lee Yuchen</td>
-    <td>5.11</td>
-  </tr>
-  <tr>
-    <td>Justin Ang Wa Shin</td>
-    <td>5.11</td>
-  </tr>
-  <tr>
-    <td>Andrew Nicholas Wyrtzen</td>
-    <td>5.12</td>
-  </tr>
-  <tr>
-    <td>Hwang Ya-Wen, Sabrina Blaise</td>
-    <td>5.12</td>
-  </tr>
-  <tr>
-    <td>Bagavathula Sai Veda</td>
-    <td>5.14</td>
-  </tr>
-  <tr>
-    <td>Shane Declan Choong Ken Rui</td>
-    <td>5.14</td>
-  </tr>
-  <tr>
-    <td>Mitchell Fong Jun-Wen</td>
-    <td>5.15</td>
-  </tr>
-  <tr>
-    <td>Ng Shi Ting Kay</td>
-    <td>5.15</td>
-  </tr>
-  <tr>
-    <td>Toh Hsin Yih Abigail</td>
-    <td>5.15</td>
-  </tr>
-  <tr>
-    <td>Goh Shen Lei Timothy</td>
-    <td>5.18</td>
-  </tr>
-  <tr>
-    <td>Lim Jing Han, Ryan</td>
-    <td>5.18</td>
-  </tr>
-  <tr>
-    <td>Yeoh Siang Rong, Jonathan</td>
-    <td>5.18</td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Student Councillors</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ansel Edison Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.01</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kathryn Lilley</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.01</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mohamed Iskandar Riswan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.01</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Xin Ying Ashley</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.03</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thanong Virabhak</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.03</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chung Qian Xia, Chinatsu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Joel Lam Koi Kee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Laura Jane Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Loi Qi Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Riyana Kelin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wilson Lourdu Xavier Garrison Joshua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tiana Cheong Yi-Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.08</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Timothy Lawrence Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.08</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kimberly Kaela Lum Le En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.09</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Caitlin Lau Yi Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>John Heng Kai En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chow Rae Howe Isaac</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.11</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Justin Yoon Tzen Tiam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.11</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ethan Tam Qi Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.12</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Claire Lim Yi Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.13</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gracia Chua Rui En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.13</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mahir Goel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.14</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ryan Joshua Ong Sheng-En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.14</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tenessa Chua Jie Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.15</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Michele Chan Li Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.16</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ee Su-Ann</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.17</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ethan Chng Xue Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.18</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-### Senior Student Councillors
-
-<table>
-<thead>
-  <tr>
-    <th>Trevor Tan Keng Kit</th>
-    <th>6.01</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Woo Syn Ting, Sara</td>
-    <td>6.01</td>
-  </tr>
-  <tr>
-    <td>Wu Zhouhan</td>
-    <td>6.01</td>
-  </tr>
-  <tr>
-    <td>Chan Yi Xin</td>
-    <td>6.02</td>
-  </tr>
-  <tr>
-    <td>Doel Kieran Tan</td>
-    <td>6.02</td>
-  </tr>
-  <tr>
-    <td>Jamie Ho Hui Min</td>
-    <td>6.02</td>
-  </tr>
-  <tr>
-    <td>Murugesh Parthiv</td>
-    <td>6.02</td>
-  </tr>
-  <tr>
-    <td>Caleb Khoo Zhi-Yi</td>
-    <td>6.03</td>
-  </tr>
-  <tr>
-    <td>Asher Ang Yu Han</td>
-    <td>6.05</td>
-  </tr>
-  <tr>
-    <td>Julian Chew Mingjun</td>
-    <td>6.05</td>
-  </tr>
-  <tr>
-    <td>Ethan Ang Ee Chong</td>
-    <td>6.06</td>
-  </tr>
-  <tr>
-    <td>Low Xing Le Aden</td>
-    <td>6.06</td>
-  </tr>
-  <tr>
-    <td>Inez Tan Yee Ting</td>
-    <td>6.07</td>
-  </tr>
-  <tr>
-    <td>Josthan Chua Jin En</td>
-    <td>6.08</td>
-  </tr>
-  <tr>
-    <td>Tang Cheng-Li, Keisha</td>
-    <td>6.08</td>
-  </tr>
-  <tr>
-    <td>Yew Huixin, Charlotte</td>
-    <td>6.08</td>
-  </tr>
-  <tr>
-    <td>Erika Lee En Yu</td>
-    <td>6.09</td>
-  </tr>
-  <tr>
-    <td>Foo Hui Min Sabrina</td>
-    <td>6.09</td>
-  </tr>
-  <tr>
-    <td>Ang Kai Wei</td>
-    <td>6.10</td>
-  </tr>
-  <tr>
-    <td>Bernice Ang</td>
-    <td>6.10</td>
-  </tr>
-  <tr>
-    <td>Bryan Zhang Junxiang</td>
-    <td>6.11</td>
-  </tr>
-  <tr>
-    <td>Eber Gareth Fu Zi En</td>
-    <td>6.11</td>
-  </tr>
-  <tr>
-    <td>Sheralyn Tan</td>
-    <td>6.11</td>
-  </tr>
-  <tr>
-    <td>Ashley Isabel Sudjono</td>
-    <td>6.12</td>
-  </tr>
-  <tr>
-    <td>Ryan Chin Rui En</td>
-    <td>6.12</td>
-  </tr>
-  <tr>
-    <td>Jin Sunghoon</td>
-    <td>6.14</td>
-  </tr>
-  <tr>
-    <td>William Tan Kye En</td>
-    <td>6.15</td>
-  </tr>
-  <tr>
-    <td>Thea Clara Burhan</td>
-    <td>6.16</td>
-  </tr>
-  <tr>
-    <td>Chloe Tan</td>
-    <td>6.17</td>
-  </tr>
-  <tr>
-    <td>Daniel Chua Rui Zheng</td>
-    <td>6.17</td>
-  </tr>
-  <tr>
-    <td>Choo Le Kai Brennon</td>
-    <td>6.18</td>
-  </tr>
-  <tr>
-    <td>Loy Qi Xuan Brandon</td>
-    <td>6.18</td>
-  </tr>
-  <tr>
-    <td>Ong Chong Hean, Isaac</td>
-    <td>6.18</td>
-  </tr>
-  <tr>
-    <td>Thaddeus Thomas Heng Tian Ler</td>
-    <td>6.18</td>
-  </tr>
-</tbody>
-</table>
+<p></p>
