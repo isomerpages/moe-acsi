@@ -8,9 +8,9 @@ variant: markdown
 
 – Mr Davin Tan  (overall I/C) ~ [davintansc@acsindep.edu.sg](mailto:davintansc@acsindep.edu.sg)  
   
-- Mr Adrian Low (C Div) ~ [adrianl@acsindep.edu.sg](mailto:adrianl@acsindep.edu.sg)  
+– Mr Adrian Low (C Div) ~ [adrianl@acsindep.edu.sg](mailto:adrianl@acsindep.edu.sg)  
   
-- Mr Ismail Shifaz  ~ [ismailshifaz@acsindep.edu.sg](mailto:ismailshifaz@acsindep.edu.sg)
+ – Mr Ismail Shifaz  ~ [ismailshifaz@acsindep.edu.sg](mailto:ismailshifaz@acsindep.edu.sg)
 
 – Mr Lee James Belcher (B Div) ~ [leejamesbelcher@acsindep.edu.sg](mailto:leejamesbelcher@acsindep.edu.sg)
 
