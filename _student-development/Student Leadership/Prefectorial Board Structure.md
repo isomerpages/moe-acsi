@@ -3,123 +3,640 @@ title: Prefectorial Board Structure
 permalink: /prefects/structure/
 description: ""
 third_nav_title: Student Leadership
+variant: tiptap
 ---
 <h3><strong><u>Teachers</u></strong></h3>
-<p>Mdm Lee Chia Hui Teacher Advisor<br>
-Deputy Director, Student Leadership</p>
-<p>Mrs Beatrice Leong<br>
-Teacher Advisor</p>
-<h3><strong><u>Executive Committee </u></strong></h3>
-<p><strong>Head Prefect </strong><br>
-<strong>Caden Wong Jing Xi </strong><br>
-<strong>4.16</strong></p>
-<p>Vice Head Prefect<br>
-Tan Jin Wee Joshua<br>
-4.07</p>
-<p>Vice Head Prefect<br>
-Chen Shengxu<br>
-4.11</p>
-<p>Vice Head Prefect<br>
-Syn Tze Ren Matthew<br>
-4.16</p>
-<p>Human Resources Councillor<br>
-Julian Chua Cheng Hao<br>
-4.01</p>
-<p>Student Affairs Councillor<br>
-Jason Tan Yan Han<br>
-4.11</p>
-<p>Student Affairs Councillor<br>
-Gabriel Wong Kiat En<br>
-4.16</p>
-<p>Internal Affairs Councillor<br>
-Prai Phusangmook<br>
-4.09</p>
-<p>Internal Affairs Councillor<br>
-Chua Min Jie<br>
-4.12</p>
-<h3><strong><u>Senior Prefects</u></strong></h3>
-<table border="1">
+<p>Mdm Lee Chia Hui Teacher Advisor
+<br>Deputy Director, Student Leadership</p>
+<p>Mrs Beatrice Leong
+<br>Teacher Advisor</p>
+<p>Mdm Tan Hui Ming
+<br>Teacher Advisor</p>
+<p></p>
+<p></p>
+<table>
 <tbody>
 <tr>
-<td width="330">
-<p>Jayden loh Eu-Jyn 4.01</p>
-<p>Benjamin Low Jin Ren 4.02</p>
-<p>Tan Qi 4.04</p>
-<p>Ng Sing Jie Jaycus 4.05</p>
-<p>Leong Ho Karl 4.07</p>
-<p>Poh Yisheng Samuel 4.09</p>
+<td rowspan="1" colspan="1">
+<p><strong>EXCO</strong>
+</p>
 </td>
-<td width="330">
-<p>Cheng En Jun Isaac 4.09</p>
-<p>Gareth Luke Koey 4.10</p>
-<p>David Low Rui-Yan 4.13</p>
-<p>Bhatnagar Aditya 4.13</p>
-<p>Ryan Ethan Yeo 4.14</p>
-<p>Chia Rui Feng, Harvard 4.14</p>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LOW YING XIANG, JOSHUA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head Prefect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ELISHA PANG QI YE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.09</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Head Prefect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZHANG ZHIHE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Head Prefect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JEROME ONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Head Prefect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PRANIT BHAT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prefect Councillor&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TIMOTHY JOSEPH CHIA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prefect Councillor&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHIN PIN JIE DAX</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prefect Councillor&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<h3><strong><u>Prefects </u></strong></h3>
-<table border="1">
+<table>
 <tbody>
 <tr>
-<td width="330">
-<p>JEREMIAH YEO 4.13</p>
-<p>JOSEPH WEE 4.15</p>
-<p>CHEN SHENG SHOU 3.01</p>
-<p>SEAN GERARD YOO TZE YOU 3.01</p>
-<p>MURALI MOURYA 3.08</p>
-<p>ELISHA PANG QI YE 3.09</p>
-<p>JONATHAN LAU JIA SHEN 3.09</p>
-<p>EPHRAIM WU I-HNG 3.10</p>
+<td rowspan="1" colspan="1">
+<p><strong>Senior Prefects&nbsp;</strong>
+</p>
 </td>
-<td width="330">
-<p>ZHANG ZHIHE 3.10</p>
-<p>RAJEV RAJAKANTH 3.11</p>
-<p>TIMOTHY JOSEPH CHIA 3.13</p>
-<p>CHIN PIN JIE DAX 3.13</p>
-<p>ANAND SURESH 3.15</p>
-<p>JEROME ONG 3.16</p>
-<p>PRANIT BHAT 3.10</p>
-<p>LOW YING XIANG, JOSHUA 3.14</p>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEAN GERARD YOO TZE YOU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.01</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JONATHAN LAU JIA SHEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.09</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EPHRAIM WU I-HNG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>REYES LEE YUI HOU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RAJEV RAJAKANTH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.11</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DARSHAN MOORTHY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.13</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ANAND SURESH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.15</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHUA RONG ZHENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.15</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Prefects&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZACHARY LIM-SOOSAY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.02</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FONG SOONG CHUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RYAN WILLIAM MACKAY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.09</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ASHER ONG YULE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.09</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PRANAV NARAYAN RAJKUMAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EVAN RILEY GILL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIAM ZACHARIAH GOH CHANG KAI (WU CHANGKAI)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.11</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAY ALEXANDER MATTHEW</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.11</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NG TEI REI, JAVIER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.12</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MUTHUSARAVANAKUMAR SAMRISH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.12</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YEOW KAI SHENG, CALLUM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.13</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZEPHAN YEONG JUN KAI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.14</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BENJAMIN KHOO TENG WOON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.16</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HANNES VAGENENDE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.16</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AIDEN PNG JUN QUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.16</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHEN SHENG SHOU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.01</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NANDA KUMAR SHREE BHALA RAJ</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.09</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TENG YU KIT, JAYDEN (DING YUJIE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.11</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Assistant Prefects&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CADEL YEOH SZE HOCK</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.01</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TREVOR KOH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.09</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BRYAN SIM YONG RUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.09</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MATTHIAS JOVAN LEOW</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.01</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHAW KAI JUN, BRANDON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.11</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JOEL ELLIOT GUSDIANTO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.12</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEAN ANG SHAO XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.12</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Prefect Nominees</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JUSTIN LIM YONG EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.01</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZACHARY HO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.02</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CONNOR CHEW SZE YUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.03</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ABDIEL CHEONG QI LE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JAI ZEJIE AFZULPURKAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.09</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DANIEL BEH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.09</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RUSSELL ANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.09</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HAN SOMYUNG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.09</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JASON ELIJAH WONG EN SHUO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NOAH MAH DONG YI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN HONG JUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHUA YAN JIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.11</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SHAH KIAAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.12</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LONG DENGKAI, SAMUEL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.12</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NAMAN CHAPLOT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.13</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EVANS EMMANUEL YEO QING ERN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YAP KUAN YI, JOHN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MATTHEW DECLAN LOO CHENG YU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DUAN ZEHAO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.16</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<h3><strong><u>Assistant Prefects </u></strong></h3>
-<table border="1">
-<tbody>
-<tr>
-<td width="330">
-<p>REYES LEE YUI HOU 3.10</p>
-<p>DARSHAN MOORTHY 3.13</p>
-<p>NANDA K S BHALA RAJ 3.09</p>
-<p>TENG YU KIT, JAYDEN 3.11</p>
-<p>SEAN ANG SHAO XUAN 3.12</p>
-<p>CHUA RONG ZHENG 3.15</p>
-<p>ZACHARY LIM-SOOSAY 2.01</p>
-<p>YEOW KAI SHENG, CALLUM 2.01</p>
-<p>PRANAV N RAJKUMAR 2.03</p>
-<p>AIDEN PNG JUN QUAN 2.05</p>
-<p>ZEPHAN YEONG JUN KAI 2.05</p>
-</td>
-<td width="330">
-<p>RYAN WILLIAM MACKAY 2.06</p>
-<p>TAY ALEXANDER MATTHEW 2.06</p>
-<p>FONG SOONG CHUN 2.08</p>
-<p>NG TEI REI, JAVIER 2.08</p>
-<p>BENJAMIN KHOO TENG WOON 2.09</p>
-<p>EVAN RILEY GILL 2.09</p>
-<p>HANNES VAGENENDE 2.09</p>
-<p>M SAMRISH 2.09</p>
-<p>ASHER ONG YULE 2.10</p>
-<p>CHAW KAI JUN, BRANDON 2.10</p>
-<p>LIAM Z GOH CHANG KAI 2.12</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
+<p></p>
