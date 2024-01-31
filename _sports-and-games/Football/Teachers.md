@@ -3,15 +3,19 @@ title: Teachers
 permalink: /football/teachers/
 description: ""
 third_nav_title: Football
+variant: markdown
 ---
-– Mr Adrian Low  (overall I/C) ~ adrianl@acsindep.edu.sg
 
-– Mr Lee James (B Div) ~ leejamesbelcher@acsindep.edu.sg
+– Mr Davin Tan  (overall I/C) ~ [davintansc@acsindep.edu.sg](mailto:davintansc@acsindep.edu.sg)  
+  
+– Mr Adrian Low (C Div) ~ [adrianl@acsindep.edu.sg](mailto:adrianl@acsindep.edu.sg)  
+  
+ – Mr Ismail Shifaz  ~ [ismailshifaz@acsindep.edu.sg](mailto:ismailshifaz@acsindep.edu.sg)
 
-– Mr Ismail Shifaz (C Div) ~ ismailshifaz@acsindep.edu.sg
+– Mr Lee James Belcher (B Div) ~ [leejamesbelcher@acsindep.edu.sg](mailto:leejamesbelcher@acsindep.edu.sg)
 
-– Mr Moghan Das (A Div) ~ moghan@acsindep.edu.sg  
+– Mr Moghan Das (A Div Boys) ~ [moghan@acsindep.edu.sg](mailto:moghan@acsindep.edu.sg)
 
-– Mr Davin Tan (A Div)~ davintansc@acsindep.edu.sg
+– Ms Jerine Lim Shu Ting (A Div Girls) ~ [jerinelimst@acsindep.edu.sg](mailto:jerinelimst@acsindep.edu.sg)
 
-– Mrs Suliana J Franz (A Div)~ suliana@acsindep.edu.sg
+– Ms Suliana J Franz (A Div Girls)~ [suliana@acsindep.edu.sg](mailto:suliana@acsindep.edu.sg)
