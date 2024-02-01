@@ -3,7 +3,7 @@ title: Teachers
 permalink: /crosscountry/teachers/
 description: ""
 third_nav_title: Cross Country
-variant: tiptap
+variant: markdown
 ---
 <table>
 <tbody>
@@ -18,19 +18,7 @@ variant: tiptap
 <p>Contact</p>
 </th>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Levon Lee&nbsp;&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:levonleelh@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">levonleelh@acsindep.edu.sg</a> 
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6870 0382</p>
-</td>
-</tr>
-<tr>
+	<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Gavin Ang</p>
 </td>
@@ -40,7 +28,20 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>68700677</p>
 </td>
+</tr><tr>
+<td rowspan="1" colspan="1">
+<p>Ms Levon Lee&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>levonleelh@acsindep.edu.sg
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6870 0382</p>
+</td>
 </tr>
+
+
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Jason Lai</p>
