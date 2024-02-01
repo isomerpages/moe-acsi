@@ -3,7 +3,7 @@ title: JAE (Joint Admission Exercise) Appeal
 permalink: /admissions/joint-admissions-exercise/appeals/
 description: ""
 third_nav_title: Joint Admissions Exercise
-variant: tiptap
+variant: markdown
 ---
 <p><strong>2024</strong>&nbsp;<strong>JAE (Joint Admission Exercise) Appeal</strong>
 </p>
