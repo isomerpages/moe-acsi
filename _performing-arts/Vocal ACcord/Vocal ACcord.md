@@ -3,10 +3,13 @@ title: Vocal ACcord
 permalink: /vocal-accord/
 description: ""
 third_nav_title: Vocal ACcord
+variant: markdown
 ---
-**Vocal ACcord** is an a cappella society consisting of IB Year 5 and 6 students dedicated to producing music solely with their natural instrument: voices. Be it choral music, contemporary pop, R&B tracks, or even Broadway showstoppers, Vocal ACcord will sing our hearts out and bring the roof down!
+**Vocal ACcord** is a cappella society consisting of IB Year 5 and 6 students dedicated to producing music solely with their natural instrument: voices. Be it choral music, contemporary pop, R&B tracks, or even Broadway showstoppers, Vocal ACcord will sing our hearts out and bring the roof down!
 
-Our events include performing for the school’s Founder’s Day, Chinese New Year and National Day celebrations. We also take part in the school’s biannual Festival Of Arts and Performing Arts Night Festival, which alternate every year. On top of all of these events, Vocal ACcord will also be holding our very own concert in May 2022! Come and join us every Tuesday and Thursday at General Music Room (Old Block Red Level, from 1630-1830 ) or on Zoom (from 1730-1900)for a time of fun and musical joy!
+Our events include performing for the school’s Founder’s Day, Chinese New Year and National Day celebrations. We also take part in the school’s biannual Festival Of Arts and Performing Arts Night Festival, which alternate every year. On top of all of these events, Vocal ACcord will also be holding our very own concert (‘Down the Rabbit Hole’) on 25 May 2024!
+
+Come and join us every Tuesday and Thursday at General Music Room (Old Block Red Level, from 1615-1845) or on Zoom (during HBL) for a time of fun and musical joy!
 
 **Our Music Director**
 
