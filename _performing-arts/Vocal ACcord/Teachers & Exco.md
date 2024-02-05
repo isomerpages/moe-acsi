@@ -3,13 +3,153 @@ title: Teachers & Exco
 permalink: /vocal-accord/teachers-and-exco/
 description: ""
 third_nav_title: Vocal ACcord
+variant: tiptap
 ---
-**Teachers**
-
-<table style="border-color: #d1d1d1; height: 100%;" width="100%" cellspacing="0" cellpadding="0" border="1"><tbody><tr><td width="83" valign="top">CCA Teachers</td><td width="151" valign="top">Ms Yu See Yee (i/c)</td><td width="154" valign="top">&nbsp;yuseeyee@acsindep.edu.sg</td></tr><tr><td width="92" valign="top"></td><td width="123" valign="top">Dr Wong Yee Lin</td><td width="123" valign="top">&nbsp;wongyeelin@acsindep.edu.sg</td></tr><tr><td width="92" valign="top">Conductor</td><td width="123" valign="top">Mrs Elaine Wan</td><td width="123" valign="top">&nbsp;elainechanmusic@gmail.com</td></tr></tbody></table>
-
-**2022/23 EXCO**
-
-<table style="border-color: #d1d1d1; width: 100%; height: 100%;" border="1"><tbody><tr style="height: 24px;"><td style="height: 24px; width: 32.3232%;">President</td><td style="height: 24px; width: 23.6953%;">Chan Lyane</td><td style="height: 24px; width: 41.0955%;">18lyane.chan@acsians.acsi.edu.sg</td></tr><tr style="height: 24px;"><td style="height: 24px; width: 32.3232%;">Vice-President</td><td style="height: 24px; width: 23.6953%;">Ryan Ng Yiheng</td><td style="height: 24px; width: 41.0955%;">18ryan.ng.yiheng@acsians.acsi.edu.sg</td></tr><tr style="height: 24px;"><td style="height: 24px; width: 32.3232%;">Student Conductor and Section leader (Bass)</td><td style="height: 24px; width: 23.6953%;">Yeo Hong</td><td style="height: 24px; width: 41.0955%;">18yeo.hong@acsians.acsi.edu.sg</td></tr><tr style="height: 24px;"><td style="height: 24px; width: 32.3232%;">Student Conductor and Section leader (Soprano)</td><td style="height: 24px; width: 23.6953%;">Ng Xue-rui, Chloe</td><td style="height: 24px; width: 41.0955%;">18ng.xue.rui.chloe@acsians.acsi.edu.sg</td></tr><tr style="height: 24px;"><td style="height: 24px; width: 32.3232%;">Quartermaster</td><td style="height: 24px; width: 23.6953%;">Paw Qin Hang</td><td style="height: 24px; width: 41.0955%;">18paw.qin.hang@acsians.acsi.edu.sg</td></tr><tr style="height: 24px;"><td style="height: 24px; width: 32.3232%;">Welfare and Communication</td><td style="height: 24px; width: 23.6953%;">Ryan Yong Tze Hsien</td><td style="height: 24px; width: 41.0955%;">18ryan.yong@acsians.acsi.edu.sg</td></tr><tr style="height: 24px;"><td style="height: 24px; width: 32.3232%;">Welfare and Communication</td><td style="height: 24px; width: 23.6953%;">Kong Minen Aletheia</td><td style="height: 24px; width: 41.0955%;">18aletheia.kong@acsians.acsi.edu.sg</td></tr><tr style="height: 24px;"><td style="height: 24px; width: 32.3232%;">Section Leader (Alto)</td><td style="height: 24px; width: 23.6953%;">Chia Yi Xuan, Naomi</td><td style="height: 24px; width: 41.0955%;">18chia.yi.xuan.naomi@acsians.acsi.edu.sg</td></tr><tr style="height: 24px;"><td style="height: 24px; width: 32.3232%;">Section Leader (Tenor )</td><td style="height: 24px; width: 23.6953%;">Matthew Ng Eng Kiat</td><td style="height: 24px; width: 41.0955%;">18matthew.ng@acsians.acsi.edu.sg</td></tr></tbody></table>
-
-![](/images/honours-day-768x1024.jpg)
+<p><strong>Teachers</strong>
+</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Teachers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Isabelle Chung (i/c)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">isabellechunghl@acsindep.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Wong Yee Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">wongyeelin@acsindep.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Conductor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Elaine Wan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">elainechanmusic@gmail.com</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>2023/24 EXCO</strong>
+</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>President</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Charlotte Tang Jia Yun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">19charlotte.tang@acsians.acsi.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice President</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wong Xing Yu, Alicia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">19alicia.wong@acsians.acsi.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Music Team Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Goh Jing Kai Elijah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">19elijah.goh@acsians.acsi.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Music Team member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Starz Seng Chun Shi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">19starz.seng@acsians.acsi.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Music Team member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Joshua Wong Shun Kai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">19joshua.wong@acsians.acsi.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Music Team member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>David Wong Tze Yang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">19david.wong@acsians.acsi.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Quartetmistress</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Min Yee Amber</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">19tan.min.yee.amber@acsians.acsi.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Welfare and Publicity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rebecca Kua Rui Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">19rebecca.kua@acsians.acsi.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/honours-day-768x1024.jpg">
+</div>
+<p></p>
