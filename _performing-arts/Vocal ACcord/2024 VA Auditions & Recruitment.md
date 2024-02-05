@@ -11,11 +11,10 @@ variant: tiptap
 </p>
 <p><strong>Kindly scan the QR code below to register for 2024 Vocal ACcord audition.</strong>
 </p>
-<p><strong>Click here: <a rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/vaauditions2024</a></strong> 
-<br>
+<p><strong>Click here: <a href="https://tinyurl.com/vaauditions2024" rel="noopener" target="_blank">https://tinyurl.com/vaauditions2024</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Performing Arts/Voice/Picture5.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Performing Arts/Voice/Picture5.png">
 </div>
 <table>
 <tbody>
@@ -38,8 +37,7 @@ variant: tiptap
 <p>&nbsp;20 February, Tuesday</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>&nbsp;</p>
-<p>4.15pm – 6.15pm</p>
+<p>&nbsp;4.15pm – 6.15pm</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Old block Red level General music room</p>
@@ -121,5 +119,5 @@ the beauty and unique quality of their voice. Backing track is optional.&nbsp;</
 <p><em>“I like to sing in my free time and have a habit of doing it unconsciously whenever and wherever possible. Singing has been my hobby since I was young, probably due to the influence of my sister and friends.” –</em><strong><em>Darren William Sasmita (6.17)</em></strong>
 </p>
 <p>&nbsp;</p>
-<p></p>
-<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
