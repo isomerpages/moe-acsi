@@ -27,6 +27,8 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/English_A_2024_2025_Lit_Booklist.pdf">English A: Language and Literature Booklist 2024-2025</a></p>
+	
+	/files/English_A_2024_2025_Lit_Booklist.pdf
 </td>
 </tr>
 </tbody>
