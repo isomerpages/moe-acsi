@@ -11,7 +11,7 @@ variant: tiptap
 </p>
 <p><strong>Kindly scan the QR code below to register for 2024 Vocal ACcord audition.</strong>
 </p>
-<p><strong>Click here: <a rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/vaauditions2024</a></strong>
+<p><strong>Click here: <a rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/vaauditions2024</a></strong> 
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -103,7 +103,7 @@ the beauty and unique quality of their voice. Backing track is optional.&nbsp;</
 </p>
 <p><em>The closely knit group of people with high initiative are just nice to exist around; they can elevate your experience from one of mere existing to living.” –&nbsp;</em><strong><em>Paw Qin Hang (6.14)</em></strong>
 </p>
-<p><em>“The happiness I get from entertaining others is my favourite part about singing and performing. Singing has been one of my favourite hobbies. I wanted a chance to have some vocal training and get back in a performing arts CCA after 5 years, so I joined VA.</em>
+<p><em>“The happiness I get from entertaining others is my favourite part about singing and performing. Singing has been one of my favourite hobbies. I wanted a chance to have some vocal training and get back in a performing arts CCA after 5 years, so I joined VA.</em> 
 <br><em>My favourite things about VA? Definitely the community spirit and its student-led nature.” –</em><strong><em>Ryan Yong (6.11)</em></strong>
 </p>
 <p><em>“I chose to join VA as I was in choir in secondary school and thought it would be a nice change of pace. I enjoy and feel immense gratification when the group singing coalesces into a whole.” –</em><strong><em>Yeo Hong (6.13)</em></strong>
