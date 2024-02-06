@@ -5,16 +5,25 @@ description: ""
 third_nav_title: Health and Fitness Club
 variant: tiptap
 ---
-### Please note that the club is open to Year 5 – Year 6 students only
-
-##### **YEAR 5 & 6**
-
-Wednesday(s)  3:15 pm – 4:40 pm Old MPH for Fitness (Monthly/Bi-Monthly sessions)
-
-               Activities: Kick-Boxing, Cross Fit to name a few. Attendance is mandatory
-
-Students can also use their CAS physical activity as additional participation for the club.
-
-VIA and or other Projects 2024 – Beyond Active: World Fitness Event; Members must volunteer for the 3 day activity for only 1 day, and attend a talk (free) at the event.
-
-[https://www.beyondactiv.com/](https://www.beyondactiv.com/)
+<h3>Please note that the club is open to Year 5 – Year 6 students only</h3>
+<h5><strong>YEAR 5 &amp; 6</strong></h5>
+<p>Wednesday(s)&nbsp; 3:15 pm – 4:40 pm Old MPH for Fitness (Monthly/Bi-Monthly
+sessions)</p>
+<p>Activities: Kick-Boxing, Cross Fit to name a few. Attendance is mandatory</p>
+<p>Students can also use their CAS physical activity as additional participation
+for the club.</p>
+<p>VIA and or other Projects 2024 – Beyond Active: World Fitness Event; Members
+must volunteer for the 3 day activity for only 1 day, and attend a talk
+(free) at the event.</p>
+<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.beyondactiv.com/</a>
+</p>
+<p>Year 5s who would like to join please watch the video below for more information
+from your Seniors:</p>
+<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/file/d/1NG6qOmcnuVqJsiSJi_Ma3-Uvjh1FCtYM/view?usp=drivesdk</a>
+</p>
+<p>The date to sign up is Feb 7th at 3.00 pm and will be closed when the
+sign-ups reach a specific number. You will be informed via email if you
+have been accepted into the club. Please fill in the form below.</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">http://tinyurl.com/4xanvxbp</a>
+</p>
+<p>&nbsp;</p>
