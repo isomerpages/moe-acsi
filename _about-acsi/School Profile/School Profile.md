@@ -3,6 +3,7 @@ title: School Profile
 permalink: /about-acs-independent/school-profile/
 description: ""
 third_nav_title: School Profile
+variant: markdown
 ---
 # School Profile
 
@@ -30,3 +31,5 @@ For God & Humanity
 [\[1\]](https://www.acsindep.moe.edu.sg/about-acs-independent/school-profile/#_ftnref1) [https://eresources.nlb.gov.sg/infopedia/articles/SIP\_2018-10-09\_152727.html](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2018-10-09_152727.html)
 
 [To download our School Profile, click here.](/files/About%20ACS(I)/School%20Profile/2023%20school%20profile%20final.pdf)
+
+
