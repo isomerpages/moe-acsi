@@ -17,3 +17,5 @@ third_nav_title: Humanities Society @ AC (HSAC)
 <p>Tuesdays</p>
 <p>4.00 pm - 5. 30 pm</p>
 <p>Humanities Room</p>
+
+[https://www.instagram.com/hsac.indep/](https://www.instagram.com/hsac.indep/)

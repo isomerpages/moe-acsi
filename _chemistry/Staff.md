@@ -2,6 +2,7 @@
 title: Staff
 permalink: /departments/science/chemistry/staff/
 description: ""
+variant: markdown
 ---
 <table width="727" border="1">
 <tbody>
@@ -15,21 +16,32 @@ description: ""
 <td>Mdm</td>
 <td>Jess Wong Shu Yee</td>
 </tr>
+	<tr>
+<td>Deputy Director (Year 4)</td>
+<td>Mr</td>
+<td>Eric Xie&nbsp;Jianzhong</td>
+</tr>
+	<tr>
+<td>Deputy Director (Affective Curriculum)</td>
+<td>Mr</td>
+<td>Julius Lee</td>
+</tr>
 <tr>
 <td>Senior Teacher</td>
 <td>Mr</td>
 <td>Tan Keng Hsin</td>
+</tr>
+	<tr>
+<td>Senior Teacher</td>
+<td>Mr</td>
+<td>Lee Beng Hwee</td>
 </tr>
 <tr>
 <td>Teacher</td>
 <td>Ms</td>
 <td>Esther Poh</td>
 </tr>
-<tr>
-<td>Deputy Director (Affective Curriculum)</td>
-<td>Mr</td>
-<td>Julius Lee</td>
-</tr>
+
 <tr>
 <td>Teacher</td>
 <td>Ms</td>
@@ -55,11 +67,7 @@ description: ""
 <td>Mdm</td>
 <td>Jolene Tan</td>
 </tr>
-<tr>
-<td>Senior Teacher</td>
-<td>Mr</td>
-<td>Lee Beng Hwee</td>
-</tr>
+
 <tr>
 <td>Teacher</td>
 <td>Mdm</td>
@@ -82,19 +90,15 @@ description: ""
 </tr>
 <tr>
 <td>Teacher</td>
-<td>Ms</td>
-<td>Rimjhim Relan</td>
+<td>Mr</td>
+<td>Tay Wee Leong</td>
 </tr>
 <tr>
 <td>Teacher</td>
 <td>Ms</td>
 <td>Caviner Wong</td>
 </tr>
-<tr>
-<td>Deputy Director (Year 4)</td>
-<td>Mr</td>
-<td>Eric Xie&nbsp;Jianzhong</td>
-</tr>
+
 <tr>
 <td>Teacher</td>
 <td>Dr</td>
