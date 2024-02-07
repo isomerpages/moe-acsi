@@ -26,7 +26,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese B, Tamil B, Malay B, Hindi B, Mandarin Ab Initio, Spanish Ab Initio &amp; French Ab Initio</p>
+<p>Chinese B, Tamil B, Malay B, Hindi B, Spanish Ab Initio &amp; French Ab Initio</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/Group_2_Language_Ab_Initio_Course_Outline_2024.pdf">Language Ab Course Outline</a></p>
