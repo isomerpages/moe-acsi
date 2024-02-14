@@ -3,6 +3,7 @@ title: Staff
 permalink: /departments/ell-home/staff/
 description: ""
 third_nav_title: English Language & Literature
+variant: markdown
 ---
 <table width="100%" border="1">
 <tbody>
@@ -12,7 +13,11 @@ third_nav_title: English Language & Literature
 </tr>
 <tr>
 <td width="39%">Mr. Ferdinand Quek</td>
-<td width="60%">Dean, O Levels / IP</td>
+<td width="60%">Master Lead Teacher</td>
+</tr>
+<tr>
+<td width="39%">Ms. Karen Ng</td>
+<td width="60%">Dean, English Language &amp; Literature (Integrated Programme / O Level) (Acting)</td>
 </tr>
 <tr>
 <td width="39%">Mr. Brian Connor</td>
@@ -65,10 +70,6 @@ third_nav_title: English Language & Literature
 <tr>
 <td width="39%">Ms. Sherilyn Khng</td>
 <td width="60%">Year 2, Deputy Director</td>
-</tr>
-<tr>
-<td width="39%">Ms. Karen Ng</td>
-<td width="60%">Coordinator – Year 3, English Language</td>
 </tr>
 <tr>
 <td width="39%">Ms. Christina Raj</td>
