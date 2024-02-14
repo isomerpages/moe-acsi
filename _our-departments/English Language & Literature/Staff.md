@@ -177,5 +177,9 @@ variant: markdown
 <td width="39%">Mr Bennett Cheong Sihao</td>
 <td width="60%">Teacher</td>
 </tr>
+	<tr>
+<td width="39%">Mr Lin Jiahao</td>
+<td width="60%">Teacher</td>
+</tr>
 </tbody>
 </table>
