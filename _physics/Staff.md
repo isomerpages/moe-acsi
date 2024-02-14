@@ -2,6 +2,7 @@
 title: Staff
 permalink: /departments/science/physics/staff/
 description: ""
+variant: markdown
 ---
 The department is staff by a team of&nbsp;qualified, experienced and passionate teachers and laboratory staff&nbsp;who work closely with each other to run effective and engaging student-centric lessons for our&nbsp;students.
 
@@ -84,11 +85,6 @@ The department is staff by a team of&nbsp;qualified, experienced and passionate 
 </tr>
 <tr>
 <td>Teacher</td>
-<td>Mr</td>
-<td>R Devendran</td>
-</tr>
-<tr>
-<td>Teacher</td>
 <td>Mrs</td>
 <td>Rekha Vijay</td>
 </tr>
@@ -106,6 +102,11 @@ The department is staff by a team of&nbsp;qualified, experienced and passionate 
 <td>Teacher</td>
 <td>Ms</td>
 <td>Nicole Tay Hui Fang</td>
+</tr>
+<tr>
+<td>Teacher (Computer Science)</td>
+<td>Ms</td>
+<td>Lee Sze Lin</td>
 </tr>
 <tr>
 <td>Laboratory Technical Officer</td>
