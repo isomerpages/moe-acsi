@@ -4,7 +4,7 @@ permalink: /for-students/uniform/
 description: ""
 variant: markdown
 ---
-<p>Please find information below for the three suppliers for ACS(I) Uniform:</p>
+<p>Please find information below for the two suppliers for ACS(I) Uniform:</p>
 <ol>
 <li>BIBI &amp; BABA</li>
 <li>FINEST FASHION PTE LTD</li>
