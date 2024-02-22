@@ -5,9 +5,6 @@ description: ""
 variant: markdown
 ---
 <p><strong>Links for IB Evening Subject Course Outlines</strong></p>
-
-	
-	[](/files/IB%20Evening/ECG_Letter_2024__IB_.pdf)
 <table>
 <tbody>
 <tr>
@@ -126,7 +123,9 @@ variant: markdown
 <p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/Humanities_Scholarship_Programme_Course_Outlines_2024.pdf">HSP Brochure</a></p>
 </td>
 </tr>
-</tbody></table>
+</tbody>
+	
+</table>
 <p><strong>Links for Circulars and Forms</strong></p>
 <table>
 <tbody>
