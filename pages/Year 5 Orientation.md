@@ -5,6 +5,9 @@ description: ""
 variant: markdown
 ---
 <p><strong>Links for IB Evening Subject Course Outlines</strong></p>
+
+	
+	[](/files/IB%20Evening/ECG_Letter_2024__IB_.pdf)
 <table>
 <tbody>
 <tr>
@@ -123,8 +126,7 @@ variant: markdown
 <p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/Humanities_Scholarship_Programme_Course_Outlines_2024.pdf">HSP Brochure</a></p>
 </td>
 </tr>
-</tbody>
-</table>
+</tbody></table>
 <p><strong>Links for Circulars and Forms</strong></p>
 <table>
 <tbody>
@@ -133,6 +135,7 @@ variant: markdown
 <p>Circulars and Forms</p>
 </td>
 <td rowspan="1" colspan="1">
+	<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/ECG_Letter_2024__IB_.pdf">Medical Screening Tests</a></p>
 <p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/2024_GIRO_Application_Form.pdf">GIRO Application Form</a></p>
 <p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/2024_Term_1_Principal_s_Circular_for_Y5_Parents.pdf">Term 1 Principal’s Circular</a></p>
 <p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/2024_Year_5_School___Misc_Fees.pdf">Y5 School &amp; Misc Fees</a></p>
