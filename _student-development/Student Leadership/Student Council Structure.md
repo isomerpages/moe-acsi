@@ -9,16 +9,18 @@ variant: tiptap
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Angela Ong</p>
+<td rowspan="2" colspan="1">
+<p>Mdm Lee Chia Hui</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Student Council IC</p>
+<td rowspan="2" colspan="1">
+<p>Deputy Director, Student Leadership</p>
+<p>Prefectorial Board Teacher IC</p>
 </td>
 </tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nicole Tay</p>
+<p>Mrs Beatrice Leong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher Advisor</p>
@@ -26,10 +28,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Koh Tiang Peng</p>
+<p>Mdm Tan Hui Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Director, Student Leadership</p>
+<p>Teacher Advisor</p>
 </td>
 </tr>
 </tbody>
@@ -54,7 +56,7 @@ variant: tiptap
 <p>Raynen Ngoh Zhe Yu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5.09</p>
+<p>6.09</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>President</p>
@@ -65,7 +67,7 @@ variant: tiptap
 <p>Nyeo Zi Xin Kieran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5.01</p>
+<p>6.01</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice President</p>
@@ -76,7 +78,7 @@ variant: tiptap
 <p>Ong Yuan Jing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5.03</p>
+<p>6.03</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice President</p>
@@ -87,7 +89,7 @@ variant: tiptap
 <p>Sophie Khoo Tze Yun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5.09</p>
+<p>6.09</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice President</p>
@@ -98,7 +100,7 @@ variant: tiptap
 <p>Dylan Teo Jing Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5.05</p>
+<p>6.05</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Human Resource Manager</p>
@@ -109,7 +111,7 @@ variant: tiptap
 <p>Phang Zhi Xuan Belle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5.13</p>
+<p>6.13</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Human Resource Manager</p>
@@ -120,7 +122,7 @@ variant: tiptap
 <p>Clarabelle Tan Shih Jieh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5.18</p>
+<p>6.18</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Student Relations Officer</p>
@@ -128,7 +130,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <table>
 <tbody>
 <tr>
