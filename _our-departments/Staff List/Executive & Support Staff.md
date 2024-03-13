@@ -5,161 +5,319 @@ description: ""
 third_nav_title: Staff List
 variant: tiptap
 ---
-<p>Please note that only the names and details of key-points-of-contact are reflected in the staff Directory. For the <strong>full contact list</strong> of teachers and staff, Parents <strong>may log in to the</strong> <a href="http://lms.acsindep.edu.sg/ACSIndep/logon_new.aspx?type=parents"><strong>Parents’ Portal</strong></a> and view the Staff List under Parent’s Resources tab.</p>
+<p>Please note that only the names and details of key-points-of-contact are
+reflected in the staff Directory. For the <strong>full contact list</strong> of
+teachers and staff, Parents <strong>may log in to the</strong>  <strong><a href="http://lms.acsindep.edu.sg/ACSIndep/logon_new.aspx?type=parents" rel="noopener noreferrer nofollow" target="_blank">Parents’ Portal</a></strong> and
+view the Staff List under Parent’s Resources tab.</p>
 <table>
-<thead>
-<tr>
-<th>Departments</th>
-<th>Appointment</th>
-<th>Name</th>
-</tr>
-</thead>
 <tbody>
-
 <tr>
-<td>Finance</td>
-<td>Head of Finance</td>
-<td>Mr Steven Lim</td>
+<th rowspan="1" colspan="1">
+<p>Departments</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Appointment</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
 </tr>
 <tr>
-<td>Admin Office</td>
-<td>Secretary</td>
-<td>Mdm Vimala D/O Sathasivam</td>
+<td rowspan="1" colspan="1">
+<p>Finance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Finance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Steven Lim</p>
+</td>
 </tr>
 <tr>
-<td>Admin Office</td>
-<td>Secretary &amp; Admission Officer</td>
-<td>Ms Carolyn Tok</td>
+<td rowspan="1" colspan="1">
+<p>Admin Office</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Vimala D/O Sathasivam</p>
+</td>
 </tr>
 <tr>
-<td>Admin Office</td>
-<td>Secretary</td>
-<td>Ms Eunice Seah</td>
+<td rowspan="1" colspan="1">
+<p>Admin Office</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secretary &amp; Admission Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Carolyn Tok</p>
+</td>
 </tr>
 <tr>
-<td>Admin Office</td>
-<td>Secretary</td>
-<td>Mrs Lilian Aw Yeong</td>
+<td rowspan="1" colspan="1">
+<p>Admin Office</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Eunice Seah</p>
+</td>
 </tr>
 <tr>
-<td>Admin Office</td>
-<td>Secretary</td>
-<td>Ms Nancy Cheng</td>
+<td rowspan="1" colspan="1">
+<p>Admin Office</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Lilian Aw Yeong</p>
+</td>
 </tr>
 <tr>
-<td>Admin Office</td>
-<td>Secretary</td>
-<td>Mdm R.Seetha D/O S. Ragunathan</td>
+<td rowspan="1" colspan="1">
+<p>Admin Office</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nancy Cheng</p>
+</td>
 </tr>
 <tr>
-<td>Admin Office</td>
-<td>Secretary &amp; Data Entry Officer</td>
-<td>Mdm Sally Wong Lay Wah</td>
+<td rowspan="1" colspan="1">
+<p>Admin Office</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm R.Seetha D/O S. Ragunathan</p>
+</td>
 </tr>
 <tr>
-<td>Corporate Communications &amp; Engagement</td>
-<td>Corporate Communications and Engagement Manager</td>
-<td>Mr Lo On Bong Barry</td>
+<td rowspan="1" colspan="1">
+<p>Admin Office</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secretary &amp; Data Entry Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sally Wong Lay Wah</p>
+</td>
 </tr>
 <tr>
-<td>Admin Procurement</td>
-<td>Senior Procurement Officer</td>
-<td>Mdm Ann Foo Ai Lian</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Communications &amp; Engagement</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Communications and Engagement Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lo On Bong Barry</p>
+</td>
 </tr>
 <tr>
-<td>Admin Procurement</td>
-<td>Procurement Officer</td>
-<td>Ms Aileen Liu Anli</td>
+<td rowspan="1" colspan="1">
+<p>Admin Procurement</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Procurement Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ann Foo Ai Lian</p>
+</td>
 </tr>
 <tr>
-<td>Admin Procurement</td>
-<td>Procurement Officer</td>
-<td>Mr Chia Zhen Wei</td>
+<td rowspan="1" colspan="1">
+<p>Admin Procurement</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Procurement Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Aileen Liu Anli</p>
+</td>
 </tr>
 <tr>
-<td>Admin Procurement</td>
-<td>Procurement Officer</td>
-<td>Ms Serene Zhang Jingting</td>
+<td rowspan="1" colspan="1">
+<p>Admin Procurement</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Procurement Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chia Zhen Wei</p>
+</td>
 </tr>
 <tr>
-<td>Boarding School</td>
-<td>Boarding School Manager</td>
-<td>Mrs Jasmin Tan</td>
+<td rowspan="1" colspan="1">
+<p>Admin Procurement</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Procurement Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr David Chen Jia Shen</p>
+</td>
 </tr>
 <tr>
-<td>Boarding School</td>
-<td>Administrative &amp; Accounts Officer</td>
-<td>Mdm Amanda Ding Linlin</td>
+<td rowspan="1" colspan="1">
+<p>Boarding School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boarding School Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Jasmin Tan</p>
+</td>
 </tr>
 <tr>
-<td>Agape Counselling Sanctuary</td>
-<td>Senior Well-Being Counsellor</td>
-<td>Mr Charlie Ong Chen Hock</td>
+<td rowspan="1" colspan="1">
+<p>Boarding School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administrative &amp; Accounts Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Amanda Ding Linlin</p>
+</td>
 </tr>
 <tr>
-<td>Agape Counselling Sanctuary</td>
-<td>Well-Being Counsellor</td>
-<td>Mr Samuel Lum Ming Jie</td>
+<td rowspan="1" colspan="1">
+<p>Agape Counselling Sanctuary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Well-Being Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Charlie Ong Chen Hock</p>
+</td>
 </tr>
 <tr>
-<td>Agape Counselling Sanctuary</td>
-<td>Well-Being Counsellor</td>
-<td>Ms Wint Wah Kyaw</td>
+<td rowspan="1" colspan="1">
+<p>Agape Counselling Sanctuary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Well-Being Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Samuel Lum Ming Jie</p>
+</td>
 </tr>
 <tr>
-<td>Careers Counselling</td>
-<td>College Counsellors</td>
-<td>Ms Hwang Ying Chien</td>
+<td rowspan="1" colspan="1">
+<p>Agape Counselling Sanctuary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Well-Being Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Wint Wah Kyaw</p>
+</td>
 </tr>
 <tr>
-<td>Estate Development</td>
-<td>Estate Development Manager</td>
-<td>Mr Joe Tan Lee Choy</td>
+<td rowspan="1" colspan="1">
+<p>Careers Counselling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>College Counsellors</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Hwang Ying Chien</p>
+</td>
 </tr>
 <tr>
-<td>Front Office</td>
-<td>Senior Customer Engagement Officer</td>
-<td>Ms Foo Wah Ee</td>
+<td rowspan="1" colspan="1">
+<p>Estate Development</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Estate Development Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Joe Tan Lee Choy</p>
+</td>
 </tr>
 <tr>
-<td>HPER</td>
-<td>Badminton Coach</td>
-<td>Mr Dicky Purwotjugiono</td>
+<td rowspan="1" colspan="1">
+<p>Front Office</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Customer Engagement Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Foo Wah Ee</p>
+</td>
 </tr>
 <tr>
-<td>HPER</td>
-<td>Pool Supervisor</td>
-<td>Mr Lau Kum Weng</td>
+<td rowspan="1" colspan="1">
+<p>HPER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Badminton Coach</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Dicky Purwotjugiono</p>
+</td>
 </tr>
 <tr>
-<td>HPER</td>
-<td>Rugby Coach</td>
-<td>Mr Adrian Chong</td>
+<td rowspan="1" colspan="1">
+<p>HPER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rugby Coach</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Adrian Chong</p>
+</td>
 </tr>
 <tr>
-<td>HPER</td>
-<td>Water Polo Coach</td>
-<td>Mr Luo Nan</td>
+<td rowspan="1" colspan="1">
+<p>HPER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Water Polo Coach</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Luo Nan</p>
+</td>
 </tr>
 <tr>
-<td>Human Resource</td>
-<td>Human Resource Manager</td>
-<td>Ms Lillian Tan</td>
+<td rowspan="1" colspan="1">
+<p>Human Resource</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Human Resource Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lillian Tan</p>
+</td>
 </tr>
 <tr>
-<td>IT Development</td>
-<td>IT Development Manager (Acting)</td>
-<td>Mr Siow Pei Fang</td>
+<td rowspan="1" colspan="1">
+<p>IT Development</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IT Development Manager (Acting)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Siow Pei Fang</p>
+</td>
 </tr>
 <tr>
-<td>Laboratory</td>
-<td>Laboratory Supervisor</td>
-<td>Mrs Reena Quah</td>
-</tr>
-<tr>
-<td>Library</td>
-<td>Librarian</td>
-<td>Mr Leo Joon Meng</td>
+<td rowspan="1" colspan="1">
+<p>Laboratory</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Laboratory Supervisor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Reena Quah</p>
+</td>
 </tr>
 </tbody>
 </table>
