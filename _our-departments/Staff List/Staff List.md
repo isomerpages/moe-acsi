@@ -690,17 +690,6 @@ Committee)</p>
 <p>HPER</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pool Supervisor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lau Kum Weng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HPER</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Rugby Coach</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -749,17 +738,6 @@ Committee)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Reena Quah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Library</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Librarian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Leo Joon Meng</p>
 </td>
 </tr>
 </tbody>
