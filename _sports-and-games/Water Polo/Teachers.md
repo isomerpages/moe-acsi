@@ -3,40 +3,65 @@ title: Teachers
 permalink: /waterpolo/teachers/
 description: ""
 third_nav_title: Water Polo
+variant: tiptap
 ---
 <table>
-<thead>
-  <tr>
-    <th>Name</th>
-    <th>Email</th>
-    <th>Remarks</th>
-  </tr>
-</thead>
 <tbody>
-  <tr>
-    <td>Mr. Ho Yee Cheong</td>
-    <td>ycho@acsindep.edu.sg</td>
-    <td>Overall Teacher in Charge</td>
-  </tr>
-  <tr>
-    <td>Mr. Lau Kum Weng</td>
-    <td>luonan@acsindep.edu.sg</td>
-    <td>Teacher cum Coach</td>
-  </tr>
-  <tr>
-    <td>Mr. Luo Nan</td>
-    <td>laukw@acsindep.edu.sg</td>
-    <td>Teacher cum Coach</td>
-  </tr>
-  <tr>
-    <td>Ms Jess Wong</td>
-    <td>jesswong@acsindep.edu.sg</td>
-    <td>Teacher (administrator and A div)</td>
-  </tr>
-  <tr>
-    <td>Mr Ai Xinghuan</td>
-    <td>aixinghuan@acsindep.edu.sg</td>
-    <td>Teacher (C and B div)</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Remarks</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Ho Yee Cheong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ycho@acsindep.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Overall Teacher in Charge</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Luo Nan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>laukw@acsindep.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher cum Coach</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jess Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>jesswong@acsindep.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher (administrator and A div)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ai Xinghuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>aixinghuan@acsindep.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher (C and B div)</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
