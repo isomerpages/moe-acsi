@@ -36,6 +36,9 @@ lifelong connections with established individuals in these fields!</p>
 <p>Day: Every Alternate Friday</p>
 <p>Time: 1.30-2.45 p.m.</p>
 <p>Location: TOK room/Humanities Room(IB Block)</p>
+<p>Sign up here: <a href="https://forms.office.com/r/2zFxJZybSb" rel="noopener noreferrer nofollow" target="_blank"><u>https://forms.office.com/r/2zFxJZybSb</u></a>
+</p>
+<p>Follow us on our Insta page @ac.investment.society for more updates!&nbsp;</p>
 <p></p>
 <p></p>
 <p><strong><em>The information provided by ACsians Investment Society is for educational purposes only. It does not constitute financial advice, and the club is not responsible for any decisions made based on the information. Investing involves risks, and individuals should conduct their own research or seek professional advice.</em></strong>
