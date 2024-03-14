@@ -7,3 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
+<p></p>
+<p>Source: The Straits Times © SPH Media Limited. Permission required for
+reproduction.</p>
