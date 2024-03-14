@@ -44,3 +44,26 @@ lifelong connections with established individuals in these fields!</p>
 <p><strong><em>The information provided by ACsians Investment Society is for educational purposes only. It does not constitute financial advice, and the club is not responsible for any decisions made based on the information. Investing involves risks, and individuals should conduct their own research or seek professional advice.</em></strong>
 </p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AC Investment Society (ACIS)/Picture5.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AC Investment Society (ACIS)/Picture6.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AC Investment Society (ACIS)/Picture7.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AC Investment Society (ACIS)/Picture10.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AC Investment Society (ACIS)/Picture9.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AC Investment Society (ACIS)/Picture8.png">
+</div>
+<p></p>
