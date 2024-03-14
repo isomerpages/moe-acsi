@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-<p></p>
-<p></p>
+<a href="/files/Announcements%20&amp;%20News/ST_1_March_2024_pB10.pdf">![](/images/Announcements%20&amp;%20News/ST_1_March_2024_pB10.jpg)</a>
+
 <p>Source: The Straits Times © SPH Media Limited. Permission required for
 reproduction.</p>
