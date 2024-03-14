@@ -2,6 +2,7 @@ collections:
   interest-group:
     output: true
     order:
+      - AC Investment Society (ACIS)/AC Investment Society (ACIS).md
       - AC Investment Society (ACIS)/.keep
       - Christian Fellowship/.keep
       - Christian Fellowship/Christian Fellowship.md
