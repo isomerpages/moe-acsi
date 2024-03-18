@@ -3,7 +3,7 @@ title: How to apply
 permalink: /talent-development/y3-ib-programme-for-athletes/permalink/
 variant: tiptap
 description: ""
-third_nav_title: Y3 IB Programme for Athletes
+third_nav_title: 3 Year Programme for Athletes
 ---
 <p>1.&nbsp;&nbsp;&nbsp; Application documents will be available on this webpage
 on 1 November 2024 and submission will close on 16 March 2025. Only successful

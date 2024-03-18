@@ -3,7 +3,7 @@ title: Selection Criteria
 permalink: /talent-development/y3-ib-programme-for-athletes/selectioncriteria/
 variant: markdown
 description: ""
-third_nav_title: Y3 IB Programme for Athletes
+third_nav_title: 3 Year Programme for Athletes
 ---
 <p>The applicant:</p>
 <p>- must be a student enrolled in ACS(I)’s IB Diploma Programme</p>
