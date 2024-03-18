@@ -2,7 +2,6 @@ collections:
   talent-development:
     output: true
     order:
-      - Y3 IB Programme for Athletes/.keep
       - Talent Development.md
       - ACH/.keep
       - "ACH/ACH: Accelerated Class for Humanities.md"
@@ -38,3 +37,4 @@ collections:
       - Technovator Programme/Curriculum.md
       - Technovator Programme/Some of Our Students’ Projects.md
       - Trailblazer.md
+      - Y3 IB Programme for Athletes/.keep
