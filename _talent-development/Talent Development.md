@@ -80,7 +80,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/talent-development/y3-ib-programme-for-athletes/y3ibathletes/" rel="noopener noreferrer nofollow" target="_blank">3-Year IB Diploma Programme for High-Performing Student-Athletes</a>
+<p><em><a href="/talent-development/y3-ib-programme-for-athletes/y3ibathletes/" rel="noopener noreferrer nofollow" target="_blank">3-Year IB Diploma Programme for High-Performing Student-Athletes</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
