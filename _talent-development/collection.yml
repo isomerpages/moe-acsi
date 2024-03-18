@@ -3,6 +3,13 @@ collections:
     output: true
     order:
       - Talent Development.md
+      - 3 Year Programme for Athletes/.keep
+      - 3 Year Programme for Athletes/3 Year IB Diploma Programme for High
+        Performing Student Athletes.md
+      - 3 Year Programme for Athletes/Selection Criteria.md
+      - 3 Year Programme for Athletes/Important Dates.md
+      - 3 Year Programme for Athletes/How to apply.md
+      - 3 Year Programme for Athletes/Contact Information.md
       - ACH/.keep
       - "ACH/ACH: Accelerated Class for Humanities.md"
       - ACH/Subjects Offered.md
@@ -37,10 +44,3 @@ collections:
       - Technovator Programme/Curriculum.md
       - Technovator Programme/Some of Our Students’ Projects.md
       - Trailblazer.md
-      - 3 Year Programme for Athletes/.keep
-      - 3 Year Programme for Athletes/3 Year IB Diploma Programme for High
-        Performing Student Athletes.md
-      - 3 Year Programme for Athletes/Selection Criteria.md
-      - 3 Year Programme for Athletes/Important Dates.md
-      - 3 Year Programme for Athletes/How to apply.md
-      - 3 Year Programme for Athletes/Contact Information.md
