@@ -1,5 +1,5 @@
 ---
-title: The ACS(I) Open House
+title: ACS(I) Open House 2024
 permalink: /announcements/announcements/openhouse2024/
 date: 2024-03-19
 layout: post
