@@ -14,5 +14,5 @@ variant: tiptap
 <p>The ACS(I) Open House will be held on <strong>Saturday,</strong>  <strong>13 April 2024 – 8.30 am to 12.30 pm</strong>.</p>
 <p>&nbsp;Join us to explore our campus, meet our teachers, and learn about
 our academic and co-curricular programmes.</p>
-<p>&nbsp;Please visit <a rel="noopener noreferrer nofollow" target="_blank">https://www.acsindep.moe.edu.sg/events/openhouse/</a> for
+<p>&nbsp;Please visit <a href="https://www.acsindep.moe.edu.sg/events/openhouse/" rel="noopener noreferrer nofollow" target="_blank">https://www.acsindep.moe.edu.sg/events/openhouse/</a> for
 more details.</p>
