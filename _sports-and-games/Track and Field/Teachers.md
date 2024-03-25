@@ -3,6 +3,7 @@ title: Teachers
 permalink: /trackfield/teachers/
 description: ""
 third_nav_title: Track and Field
+variant: markdown
 ---
 **Mr Lawrence Ang**  
 Position: Overall Teacher IC  
@@ -24,10 +25,10 @@ Position: Teacher IC (B Division)
 Contact Number: 67769531  
 Email: [katewangfang@acsindep.edu.sg](mailto:katewangfang@acsindep.edu.sg)
 
-**Ms Ali Basheera Banu**  
+**Mr Goh Wee Kiat**  
 Position: Teacher IC (C Division)  
-Contact Number: 6870 0474  
-Email: [basheera@acsindep.edu.sg](mailto:basheera@acsindep.edu.sg)
+Contact Number: 6870 0643  
+Email: [gohweekiat@acsindep.edu.sg](mailto:gohweekiat@acsindep.edu.sg)
 
 **Ms Lai Chien Siew**  
 Position: Teacher IC  
@@ -38,4 +39,4 @@ Email: [laichiensiew@acsindep.edu.sg](mailto:laichiensiew@acsindep.edu.sg)
 Mr Tang Ngai Kin  
 Mr Hamkah Bin Mohamed Afik  
 Mr Yusman Jamil  
-Mr Khairyll Amri
+Mr Mohamed Shameer Bin Mohamed Ayub
