@@ -25,12 +25,12 @@ and teamwork.</p>
 <p>Remuneration commensurate with qualifications and experience. To apply,
 please send your detailed resume with information on your current and expected
 remuneration and a recent photograph by post or email to:</p>
-<p><strong>The Human Resource Department</strong>
-<br><strong>Anglo-Chinese School (Independent)</strong>
-<br><strong>121 Dover Road,</strong>
+<p><strong>The Human Resource Department</strong> 
+<br><strong>Anglo-Chinese School (Independent)</strong> 
+<br><strong>121 Dover Road,</strong> 
 <br><strong>Singapore 139650</strong>
 </p>
-<p>Fax:&nbsp;<strong>6773 1433</strong>
+<p>Fax:&nbsp;<strong>6773 1433</strong> 
 <br>Email: <strong><a href="mailto:lilliantan@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lilliantan@acsindep.edu.sg</a></strong>
 </p>
 <p>We thank all applicants for your interest and would like to inform all
