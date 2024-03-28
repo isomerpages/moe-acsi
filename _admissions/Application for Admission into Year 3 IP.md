@@ -19,9 +19,6 @@ Baccalaureate (IB) Diploma Programme.&nbsp;</p>
 reasoning, mathematical reasoning and reading comprehension abilities</p>
 </li>
 <li>
-<p>Teachers’ evaluation (ACS(I) students only)</p>
-</li>
-<li>
 <p>Interview for non-ACS(I) students.&nbsp;</p>
 </li>
 </ol>
