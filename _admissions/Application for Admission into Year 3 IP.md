@@ -16,7 +16,7 @@ Baccalaureate (IB) Diploma Programme.&nbsp;</p>
 </li>
 <li>
 <p>Results of a Higher Ability Selection Test (HAST) that will evaluate abstract
-reasoning, mathematics reasoning and reading comprehension abilities</p>
+reasoning, mathematical reasoning and reading comprehension abilities</p>
 </li>
 <li>
 <p>Teachers’ evaluation (ACS(I) students only)</p>
