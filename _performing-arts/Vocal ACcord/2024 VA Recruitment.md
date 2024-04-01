@@ -11,45 +11,12 @@ variant: tiptap
 </p>
 <p><strong>Kindly scan the QR code below to register for 2024 Vocal ACcord audition.</strong>
 </p>
-<p><strong>Click here: <a href="https://tinyurl.com/vaauditions2024" rel="noopener" target="_blank">https://tinyurl.com/vaauditions2024</a></strong>
+<p><strong>Click this </strong><a href="https://for.edu.sg/vocalaccordinterestform" rel="noopener noreferrer nofollow" target="_blank">link</a><strong> to indicate your interest and we will get back to you shortly!</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Performing Arts/Voice/Picture5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Vocal_Accord__3_.jpg">
 </div>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Audition Dates</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;<strong>Time</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Reporting Venue</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;20 February, Tuesday</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>&nbsp;4.15pm – 6.15pm</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Old block Red level General music room</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;22 February, Thursday</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>We are looking for:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -81,12 +48,7 @@ variant: tiptap
 <p>Video/ Audio Editors</p>
 </li>
 </ul>
-<p><strong>How will VA audition be conducted?</strong>
-</p>
-<p>Applicants are to sing 1 verse of a self-chosen song which can bring out
-the beauty and unique quality of their voice. Backing track is optional.&nbsp;</p>
-<p><strong>See you at the audition!</strong>
-</p>
+<p></p>
 <p><strong>Here’s what our VA alumni have to say about Vocal ACcord!</strong>
 </p>
 <p><em>“I chose to join VA as music is a really big part of my life. Having had been in choir since primary school, I wanted to continue having an avenue to explore music together with a community of people!</em>
