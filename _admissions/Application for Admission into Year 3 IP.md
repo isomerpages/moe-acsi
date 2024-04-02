@@ -23,7 +23,7 @@ reasoning, mathematical reasoning and reading comprehension abilities</p>
 </li>
 </ol>
 <p>The deadline for the submission of the application form and HAST fee of
-$60 is <strong>Monday, 10 May 2024</strong> for all students.&nbsp;</p>
+$60 is <strong>Friday, 10 May 2024</strong> for all students.&nbsp;</p>
 <p>All applicants must take the <strong>HAST</strong> on <strong>Friday, 19 July 2024</strong>.
 There is no retest for HAST.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>The application documents can be downloaded below:&nbsp;</p>
