@@ -12,17 +12,13 @@ or Microsoft Edge at a screen resolution of 1024 x 768 or higher.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open_House_Poster_No_QR.png">
 </div>
-<p>The ACS(I) Open House will be held on <strong>Saturday,  13 April 2024</strong>, from <strong>8.30 am – 12.30 pm</strong>.</p>
-<p>During the Open House, visitors will be able to  interact with our students and teachers at the various CCA &amp; Subject  booths. We will also provide details on our academic / talent programmes and  student services, along with comprehensive tours of our campus.</p>
-<p><strong>This will be a walk-in event, with no  registration required. </strong>As there is limited parking in the school, visitors are  advised to park their vehicles at the multi-storey carparks nearby.</p>
-<p><strong>Principal’s Talk</strong><br>
-  <em>To support all Primary 6 students / parents in  making an informed choice on our O-Level or Integrated Programme tracks</em><br>
-  <strong>Time:</strong> 9.00 am<br>
-  <strong>Location:</strong> Centre for Performing Arts 2 (CPA 2)</p>
-<p><strong>IBDP Talk</strong><br>
-  <em>For Secondary 4 students looking to join the  International Baccalaureate Diploma Programme in Years 5 and 6</em><br>
-  <strong>Time:</strong> 9.00 am<br>
-  <strong>Location:</strong> Centre for Performing Arts 1 (CPA 1)</p>
-<p>Our Open House maps will be available for  download closer to the date.</p>
-<p>For any enquiries, you may contact us <a href="https://www.acsindep.moe.edu.sg/about-acs-independent/contact-us-main/">here</a>.</p>
-<p>We look forward to welcoming you then!</p>
+<p>The ACS(I) Open House will be held on <strong>Saturday, 13 April 2024,</strong> from <strong>8.30 am – 12.30 pm</strong>.</p>
+<p><strong>This will be a walk-in event, with no registration required.</strong> As
+there is limited parking in the school, visitors are advised to park their
+vehicles at the multi-storey carparks nearby.</p>
+<p>Our Open House maps are available for download <a href="https://sites.acsindep.edu.sg/open%20house/2024%20Open%20House%20Booths.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p><strong>Learn more about ACS(I):</strong>&nbsp;</p>
+<p><a href="https://www.acsindep.moe.edu.sg/student-development/cca/" rel="noopener noreferrer nofollow" target="_blank">CCAs</a> |
+<a href="https://www.acsindep.moe.edu.sg/departments/" rel="noopener noreferrer nofollow" target="_blank">Departments</a>| <a href="https://www.acsindep.moe.edu.sg/talent-development/" rel="noopener noreferrer nofollow" target="_blank">Distinctive Programmes</a> |
+<a href="https://www.acsindep.moe.edu.sg/admissions/" rel="noopener noreferrer nofollow" target="_blank">Admissions &amp; DSA</a>&nbsp;</p>
+<p>For any enquiries, you may contact us <a href="https://www.acsindep.moe.edu.sg/about-acs-independent/contact-us-main/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
