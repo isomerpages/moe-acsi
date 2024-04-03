@@ -61,17 +61,6 @@ School</p>
 <p>Senior Administration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deputy Principal (Year 5 &amp; 6)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chock Siew Hwa</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Administration</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Deputy Principal (Student Development)</p>
 </td>
 <td rowspan="1" colspan="1">
