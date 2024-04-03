@@ -52,6 +52,16 @@ and innovative teaching team.</p>
 </ul>
 </li>
 <li>
+<p><strong>Biology</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Secondary Levels</strong>
+</p>
+</li>
+</ul>
+</li>
+<li>
 <p><strong>Chinese Language</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -63,6 +73,16 @@ and innovative teaching team.</p>
 </li>
 <li>
 <p><strong>English Language &amp; Literature</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Secondary Levels</strong>
+</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Geography</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -107,4 +127,5 @@ and innovative teaching team.</p>
 <p>For relief teaching positions, applicants must be a registered relief
 teacher with MOE under REMS (Employment Management System). Interested
 applicants, please email your resume, Education Certifications and Transcripts
-to:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">homeihoe@acsindep.edu.sg</a>.</p>
+to:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">homeihoe@acsindep.edu.sg</a>
+</p>
