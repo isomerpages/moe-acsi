@@ -7,7 +7,7 @@ third_nav_title: Open House
 ---
 <p><strong>Principal’s Talk</strong>
 <br>
-<em>To support all Primary 6 students / parents in making an informed choice on our O-Level or Integrated Programme tracks</em>
+<em>To support all Primary 6 students / parents in making an informed choice on our Singapore-Cambridge Secondary School Education or Integrated Programme tracks</em>
 <br>
 <strong>Time:</strong> 9.00 am<br>
 <strong>Location:</strong> Centre for Performing Arts 2 (CPA 2)<br>
