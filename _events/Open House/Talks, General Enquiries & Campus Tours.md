@@ -11,4 +11,3 @@ third_nav_title: Open House
 <strong>Location of Booths:</strong> Auditorium 1 (Clocktower Block) — for IBDP or academic matters, and
 Auditorium 2 (Admin Block) – for CCA or DSA-Sec matters</p>
 <p><strong>Campus Tours</strong> <br> <strong>Location of Booth:</strong> Outside Boardroom 2 (Admin Block)</p>
-<p>-</p>
