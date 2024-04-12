@@ -16,16 +16,17 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td style="text-align:center"><a href="/images/ic%201.jpeg"> <img src="/images/ic%201.jpeg" style="width:200px"></a></td>
-    <td style="text-align:center"><a href="/images/ic%202.jpeg"> <img src="/images/ic%202.jpeg" style="width:200px"></a></td>
-    <td style="text-align:center"><a href="/images/ic%203.jpeg"> <img src="/images/ic%203.jpeg" style="width:200px; height: 130px"></a></td>
-    <td style="text-align:center"><a href="/images/ic%204.jpeg"> <img src="/images/ic%204.jpeg" style="width:200px"></a></td>
+    <td style="text-align:center"><a href="/images/1.jpg"> <img src="/images/1.jpg" style="width:200px"></a></td>
+    <td style="text-align:center"><a href="/images/2.jpg"> <img src="/images/2.jpg" style="width:200px"></a></td>
+    <td style="text-align:center"><a href="/images/3.jpg"> <img src="/images/3.jpg" style="width:200px"></a></td>
+    <td style="text-align:center"><a href="/images/4.jpg"> <img src="/images/4.jpg" style="width:200px"></a></td>
   </tr>
    <tr>
-    <td style="text-align:center"><a href="/images/ic%205.jpeg"> <img src="/images/ic%205.jpeg" style="width:200px; height: 130px"></a></td>
-    <td style="text-align:center"><a href="/images/ic%206.jpeg"> <img src="/images/ic%206.jpeg" style="width:200px"></a></td>
-    <td style="text-align:center"><a href="/images/ic%207.jpeg"> <img src="/images/ic%207.jpeg" style="width:200px"></a></td>
-    <td style="text-align:center"><a href="/images/ic%208.jpeg"> <img src="/images/ic%208.jpeg" style="width:200px"></a></td>
+    <td style="text-align:center"><a href="/images/5.jpg"> <img src="/images/5.jpg" style="width:200px; height: 130px"></a></td>
+    <td style="text-align:center"><a href="/images/6.jpg"> <img src="/images/6.jpg" style="width:200px"></a></td>
+    <td style="text-align:center"></td>
+    <td style="text-align:center"></td>
   </tr>
 </tbody>
 </table>
+
