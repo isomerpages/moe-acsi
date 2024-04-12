@@ -10,6 +10,6 @@ third_nav_title: Open House
 <strong>Location:</strong> Auditorium 1<br>
 
 </p><div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/subject_booths.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/subject_booths_updated.png">
 </div>
 <p></p>
