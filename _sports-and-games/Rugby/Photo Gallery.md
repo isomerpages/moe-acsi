@@ -10,4 +10,4 @@ variant: markdown
 
 ![](/images/CCA%20Sports/rugby_poster.jpg)
 
-![](/images/CCA%20Sports/rugby_poster_2.jpg)
+![](/images/rugby_poster_2.png)
