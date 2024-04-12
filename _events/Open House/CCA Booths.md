@@ -9,9 +9,8 @@ third_nav_title: Open House
 <br>
 <strong>Location:</strong> Auditorium 2<br>
 </p><div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca_booths.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca_booths_updated.png">
 </div><p></p>
-
 <p><strong>Performing Arts Booths</strong>
 <br>
 <strong>Location: </strong>Outside ACS(I) Front Office<br>
