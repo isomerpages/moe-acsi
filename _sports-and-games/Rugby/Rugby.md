@@ -3,10 +3,11 @@ title: Rugby
 permalink: /rugby/
 description: ""
 third_nav_title: Rugby
+variant: markdown
 ---
 ### Welcome to ACS(Independent) Rugby CCA
 
-![](/images/ACS-Rugby-Opening-Banner.jpg)
+![](/images/Rigby_Banner_2023.jpg)
 
 <h4><center>Humility, Magnanimity, Loyalty</center></h4>
 
