@@ -9,6 +9,8 @@ variant: markdown
 
 ![](/images/Rigby_Banner_2023.jpg)
 
-<h4><center>Humility, Magnanimity, Loyalty</center></h4>
+![](/images/Slide1.jpg)
+![](/images/Slide2.jpg)
+![](/images/Slide3.jpg)
 
 <center><b>The Best is Yet To Be!</b></center>
