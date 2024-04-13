@@ -5,14 +5,9 @@ description: ""
 third_nav_title: Rugby
 variant: markdown
 ---
-![](/images/CCA%20Sports/Slide1.jpg)
-
-![](/images/CCA%20Sports/Slide2.jpg)
-
-![](/images/CCA%20Sports/Slide3.jpg)
-
-![](/images/CCA%20Sports/Slide4.jpg)
-
-![](/images/CCA%20Sports/Slide5.jpg)
-
-![](/images/CCA%20Sports/Slide6.jpg)
+![](/images/TCSlide1.jpg)
+![](/images/TCSlide2.jpg)
+![](/images/TCSlide3.jpg)
+![](/images/TCSlide4.jpg)
+![](/images/TCSlide5.jpg)
+![](/images/TCSlide6.jpg)
