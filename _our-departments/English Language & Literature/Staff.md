@@ -5,181 +5,212 @@ description: ""
 third_nav_title: English Language & Literature
 variant: tiptap
 ---
-<table width="100%" border="1">
+<table>
 <tbody>
 <tr>
-<td width="39%">Mrs. Maria Nathan</td>
-<td width="60%">Dean, IBDP</td>
-</tr>
-<tr>
-<td width="39%">Mr. Ferdinand Quek</td>
-<td width="60%">Master Lead Teacher</td>
-</tr>
-<tr>
-<td width="39%">Ms. Karen Ng</td>
-<td width="60%">Dean, English Language &amp; Literature (Integrated Programme / O Level) (Acting)</td>
-</tr>
-<tr>
-<td width="39%">Mr. Brian Connor</td>
-<td width="60%">Deputy Dean, IBDP</td>
-</tr>
-<tr>
-<td width="39%">Mrs. Andriany Tee</td>
-<td width="60%">Deputy Dean, IP</td>
-</tr>
-<tr>
-<td width="39%">Mrs. Beatrice Leong</td>
-<td width="60%">Deputy Dean, O Levels</td>
-</tr>
-<tr>
-<td width="39%">Mr. Ong Wooi Chiang</td>
-<td width="60%">Coordinator – Year 1, English Language</td>
-</tr>
-<tr>
-<td width="39%">Ms. Carmen Wang</td>
-<td width="60%">Coordinator – Year 1, Literature</td>
-</tr>
-<tr>
-<td width="39%">Mr. Eugene Lim</td>
-<td width="60%">Coordinator – Year 1, Language Arts</td>
-</tr>
-<tr>
-<td width="39%">Ms. Priscilla Liu</td>
-<td width="60%">Coordinator – Year 1 &amp; 2, SBGE</td>
-</tr>
-<tr>
-<td width="39%">Mrs. Diane Choo</td>
-<td width="60%">Year 1, Director</td>
-</tr>
-<tr>
-<td width="39%">Ms. Ahalya Janarthanan</td>
-<td width="60%">Teacher – Year 1 &amp; 2</td>
-</tr>
-<tr>
-<td width="39%">Ms. Kavita Mirchandani</td>
-<td width="60%">Coordinator – Year 2, English Language</td>
-</tr>
-<tr>
-<td width="39%">Mdm. Rajini</td>
-<td width="60%">Coordinator – Year 2, Literature</td>
-</tr>
-<tr>
-<td width="39%">Ms. Shelia Ther</td>
-<td width="60%">Coordinator – Year 2, Language Arts</td>
-</tr>
-<tr>
-<td width="39%">Ms. Sherilyn Khng</td>
-<td width="60%">Year 2, Deputy Director</td>
-</tr>
-<tr>
-<td width="39%">Ms. Christina Raj</td>
-<td width="60%">Coordinator – Year 3, Language Arts</td>
-</tr>
-<tr>
-<td width="39%">Mr. Shawn Lim</td>
-<td width="60%">Coordinator – Year 3, Language Arts</td>
-</tr>
-<tr>
-<td width="39%">Mrs. Lisa Lai</td>
-<td width="60%">Coordinator – Year 3 &amp; 4, Literature</td>
-</tr>
-<tr>
-<td width="39%">Mr. Andrew Wong</td>
-<td width="60%">Year 3, Director</td>
-</tr>
-<tr>
-<td width="39%">Ms. Raelene Chan</td>
-<td width="60%">Teacher, Year 3 and 4</td>
-</tr>
-<tr>
-<td width="39%">Ms. Chew Kah Wai</td>
-<td width="60%">Coordinator – Year 4, English Language</td>
-</tr>
-<tr>
-<td width="39%">Ms. Sonia Marican</td>
-<td width="60%">Coordinator – Year 4, Language Arts</td>
-</tr>
-<tr>
-<td width="39%">Mrs. Karen Liau</td>
-<td width="60%">Year 4, Director</td>
-</tr>
-<tr>
-<td width="39%">Mr. Benjamin Wong</td>
-<td width="60%">Year 4, Deputy Director</td>
-</tr>
-<tr>
-<td width="39%">Mrs. Mervlyn Goh</td>
-<td width="60%">Director, Student Support – Psychological &amp; Emotional Care
-<p>Curriculum Leader – Year 5 Language and Literature (SL)</p>
+<td rowspan="1" colspan="1">
+<p>Mr. Ferdinand Quek</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Master Lead Teacher</p>
 </td>
 </tr>
 <tr>
-<td width="39%">Mr. Paul Tan</td>
-<td width="60%">Curriculum Leader – Year 5 Literature HSP (HL)
-<p>Curriculum Leader – Year 5 Language and Literature (SL)</p>
+<td rowspan="1" colspan="1">
+<p>Mrs. Maria Nathan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dean, IBDP</p>
 </td>
 </tr>
 <tr>
-<td width="39%">Dr. Doreen Ang</td>
-<td width="60%">Curriculum Leader – Year 5 Language and Literature (HL)
-<p>Curriculum Leader – Year 5 Language and Literature (SL)</p>
+<td rowspan="1" colspan="1">
+<p>Mdm. Karen Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dean, English Language &amp; Literature (Integrated Programme / O Level)
+(Acting)</p>
+<p>Coordinator – Year 3, English Language</p>
 </td>
 </tr>
 <tr>
-<td width="39%">Ms. Cheryl Wong</td>
-<td width="60%">Curriculum Leader – Year 5 Literature (HL)
-<p>Curriculum Leader – Year 5 Language and Literature (SL)</p>
+<td rowspan="1" colspan="1">
+<p>Mr. Brian Connor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Dean, IBDP</p>
 </td>
 </tr>
 <tr>
-<td width="39%">Mdm. Runima Tandon</td>
-<td width="60%">Curriculum Leader – Year 5 Language and Literature (SL)
-<p>Curriculum Leader – Year 6 Literature (HL)</p>
+<td rowspan="1" colspan="1">
+<p>Mrs. Andriany Tee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Dean, IP</p>
 </td>
 </tr>
 <tr>
-<td width="39%">Mr. Aloysius Lim</td>
-<td width="60%">Curriculum Leader – Year 5 Language and Literature (HL)
-<p>Curriculum Leader – Year 6 Literature HSP (HL)</p>
+<td rowspan="1" colspan="1">
+<p>Mrs. Beatrice Leong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Dean, O Levels</p>
 </td>
 </tr>
 <tr>
-<td width="39%">Ms. Nirmala Silverajan</td>
-<td width="60%">Curriculum Leader – Year 6 Language and Literature (HL)
-<p>Curriculum Leader – Year 6 Language and Literature (SL)</p>
+<td rowspan="1" colspan="1">
+<p>Mr. Ong Wooi Chiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coordinator – Year 1, English Language</p>
 </td>
 </tr>
 <tr>
-<td width="39%">Ms. Rachel Cheung</td>
-<td width="60%">Curriculum Leader – Year 5 Language and Literature (SL)</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Carmen Wang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coordinator – Year 1, Literature</p>
+</td>
 </tr>
 <tr>
-<td width="39%">Mdm. Sumithra Narayanan</td>
-<td width="60%">Curriculum Leader – Year 5 Language and Literature (SL)</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Eugene Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coordinator – Year 1, Language Arts</p>
+</td>
 </tr>
 <tr>
-<td width="39%">Dr. Angela Chew</td>
-<td width="60%">Curriculum Leader – Year 6 Language and Literature (SL)</td>
+<td rowspan="1" colspan="1">
+<p>Mrs. Diane Choo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year 1, Director</p>
+</td>
 </tr>
 <tr>
-<td width="39%">Ms. Fiona Ho</td>
-<td width="60%">Curriculum Leader – Year 6 Language and Literature (SL)</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Ahalya Janarthanan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coordinator – Year 2, English Language</p>
+</td>
 </tr>
 <tr>
-<td width="39%">Mdm. Nilanjana Bose</td>
-<td width="60%">Curriculum Leader – Year 6 Language and Literature (SL)</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Kavita Mirchandani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coordinator – Year 2, English Language</p>
+</td>
 </tr>
 <tr>
-<td width="39%">Ms. Tan Lee Jing</td>
-<td width="60%">Curriculum Leader – Year 6 Language and Literature (SL)</td>
+<td rowspan="1" colspan="1">
+<p>Mdm. Rajini</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coordinator – Year 2, Literature</p>
+</td>
 </tr>
 <tr>
-<td width="39%">Mr Bennett Cheong Sihao</td>
-<td width="60%">Teacher</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Sherilyn Khng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year 2, Deputy Director</p>
+<p>Coordinator – Year 2, Language Arts</p>
+</td>
 </tr>
-	<tr>
-<td width="39%">Mr Lin Jiahao</td>
-<td width="60%">Teacher</td>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Cheong Sihao Bennett</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher, Year 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Christina Raj</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coordinator – Year 3, Language Arts</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Priscilla Liu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coordinator – Year 1 &amp; 2, SBGE</p>
+<p>Coordinator – Year 3, Literature</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs. Lisa Lai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher, Year 3 and 4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Joseph Sim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher, Year 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Andrew Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year 3, Director</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Benjamin Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year 3, Deputy Director</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Chew Kah Wai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coordinator – Year 4, English Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Sonia Marican</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coordinator – Year 4, Language Arts</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Shelia Ther</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coordinator – Year 4, Literature</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs. Karen Liau</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year 4, Director</p>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>
