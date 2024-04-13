@@ -12,7 +12,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National School’s Individuals Championship</p>
@@ -149,7 +149,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Award-for-2020-for-webpage-1.jpg">
-</div>
 <p></p>
