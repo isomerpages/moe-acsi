@@ -35,7 +35,7 @@ remuneration and a recent photograph by post or email to:</p>
 </p>
 <p>We thank all applicants for your interest and would like to inform all
 applicants that only shortlisted candidates will be notified.</p>
-<p><strong>Academic Staff</strong>
+<p><strong><u>Academic Staff</u></strong>
 </p>
 <p>We welcome qualified and highly motivated individuals with a strong passion
 for teaching of the following subjects to be part of the dynamic, creative
@@ -43,16 +43,6 @@ and innovative teaching team.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Art and Design</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Secondary Levels</strong>
-</p>
-</li>
-</ul>
-</li>
-<li>
-<p><strong>Biology</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -92,6 +82,16 @@ and innovative teaching team.</p>
 </ul>
 </li>
 <li>
+<p><strong>Mathematics</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Secondary Levels</strong>
+</p>
+</li>
+</ul>
+</li>
+<li>
 <p><strong>Tamil Language</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -102,7 +102,7 @@ and innovative teaching team.</p>
 </ul>
 </li>
 </ul>
-<p><strong>Executive and Support Staff</strong>
+<p><strong><u>Executive and Support Staff</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -110,15 +110,16 @@ and innovative teaching team.</p>
 </p>
 </li>
 <li>
-<p><strong>Chief Librarian (Library)</strong>
+<p><strong>Estate Development Officer (Boarding School)</strong>
 </p>
 </li>
 <li>
-<p><strong>Custodians (Estate Development Department)</strong>
+<p><strong>Finance Officer (Finance Department)</strong>
 </p>
 </li>
 <li>
 <p><strong>School Counsellor (Agape Counselling Department)</strong>
+<br>
 </p>
 </li>
 </ul>
