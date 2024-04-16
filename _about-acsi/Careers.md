@@ -118,7 +118,7 @@ and innovative teaching team.</p>
 </p>
 </li>
 <li>
-<p><strong>School Counsellor (Agape Counselling Department)</strong>
+<p><strong>School Counsellor (Agape Counselling Department)</strong> 
 <br>
 </p>
 </li>
