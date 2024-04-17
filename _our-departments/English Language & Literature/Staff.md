@@ -24,13 +24,22 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Mdm. Karen Ng</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Dean, English Language &amp; Literature (Integrated Programme / O Level)
-(Acting)</p>
-<p>Coordinator – Year 3, English Language</p>
+(Acting), Coordinator – Year 3, English Language&nbsp;</p>
+</td>
+</tr>
+<tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mervlyn Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Director Student, Support – Psychological &amp; Emotional Care, IBDP English
+A Curriculum Leader</p>
 </td>
 </tr>
 <tr>
@@ -55,6 +64,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Deputy Dean, O Levels</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Shawn Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Dean, Curriculum and Assessment (Acting), IBDP English A Curriculum
+Leader</p>
 </td>
 </tr>
 <tr>
@@ -94,7 +112,7 @@ variant: tiptap
 <p>Ms. Ahalya Janarthanan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Coordinator – Year 2, English Language</p>
+<p>Coordinator – Year 2, English Language&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -114,17 +132,17 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Ms. Sherilyn Khng</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Year 2, Deputy Director</p>
-<p>Coordinator – Year 2, Language Arts</p>
+<td rowspan="2" colspan="1">
+<p>Year 2, Deputy Director, Coordinator – Year 2, Language Arts&nbsp;</p>
 </td>
 </tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Cheong Sihao Bennett</p>
+<p>Mr Cheong Sihao Bennett&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher, Year 2</p>
@@ -139,14 +157,14 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Ms. Priscilla Liu</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Coordinator – Year 1 &amp; 2, SBGE</p>
-<p>Coordinator – Year 3, Literature</p>
+<td rowspan="2" colspan="1">
+<p>Coordinator – Year 1 &amp; 2, SBGE Coordinator – Year 3, Literature&nbsp;</p>
 </td>
 </tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs. Lisa Lai</p>
@@ -157,7 +175,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Joseph Sim</p>
+<p>Mr Joseph Sim&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher, Year 3</p>
@@ -209,6 +227,102 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Year 4, Director</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr. Doreen Ang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher, IBDP English A Curriculum Leader</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Nilanjana Bose</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IBDP English A Curriculum Leader</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr. Angela Chew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IBDP English A Curriculum Leader</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Goh Wee Kiat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IBDP English A Curriculum Leader</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Fiona Ho</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IBDP English A Curriculum Leader</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Jamilah A Lajam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IBDP English A Curriculum Leader</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr. Mani Saravanan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IBDP English A Curriculum Leader</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Nirmala Silverajan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IBDP English A Curriculum Leader</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Tan Lee Jing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IBDP English A Curriculum Leader</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Paul Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IBDP English A Curriculum Leader</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs. Runima Tandon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IBDP English A Curriculum Leader</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Cheryl Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IBDP English A Curriculum Leader</p>
 </td>
 </tr>
 </tbody>
