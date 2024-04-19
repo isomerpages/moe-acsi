@@ -22,16 +22,6 @@ sections:
       subtitle: Announcements
       button: more
   - infopic:
-      title: ACS(I) Open House 2024
-      subtitle: Saturday, 13 April
-      id: infopic
-      description: Join us to explore our campus, meet our teachers, and learn about
-        our academic and co-curricular programmes.
-      button: More
-      url: https://www.acsindep.moe.edu.sg/events/openhouse/
-      image: /images/Open_House_Poster_No_QR_1.png
-      alt: Image alt text
-  - infopic:
       title: Theme Verse 2024
       id: infopic
       image: /images/Theme_2024_For_Webpage_Banner_c.jpg
