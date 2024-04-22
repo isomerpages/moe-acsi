@@ -2,6 +2,7 @@
 title: Admissions
 permalink: /admissions/
 description: ""
+variant: markdown
 ---
 <table>
 <thead>
@@ -20,8 +21,8 @@ description: ""
   <tr>
     <td style="text-align:center"><a href="/admissions/dsa-year-5/">  <i>DSA-JC (Year 5)</i></a></td>
     <td style="text-align:center"><a href="/admissions/joint-admissions-exercise/">  <i>Joint Admissions Exercise</i></a></td>
-    <td style="text-align:center"><a href="/admissions/s1-posting-exercise/">  <i>Year 1 Registration Exercise
-</i></a></td>
+    <td style="text-align:center">  <i>Year 1 Registration Exercise
+</i></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="/about-acs-independent/fee/">  <i>School Fees</i></a></td>
