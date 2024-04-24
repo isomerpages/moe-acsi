@@ -8,15 +8,15 @@ variant: markdown
 |               |                         |
 |---------------|-------------------------|
 | Chairman      | Mr Richard Seow         |
-| Vice Chairman | Mr Lock Wai Han         |
+| Vice Chairman | Dr Wong Heng Yu         |
 | Member        | Mr Wee Cheng Hoon       |
 | Member        | Ms Charlotte Yew        |
 | Member        | Mr Toh Han Li           |
-| Member        | Dr Wong Heng Yu         |
+| Member        | Mr Ravindran Alfreds         |
 | Member        | Mr Lee Lung Nien        |
 | Member        | Mr Wendell Wong         |
 | Member        | Mr Chua Yu-Jin          |
 | Member        | Mr Alvin Tan           |
 | Member        | Rev Khoo Kay Huat |
 
-<center><b>Updated: Jan 2024</b></center>
+<center><b>Updated: April 2024</b></center>
