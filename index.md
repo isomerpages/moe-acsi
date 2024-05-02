@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Anglo Chinese School (Independent)
+title: Anglo-Chinese School (Independent)
 description: Brief site description here
 image: /images/cropped-Anglo-Chinese-School-Independent-PhotoRoom.png
 permalink: /
