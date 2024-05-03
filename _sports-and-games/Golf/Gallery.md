@@ -3,6 +3,7 @@ title: Gallery
 permalink: /golf/gallery/
 description: ""
 third_nav_title: Golf
+variant: markdown
 ---
 <table>
 <thead>
@@ -52,9 +53,8 @@ third_nav_title: Golf
 	<tr>
     <td style="text-align:center"><a href="/images/CCA%20Sports/Golf/2023%20c%20div%20team.png"> <img src="/images/CCA%20Sports/Golf/2023%20c%20div%20team.png" style="width:200px; height: 130px"></a></td>
     <td style="text-align:center"><a href="/images/CCA%20Sports/Golf/2023%20golf%20team.png"> <img src="/images/CCA%20Sports/Golf/2023%20golf%20team.png" style="width:200px"></a>
-		</td><td style="text-align:center"><a href="/images/CCA%20Sports/Golf/2023%20team%20players.png"> <img src="/images/CCA%20Sports/Golf/2023%20team%20players.png" style="width:200px"></a></td>
+		</td><td style="text-align:center"><a href="/images/CCA%20Sports/Golf/2023%20team%20players.png"> <img src="/images/CCA%20Sports/Golf/2023%20team%20players.png" style="width:200px"></a></td><td style="text-align:center"><a href="/images/CCA%20Sports/Golf/2024_A_Div_Boys_Individual_4th_position.jpg"> <img src="/images/CCA%20Sports/Golf/2024_A_Div_Boys_Individual_4th_position.jpg" style="width:200px"></a></td>
 		
 	
 </tr></tbody>
 </table>
-
