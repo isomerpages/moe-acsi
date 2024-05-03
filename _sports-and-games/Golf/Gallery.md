@@ -51,9 +51,11 @@ variant: markdown
 		<td style="text-align:center"><a href="/images/CCA%20Sports/Golf/2023%20c%20div%20individual%20champion.png"> <img src="/images/CCA%20Sports/Golf/2023%20c%20div%20individual%20champion.png" style="width:200px"></a></td>
 	</tr>
 	<tr>
-    <td style="text-align:center"><a href="/images/CCA%20Sports/Golf/2023%20c%20div%20team.png"> <img src="/images/CCA%20Sports/Golf/2023%20c%20div%20team.png" style="width:200px; height: 130px"></a></td>
-    <td style="text-align:center"><a href="/images/CCA%20Sports/Golf/2023%20golf%20team.png"> <img src="/images/CCA%20Sports/Golf/2023%20golf%20team.png" style="width:200px"></a>
-		</td><td style="text-align:center"><a href="/images/CCA%20Sports/Golf/2023%20team%20players.png"> <img src="/images/CCA%20Sports/Golf/2023%20team%20players.png" style="width:200px"></a></td><td style="text-align:center"><a href="/images/CCA%20Sports/Golf/2024_A_Div_Boys_Individual_4th_position.jpg"> <img src="/images/CCA%20Sports/Golf/2024_A_Div_Boys_Individual_4th_position.jpg" style="width:200px"></a></td>
+    <td style="text-align:center"><a href="/images/CCA%20Sports/Golf/2024 A Div Girls Individual 4th position.jpg"> <img src="/images/CCA%20Sports/Golf/2024 A Div Girls Individual 4th position.jpg" style="width:200px; height: 130px"></a></td>
+    <td style="text-align:center"><a href="/images/CCA%20Sports/Golf/2024 A Div Team First Runner-up.jpg"> <img src="/images/CCA%20Sports/Golf/2024 A Div Team First Runner-up.jpg" style="width:200px"></a>
+		</td>
+		<td style="text-align:center"><a href="/images/CCA%20Sports/Golf/2024 B Div Individual Champion.jpg"> <img src="/images/CCA%20Sports/Golf/2024 B Div Individual Champion.jpg" style="width:200px"></a></td>
+		<td style="text-align:center"><a href="/images/CCA%20Sports/Golf/2024 A &amp; B Div Golfers.jpg"> <img src="/images/CCA%20Sports/Golf/2024 A &amp; B Div Golfers.jpg" style="width:200px"></a></td>
 		
 	
 </tr></tbody>
