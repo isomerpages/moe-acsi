@@ -73,3 +73,12 @@ variant: tiptap
 </div>
 <p>2024 B Div Individual Champion</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Golf/2023 team players.png">
+</div>
+<p>2023 Team Players</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Golf/2023 golf team.png">
+</div>
+<p>2023 Golf</p>
