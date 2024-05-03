@@ -81,4 +81,4 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Golf/2023 golf team.png">
 </div>
-<p>2023 Golf</p>
+<p>2023 Golf Team</p>
