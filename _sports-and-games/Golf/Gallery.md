@@ -3,58 +3,52 @@ title: Gallery
 permalink: /golf/gallery/
 description: ""
 third_nav_title: Golf
+variant: markdown
 ---
-<table>
-<thead>
-  <tr>
-    <th style="width:200px"></th>
-    <th style="width:200px"></th>
-    <th style="width:200px"></th>
-		<th style="width:200px"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td style="text-align:center"><a href="/images/golf%201.jpeg"> <img src="/images/golf%201.jpeg" style="width:200px"></a></td>
-    <td style="text-align:center"><a href="/images/golf%202.jpeg"> <img src="/images/golf%202.jpeg" style="width:200px"></a></td>
-    <td style="text-align:center"><a href="/images/golf%203.jpeg"> <img src="/images/golf%203.jpeg" style="width:200px; height: 130px"></a></td>
-    <td style="text-align:center"><a href="/images/golf%204.png"> <img src="/images/golf%204.png" style="width:200px"></a></td>
-  </tr>
-   <tr>
-    <td style="text-align:center"><a href="/images/golf%205.jpeg"> <img src="/images/golf%205.jpeg" style="width:200px; height: 130px"></a></td>
-    <td style="text-align:center"><a href="/images/golf%206.jpeg"> <img src="/images/golf%206.jpeg" style="width:200px"></a></td>
-    <td style="text-align:center"><a href="/images/golf%207.jpeg"> <img src="/images/golf%207.jpeg" style="width:200px"></a></td>
-    <td style="text-align:center"><a href="/images/golf%208.jpeg"> <img src="/images/golf%208.jpeg" style="width:200px"></a></td>
-  </tr>
-	<tr>
-    <td style="text-align:center"><a href="/images/golf%209.jpeg"> <img src="/images/golf%209.jpeg" style="width:200px; height: 130px"></a></td>
-    <td style="text-align:center"><a href="/images/golf%2010.jpeg"> <img src="/images/golf%2010.jpeg" style="width:200px"></a></td>
-		<td style="text-align:center"><a href="/images/golf%2011.jpeg"> <img src="/images/golf%2011.jpeg" style="width:200px"></a></td>
-		<td style="text-align:center"><a href="/images/golf%2012.jpeg"> <img src="/images/golf%2012.jpeg" style="width:200px"></a></td>
-	</tr>
-	<tr>
-    <td style="text-align:center"><a href="/images/golf%2013.jpeg"> <img src="/images/golf%2013.jpeg" style="width:200px; height: 130px"></a></td>
-    <td style="text-align:center"><a href="/images/golf%2014.jpeg"> <img src="/images/golf%2014.jpeg" style="width:200px"></a>
-		</td><td style="text-align:center"><a href="/images/golf%2015.jpeg"> <img src="/images/golf%2015.jpeg" style="width:200px"></a></td>
-		<td style="text-align:center"><a href="/images/CCA%20Sports/Golf/2023%20a%20div%20team.png"> <img src="/images/CCA%20Sports/Golf/2023%20a%20div%20team.png" style="width:200px"></a></td>
-		</tr><tr>
-    <td style="text-align:center"><a href="/images/CCA%20Sports/Golf/2023%20b%20div%20individual%203rd%20position.png"> <img src="/images/CCA%20Sports/Golf/2023%20b%20div%20individual%203rd%20position.png" style="width:200px; height: 130px"></a></td>
-    <td style="text-align:center"><a href="/images/CCA%20Sports/Golf/2023%20b%20div%20individual%20champion.png"> <img src="/images/CCA%20Sports/Golf/2023%20b%20div%20individual%20champion.png" style="width:200px"></a>
-		</td><td style="text-align:center"><a href="/images/CCA%20Sports/Golf/2022%20a%20div.jpg"> <img src="/images/CCA%20Sports/Golf/2022%20a%20div.jpg" style="width:200px"></a></td>
-		<td style="text-align:center"><a href="/images/CCA%20Sports/Golf/2022%20b%20div%20team.jpg"> <img src="/images/CCA%20Sports/Golf/2022%20b%20div%20team.jpg" style="width:200px"></a></td>
-	</tr>
-	<tr>
-    <td style="text-align:center"><a href="/images/CCA%20Sports/Golf/2022%20c%20div%20team.jpg"> <img src="/images/CCA%20Sports/Golf/2022%20c%20div%20team.jpg" style="width:200px; height: 130px"></a></td>
-    <td style="text-align:center"><a href="/images/CCA%20Sports/Golf/2022%20golf%20competitive%20team.jpg"> <img src="/images/CCA%20Sports/Golf/2022%20golf%20competitive%20team.jpg" style="width:200px"></a>
-		</td><td style="text-align:center"><a href="/images/CCA%20Sports/Golf/2023%20b%20div%20team.png"> <img src="/images/CCA%20Sports/Golf/2023%20b%20div%20team.png" style="width:200px"></a></td>
-		<td style="text-align:center"><a href="/images/CCA%20Sports/Golf/2023%20c%20div%20individual%20champion.png"> <img src="/images/CCA%20Sports/Golf/2023%20c%20div%20individual%20champion.png" style="width:200px"></a></td>
-	</tr>
-	<tr>
-    <td style="text-align:center"><a href="/images/CCA%20Sports/Golf/2023%20c%20div%20team.png"> <img src="/images/CCA%20Sports/Golf/2023%20c%20div%20team.png" style="width:200px; height: 130px"></a></td>
-    <td style="text-align:center"><a href="/images/CCA%20Sports/Golf/2023%20golf%20team.png"> <img src="/images/CCA%20Sports/Golf/2023%20golf%20team.png" style="width:200px"></a>
-		</td><td style="text-align:center"><a href="/images/CCA%20Sports/Golf/2023%20team%20players.png"> <img src="/images/CCA%20Sports/Golf/2023%20team%20players.png" style="width:200px"></a></td>
-		
-	
-</tr></tbody>
-</table>
-
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Golf/2024.jpg">
+</div>
+<p>2024</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Golf/2024 A &amp; B Div Golfers.jpg">
+</div>
+<p>2024 A &amp; B Div Golfers</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Golf/2024 C Div Golfers.jpg">
+</div>
+<p>2024 C Div Golfers</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Golf/2024 C Div Team Champion.jpg">
+</div>
+<p>2024 C Div Team Champion</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Golf/2024 A Div Boys Individual 4th position.jpg">
+</div>
+<p>2024 A Div Boys Individual 4th position</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Golf/2024 A Div Girls Individual 4th position.jpg">
+</div>
+<p>2024 A Div Girls Individual 4th position</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Golf/2024 A Div Team First Runner-up.jpg">
+</div>
+<p>2024 A Div Team First Runner-up</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Golf/2024 B Div Individual Champion.jpg">
+</div>
+<p>2024 B Div Individual Champion</p>
+<p></p>
