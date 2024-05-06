@@ -3,7 +3,7 @@ title: Gallery
 permalink: /golf/gallery/
 description: ""
 third_nav_title: Golf
-variant: markdown
+variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
@@ -53,117 +53,64 @@ variant: markdown
 <p>2024 B Div Individual Champion</p>
 <p></p>
 <p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Golf/2023 team players.png">
 </div>
 <p>2023 team players</p>
-</th>
-<th rowspan="1" colspan="1">
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Golf/2023 golf team.png">
 </div>
 <p>2023 golf team</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Golf/2023 c div team.png">
 </div>
 <p>2023 c div team</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Golf/2023 c div individual champion.png">
 </div>
-	<p>2023 c div individual champion</p>
-
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p>2023 c div individual champion</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Golf/2023 b div team.png">
 </div>
-	<p>2023 b div team</p>
-
-</td>
-<td rowspan="1" colspan="1">
+<p>2023 b div team</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Golf/2023 b div individual champion.png">
 </div>
-	<p>2023 b div individual champion</p>
-
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p>2023 b div individual champion</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Golf/2023 b div individual 3rd position.png">
 </div>
-	<p>2023 b div individual 3rd position</p>
-
-</td>
-<td rowspan="1" colspan="1">
+<p>2023 b div individual 3rd position</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Golf/2023 a div team.png">
 </div>
-	<p>2023 a div team</p>
-
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p>2023 a div team</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Golf/2022 golf competitive team.jpg">
 </div>
-	<p>2022 golf competitive team</p>
-
-</td>
-<td rowspan="1" colspan="1">
+<p>2022 golf competitive team</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Golf/2022 c div team.jpg">
 </div>
-	<p>2022 c div team</p>
-
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p>2022 c div team</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Golf/2022 b div team.jpg">
 </div>
-	<p>2022 b div team</p>
-
-</td>
-<td rowspan="1" colspan="1">
+<p>2022 b div team</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Golf/2022 a div.jpg">
 </div>
-	<p>2022 a div</p>
-
-</td>
-</tr>
-</tbody>
-</table>
+<p>2022 a div</p>
 <p></p>
