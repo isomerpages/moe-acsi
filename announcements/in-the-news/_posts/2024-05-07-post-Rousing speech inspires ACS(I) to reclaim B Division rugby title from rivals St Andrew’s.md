@@ -8,3 +8,8 @@ description: ""
 image: ""
 variant: markdown
 ---
+<a href="/files/Announcements%20&amp;%20News/ST_7_May.pdf">![](/images/Announcements%20&amp;%20News/ST_7_May.jpg)</a>
+
+<p>Source: The Straits Times © SPH Media Limited. Permission required for
+reproduction.</p>
+
