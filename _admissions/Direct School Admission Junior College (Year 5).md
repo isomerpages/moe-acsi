@@ -14,4 +14,3 @@ variant: markdown
 <li><a href="/files/2024_IBDP_Write_up_and__Subjects_Offered.pdf">2024 IBDP Write-Up &amp; Subjects Offered</a></li>
 <li><a href="/files/10_reasons_why_IBDP_is_ideal_preparation_for_University1.pdf">10 Reasons why the IBDP is ideal preparation for University</a></li>
 </ul>
-[](/files/Admissions/2024_DSA_JC__Y5__Write_up.pdf)
