@@ -29,19 +29,19 @@ There is no retest for HAST.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>The application documents can be downloaded below:&nbsp;</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Admissions/Year 3 Admission/Year_3_IP_Application_Form__AY_2025__2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 3 IP Application Form</a>
+<p>Year 3 IP Application Form
 </p>
 </li>
 <li>
-<p><a href="/files/Admissions/Year 3 Admission/Introduction_to_Integrated_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">Introduction to the ACS (Independent) Integrated Programme</a>
+<p>Introduction to the ACS (Independent) Integrated Programme
 </p>
 </li>
 <li>
-<p><a href="/files/Admissions/Year 3 Admission/Year_3_IP_Flow_Chart.pdf" rel="noopener noreferrer nofollow" target="_blank">Flow-chart on course of study in ACS (Independent) Years 3 – 6</a>
+<p>Flow-chart on course of study in ACS (Independent) Years 3 – 6
 </p>
 </li>
 <li>
-<p><a href="/files/Admissions/Year 3 Admission/January_2024_IBDP_Write_up_and_Subjects_Offered.pdf" rel="noopener noreferrer nofollow" target="_blank">Write-up on the International Baccalaureate Diploma Programme – Years 5 &amp; 6</a>
+<p>Write-up on the International Baccalaureate Diploma Programme – Years 5 &amp; 6
 </p>
 </li>
 </ol>
