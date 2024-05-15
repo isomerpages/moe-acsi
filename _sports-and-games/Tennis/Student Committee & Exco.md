@@ -26,11 +26,9 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
-<p>Charles Yong 6.04</p>
-</li>
-</ol>
+
+<p>1. Charles Yong 6.04</p>
+
 </td>
 <td rowspan="1" colspan="1">
 <p>A Boys Captain</p>
@@ -46,11 +44,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p>Chua Min Jie 5.05</p>
-</li>
-</ol>
+<p>3. Chua Min Jie 5.05</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>A Div Boys Vice-Captain</p>
@@ -82,11 +76,8 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="7" data-tight="true" class="tight">
-<li>
-<p>Anand Suresh 4.15</p>
-</li>
-</ol>
+<p>7. Anand Suresh 4.15</p>
+
 </td>
 <td rowspan="1" colspan="1">
 <p>B Div Captain</p>
