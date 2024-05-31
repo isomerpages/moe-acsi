@@ -7,30 +7,45 @@ variant: tiptap
 ---
 <h3>2024 Cross-Country National Schools Games@Sports Hub&nbsp;</h3>
 <p>Photo Credits: Mr Richard Seow and Mr Lawrence Ang</p>
-
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Cross Country/2024O.jpg">
 </div>
-
-![](/images/CCA%20Sports/Cross%20Country/2024K.jpg)
-
-![](/images/CCA%20Sports/Cross%20Country/2024L.jpg)
-
-![](/images/CCA%20Sports/Cross%20Country/2024M.jpg)
-
-![](/images/CCA%20Sports/Cross%20Country/2024N.jpg)
-
-![](/images/CCA%20Sports/Cross%20Country/2024Q.jpg)
-
-![](/images/CCA%20Sports/Cross%20Country/2024R.jpg)
-
-![](/images/CCA%20Sports/Cross%20Country/2024S.jpg)
-
-![](/images/CCA%20Sports/Cross%20Country/2024T.jpg)
-
-![](/images/CCA%20Sports/Cross%20Country/2024U.jpg)
-
-
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Sports/Cross%20Country/2024K.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Sports/Cross%20Country/2024L.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Sports/Cross%20Country/2024M.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Sports/Cross%20Country/2024N.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Sports/Cross%20Country/2024Q.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Sports/Cross%20Country/2024R.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Sports/Cross%20Country/2024S.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Sports/Cross%20Country/2024T.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Sports/Cross%20Country/2024U.jpg">
+</div>
+<p>Prayers before Cross Finals</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Cross Country/Prayers_1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Cross Country/Prayers_2_.jpg">
+</div>
+<p></p>
 <p>2024 Year 1 Sports Bazaar</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Cross Country/Image.jpg">
