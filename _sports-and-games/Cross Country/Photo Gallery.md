@@ -46,18 +46,21 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Cross Country/Prayers_2_.jpg">
 </div>
 <p>2024 Track &amp; Field National Schools Games@Ntional Stadium</p>
-
-![](/images/CCA%20Sports/Cross%20Country/2024V.jpg)
-
-![](/images/CCA%20Sports/Cross%20Country/2024W.jpg)
-
-![](/images/CCA%20Sports/Cross%20Country/2024X.jpg)
-
-![](/images/CCA%20Sports/Cross%20Country/2024Y.jpg)
-
-![](/images/CCA%20Sports/Cross%20Country/2024Z.jpg)
-
-
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Sports/Cross%20Country/2024V.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Sports/Cross%20Country/2024W.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Sports/Cross%20Country/2024X.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Sports/Cross%20Country/2024Y.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Sports/Cross%20Country/2024Z.jpg">
+</div>
 <p></p>
 <p>2024 Year 1 Sports Bazaar</p>
 <div class="isomer-image-wrapper">
