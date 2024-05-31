@@ -11,6 +11,7 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Cross Country/2024O.jpg">
 </div>
+
 ![](/images/CCA%20Sports/Cross%20Country/2024K.jpg)
 
 ![](/images/CCA%20Sports/Cross%20Country/2024L.jpg)
