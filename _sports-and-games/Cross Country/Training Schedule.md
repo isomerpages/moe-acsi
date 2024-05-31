@@ -3,5 +3,64 @@ title: Training Schedule
 permalink: /crosscountry/schedule/
 description: ""
 third_nav_title: Cross Country
+variant: tiptap
 ---
-<table style="border-color: #d1d1d1; width: 100%; height: 100%;" border="1px"><tbody><tr><td style="width: 18.1326%; text-align: left;"><strong>Day</strong></td><td style="width: 27.8304%; text-align: left;"><strong>Time</strong></td><td style="width: 51.06%; text-align: left;"><strong>Venue</strong></td></tr><tr><td style="width: 18.1326%; text-align: left;">Tuesdays</td><td style="width: 27.8304%; text-align: left;">Y1-Y4: 1530-1830 hrs<p></p><p>Y5-Y6 1630-1830 hrs</p></td><td style="width: 51.06%; text-align: left;">ACS(I) Track</td></tr><tr><td style="width: 18.1326%; text-align: left;">Thursdays</td><td style="width: 27.8304%; text-align: left;">Y1-Y4: 1530-1830 hrs<p></p><p>Y5-Y6: 1630-1830 hrs</p></td><td style="width: 51.06%; text-align: left;">ACS(I) Track</td></tr><tr><td style="width: 18.1326%; text-align: left;">Saturdays</td><td style="width: 27.8304%; text-align: left;">Combined: 0730-1030 hrs</td><td style="width: 51.06%; text-align: left;">MacRitchie Reservoir/ Bedok Reservoir/ West Coast Park/ Kent Ridge Park</td></tr></tbody></table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tuesdays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Y1-Y4: 1530-1830 hrs&nbsp;</p>
+<p>Y5-Y6 1630-1830 hrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ACS(I) Track</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thursdays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Y1-Y4: 1530-1830 hrs&nbsp;</p>
+<p>Y5-Y6: 1630-1830 hrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ACS(I) Track</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Saturdays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Combined: 0730-1030 hrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MacRitchie Reservoir/ Sports Hub/ West Coast Park/ Kent Ridge Park</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
