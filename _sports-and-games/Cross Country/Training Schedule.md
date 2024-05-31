@@ -31,8 +31,7 @@ variant: tiptap
 <p>Tuesdays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Y1-Y4: 1530-1830 hrs</p>
-<p>&nbsp;</p>
+<p>Y1-Y4: 1530-1830 hrs&nbsp;</p>
 <p>Y5-Y6 1630-1830 hrs</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -44,8 +43,7 @@ variant: tiptap
 <p>Thursdays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Y1-Y4: 1530-1830 hrs</p>
-<p>&nbsp;</p>
+<p>Y1-Y4: 1530-1830 hrs&nbsp;</p>
 <p>Y5-Y6: 1630-1830 hrs</p>
 </td>
 <td rowspan="1" colspan="1">
