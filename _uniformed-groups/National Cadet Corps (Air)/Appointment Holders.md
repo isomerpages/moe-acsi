@@ -3,376 +3,1003 @@ title: Appointment Holders
 permalink: /nccair/appointment-holders/
 description: ""
 third_nav_title: National Cadet Corps (Air)
+variant: tiptap
 ---
-![](/images/NCC-Air.png)
-
-### NCC (Air) Appointment Holders Year 2023
-
-
-**2023 Appointment Holders for NCC (Air)**
-
-<table>
-<thead>
-  <tr>
-    <th colspan="4">NCC (AIR)</th>
-  </tr>
-</thead>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC-Air.png">
+</div>
+<h3>NCC (Air) Appointment Holders Year 2024</h3>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td rowspan="3">Cadet Lieutenant Team</td>
-    <td>Cadet Officer OIC</td>
-    <td colspan="2">C/2LT Meredith Ng</td>
-  </tr>
-  <tr>
-    <td rowspan="2">Cadet Officer 2IC</td>
-    <td colspan="2">C/2LT Martin Lim</td>
-  </tr>
-  <tr>
-    <td colspan="2">C/2LT Denzel Goo</td>
-  </tr>
-  <tr>
-    <td colspan="4">Leadership Departments</td>
-  </tr>
-  <tr>
-    <td rowspan="6">Training &amp; Safety</td>
-    <td>Department Head</td>
-    <td colspan="2">C/2LT Teoh, Michael</td>
-  </tr>
-  <tr>
-    <td>Department ICs</td>
-    <td colspan="2">C/2LT Caleb Ling</td>
-  </tr>
-  <tr>
-    <td rowspan="4">Members</td>
-    <td colspan="2">C/OFFR Sankar Rahul</td>
-  </tr>
-  <tr>
-    <td colspan="2">3SG Joshua Chen</td>
-  </tr>
-  <tr>
-    <td colspan="2">3SG Joshua Yang</td>
-  </tr>
-  <tr>
-    <td colspan="2">3SG Abhishek Routray</td>
-  </tr>
-  <tr>
-    <td rowspan="4">Parades &amp; Drills</td>
-    <td>Department Head</td>
-    <td colspan="2">C/2LT Kaden Lim</td>
-  </tr>
-  <tr>
-    <td>Department ICs</td>
-    <td colspan="2">C/OFFR Isaiah Soo</td>
-  </tr>
-  <tr>
-    <td rowspan="2">Members</td>
-    <td colspan="2">3SG Shachah Chua</td>
-  </tr>
-  <tr>
-    <td colspan="2">3SG Tay Kai Shin</td>
-  </tr>
-  <tr>
-    <td rowspan="3">Freestyle Drills Competition</td>
-    <td>Department Head</td>
-    <td colspan="2">C/2LT Denzel Goo</td>
-  </tr>
-  <tr>
-    <td>Department 2IC</td>
-    <td colspan="2">3SG Ragothaman Prahalad</td>
-  </tr>
-  <tr>
-    <td>Members</td>
-    <td colspan="2">3SG Shachah Chua</td>
-  </tr>
-  <tr>
-    <td rowspan="5">AeroModelling</td>
-    <td>Department Head</td>
-    <td colspan="2">C/2LT Marc Ang</td>
-  </tr>
-  <tr>
-    <td>Department 2IC</td>
-    <td colspan="2">SSG (NCC) Daylon Chua</td>
-  </tr>
-  <tr>
-    <td rowspan="3">Members</td>
-    <td colspan="2">3SG Akash Sathiyanathan</td>
-  </tr>
-  <tr>
-    <td colspan="2">3SG Joshua Yang</td>
-  </tr>
-  <tr>
-    <td colspan="2">3SG Tay Kai Shin</td>
-  </tr>
-  <tr>
-    <td rowspan="3">Operations</td>
-    <td>Department Head</td>
-    <td colspan="2">C/2LT Marc Ang</td>
-  </tr>
-  <tr>
-    <td rowspan="2">Members</td>
-    <td colspan="2">3SG Yeo Weytt Wern</td>
-  </tr>
-  <tr>
-    <td colspan="2">3SG Tay Kai Shin</td>
-  </tr>
-  <tr>
-    <td rowspan="2">Liaison / External Communications</td>
-    <td>Department Head</td>
-    <td colspan="2">C/2LT Sujesh Veeramani</td>
-  </tr>
-  <tr>
-    <td>Members</td>
-    <td colspan="2">3SG Yeo Weytt Wern</td>
-  </tr>
-  <tr>
-    <td colspan="4">National Cadet Corps (Air) Leadership Team 2023</td>
-  </tr>
-  <tr>
-    <td colspan="2">Unit Sergeant Major</td>
-    <td>MSG Novi Lew</td>
-    <td>4.15</td>
-  </tr>
-  <tr>
-    <td colspan="2">Assistant Sergeant Major</td>
-    <td>MSG Tan Xun Raphael</td>
-    <td>4.11</td>
-  </tr>
-  <tr>
-    <td colspan="4">Platoon Committees</td>
-  </tr>
-  <tr>
-    <td rowspan="4">Cadet Leaders Committee</td>
-    <td>Platoon Sergeant</td>
-    <td>SSG Shubhroneil Paul</td>
-    <td>4.14</td>
-  </tr>
-  <tr>
-    <td rowspan="3">Assistant Platoon Sergeants</td>
-    <td>SSG Russell Chan</td>
-    <td>4.01</td>
-  </tr>
-  <tr>
-    <td>3SG Low Wern Jae Zach</td>
-    <td>4.11</td>
-  </tr>
-  <tr>
-    <td>3SG Samuel Loh Wai Yan</td>
-    <td>4.08</td>
-  </tr>
-  <tr>
-    <td rowspan="4">Senior Cadets Committee</td>
-    <td>Platoon Sergeant</td>
-    <td>SSG Leong Hee Yan Raphael</td>
-    <td>4.05</td>
-  </tr>
-  <tr>
-    <td rowspan="3">Assistant Platoon Sergeants</td>
-    <td>SSG Zachary Teo-Krishnamuti</td>
-    <td>4.16</td>
-  </tr>
-  <tr>
-    <td>SSG Tan Yu Kai Zechariah</td>
-    <td>4.11</td>
-  </tr>
-  <tr>
-    <td>3SG Reuben Sim Zhong Yi</td>
-    <td>4.06</td>
-  </tr>
-  <tr>
-    <td rowspan="4">Junior Cadets Committee</td>
-    <td>Platoon Sergeant</td>
-    <td>SSG Caden Kwok Lexian</td>
-    <td>4.16</td>
-  </tr>
-  <tr>
-    <td rowspan="3">Assistant Platoon Sergeants</td>
-    <td>SSG Owen Aijaz</td>
-    <td>4.05</td>
-  </tr>
-  <tr>
-    <td>3SG Joseph Edwin Selvakumar Joy Merwin</td>
-    <td>4.10</td>
-  </tr>
-  <tr>
-    <td>3SG Richhariya Akshat</td>
-    <td>4.13</td>
-  </tr>
-  <tr>
-    <td colspan="4">Training and Developments Committee</td>
-  </tr>
-  <tr>
-    <td colspan="2">T&amp;D OIC</td>
-    <td>SSG Russell Chan</td>
-    <td>4.01</td>
-  </tr>
-  <tr>
-    <td colspan="2">T&amp;D Senior Cadets IC</td>
-    <td>SSG Tan Yu Kai Zechariah</td>
-    <td>4.11</td>
-  </tr>
-  <tr>
-    <td colspan="2">T&amp;D Junior Cadets IC</td>
-    <td>SSG Owen Aijaz</td>
-    <td>4.05</td>
-  </tr>
-  <tr>
-    <td colspan="4">Operations Committee</td>
-  </tr>
-  <tr>
-    <td colspan="2">Operations Head</td>
-    <td>SSG Muthuraman Vinay Krishna</td>
-    <td>4.11</td>
-  </tr>
-  <tr>
-    <td rowspan="5">Administration Team</td>
-    <td>Admin OIC</td>
-    <td>3SG Hemanya Chadha</td>
-    <td>4.10</td>
-  </tr>
-  <tr>
-    <td>Admin 2IC</td>
-    <td>3SG Lakshaya Jangir</td>
-    <td>4.13</td>
-  </tr>
-  <tr>
-    <td rowspan="3"></td>
-    <td>3SG Lucas Neo Jin Wei</td>
-    <td>4.02</td>
-  </tr>
-  <tr>
-    <td>3SG Andre Seh Yi Xuan</td>
-    <td>4.06</td>
-  </tr>
-  <tr>
-    <td>3SG Phan Yi En Ryan</td>
-    <td>4.01</td>
-  </tr>
-  <tr>
-    <td rowspan="5">Logistics Team</td>
-    <td>Logistics OIC</td>
-    <td>3SG Kamaraj Thiruvenkata Nathan</td>
-    <td>4.15</td>
-  </tr>
-  <tr>
-    <td>Logistics 2IC</td>
-    <td>3SG Jasper Tan Jia Sheng</td>
-    <td>4.07</td>
-  </tr>
-  <tr>
-    <td rowspan="3"></td>
-    <td>3SG Andrew Yoong Wan-Shing</td>
-    <td>4.09</td>
-  </tr>
-  <tr>
-    <td>3SG Leroy Ng Khai-En</td>
-    <td>4.07</td>
-  </tr>
-  <tr>
-    <td>3SG Jeremy Tay Rui Sheng</td>
-    <td>4.09</td>
-  </tr>
-  <tr>
-    <td rowspan="2">Media Team</td>
-    <td>Head Media</td>
-    <td>3SG Aidan Lee Shi Jie</td>
-    <td>4.12</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>3SG Prakhar Saxena</td>
-    <td>4.12</td>
-  </tr>
-  <tr>
-    <td rowspan="4">Medic Team</td>
-    <td>Head Medic</td>
-    <td>3SG Savio Kang Jia Le</td>
-    <td>4.04</td>
-  </tr>
-  <tr>
-    <td rowspan="3"></td>
-    <td>3SG Siah Yu Teng, Ethan</td>
-    <td>4.14</td>
-  </tr>
-  <tr>
-    <td>3SG Tang Zhi Kai, Jaden</td>
-    <td>4.04</td>
-  </tr>
-  <tr>
-    <td>3SG Maximus Chow Yu Jie</td>
-    <td>4.08</td>
-  </tr>
-  <tr>
-    <td colspan="4">Events Committee</td>
-  </tr>
-  <tr>
-    <td colspan="2">Events OIC</td>
-    <td>3SG Low Wern Jae Zach</td>
-    <td>4.11</td>
-  </tr>
-  <tr>
-    <td colspan="2">Events 2IC</td>
-    <td>3SG Kong Dian Cheng</td>
-    <td>4.02</td>
-  </tr>
-  <tr>
-    <td colspan="2">Unit Flag Bearer</td>
-    <td>SSG Tan Yu Kai Zechariah</td>
-    <td>4.11</td>
-  </tr>
-  <tr>
-    <td colspan="2">Freestyle Drills IC</td>
-    <td>3SG Joseph Edwin Selvakumar Joy Merwin</td>
-    <td>4.10</td>
-  </tr>
-  <tr>
-    <td rowspan="6">Physical Training Instructors/ Games Team</td>
-    <td>Head PTI</td>
-    <td>3SG Reuben Sim Zhong Yi</td>
-    <td>4.06</td>
-  </tr>
-  <tr>
-    <td>PT 2IC</td>
-    <td>3SG Sanjay Balasubrmanian</td>
-    <td>4.13</td>
-  </tr>
-  <tr>
-    <td rowspan="4"></td>
-    <td>3SG Isaac Lai Chun Yang</td>
-    <td>4.16</td>
-  </tr>
-  <tr>
-    <td>3SG David Eshav Maha</td>
-    <td>4.08</td>
-  </tr>
-  <tr>
-    <td>3SG Ryan Joshua Tan</td>
-    <td>4.04</td>
-  </tr>
-  <tr>
-    <td>3SG Joshua Teo</td>
-    <td>4.03</td>
-  </tr>
-  <tr>
-    <td rowspan="4">Aeromod Team</td>
-    <td>Aeromod OIC</td>
-    <td>SSG Caden Kwok Lexian</td>
-    <td>4.16</td>
-  </tr>
-  <tr>
-    <td>Aeromod 2IC</td>
-    <td>MSG Tan Xun Raphael</td>
-    <td>4.11</td>
-  </tr>
-  <tr>
-    <td>Balsa Wood IC</td>
-    <td>SSG Caden Kwok Lexian</td>
-    <td>4.16</td>
-  </tr>
-  <tr>
-    <td>Paper Glider IC</td>
-    <td>SSG Shubhroneil Paul</td>
-    <td>4.14</td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="5">
+<p><strong>NATIONAL CADET CORPS (AIR) 2024</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="5">
+<p><strong>APPOINTMENT HOLDERS</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Cadet Officer Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cadet Officer OIC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C/OFFR (NCC) Novi Lew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.08</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cadet Officer 2IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C/OFFR (NCC) Tan Yu Kai Zechariah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.04</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="5">
+<p><strong>LEADERSHIP DEPARTMENTS</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p>Training &amp; Safety</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Department Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C/OFFR (NCC) Novi Lew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.08</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Department 2IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C/OFFR (NCC) Tan Yu Kai Zechariah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.04</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Members</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SSG (NCC) Low Wern Jae Zach</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.01</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Associate Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SSG (NCC) Owen Aijaz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.02</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Associate Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SSG (NCC) Aman Sivaprasad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Associate Member, Advisor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p>Parade &amp; Ceremony</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Department Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C/OFFR (NCC) Tan Yu Kai Zechariah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.04</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Department 2IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C/OFFR (NCC) Novi Lew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.08</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Members</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MSG (NCC) Murali Mourya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.08</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Associate Member, Advisor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C/2LT (NCC) Isaiah Soo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.05</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Advisor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SSG (NCC) Aman Sivaprasad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Associate Member, Advisor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Freestyle Exhibition Drill</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Department Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C/OFFR (NCC) Tan Yu Kai Zechariah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.04</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Department 2IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MSG (NCC) Tan Xun Raphael</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Associate Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Members</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SSG (NCC) Owen Aijaz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.02</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Associate Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SSG (NCC) Shubhroneil Paul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Associate Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Aeromodelling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Department Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MSG (NCC) Tan Xun Raphael</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Associate Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Department 2IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SSG (NCC) Shubhroneil Paul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Associate Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Members</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SSG (NCC) Owen Aijaz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.02</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Associate Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SSG (NCC) Daylon Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Associate Member, Advisor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Regimentation &amp; Discipline</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Department Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C/OFFR (NCC) Novi Lew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.08</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Department 2IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SSG (NCC) Owen Aijaz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.02</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Associate Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Members</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MSG (NCC) Murali Mourya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.08</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Associate Member, Advisor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SSG (NCC) Thomas Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.07</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Associate Member, Advisor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Liaison / External Communications</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Department Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MSG (NCC) Tan Xun Raphael</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Associate Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Department 2IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SSG (NCC) Shubhroneil Paul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Associate Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Members</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SSG (NCC) Low Wern Jae Zach</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.01</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Associate Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C/2LT (NCC) Isaiah Soo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.05</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Advisor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="5">
+<p><strong>LEADERSHIP TEAM</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Unit Sergeant Major</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MSG (NCC) Ethan Tan Jun En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Assistant Sergeant Major</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MSG (NCC) Karan Gopu Pillai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="5">
+<p><strong>PLATOON COMMITTEE</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Cadet Leaders Committee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Platoon Sergeant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SSG (NCC) Seth Neo En Hao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Assistant Platoon Sergeants</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SSG (NCC) Acharya Viren Piyush</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1SG (NCC) Aditya Ratra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3SG (NCC) Jonathan Lau Jia Shen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.09</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Senior Cadets Committee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Platoon Sergeant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SSG (NCC) Abhay Lakshmi Narayanan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Assistant Platoon Sergeants</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1SG (NCC) Kyle Kei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3SG (NCC) Elisha Pang Qi Ye</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.09</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3SG (NCC) Ng Zu En Josh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Junior Cadets Committee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Platoon Sergeant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SSG (NCC) Jerome Chan Yeak Yern</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Assistant Platoon Sergeants</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SSG (NCC) Soh Koen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3SG (NCC) Xavier Wong Kar Jin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.09</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3SG (NCC) Daniel Jude Choy Zong De</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="5">
+<p><strong>TRAINING AND DEVELOPMENT COMMITTEE</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>T&amp;D OIC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SSG (NCC) Acharya Viren Piyush</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>T&amp;D Senior Cadets IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1SG (NCC) Kyle Kei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>T&amp;D Junior Cadets IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SSG (NCC) Soh Koen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="5">
+<p><strong>OPERATIONS COMMITTEE</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Operations Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SSG (NCC) Cameron Lim Ren Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Administration Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Admin OIC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1SG (NCC) Nagarajan Praveen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Admin 2IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3SG (NCC) Prathyush Shivaprakash Rao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3SG (NCC) Hu Weiming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Logistics Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Logistics OIC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1SG (NCC) Reyes Lee Yui Hou</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Logistics 2IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1SG (NCC) Tan Hong Joo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3SG (NCC) Balamurugan Sharan Pragadesh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.09</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Media Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head Media</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3SG (NCC) Aidan Teh Ren Kai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3SG (NCC) Kandasami Rohith</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Medic Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head Medic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1SG (NCC) Tan Hong Joo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3SG (NCC) Matthew Chu Jun Yuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="5">
+<p><strong>EVENTS COMMITTEE</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Events OIC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1SG (NCC) Reyes Lee Yui Hou</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Events 2IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1SG (NCC) Nagarajan Praveen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Unit Flag Bearer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SSG (NCC) Seth Neo En Hao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Freestyle Drills IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MSG (NCC) Ethan Tan Jun En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Physical Training Instructors/ Games Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head PTI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1SG (NCC) Kyle Kei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PT 2IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1SG (NCC) Kunduru Aditya Sriram Reddy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Aeromod Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aeromod OIC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1SG (NCC) Kunduru Aditya Sriram Reddy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aeromod 2IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3SG (NCC) Peter Paulraj Birigin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Balsa Wood IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3SG (NCC) Kandasami Rohith</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Paper Glider IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3SG (NCC) Balamurugan Sharan Pragadesh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.09</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
 </tbody>
 </table>
-
+<p>&nbsp;</p>
+<p></p>
