@@ -3,64 +3,186 @@ title: Schedule
 permalink: /nccair/schedule/
 description: ""
 third_nav_title: National Cadet Corps (Air)
+variant: tiptap
 ---
-![](/images/NCC-Air.png)
-
-### NCC (Air) Schedule
-
-<table>
-<thead>
-  <tr>
-    <th>Junior Cadets (Year 1)</th>
-    <th>Senior Cadets (Year 2)</th>
-    <th>Cadet Leaders (Year 3)</th>
-    <th>Senior Cadet Leaders (Year 4)</th>
-  </tr>
-</thead>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC-Air.png">
+</div>
+<h3><strong>NCC (Air) Calendar of Events 2024</strong></h3>
+<p><strong>&nbsp;</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td>Air Affirmation Ceremony for all Cadets – 13th April</td>
-    <td>Camp Steel for all Cadets–16th/22nd January</td>
-    <td>SAR 21 Technical Handling for all Cadets – 3rd March OR 24th March </td>
-    <td>14th Advanced Drill Course – 16th-20st March</td>
-  </tr>
-  <tr>
-    <td>Camp Forge for all Cadets– 29th June OR 8th/21thJuly</td>
-    <td>Silver Wing for all Cadets– 3rd­­/4th June</td>
-    <td>Gold Wing Course for all Cadets – 16th-17th March</td>
-    <td>70th Cadet Officer Course for nominated Cadets<br><br>– 20th November- 4th December</td>
-  </tr>
-  <tr>
-    <td>Flight Experience Program for all Cadets – TBC</td>
-    <td>FSD BI Course for nominated Cadets – 8th-12th June</td>
-    <td>Mt. Ophir Expedition for nominated Cadets – 18st-20rd March OR 17th-19th June</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>IMT for all Cadets – TBC</td>
-    <td>Live Range and IMT for all Cadets – 30th March</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Fitness Trainer’s Course for nominated Cadets – 4th, 6th, 21st, 24th, 25th August and 12th October</td>
-    <td> <br><br>Specialist Assessment for all Cadets – 4th March OR 26th March OR 30th March OR 1st April OR 7th April</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Flight Experience Program for all Cadets – TBC</td>
-    <td>Senior Specialist Leaders Course for nominated Cadets – 8th – 10th June OR 8th-10th September</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td>Flight Experience Program for all Cadets – TBC</td>
-    <td></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Junior Cadets</p>
+<p>(Year 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Cadets</p>
+<p>(Year 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cadet Leaders</p>
+<p>(Year 3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Cadet Leaders</p>
+<p>(Year 4)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Air Affirmation Ceremony for all cadets --- 20 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Camp Steel for all cadets --- 17 April</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mt. Ophir Expedition for nominated cadets --- 10-12 June/11-13 June</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outstanding Cadet Award Ceremony for nominated cadets ---29 June</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bronze Wing Course for all cadets --- To be confirmed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Wing Course for all cadets --- To be confirmed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Wing Course for all cadets --- To be confirmed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cadet Officer Course for nominated cadets --- 18-29 November</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Camp Forge for all cadets --- 2 August</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Freestyle Exhibition Drills Basic Instructor Course for nominated cadets
+--- 10-14 June</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Freestyle Exhibition Drills Auxiliary Instructor Course for nominated
+cadets ---10-14 June</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Flight Experience Program for nominated cadets --- To be confirmed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual Marksman Training for all cadets --- To be confirmed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SAR21 Technical Handling Test, Live Range and Individual Marksman Training
+for all cadets --- To be confirmed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Flight Experience Program for nominated cadets --- To be confirmed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Specialist Assessment for all cadets --- To be confirmed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Specialist Leaders Course for nominated cadets --- 19-21 June/
+3-5 September</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Advance Drill Course for nominated cadets --- 11-15 March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Camp for nominated cadets --- 21-24 August</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>International Cadet Exchange Program for nominated cadets --- 10-17 November</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Flight Experience Program for nominated cadets --- To be confirmed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-*Dates are subjected to changes by HQ (Calendar of Events 2020)
+<p>&nbsp;</p>
+<p>*Schedule is subjected to changes by NCC Headquarters</p>
+<p></p>
