@@ -11,6 +11,7 @@ variant: markdown
 <ul>
 <li><a href="/files/Admissions/2024_DSA_JC__Y5__Write_up.pdf">2024 DSA-JC (Y5 IBDP) Write-up</a></li>
 <li><a href="/files/2024_FAQ_on_DSA_JC__Y5_.pdf">2024 FAQ on DSA-JC (Y5 IBDP)</a></li>
-<li><a href="/files/2024_IBDP_Write_up_and__Subjects_Offered.pdf">2024 IBDP Write-Up &amp; Subjects Offered</a></li>
+<li><a href="/files/2024_IBDP_Write_up_and__Subjects_Offered1.pdf">2024 IBDP Write-Up &amp; Subjects Offered</a></li>
 <li><a href="/files/10_reasons_why_IBDP_is_ideal_preparation_for_University1.pdf">10 Reasons why the IBDP is ideal preparation for University</a></li>
 </ul>
+
