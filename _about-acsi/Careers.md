@@ -52,11 +52,11 @@ and innovative teaching team.</p>
 </ul>
 </li>
 <li>
-<p><strong>Chinese Language</strong>
+<p><strong>Business Management</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Secondary Levels</strong>
+<p><strong>Junior College Levels</strong>
 </p>
 </li>
 </ul>
@@ -72,17 +72,17 @@ and innovative teaching team.</p>
 </ul>
 </li>
 <li>
-<p><strong>Geography</strong>
+<p><strong>English Language &amp; Literature</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Secondary Levels</strong>
+<p><strong>Junior College Levels</strong>
 </p>
 </li>
 </ul>
 </li>
 <li>
-<p><strong>Mathematics</strong>
+<p><strong>Physical Education</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -106,11 +106,7 @@ and innovative teaching team.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Career Opportunities &amp; Guidance Counsellor (COG Department)</strong>
-</p>
-</li>
-<li>
-<p><strong>Estate Development Officer (Boarding School)</strong>
+<p><strong>Estate Development Officer (Estate Development Department)</strong>
 </p>
 </li>
 <li>
@@ -118,8 +114,7 @@ and innovative teaching team.</p>
 </p>
 </li>
 <li>
-<p><strong>School Counsellor (Agape Counselling Department)</strong> 
-<br>
+<p><strong>School Counsellor (Agape Counselling Department)</strong>
 </p>
 </li>
 </ul>
