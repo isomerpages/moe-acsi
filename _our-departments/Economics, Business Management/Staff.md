@@ -5,71 +5,148 @@ description: ""
 third_nav_title: Economics, Business Management
 variant: tiptap
 ---
-<table width="650" border="1">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td width="325">Name</td>
-<td width="325">Subject</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject</p>
+</td>
 </tr>
 <tr>
-<td width="325">Ms Alice Tan</td>
-<td width="325">Economics</td>
+<td rowspan="1" colspan="1">
+<p>Ms Alice Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Economics</p>
+</td>
 </tr>
 <tr>
-<td width="325">Ms Angela Ong</td>
-<td width="325">Business Management</td>
+<td rowspan="1" colspan="1">
+<p>Ms Angela Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Business Management</p>
+</td>
 </tr>
 <tr>
-<td width="325">Ms Annie Tan</td>
-<td width="325">Business Management</td>
+<td rowspan="1" colspan="1">
+<p>Ms Annie Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Business Management</p>
+</td>
 </tr>
 <tr>
-<td width="325">Mr Bernard Low (Dean)</td>
-<td width="325">Economics</td>
+<td rowspan="1" colspan="1">
+<p>Mr Bernard Low (Dean)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Economics</p>
+</td>
 </tr>
 <tr>
-<td width="325">Ms Charissa Lim (Deputy Dean)</td>
-<td width="325">Economics</td>
+<td rowspan="1" colspan="1">
+<p>Mr Calvin Teo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Business Management</p>
+</td>
 </tr>
 <tr>
-<td width="325">Ms Diana Chng</td>
-<td width="325">Economics</td>
+<td rowspan="1" colspan="1">
+<p>Ms Charissa Lim (Deputy Dean)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Economics</p>
+</td>
 </tr>
 <tr>
-<td width="325">Mr Ismail Shifaz (Deputy Dean)</td>
-<td width="325">Business Management</td>
+<td rowspan="1" colspan="1">
+<p>Mr Dominic Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Economics</p>
+</td>
 </tr>
 <tr>
-<td width="325">Mdm Ivy Quek</td>
-<td width="325">Economics</td>
+<td rowspan="1" colspan="1">
+<p>Ms Diana Chng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Economics</p>
+</td>
 </tr>
 <tr>
-<td width="325">Mr James Ong</td>
-<td width="325">Economics</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ivy Quek</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Economics</p>
+</td>
 </tr>
 <tr>
-<td width="325">Ms Juliana Liu-Tengara</td>
-<td width="325">Economics</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ismail Shifaz (Deputy Dean)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Business Management</p>
+</td>
 </tr>
 <tr>
-<td width="325">Mr Mahtani Naresh Gangaram</td>
-<td width="325">Economics</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Jasmine Azhar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Business Management</p>
+</td>
 </tr>
 <tr>
-<td width="325">Ms Noh Hee Jung</td>
-<td width="325">Economics</td>
+<td rowspan="1" colspan="1">
+<p>Mr James Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Economics</p>
+</td>
 </tr>
 <tr>
-<td width="325">Mr Tan Wee Teck</td>
-<td width="325">Economics</td>
+<td rowspan="1" colspan="1">
+<p>Ms Juliana Liu-Tengara</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Economics</p>
+</td>
 </tr>
 <tr>
-<td width="325">Ms Lynn Han Liying</td>
-<td width="325">Business Management</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mahtani Naresh Gangaram</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Economics</p>
+</td>
 </tr>
 <tr>
-<td width="325">Mr Dominic Lim</td>
-<td width="325">Economics</td>
+<td rowspan="1" colspan="1">
+<p>Ms Noh Hee Jung</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Economics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Wee Teck</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Economics</p>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>
