@@ -13,7 +13,7 @@ All students will study Literature (English) or Language & Literature (English).
 
 **GROUP TWO — Language acquisition**
 
-Chinese, Tamil, Hindi, Spanish
+Chinese, Malay, Tamil, Hindi, Spanish
 
 The two language options in this group; Language B or _ab initio_, accommodate second language learners with previous experience learning the language, and beginners respectively. The principal aim is to enable students to use the language in a range of contexts and for many purposes; the courses focus on written and spoken communication.
 
