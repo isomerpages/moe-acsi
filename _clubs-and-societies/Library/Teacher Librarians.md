@@ -7,20 +7,33 @@ variant: tiptap
 ---
 <p><strong>Shaw Library &amp; Resource Centre</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Chief Librarian:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Galvin Soh</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Teacher Librarian:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Siew Lian</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Library Officers:</strong>
+<p><strong>Library Officer:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
