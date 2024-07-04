@@ -47,7 +47,7 @@ variant: markdown
 </tr>
 <tr>
 <td>
-<h3><a href="/library-digital-toolkit/history/history-edatabase-ejournal/"><img height="150" width="150" alt="" src="/images/Library Digital Toolkit/Geography-150x150.jpg"></a></h3>
+<h3><a href="/library-digital-toolkit/geography/geography-edatabase-ejournal/"><img height="150" width="150" alt="" src="/images/Library Digital Toolkit/Geography-150x150.jpg"></a></h3>
 </td>
 <td>
 <h3><a rel="noopener noreferrer" href="/library-digital-toolkit/geography/geography-edatabase-ejournal/">Geography</a></h3>
@@ -61,13 +61,13 @@ variant: markdown
 </tr>
 <tr>
 <td>
-<h3><a href="https://www.acsindep.moe.edu.sg/library-digital-toolkit/music-edatabase-ejournal/"><img height="150" width="150" alt="" src="/images/Library Digital Toolkit/Music-150x150.jpg"></a></h3>
+<h3><a href="/library-digital-toolkit/music/music-edatabase-ejournal/"><img height="150" width="150" alt="" src="/images/Library Digital Toolkit/Music-150x150.jpg"></a></h3>
 </td>
 <td>
 <h3><a rel="noopener noreferrer" href="/library-digital-toolkit/music/music-edatabase-ejournal/">Music &amp; VA</a></h3>
 </td>
 <td>
-<h3><a rel="noopener noreferrer" href="/library-digital-toolkit/music/music-edatabase-ejournal/">Computing</a></h3>
+<h3><a rel="noopener noreferrer" href="/library-digital-toolkit/computing/computing-edatabase-ejournal/">Computing</a></h3>
 </td>
 <td>
 <h3><a href="/library-digital-toolkit/computing/computing-edatabase-ejournal/"><img height="150" width="150" alt="" src="/images/Library Digital Toolkit/Computing-150x150.jpg"></a></h3>
@@ -81,7 +81,7 @@ variant: markdown
 <h3><a href="/library-digital-toolkit/chinese/chinese-edatabase-ejournal/">Chinese</a></h3>
 </td>
 <td>
-<h3><a href="https://www.acsindep.moe.edu.sg/library-digital-toolkit/year-4-eexam-paper/">eExam Paper</a></h3>
+<h3><a href="/library-digital-toolkit/eexam-paper/year-4-eexam-paper/">eExam Paper</a></h3>
 </td>
 <td>
 <h3><a href="/library-digital-toolkit/eexam-paper/year-4-eexam-paper/"><img height="150" width="150" alt="" src="/images/Library Digital Toolkit/eExam-paper-150x150.jpg"></a></h3>
