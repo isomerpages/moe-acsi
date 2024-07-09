@@ -125,5 +125,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong>Updated July 2024</strong>
 </p>
