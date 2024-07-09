@@ -29,7 +29,23 @@ The ACS(I) Canoeing team offers students opportunities to achieve / develop the 
 Overall Teacher-In-Charge, Canoeing
 
   * * *
-   
+(Updated on 24th May 2024)
+
+The results of the National Inter-Schools Dragon Boat Championships are as follows:  
+‘A’ Division – 3rd  
+‘B’ Division – 1st &amp; 3rd  
+‘C’ Division – 1st &amp; 3rd
+
+* * *
+
+(Updated on 19th April 2024)
+
+The results are as follows:  
+‘A’ Division – 3rd  
+‘B’ Division – 1st  
+‘C’ Division – 2nd
+
+* * *
 
 (Updated on 14th April 2023)
 
