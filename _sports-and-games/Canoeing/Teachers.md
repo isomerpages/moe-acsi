@@ -3,97 +3,101 @@ title: Teachers
 permalink: /canoeing/teachers/
 description: ""
 third_nav_title: Canoeing
+variant: tiptap
 ---
-### Coaches and Teachers
-
-<table width="803">
-<thead>
-<tr>
-<td>
-<p><strong>Name</strong></p>
-</td>
-<td>
-<p><strong>Description</strong></p>
-</td>
-<td>
-<p><strong>Email address</strong></p>
-</td>
-</tr>
-</thead>
+<h3>Coaches and Teachers</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td>
+<td rowspan="1" colspan="1">
 <p>Mr Jeffrey Tan</p>
 </td>
-<td>
+<td rowspan="1" colspan="1">
 <p>Teacher OIC</p>
 </td>
-<td>
-<p><a href="mailto:jeffreyt@acsindep.edu.sg">jeffreyt@acsindep.edu.sg</a></p>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">jeffreyt@acsindep.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Ms Kan Ximin</p>
+<td rowspan="1" colspan="1">
+<p>Mr Koh Soo Keong</p>
 </td>
-<td>
+<td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
-<td>
-<p><a href="mailto:kanximin@acsindep.edu.sg">kanximin@acsindep.edu.sg</a></p>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">kohsookeong@acsindep.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Mr Liong Peen Lee</p>
-</td>
-<td>
-<p>Teacher</p>
-</td>
-<td>
-<p><a href="mailto:liongpeenlee@acsindep.edu.sg">liongpeenlee@acsindep.edu.sg</a></p>
-</td>
-</tr>
-<tr>
-<td>
+<td rowspan="1" colspan="1">
 <p>Mr Mahtani Naresh</p>
 </td>
-<td>
+<td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
-<td>
-<p><a href="mailto:mahtani@acsindep.edu.sg">mahtani@acsindep.edu.sg</a></p>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">mahtani@acsindep.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
-<td>
+<td rowspan="1" colspan="1">
+<p>Mr Tay Wee Leong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">tayweeleong@acsindep.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Hadrian Ro</p>
 </td>
-<td>
+<td rowspan="1" colspan="1">
 <p>Head Coach</p>
 </td>
-<td>&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 <tr>
-<td>
+<td rowspan="1" colspan="1">
 <p>Mr Ismail B Mohamed Tahir</p>
 </td>
-<td>
+<td rowspan="1" colspan="1">
 <p>Assistant Coach</p>
 </td>
-<td>&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 <tr>
-<td>
+<td rowspan="1" colspan="1">
 <p>Ms Collette Seow</p>
 </td>
-<td>
+<td rowspan="1" colspan="1">
 <p>Assistant Coach</p>
 </td>
-<td>&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
-
-<img src="/images/WorldSchool.jpg" style="width:25%">
+<div class="isomer-image-wrapper">
+<img style="width:25%" height="auto" width="100%" src="/images/WorldSchool.jpg">
+</div>
+<p></p>
