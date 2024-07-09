@@ -5,20 +5,125 @@ description: ""
 third_nav_title: Leadership
 variant: tiptap
 ---
-|               |                               |
-|---------------|-------------------------------|
-| Chairman      | Mr Richard Seow Yung Liang    |
-| Vice-Chairman | Mr Lock Wai Han               |
-| Member        | Dr David Tan Hsien Yung       |
-| Member        | Mr Adam Tan Chin Han          |
-| Member        | Dr Wong Heng Yu               |
-| Member        | Mr Choe Peng Sum              |
-| Member        | Rev Kenneth Huang Teng Han    |
-| Member        | Rev Dr Aaron Tay Tian Yeow |
-| Member        | Mr Lim Teck Yin               |
-| Member        | A/Prof Ong Biauw Chi          |
-| Member        | Mr Hugh Lim                   |
-| Member        | Mr Gerald Balendran Singham   |
-| Member        | Dr Wong Chiang Yin            |
-
-<center><b>Updated July 2023</b></center>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Richard Seow</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Wong Heng Yu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Adam Tan Chin Han</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Choe Peng Sum</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rev Kenneth Huang Teng Han</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rev Dr Aaron Tay Tian Yeow</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Teck Yin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A/Prof Ong Biauw Chi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Hugh Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Gerald Balendran Singham</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Wong Chiang Yin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Teoh Tiong Ann</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Glenn David Foo</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Updated July 2024</strong>
+</p>
