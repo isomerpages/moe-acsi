@@ -34,13 +34,10 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; max-width: 100%; height: auto; margin: 0px 20px 20px 0px;" height="160" width="121" alt="" src="/images/Library%20Digital%20Toolkit/JSTOR.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eJournal-&amp;-eDatabase.aspx"><img style="box-sizing: border-box; border-style: none; max-width: 100%; height: auto; margin: 0px 20px 20px 0px;" height="160" width="121" alt="" src="/images/Library%20Digital%20Toolkit/JSTOR.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="https://eresources.nlb.gov.sg/main/Browse?startsWith=J" rel="noopener noreferrer nofollow" target="_blank">JSTOR : The Scholarly Journal Archive [NLB]</a>
+<p><a href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eJournal-&amp;-eDatabase.aspx" rel="noopener noreferrer nofollow" target="_blank">JSTOR [ACS(I)]</a>
 </p>
 </td>
 </tr>
