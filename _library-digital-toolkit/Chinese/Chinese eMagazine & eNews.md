@@ -1,8 +1,9 @@
 ---
-title: Chinese eMagazine &amp; eNew
+title: Chinese eMagazine & eNews
 permalink: /library-digital-toolkit/chinese/hineseeagazineeew/
 description: ""
 third_nav_title: Chinese
+variant: tiptap
 ---
 <table><tbody><tr><td><a href="https://eresources.nlb.gov.sg/main/sphnewspapers" target="_blank" rel="noopener noreferrer"><img src="/images/Library%20Digital%20Toolkit/SPH.jpg"></a></td><td><a href="https://eresources.nlb.gov.sg/main/sphnewspapers">SPH Media Newspapers [NLB]</a><p><a href="https://eresources.nlb.gov.sg/main/sphnewspapers">The Straits Times, The Business Times, Zao Bao, Lianhe Wanbao, Shin Min Daily News, Berita Harian &amp; Tamil Murasu. Access to previous issues varies from 7 to 13 days.</a></p></td></tr></tbody></table>
 

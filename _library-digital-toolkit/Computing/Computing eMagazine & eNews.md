@@ -1,8 +1,9 @@
 ---
-title: Computing eMagazine & eNew
+title: Computing eMagazine & eNews
 permalink: /library-digital-toolkit/computing/omputingeagazineeew/
 description: ""
 third_nav_title: Computing
+variant: tiptap
 ---
 <table style="box-sizing: border-box; border-collapse: collapse; min-width: 500px; margin-top: 0px; color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: border-box; margin-top: 0px;"><tr style="box-sizing: border-box; margin-top: 0px;"><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px;"><a href="https://eresources.nlb.gov.sg/main/Browse?startsWith=F" target="_blank" rel="noopener noreferrer" style="box-sizing: border-box; background-color: transparent; font-size: 1em; font-family: Arial, sans-serif !important; outline-width: 0px; text-decoration: underline; margin-top: 0px;"><img loading="lazy" class="alignnone wp-image-20125 size-full" src="/images/Library%20Digital%20Toolkit/Factiva.jpg" alt="" width="206" height="75" style="box-sizing: border-box; border-style: none; max-width: 100%; height: auto; margin: 0px 20px 20px 0px;"></a></td><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px;"><a href="https://eresources.nlb.gov.sg/main/Browse?startsWith=F" style="box-sizing: border-box; background-color: transparent; font-size: 1em; font-family: Arial, sans-serif !important; text-decoration: none; margin-top: 0px;">Factiva [NLB]</a></td></tr></tbody></table>
 

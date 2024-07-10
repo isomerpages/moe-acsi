@@ -5,7 +5,7 @@ collections:
       - ACS(I) Library Digital Toolkit.md
       - Physics/.keep
       - Physics/Physics eDatabase & eJournal.md
-      - Physics/Physics eMagazine & eNew.md
+      - Physics/Physics eMagazine & eNews.md
       - Physics/Physics eEE.md
       - Physics/Physics Hardcopy EE.md
       - Physics/Physics eBooks.md
@@ -13,7 +13,7 @@ collections:
       - Physics/Physics Open Source Resources – Limited Time.md
       - Chemistry/.keep
       - Chemistry/Chemistry eDatabase & eJournal.md
-      - Chemistry/Chemistry eMagazine & eNew.md
+      - Chemistry/Chemistry eMagazine & eNews.md
       - Chemistry/Chemistry eEE.md
       - Chemistry/Chemistry Hardcopy EE.md
       - Chemistry/Chemistry eBooks.md
@@ -21,7 +21,7 @@ collections:
       - Chemistry/Chemistry Open Source Resources – Limited Time.md
       - Biology/.keep
       - Biology/Biology eDatabase & eJournal.md
-      - Biology/Biology eMagazine & eNew.md
+      - Biology/Biology eMagazine & eNews.md
       - Biology/Biology eEE.md
       - Biology/Biology Hardcopy EE.md
       - Biology/Biology eBooks.md
@@ -29,7 +29,7 @@ collections:
       - Biology/Biology Open Source Resources – Limited Time.md
       - English/.keep
       - English/English eDatabase & eJournal.md
-      - English/English eMagazine & eNew.md
+      - English/English eMagazine & eNews.md
       - English/English eEE.md
       - English/English Hardcopy EE.md
       - English/English eBooks.md
@@ -37,7 +37,7 @@ collections:
       - English/English Open Source Resources – Limited Time.md
       - Mathematics/.keep
       - Mathematics/Mathematics eDatabase & eJournal.md
-      - Mathematics/Mathematics eMagazine & eNew.md
+      - Mathematics/Mathematics eMagazine & eNews.md
       - Mathematics/Mathematics eEE.md
       - Mathematics/Mathematics Hardcopy EE.md
       - Mathematics/Mathematics eBooks.md
@@ -45,7 +45,7 @@ collections:
       - Mathematics/Mathematics Open Source Resources – Limited Time.md
       - History/.keep
       - History/History eDatabase & eJournal.md
-      - History/History eMagazine & eNew.md
+      - History/History eMagazine & eNews.md
       - History/History eEE.md
       - History/History Hardcopy EE.md
       - History/History eBooks.md
@@ -53,7 +53,7 @@ collections:
       - History/History Open Source Resources – Limited Time.md
       - Geography/.keep
       - Geography/Geography eDatabase & eJournal.md
-      - Geography/Geography eMagazine & eNew.md
+      - Geography/Geography eMagazine & eNews.md
       - Geography/Geography eEE.md
       - Geography/Geography Hardcopy EE.md
       - Geography/Geography eBooks.md
@@ -61,7 +61,7 @@ collections:
       - Geography/Geography Open Source Resources – Limited Time.md
       - BM & Economics/.keep
       - BM & Economics/BM & Economics eDatabase & eJournal.md
-      - BM & Economics/BM & Economics eMagazine & eNew.md
+      - BM & Economics/BM & Economics eMagazine & eNews.md
       - BM & Economics/BM & Economics eEE.md
       - BM & Economics/BM & Economics Hardcopy EE.md
       - BM & Economics/BM & Economics eBooks.md
@@ -69,7 +69,7 @@ collections:
       - BM & Economics/BM & Economics Open Source Resources – Limited Time.md
       - Music & VA/.keep
       - Music & VA/Music eDatabase and eJournal.md
-      - Music & VA/Music eMagazine & eNew.md
+      - Music & VA/Music eMagazine & eNews.md
       - Music & VA/Music & VA eEE.md
       - Music & VA/Music & VA Hardcopy EE.md
       - Music & VA/Music eBooks.md
@@ -77,7 +77,7 @@ collections:
       - Music & VA/Music Open Source Resources – Limited Time.md
       - Computing/.keep
       - Computing/Computing eDatabase & eJournal.md
-      - Computing/Computing eMagazine & eNew.md
+      - Computing/Computing eMagazine & eNews.md
       - Computing/Computing eEE.md
       - Computing/Computing Hardcopy EE.md
       - Computing/Computing eBooks.md
@@ -85,7 +85,7 @@ collections:
       - Computing/Computing Open Source Resources – Limited Time.md
       - Chinese/.keep
       - Chinese/Chinese eDatabase & eJournal.md
-      - Chinese/Chinese eMagazine & eNew.md
+      - Chinese/Chinese eMagazine & eNews.md
       - Chinese/Chinese eEE.md
       - Chinese/Chinese Hardcopy EE.md
       - Chinese/Chinese eBooks.md

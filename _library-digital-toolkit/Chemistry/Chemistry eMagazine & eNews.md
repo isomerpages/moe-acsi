@@ -1,8 +1,9 @@
 ---
-title: Chemistry eMagazine &amp; eNew
+title: Chemistry eMagazine & eNews
 permalink: /library-digital-toolkit/chemistry/hemistryeagazineeew/
 description: ""
 third_nav_title: Chemistry
+variant: tiptap
 ---
 <table>
 	<tbody>

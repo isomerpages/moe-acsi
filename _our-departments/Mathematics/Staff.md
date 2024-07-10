@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Mathematics
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -332,17 +337,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Lee Ooi Lian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Levon Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>

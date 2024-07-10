@@ -1,6 +1,6 @@
 ---
-title: Mathematics eBooks
-permalink: /library-digital-toolkit/mathematics/athematicsooks/
+title: Mathematics eMagazine & eNews
+permalink: /library-digital-toolkit/mathematics/athematicseagazineeew/
 description: ""
 third_nav_title: Mathematics
 variant: tiptap
@@ -13,28 +13,15 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Library%20Digital%20Toolkit/proquest.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p><a href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eBook.aspx" rel="noopener noreferrer nofollow" target="_blank">Proquest Ebook [ACS(I)]</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eBook.aspx"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Kitaboo_logo.png"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eBook.aspx" rel="noopener noreferrer nofollow" target="_blank">Britannica [ACS(I)]</a>
+<p><a href="https://eresources.nlb.gov.sg/main/Browse?startsWith=P" rel="noopener noreferrer nofollow" target="_blank">Pressreader [NLB]</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <hr>
 <table style="minWidth: 50px">
 <colgroup>
