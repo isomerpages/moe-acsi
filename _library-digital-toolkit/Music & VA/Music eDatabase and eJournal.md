@@ -5,8 +5,75 @@ description: ""
 third_nav_title: Music & VA
 variant: tiptap
 ---
-<table style="box-sizing: border-box; border-collapse: collapse; min-width: 500px; margin-top: 0px; color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: border-box; margin-top: 0px;"><tr style="box-sizing: border-box; margin-top: 0px;"><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px;"><a style="box-sizing: border-box; background-color: transparent; font-size: 1em; font-family: Arial, sans-serif !important; outline-width: 0px; text-decoration: underline; margin-top: 0px;" rel="noopener noreferrer" href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eJournal-&amp;-eDatabase.aspx"><img alt="" src="/images/Library%20Digital%20Toolkit/Grove-Music.png" class="alignnone wp-image-19050" loading="lazy" width="300" height="83"></a></td><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px;"><a style="box-sizing: border-box; background-color: transparent; font-size: 1em; font-family: Arial, sans-serif !important; text-decoration: none; margin-top: 0px;" href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eJournal-&amp;-eDatabase.aspx">Grove Music [ACS(I)]</a></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px;"><a style="box-sizing: border-box; background-color: transparent; font-size: 1em; font-family: Arial, sans-serif !important; text-decoration: none; margin-top: 0px;" rel="noopener noreferrer" href="https://eresources.nlb.gov.sg/main/Browse?startsWith=n"><img style="box-sizing: border-box; border-style: none; max-width: 100%; height: auto; margin: 0px 20px 20px 0px;" alt="" src="/images/Library%20Digital%20Toolkit/Naxos.png" class="alignnone wp-image-19049 size-full" loading="lazy" width="184" height="118"></a></td><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px;"><a style="box-sizing: border-box; background-color: transparent; font-size: 1em; font-family: Arial, sans-serif !important; text-decoration: none; margin-top: 0px;" href="https://eresources.nlb.gov.sg/main/Browse?startsWith=n">Naxos Music Library [NLB]</a></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px;"><a style="box-sizing: border-box; background-color: transparent; font-size: 1em; font-family: Arial, sans-serif !important; text-decoration: none; margin-top: 0px;" rel="noopener noreferrer" href="https://eresources.nlb.gov.sg/main/Browse?startsWith=P"><img style="box-sizing: border-box; border-style: none; max-width: 100%; height: auto; margin: 0px 20px 20px 0px;" alt="" src="/images/Library%20Digital%20Toolkit/Pro-Quest.png" class="alignnone wp-image-19058 size-full" loading="lazy" width="157" height="101"></a></td><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px;"><a style="box-sizing: border-box; background-color: transparent; font-size: 1em; font-family: Arial, sans-serif !important; text-decoration: none; margin-top: 0px;" href="https://eresources.nlb.gov.sg/main/Browse?startsWith=P">Proquest Arts &amp; Humanities Database [NLB]</a></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px;"><a style="box-sizing: border-box; background-color: transparent; font-size: 1em; font-family: Arial, sans-serif !important; text-decoration: none; margin-top: 0px;" rel="noopener noreferrer" href="https://eresources.nlb.gov.sg/main/Browse?startsWith=J"><img style="box-sizing: border-box; border-style: none; max-width: 100%; height: auto; margin: 0px 20px 20px 0px;" alt="" src="/images/Library%20Digital%20Toolkit/JSTOR.png" class="alignnone wp-image-19054 size-full" loading="lazy" width="121" height="160"></a></td><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px;"><a style="box-sizing: border-box; background-color: transparent; font-size: 1em; font-family: Arial, sans-serif !important; text-decoration: none; margin-top: 0px;" href="https://eresources.nlb.gov.sg/main/Browse?startsWith=J">JSTOR : The Scholarly Journal Archive [NLB]</a></td></tr></tbody></table>
-
-* * *
-
-<table style="box-sizing: border-box; border-collapse: collapse; min-width: 500px; color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: border-box; margin-top: 0px;"><tr style="box-sizing: border-box; margin-top: 0px;"><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px;"><img style="box-sizing: border-box; border-style: none; max-width: 100%; height: auto; margin: 0px 20px 20px 0px;" alt="" src="/images/Library%20Digital%20Toolkit/library-logo.jpg" class="alignnone size-full wp-image-19016" loading="lazy" width="100" height="96"></td><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px;">Be a NLB member<p style="box-sizing: border-box; margin-top: 0px;"></p><p style="box-sizing: border-box;">Click<span>&nbsp;</span><a style="box-sizing: border-box; background-color: transparent; font-size: 1em; font-family: Arial, sans-serif !important; text-decoration: none; margin-top: 0px;" href="https://drive.google.com/file/d/1lu_8sdJG-Cn2_I-7SSl0ttggJEhauSMn/view?usp=sharing">here</a><span>&nbsp;</span>for more details on this membership to access NLB resources</p></td></tr></tbody></table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="83" width="300" alt="" src="/images/Library%20Digital%20Toolkit/Grove-Music.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eJournal-&amp;-eDatabase.aspx" rel="noopener noreferrer nofollow" target="_blank">Grove Music [ACS(I)]</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; max-width: 100%; height: auto; margin: 0px 20px 20px 0px;" height="118" width="184" alt="" src="/images/Library%20Digital%20Toolkit/Naxos.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://eresources.nlb.gov.sg/main/Browse?startsWith=n" rel="noopener noreferrer nofollow" target="_blank">Naxos Music Library [NLB]</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; max-width: 100%; height: auto; margin: 0px 20px 20px 0px;" height="101" width="157" alt="" src="/images/Library%20Digital%20Toolkit/Pro-Quest.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://eresources.nlb.gov.sg/main/Browse?startsWith=P" rel="noopener noreferrer nofollow" target="_blank">Proquest Arts &amp; Humanities Database [NLB]</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eJournal-&amp;-eDatabase.aspx"><img style="box-sizing: border-box; border-style: none; max-width: 100%; height: auto; margin: 0px 20px 20px 0px;" height="160" width="121" alt="" src="/images/Library%20Digital%20Toolkit/JSTOR.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eJournal-&amp;-eDatabase.aspx" rel="noopener noreferrer nofollow" target="_blank">JSTOR [ACS(I)]</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; max-width: 100%; height: auto; margin: 0px 20px 20px 0px;" height="96" width="100" alt="" src="/images/Library%20Digital%20Toolkit/library-logo.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Be a NLB member</p>
+<p></p>
+<p>Click&nbsp;<a href="https://drive.google.com/file/d/1lu_8sdJG-Cn2_I-7SSl0ttggJEhauSMn/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
+more details on this membership to access NLB resources</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
