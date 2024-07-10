@@ -141,7 +141,7 @@ variant: tiptap
 <p>Lee Chia Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deputy Director Year 3</p>
+<p>Deputy Director Student Leadership</p>
 </td>
 </tr>
 <tr>
