@@ -47,7 +47,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Library%20Digital%20Toolkit/proquest.jpg">
+<img style="width: 100%" height="auto" width="195" alt="" src="/images/Library%20Digital%20Toolkit/proquest.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -57,19 +57,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eBook.aspx"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Kitaboo_logo.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eBook.aspx"><img style="width: 100%" height="auto" width="195" alt="" src="/images/Kitaboo_logo.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eBook.aspx" rel="noopener noreferrer nofollow" target="_blank">Britannica [ACS(I)]</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://eresources.nlb.gov.sg/main/Browse?startsWith=L"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Large_Use_RGB_Blue_128px_Learning_RGB.png"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://eresources.nlb.gov.sg/main/Browse?startsWith=L" rel="noopener noreferrer nofollow" target="_blank">Linkedin Learning [NLB]</a>
 </p>
 </td>
 </tr>
