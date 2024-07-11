@@ -239,7 +239,7 @@ is conferred or purported to be conferred on him directly or indirectly,
 has no right to enforce any term of the Agreement.</p>
 </li>
 </ol>
-<p>&nbsp;<u>OTHERS</u><strong>&nbsp;</strong>
+<p>&nbsp;<strong><u>OTHERS</u>&nbsp;</strong>
 </p>
 <ol start="32" data-tight="true" class="tight">
 <li>
