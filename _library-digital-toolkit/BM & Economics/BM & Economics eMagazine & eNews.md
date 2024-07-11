@@ -89,6 +89,9 @@ from the Singapore Press Holdings (SPH) dating back to 1989</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pressrdr.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://eresources.nlb.gov.sg/main/Browse?startsWith=P" rel="noopener noreferrer nofollow" target="_blank">Pressreader [NLB]</a>
