@@ -1,8 +1,8 @@
 ---
-title: Music &amp; VA eEE
+title: Music & VA eEE
 permalink: /library-digital-toolkit/music/usice/
 description: ""
-third_nav_title: Music &amp; VA
+third_nav_title: Music and VA
 ---
 <table style="box-sizing: border-box; border-collapse: collapse; min-width: 500px; margin-top: 0px; color: #000000; font-family: Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
 <tbody style="box-sizing: border-box; margin-top: 0px;">

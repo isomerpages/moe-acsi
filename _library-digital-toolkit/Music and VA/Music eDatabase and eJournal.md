@@ -2,7 +2,7 @@
 title: Music eDatabase and eJournal
 permalink: /library-digital-toolkit/music/music-edatabase-ejournal/
 description: ""
-third_nav_title: Music & VA
+third_nav_title: Music and VA
 variant: tiptap
 ---
 <table style="minWidth: 50px">

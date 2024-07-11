@@ -2,7 +2,7 @@
 title: Music eLearn
 permalink: /library-digital-toolkit/music/usicearn/
 description: ""
-third_nav_title: Music & VA
+third_nav_title: Music and VA
 variant: tiptap
 ---
 <table style="minWidth: 50px">
