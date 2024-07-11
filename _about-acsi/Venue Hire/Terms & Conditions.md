@@ -146,101 +146,138 @@ pass by the hirer to certify that the person is part of the hirer’s organisati
 be done within the time slot booked. Hirers will be subjected to additional
 charges should setup and/or teardown process is carried outside of the
 time slot booked.&nbsp;</p>
+<p></p>
 </li>
 <li>
 <p>All rentals are for usage only by the Hirer’s organisation. The School
 must be informed if there are external parties who will be entering the
 premises for combined training, competition, participation or for any other
 reason. This will be subject to the School’s approval.&nbsp;</p>
+<p></p>
 </li>
 <li>
 <p>All equipment borrowed from the School must be returned in the same condition
 it was lent and returned to its original position. Cleaning fees will be
 levied for the breach of it.&nbsp;</p>
+<p></p>
 </li>
-</ol>
-<p>22.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The School does not provide any in-house
-catering. Hirers may arrange for your own caterer. All catering setup must
-be done within a designated area approved by the School. Hirers are to
-ensure that their caterers provide adequate trash holders and that all
-food waste are to be disposed of at an external site. Cleaning fees will
-be levied for any leftover food in the halls.&nbsp;</p>
-<p>23.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Food and drinks are not allowed inside multi-purpose halls, auditoriums,
+<li>
+<p>The School does not provide any in-house catering. Hirers may arrange
+for your own caterer. All catering setup must be done within a designated
+area approved by the School. Hirers are to ensure that their caterers provide
+adequate trash holders and that all food waste are to be disposed of at
+an external site. Cleaning fees will be levied for any leftover food in
+the halls.&nbsp;</p>
+<p></p>
+</li>
+<li>
+<p>Food and drinks are not allowed inside multi-purpose halls, auditoriums,
 rooms and theatres. Consumption of food and beverages must be within designated
 area approved by the School. Smoking and consumption of alcohol is strictly
 prohibited within the School.&nbsp;</p>
-<p>24.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-All events on the School’s premises should maintain an acceptable noise
+<p></p>
+</li>
+<li>
+<p>All events on the School’s premises should maintain an acceptable noise
 level for the activities planned, to minimise disruption to the Boarding
 School occupants as well as the neighborhood around the School. Should
 any complaints be received, these will be directed to the hirer.&nbsp;</p>
-<p>25.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-All parties should vacate the School premises at the end of the booked
+<p></p>
+</li>
+<li>
+<p>All parties should vacate the School premises at the end of the booked
 slot for the respective facilities. The School reserves the right to impose
 additional charges for any protracted use of any of its facilities and/or
 School grounds beyond the booked slot.</p>
+</li>
+</ol>
 <p><strong><u>PAYMENT</u>&nbsp;</strong>
 </p>
-<p>26.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-The School reserves the right to amend the charges for facilities at any
+<ol start="26" data-tight="true" class="tight">
+<li>
+<p>The School reserves the right to amend the charges for facilities at any
 given time. However, the Fee Estimate payable by the Hirer shall be the
 price applicable at the time of booking.&nbsp;</p>
-<p>27.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-The School reserves the right to request a deposit of 20% of the fee payable
+<p></p>
+</li>
+<li>
+<p>The School reserves the right to request a deposit of 20% of the fee payable
 from the Hirer in order to confirm the booking. The School reserves the
 right to retain 50% of the deposit if the booking is cancelled 90 days
 or less before the commencement of the hire.&nbsp;</p>
-<p>28.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-The payment of 20% deposit must accompany the signed quotation for the
+<p></p>
+</li>
+<li>
+<p>The payment of 20% deposit must accompany the signed quotation for the
 booking to be considered confirmed.&nbsp;</p>
-<p>29.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-The invoice for the remaining payment must be paid before the event date
+<p></p>
+</li>
+<li>
+<p>The invoice for the remaining payment must be paid before the event date
 for ad-hoc single bookings. For recurring weekly bookings, the invoicing
 will be done at the end of every month.</p>
-<p><u>PARKING</u><strong>&nbsp;</strong>
+</li>
+</ol>
+<p><strong><u>PARKING</u>&nbsp;</strong>
 </p>
-<p>30.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Parking within the School compound is provided at the discretion of the
+<ol start="30" data-tight="true" class="tight">
+<li>
+<p>Parking within the School compound is provided at the discretion of the
 School. Parking lots marked in red are reserved for season parking vehicles.
 Non season parking vehicles may use the carpark lots marked in white. In
 the event that the carpark is full or unavailable, the School security
 will refuse vehicle entry into School. Drivers can park at the nearest
 public carpark opposite the School.</p>
-<p>&nbsp;<u>CONTRACT (THIRD PARTY)</u><strong>&nbsp;</strong>
+</li>
+</ol>
+<p><strong><u>&nbsp;CONTRACT (THIRD PARTY)&nbsp;</u></strong>
 </p>
-<p>31.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Any person who is not a party to the Agreement, whether or not any benefit
+<ol start="31" data-tight="true" class="tight">
+<li>
+<p>Any person who is not a party to the Agreement, whether or not any benefit
 is conferred or purported to be conferred on him directly or indirectly,
 has no right to enforce any term of the Agreement.</p>
+</li>
+</ol>
 <p>&nbsp;<u>OTHERS</u><strong>&nbsp;</strong>
 </p>
-<p>32.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Any circumstance beyond the control of a party, which delays, interrupts,
+<ol start="32" data-tight="true" class="tight">
+<li>
+<p>Any circumstance beyond the control of a party, which delays, interrupts,
 or prevents the Event, shall be deemed to be an event of “Force Majeure”.
 Such circumstances shall include but are not limited to breach of the peace,
 epidemic, flood, fire, explosion, lightning, storm, sabotage, power failure
 not due to either party’s fault, act of God, strike, picketing, lock-out
 and act of government authority.&nbsp;</p>
-<p>33.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Should the Event not be held due to an event of Force Majeure, the School
+<p></p>
+</li>
+<li>
+<p>Should the Event not be held due to an event of Force Majeure, the School
 shall not be in default and the Hirer shall not be entitled to any refund,
 compensation, damages or any other recourse against the School therefore.&nbsp;</p>
-<p>34.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-The School reserves the right to amend or revise any or all of these Terms
+<p></p>
+</li>
+<li>
+<p>The School reserves the right to amend or revise any or all of these Terms
 and Conditions from time to time without any prior notice and the Hirer
 hereby agrees to abide by and comply with any such revised Terms and Conditions
 applicable at the relevant time.&nbsp;</p>
-<p>35.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Notwithstanding that the booking has been confirmed, the School may, in
+<p></p>
+</li>
+<li>
+<p>Notwithstanding that the booking has been confirmed, the School may, in
 its absolute discretion, cancel the booking at any given time. Any prepaid
 rental would be refunded and the School shall have no responsibility for
 any claims for any loss suffered by the Hirer, their contractors, their
 client or any member of the group as a result of the cancellation or abandonment
 of event whether the cancellation or abandonment has been at the instance
 of the Hirer or the School.&nbsp;</p>
-<p>36.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-The School reserves the right to refuse the use of the Facilities in the
+<p></p>
+</li>
+<li>
+<p>The School reserves the right to refuse the use of the Facilities in the
 event of any breach of the terms and conditions herein. No request for
 refund of prepaid rental will be entertained in such circumstances.</p>
+</li>
+</ol>
 <p>&nbsp;</p>
