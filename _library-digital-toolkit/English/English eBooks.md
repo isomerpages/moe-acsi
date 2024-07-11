@@ -64,15 +64,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://eresources.nlb.gov.sg/main/Browse?startsWith=L"><img style="width: 100%" height="auto" width="195" alt="" src="/images/Large_Use_RGB_Blue_128px_Learning_RGB.png"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://eresources.nlb.gov.sg/main/Browse?startsWith=L" rel="noopener noreferrer nofollow" target="_blank">Linkedin Learning [NLB]</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <hr>
