@@ -14,6 +14,9 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wolframmw.jpg">
+</div>
 </th>
 <td rowspan="1" colspan="1">
 <p><a href="http://mathworld.wolfram.com/" rel="noopener noreferrer nofollow" target="_blank">MathWorld</a>

@@ -344,10 +344,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MDM</p>
+<p>MR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Loh We Fong</p>
+<p>Teo Hui Koon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
