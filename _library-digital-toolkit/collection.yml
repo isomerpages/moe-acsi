@@ -2,7 +2,6 @@ collections:
   library-digital-toolkit:
     output: true
     order:
-      - Music and VA/.keep
       - ACS(I) Library Digital Toolkit.md
       - Physics/.keep
       - Physics/Physics eDatabase & eJournal.md
@@ -68,6 +67,7 @@ collections:
       - BM & Economics/BM & Economics eBooks.md
       - BM & Economics/BM & Economics eLearn.md
       - BM & Economics/BM & Economics Open Source Resources – Limited Time.md
+      - Music and VA/.keep
       - Computing/.keep
       - Computing/Computing eDatabase & eJournal.md
       - Computing/Computing eMagazine & eNews.md
