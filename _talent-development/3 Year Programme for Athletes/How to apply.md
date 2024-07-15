@@ -5,9 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: 3 Year Programme for Athletes
 ---
-<p>1.&nbsp;&nbsp;&nbsp; Application documents will be available on this webpage
-on 1 November 2024 and submission will close on 16 March 2025. Only successful
-applicants will be notified by Microsoft Teams.</p>
+<p>1.&nbsp;&nbsp;&nbsp; <strong><u>Application </u></strong>documents will
+be available on this webpage on 1 November 2024 and submission will close
+on 16 March 2025. Only successful applicants will be notified by Microsoft
+Teams.</p>
 <p>2.&nbsp;&nbsp;&nbsp; Completed application documents to be emailed to
 <a rel="noopener noreferrer nofollow" target="_blank">chewyinxiang@acsindep.edu.sg</a>
 </p>
@@ -19,5 +20,6 @@ there are no applicants of sufficient merit. The decision of the selection
 committee is final. Enquiries or disputes surrounding its decisions will
 not be entertained.</p>
 <p>&nbsp;</p>
-<p>Application</p>
+<p><strong><u>Application</u></strong>
+</p>
 <p>Applications for Academic Year 2024 have closed as of 17 March 2024.</p>
