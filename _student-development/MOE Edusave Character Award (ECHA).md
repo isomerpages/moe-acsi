@@ -2,7 +2,7 @@
 title: MOE Edusave Character Award (ECHA)
 permalink: /student-development/moe-echa/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h3>ANGLO-CHINESE SCHOOL (INDEPENDENT) EDUSAVE CHARACTER AWARD (ECHA) 2024</h3>
 <p><strong><u>Introduction</u>&nbsp;</strong>
@@ -197,7 +197,7 @@ all nominations must be submitted by the closing date and time.&nbsp;</p>
 who are not eligible for ECHA) &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/acs-echa2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acs-integrity2024</a>&nbsp;</p>
+<p><a href="https://go.gov.sg/acs-integrity2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acs-integrity2024</a>&nbsp;</p>
 </td>
 </tr>
 </tbody>
