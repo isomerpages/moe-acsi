@@ -11,9 +11,13 @@ applicants will be notified by Microsoft Teams.</p>
 <p>2.&nbsp;&nbsp;&nbsp; Completed application documents to be emailed to
 <a rel="noopener noreferrer nofollow" target="_blank">chewyinxiang@acsindep.edu.sg</a>
 </p>
-<p>3.&nbsp;&nbsp;&nbsp; An acknowledgment email will be sent to the applicant
-to confirm receipt of application documents.</p>
+<p>3.&nbsp;&nbsp;&nbsp; An acknowledgment message will be sent to the applicant
+via Microsoft Teams to confirm receipt of application documents.</p>
 <p>4.&nbsp;&nbsp;&nbsp; Incomplete and/or late applications will not be considered.</p>
+<p>5. ACS(I) reserves the right to not award any place in the programme if
+there are no applicants of sufficient merit. The decision of the selection
+committee is final. Enquiries or disputes surrounding its decisions will
+not be entertained.</p>
 <p>&nbsp;</p>
 <p>Application</p>
 <p>Applications for Academic Year 2024 have closed as of 17 March 2024.</p>
