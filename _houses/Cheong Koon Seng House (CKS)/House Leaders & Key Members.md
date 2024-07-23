@@ -5,66 +5,185 @@ description: ""
 third_nav_title: Cheong Koon Seng House (CKS)
 variant: tiptap
 ---
-<table width="601">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td width="240">
+<td rowspan="1" colspan="3">
+<p><strong>CKS House Organisational Chart</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Appointment</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Senior Captain</p>
 </td>
-<td width="361">
-<p>Jeremiah Zhi Xiang Williams (6.16 Macedonia)</p>
+<td rowspan="1" colspan="1">
+<p>6.11 Iconium</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sameer Anand</p>
 </td>
 </tr>
 <tr>
-<td width="240">
+<td rowspan="1" colspan="1">
 <p>Senior Vice Captain</p>
 </td>
-<td width="361">
-<p>Edaline Lai Hui En (6.12 Jericho)</p>
+<td rowspan="1" colspan="1">
+<p>6.07 Ephesus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choo Jing Le</p>
 </td>
 </tr>
 <tr>
-<td width="240">
-<p>Level Representatives</p>
+<td rowspan="1" colspan="1">
+<p>Junior Captain</p>
 </td>
-<td width="361">
+<td rowspan="1" colspan="1">
+<p>5.19 Acts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gabriel Wong Kiat En</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td width="240">
+<td rowspan="1" colspan="1">
+<p>Junior Vice Captain</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.05 Deuteronomy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chiang Bing Feng Oscar</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Level Representatives</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Year 4</p>
 </td>
-<td width="361">
-<p>Jaron Chew (4.04 Ezra)</p>
-<p>Yeo Kai Hsuen (4.08 Apollos)</p>
+<td rowspan="1" colspan="1">
+<p>4.06 Gideon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Samuel Josh Chew Jia Kai</p>
 </td>
 </tr>
 <tr>
-<td width="240">
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.12 Abel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Xander Quah Jinn Kye</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Year 3</p>
 </td>
-<td width="361">
-<p>Xander Quah Jinn Kye (3.12 Amos)</p>
-<p>Samuel Josh Chew Jia Kai (3.06 Hosea)</p>
+<td rowspan="1" colspan="1">
+<p>3.03 Isaiah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Edward Wong Wai Ming</p>
 </td>
 </tr>
 <tr>
-<td width="240">
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.13Haggai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gabriel Low (Liu Bingzhe)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Year 2</p>
 </td>
-<td width="361">
-<p>Edward Wong Wai Ming (2.03 Gad)</p>
-<p>Gabriel Low (Liu Bingzhe)(2.12 Naphtali)</p>
+<td rowspan="1" colspan="1">
+<p>2.03 Gad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>James Christian Ng Tze Feng</p>
 </td>
 </tr>
 <tr>
-<td width="240">
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.06 Zebulun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Poon En Le</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Year 1</p>
 </td>
-<td width="361">
-<p>Poon En Le, (1.06 Philip)</p>
-<p>James Christian Ng Tze Feng, (1.03 Luke)</p>
+<td rowspan="1" colspan="1">
+<p>1.12 Titus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kirubapuri Chandramouli Krisshaanth</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.11 Timothy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sharma Advitiya</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
