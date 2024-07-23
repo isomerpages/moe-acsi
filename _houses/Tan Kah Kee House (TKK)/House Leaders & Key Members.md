@@ -3,53 +3,173 @@ title: House Leaders & Key Members
 permalink: /student-development/houses/tkk-house/house-leaders-key-members/
 description: ""
 third_nav_title: Tan Kah Kee House (TKK)
+variant: tiptap
 ---
-<table>
-<thead>
-  <tr>
-    <th>House Manager</th>
-    <th>Mrs.Nilanjana Bose</th>
-  </tr>
-</thead>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td>Senior Captain</td>
-    <td>Clare Cheng Lin Yi (6.03)</td>
-  </tr>
-  <tr>
-    <td>Senior Vice-Captain</td>
-    <td>Eldon Ng Keng Hwang (6.10)</td>
-  </tr>
-  <tr>
-    <td>Junior Captain</td>
-    <td>Lim Jin Yi (5.12)</td>
-  </tr>
-  <tr>
-    <td>Junior Vice-Captain</td>
-    <td>Ashley Jill  Yeo (5.14)</td>
-  </tr>
-  <tr>
-    <td>Junior Vice-Captain</td>
-    <td>Gabriel Koo Yingxuan(4.12)</td>
-  </tr>
-  <tr>
-    <th colspan="2">Level Representatives</th>
-  </tr>
-  <tr>
-    <td>Year 4</td>
-    <td>Benedict Emmanuel Lau Xu En  (4.13)</td>
-  </tr>
-  <tr>
-    <td>Year 3</td>
-    <td>Yeo Zhi Rong Zavier (3.05)<br><br>Jaeden Jamal Bin Jessri  Hazril  (3.08)</td>
-  </tr>
-  <tr>
-    <td>Year 2</td>
-    <td>Brandon Pang (2.07)<br><br>Gabriel Kew (2.02)</td>
-  </tr>
-  <tr>
-    <td>Year 1</td>
-    <td>Shane Ong (1.11)<br><br>Kong Hoe Wah Issac (1.07)</td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>TKK House Organisational Chart</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Appointment</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Captain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.10 Gethsemane</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dylan Ming Gabriel</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Vice Captain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.10 Gethsemane</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Do Hoang Nhat Nam</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Junior Captain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.10 Esther</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Loy Zhen Xi Phaedra</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Junior Vice Captain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.03 Leviticus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Evan Tan Yuren</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Level Representatives</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.16 Enoch</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ong Shane Ghe, Shane</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.05 David</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kong Hoe Wah Isaac</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.16 Habakkuk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Colin Wu Hongyi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.06 Hosea</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kylle Gill</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.12 Naphtali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gideon Yen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.08 Manasseh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>David Ong Xuan En</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.02 Mark</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ong Kai Ghe, Shannon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.06 Philip</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Koby Low Xin De</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
