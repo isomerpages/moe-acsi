@@ -13,8 +13,8 @@ in regional or international sporting competition/s (minimally ASEAN or
 Asian level) recognised by the relevant national sports associations (NSAs);</p>
 <p>- Earmarked by his/her NSA as having potential to compete at Major Games
 e.g. SEA Games, Commonwealth Games, Asian Games, Olympic Games, Youth Olympic
-Games and Commonwealth Youth Games and any other equivalent competitions
-during their time in ACS(I) and;</p>
+Games, Commonwealth Youth Games and any other equivalent competitions during
+their time in ACS(I) and;</p>
 <p>- must have his/her application endorsed by the relevant national sports
 associations</p>
 <p>&nbsp;</p>
