@@ -9,7 +9,12 @@ variant: tiptap
 reflected in the staff Directory. For the <strong>full contact list</strong> of
 teachers and staff, Parents <strong>may log in to the</strong>  <strong><a href="http://lms.acsindep.edu.sg/ACSIndep/logon_new.aspx?type=parents" rel="noopener noreferrer nofollow" target="_blank">Parents’ Portal</a></strong> and
 view the Staff List under Parent’s Resources tab.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -185,17 +190,6 @@ view the Staff List under Parent’s Resources tab.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Amanda Ding Linlin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Agape Counselling Sanctuary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Well-Being Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Charlie Ong Chen Hock</p>
 </td>
 </tr>
 <tr>
