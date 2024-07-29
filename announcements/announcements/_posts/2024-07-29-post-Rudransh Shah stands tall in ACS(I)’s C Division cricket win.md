@@ -9,9 +9,7 @@ variant: markdown
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements &amp; News/Rudransh_Shah_stands_tall_in_ACS_I__s_C_Division_cricket_win.png">
+<a href="/files/Announcements &amp; News/Rudransh_Shah_stands_tall_in_ACS_I__s_C_Division_cricket_win.pdf" rel="noopener noreferrer nofollow" target="_blank"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements &amp; News/Rudransh_Shah_stands_tall_in_ACS_I__s_C_Division_cricket_win.png"></a>
 </div>
 <p>Source: The Straits Times © SPH Media Limited. Permission required for
 reproduction.</p>
-<p><a href="/files/Announcements &amp; News/Rudransh_Shah_stands_tall_in_ACS_I__s_C_Division_cricket_win.pdf" rel="noopener noreferrer nofollow" target="_blank">12345</a>
-</p>
