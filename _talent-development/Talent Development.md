@@ -25,7 +25,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/talent-development/y3-ib-programme-for-athletes/y3ibathletes/" class="third-level-nav-header is-active" rel="noopener noreferrer nofollow" target="_blank">3 Year Programme for Athletes</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/talent-development/accelerated-class-for-humanities-ach/" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a><em><a href="/talent-development/accelerated-class-for-humanities-ach/" rel="noopener noreferrer nofollow" target="_blank">ACH: Accelerated Class for Humanities</a></em>
