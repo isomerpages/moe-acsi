@@ -25,7 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/talent-development/y3-ib-programme-for-athletes/y3ibathletes/" class="third-level-nav-header is-active" rel="noopener noreferrer nofollow" target="_blank">3 Year Programme for Athletes</a>
+<p><em><a href="/talent-development/y3-ib-programme-for-athletes/y3ibathletes/" class="third-level-nav-header is-active" rel="noopener noreferrer nofollow" target="_blank">3 Year Programme for Athletes</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
