@@ -4,8 +4,7 @@ permalink: /admissions/admission-exam/
 description: ""
 variant: tiptap
 ---
-<p><strong>Admission Examination for Enrolment into 2024 Years 2 and 5</strong>
-</p>
+<p></p>
 <p>Admission Examination for enrolment into 2025 Years 2 and 5 will be held
 on Saturday, 12 Oct 2024 in our school premises.</p>
 <p>Please refer to the respective circulars for further information and application
