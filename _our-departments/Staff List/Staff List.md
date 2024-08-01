@@ -489,17 +489,6 @@ Committee)</p>
 <p>Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lilian Aw Yeong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Admin Office</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Secretary</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Nancy Cheng</p>
 </td>
 </tr>
