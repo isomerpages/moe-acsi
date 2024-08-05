@@ -2,6 +2,7 @@ collections:
   talent-development:
     output: true
     order:
+      - Advanced Class for Integrative Studies’.md
       - Talent Development.md
       - 3 Year Programme for Athletes/.keep
       - 3 Year Programme for Athletes/3 Year IB Diploma Programme for High
