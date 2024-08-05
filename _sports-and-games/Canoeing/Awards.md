@@ -14,7 +14,7 @@ variant: markdown
 ### 2024
 		 
 <p>(Updated on 19th April 2024)</p>
-<p>The results are as follows:<br> ‘A’ Division – 3rd<br> ‘B’ Division – 1st<br> ‘C’ Division – 2nd</p>
+<p>The results are as follows:<br> ‘A’ Division – 2nd<br> ‘B’ Division – 1st<br> ‘C’ Division – 2nd</p>
 <table width="803">
 <thead>
 <tr>
@@ -41,7 +41,7 @@ variant: markdown
 <p>‘A’</p>
 </td>
 <td>
-<p>3<sup>rd</sup></p>
+<p>2<sup>nd</sup></p>
 </td>
 <td>
 <p>2</p>
