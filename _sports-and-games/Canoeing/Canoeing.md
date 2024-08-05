@@ -41,7 +41,7 @@ The results of the National Inter-Schools Dragon Boat Championships are as follo
 (Updated on 19th April 2024)
 
 The results are as follows:  
-‘A’ Division – 3rd  
+‘A’ Division – 2nd  
 ‘B’ Division – 1st  
 ‘C’ Division – 2nd
 
