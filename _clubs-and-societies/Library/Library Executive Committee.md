@@ -5,236 +5,164 @@ description: ""
 third_nav_title: Library
 variant: tiptap
 ---
-<table>
+<p><strong>Library Executive Committee 24-25</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="4">
-<p>STUDENT LEADERS IN CCA</p>
+<td rowspan="1" colspan="1">
+<p><strong>No.</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Role</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p>Name</p>
+<td rowspan="1" colspan="1">
+<p><strong>1</strong>
+</p>
 </td>
-<td rowspan="1" colspan="2">
-<p>Position in Cockpit</p>
+<td rowspan="1" colspan="1">
+<p>President (Secondary)</p>
+<p>&nbsp;</p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Ryan Choo Kee Chai (4.12)</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>CCA Chairperson</p>
+<td rowspan="1" colspan="1">
+<p>Tay Tze Ern</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p>Tay Tze Ern (3.15)</p>
+<td rowspan="1" colspan="1">
+<p><strong>2</strong>
+</p>
 </td>
-<td rowspan="1" colspan="2">
-<p>CCA Vice-Chairperson</p>
+<td rowspan="1" colspan="1">
+<p>Vice-President (Secondary)</p>
+<p>&nbsp;</p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Yoon Sae Young (5.03)</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>CCA Vice-Chairperson</p>
+<td rowspan="1" colspan="1">
+<p>Joshua Goh Jun Yi</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p>Chen Sheng Shou (4.01)</p>
+<td rowspan="1" colspan="1">
+<p><strong>3</strong>
+</p>
 </td>
-<td rowspan="1" colspan="2">
-<p>Upper Sec CCA Executive Committee</p>
+<td rowspan="1" colspan="1">
+<p>Vice-President (IB)</p>
+<p>&nbsp;</p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Marcus Tan Sheng Han (4.02)</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Upper Sec CCA Executive Committee</p>
+<td rowspan="1" colspan="1">
+<p>Ho Wei Jin Danyl</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p>Luke Yam Rui Yi (4.01)</p>
+<td rowspan="1" colspan="1">
+<p><strong>4</strong>
+</p>
 </td>
-<td rowspan="1" colspan="2">
-<p>Upper Sec CCA Executive Committee</p>
+<td rowspan="1" colspan="1">
+<p>Senior Director (Y5)</p>
+<p>&nbsp;</p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Ong Qian Le (4.08)</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Upper Sec CCA Executive Committee</p>
+<td rowspan="1" colspan="1">
+<p>Lim Kai Jie, Caleb</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p>Tan Ee Cheong (4.14)</p>
+<td rowspan="1" colspan="1">
+<p><strong>5</strong>
+</p>
 </td>
-<td rowspan="1" colspan="2">
-<p>Upper Sec CCA Executive Committee</p>
+<td rowspan="2" colspan="1">
+<p>Events Coordinators (Y3)</p>
+<p>&nbsp;</p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Murali Mourya (4.08)</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Upper Sec CCA Executive Committee</p>
+<td rowspan="1" colspan="1">
+<p>Kng Yi Kai, Jayk</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p>Koh Zhi Seng Alvin (4.08)</p>
+<td rowspan="1" colspan="1">
+<p><strong>6</strong>
+</p>
 </td>
-<td rowspan="1" colspan="2">
-<p>Upper Sec CCA Executive Committee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Benjamin Loh Jeung Yi (3.04)</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Upper Sec CCA Committee Member</p>
+<td rowspan="1" colspan="1">
+<p>Lucas Ong Ti Lok</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p>Gavin Tsai Kai Feng (3.04)</p>
+<td rowspan="1" colspan="1">
+<p><strong>7</strong>
+</p>
 </td>
-<td rowspan="1" colspan="2">
-<p>Upper Sec CCA Committee Member</p>
+<td rowspan="1" colspan="1">
+<p>Collection Coordinator (Y3)</p>
+<p>&nbsp;</p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Kng Yi Kai, Jayk (3.05)</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Upper Sec CCA Committee Member</p>
+<td rowspan="1" colspan="1">
+<p>Matt Ong</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p>Matt Ong (3.06)</p>
+<td rowspan="1" colspan="1">
+<p><strong>8</strong>
+</p>
 </td>
-<td rowspan="1" colspan="2">
-<p>Upper Sec CCA Committee Member</p>
+<td rowspan="2" colspan="1">
+<p>Publicity Coordinators (Y3)</p>
+<p>&nbsp;</p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Lucas Ong (3.15)</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Upper Sec CCA Committee Member</p>
+<td rowspan="1" colspan="1">
+<p>Benjamin Loh Jeung Yi</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p>Jonavon Yeo Shen Yi (6.18)</p>
+<td rowspan="1" colspan="1">
+<p><strong>9</strong>
+</p>
 </td>
-<td rowspan="1" colspan="2">
-<p>Senior Librarian Mentor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Ho Wei Jin, Danyl (5.13)</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Senior Librarian Mentor</p>
+<td rowspan="1" colspan="1">
+<p>Xavier Ong</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p>Lim Kai Jie, Caleb (5.08)</p>
+<td rowspan="1" colspan="1">
+<p><strong>10</strong>
+</p>
 </td>
-<td rowspan="1" colspan="2">
-<p>Senior Librarian Mentor</p>
+<td rowspan="1" colspan="1">
+<p>Facilities Coordinator (Y5)</p>
+<p>&nbsp;</p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Bryan Loh Yong Wei (5.09)</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Senior Librarian Mentor</p>
+<td rowspan="1" colspan="1">
+<p>Yoon Sae Young</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p>Chow Guan Yu (5.11)</p>
+<td rowspan="1" colspan="1">
+<p><strong>11</strong>
+</p>
 </td>
-<td rowspan="1" colspan="2">
-<p>Senior Librarian Mentor</p>
+<td rowspan="1" colspan="1">
+<p>Facilities Officer (Y3)</p>
+<p>&nbsp;</p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Wong Yan Song (5.14)</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Senior Librarian Mentor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Joel Aidan Low Yi (6.04)</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Senior Librarian Mentor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Ng Ren Hui (6.03)</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Senior Librarian Mentor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Ng Wei Jie (6.07)</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Senior Librarian Mentor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Lim En Sheng, Eldridge (5.07)</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Senior Librarian Mentor</p>
+<td rowspan="1" colspan="1">
+<p>Gavin Tsai Kai Feng</p>
 </td>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Slide1-300x169.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Slide2-300x169.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Slide3-300x169.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Slide4-300x169.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Slide5-300x169.jpg">
-</div>
-<p></p>
+<p>&nbsp;</p>
