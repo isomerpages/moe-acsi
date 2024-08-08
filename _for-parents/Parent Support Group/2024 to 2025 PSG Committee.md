@@ -104,7 +104,7 @@ variant: tiptap
 <p>Merchandise&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tammy ???&nbsp;</p>
+<p>Tammy</p>
 </td>
 </tr>
 <tr>
