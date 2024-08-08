@@ -52,8 +52,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p><strong>Sub-Committees</strong>&nbsp;</p>
+<p>&nbsp;<strong>Sub-Committees</strong>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -134,8 +133,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>&nbsp;&nbsp;</p>
-<p><strong>School Advisory</strong>&nbsp;</p>
+<p>&nbsp;&nbsp;<strong>School Advisory</strong>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
