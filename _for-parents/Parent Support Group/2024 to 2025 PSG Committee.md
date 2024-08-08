@@ -5,139 +5,159 @@ description: ""
 third_nav_title: Parent Support Group
 variant: tiptap
 ---
-![](/images/acsi%20psg%20website.jpg)
-
-<table width="604">
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GetImage.jpg">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td width="297">
-<p>Chairperson</p>
+<td rowspan="1" colspan="1">
+<p>Chairperson&nbsp;</p>
 </td>
-<td width="307">
-<p>Choo Choon Teck</p>
-</td>
-</tr>
-<tr>
-<td width="297">
-<p>Secretary</p>
-</td>
-<td width="307">
-<p>Amelia Chew</p>
+<td rowspan="1" colspan="1">
+<p>Choo Choon Teck&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td width="297">
-<p>Deputy Secretary</p>
+<td rowspan="1" colspan="1">
+<p>Secretary&nbsp;</p>
 </td>
-<td width="307">
-<p>Grace Chew</p>
+<td rowspan="1" colspan="1">
+<p>Grace Chew&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td width="297">
-<p>Treasurer</p>
+<td rowspan="1" colspan="1">
+<p>Treasurer&nbsp;</p>
 </td>
-<td width="307">
-<p>Sherman Tan</p>
+<td rowspan="1" colspan="1">
+<p>Sherman Tan&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Sub-Committees</strong></p>
-<table width="100%">
+<p>&nbsp;</p>
+<p><strong>Sub-Committees</strong>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td width="300">
-<p>Parents’ Prayer Group</p>
+<td rowspan="1" colspan="1">
+<p>Parents’ Prayer Group&nbsp;</p>
 </td>
-<td width="301">
-<p>Winnie Tan</p>
-</td>
-</tr>
-<tr>
-<td width="300">
-<p>Fathers’ Prayer Group</p>
-</td>
-<td width="301">
-<p>Kirindeep Singh, Derek Yeo</p>
+<td rowspan="1" colspan="1">
+<p>Winnie Tan&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td width="300">
-<p>Gratitude and Blessing</p>
+<td rowspan="1" colspan="1">
+<p>Fathers’ Prayer Group&nbsp;</p>
 </td>
-<td width="301">
-<p>Dana Magnus</p>
-</td>
-</tr>
-<tr>
-<td width="300">
-<p>Membership &amp; Outreach</p>
-</td>
-<td width="301">
-<p>Irene Widiani, Geraldine Lim</p>
+<td rowspan="1" colspan="1">
+<p>Kirindeep Singh, Derek Yeo&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td width="300">
-<p>Hospitality &amp; Integration (Hi!) Programme</p>
+<td rowspan="1" colspan="1">
+<p>Gratitude and Blessing&nbsp;</p>
 </td>
-<td width="301">
-<p>Rebecca Vagenende</p>
-</td>
-</tr>
-<tr>
-<td width="300">
-<p>Merchandise</p>
-</td>
-<td width="301">
-<p>Stephanie Cheong</p>
+<td rowspan="1" colspan="1">
+<p>Dana Magnus&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td width="300">
-<p>Talks, Seminars &amp; Workshops</p>
+<td rowspan="1" colspan="1">
+<p>Membership &amp; Outreach&nbsp;</p>
 </td>
-<td width="301">
-<p>Eunice Tay</p>
-</td>
-</tr>
-<tr>
-<td width="300">
-<p>Information Technology &amp; Infrastructure</p>
-</td>
-<td width="301">
-<p>Choo Choon Teck, Aaron Goh</p>
+<td rowspan="1" colspan="1">
+<p>Geraldine Lim&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td width="300">
-<p>Marketing &amp; Branding</p>
+<td rowspan="1" colspan="1">
+<p>Hospitality &amp; Integration (Hi!) Programme&nbsp;</p>
 </td>
-<td width="301">
-<p>Choo Choon Teck, Aaron Goh</p>
+<td rowspan="1" colspan="1">
+<p>Rebecca Vagenende&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Merchandise&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tammy ???&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Talks, Seminars &amp; Workshops&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Eunice Tay&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Information Technology &amp; Infrastructure&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Joshua Duan&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Marketing &amp; Branding&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choo Choon Teck, Aaron Goh (t.b.d)&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>School Advisory</strong></p>
-<table width="600">
+<p>&nbsp;&nbsp;</p>
+<p><strong>School Advisory</strong>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td width="294">
-<p>Principal</p>
+<td rowspan="1" colspan="1">
+<p>Principal&nbsp;</p>
 </td>
-<td width="307">
-<p>Mr Arene Koh</p>
+<td rowspan="1" colspan="1">
+<p>Mr Arene Koh&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td width="294">
-<p>Deputy Principal</p>
+<td rowspan="1" colspan="1">
+<p>Deputy Principal&nbsp;</p>
 </td>
-<td width="307">
-<p>Mdm Yong Lee Har</p>
+<td rowspan="1" colspan="1">
+<p>Mdm Yong Lee Har&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
