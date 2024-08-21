@@ -39,6 +39,19 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eJournal-&amp;-eDatabase.aspx" rel="noopener noreferrer nofollow" target="_blank">JSTOR [ACS(I)]</a>
 </p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Library Digital Toolkit/Capture1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nas.gov.sg/archivesonline/" rel="noopener noreferrer nofollow" target="_blank">Archives Online (nas.gov.sg)</a>
+</p>
 </td>
 </tr>
 </tbody>
