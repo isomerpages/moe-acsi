@@ -152,7 +152,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11</p>
+<p><strong>11</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Facilities Coordinator 2IC</p>
