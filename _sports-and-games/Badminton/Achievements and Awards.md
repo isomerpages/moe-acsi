@@ -5,555 +5,1293 @@ description: ""
 third_nav_title: Badminton
 variant: tiptap
 ---
-### NATIONAL INTER-SCHOOL SOUTH ZONE BADMINTON CHAMPIONSHIPS RECORDS
-
-<table>
-<thead>
-  <tr>
-    <th> Year</th>
-    <th>C Division</th>
-    <th>B Division</th>
-  </tr>
-</thead>
+<h3>NATIONAL INTER-SCHOOL SOUTH ZONE BADMINTON CHAMPIONSHIPS RECORDS</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td>2022</td>
-    <td>Runner-up</td>
-    <td>Runner-up</td>
-  </tr>
-  <tr>
-    <td>2021</td>
-    <td>N.A.</td>
-    <td>Runner-up</td>
-  </tr>
-  <tr>
-    <td>2020</td>
-    <td>N.A.</td>
-    <td>N.A.</td>
-  </tr>
-  <tr>
-    <td>2019</td>
-    <td>Runner-up</td>
-    <td>Champions</td>
-  </tr>
-  <tr>
-    <td>2018</td>
-    <td>Runner-up</td>
-    <td>Champions</td>
-  </tr>
-  <tr>
-    <td>2017</td>
-    <td>Champions</td>
-    <td>Runner-up</td>
-  </tr>
-  <tr>
-    <td>2016</td>
-    <td>Runner-up</td>
-    <td>Champions</td>
-  </tr>
-  <tr>
-    <td>2015</td>
-    <td>Runner-up</td>
-    <td>Runner-up</td>
-  </tr>
-  <tr>
-    <td>2015</td>
-    <td>Runner-up</td>
-    <td>Runner-up</td>
-  </tr>
-  <tr>
-    <td>2014</td>
-    <td>Runner-up</td>
-    <td>Champions</td>
-  </tr>
-  <tr>
-    <td>2013</td>
-    <td>Runner-up</td>
-    <td>Champions</td>
-  </tr>
-  <tr>
-    <td>2012</td>
-    <td>Runner-up</td>
-    <td>Runner-up</td>
-  </tr>
-  <tr>
-    <td>2011</td>
-    <td>Runner-up</td>
-    <td>Runner-up</td>
-  </tr>
-  <tr>
-    <td>2010</td>
-    <td>Runner-up</td>
-    <td>Champions</td>
-  </tr>
-  <tr>
-    <td>2009</td>
-    <td>2nd Runner-up</td>
-    <td>Runner-up</td>
-  </tr>
-  <tr>
-    <td>2008</td>
-    <td>Runner-up</td>
-    <td>Champions</td>
-  </tr>
-  <tr>
-    <td>2007</td>
-    <td>Runner-up</td>
-    <td>Champions</td>
-  </tr>
-  <tr>
-    <td>2006</td>
-    <td>Champions</td>
-    <td>Runner-up</td>
-  </tr>
-  <tr>
-    <td>2005</td>
-    <td>Champions</td>
-    <td>Champions</td>
-  </tr>
-  <tr>
-    <td>2004</td>
-    <td>Runner-up</td>
-    <td>Champions</td>
-  </tr>
-  <tr>
-    <td>2003</td>
-    <td>Champions</td>
-    <td>Champions</td>
-  </tr>
-  <tr>
-    <td>2002</td>
-    <td>Champions</td>
-    <td>Runner-up</td>
-  </tr>
-  <tr>
-    <td>2001</td>
-    <td>Champions</td>
-    <td>Runner-up</td>
-  </tr>
-  <tr>
-    <td>2000</td>
-    <td>Champions</td>
-    <td>2nd Runner-up</td>
-  </tr>
-  <tr>
-    <td>1999</td>
-    <td>Runner-up</td>
-    <td>Runner-up</td>
-  </tr>
-  <tr>
-    <td>1998</td>
-    <td>Runner-up</td>
-    <td>Champions</td>
-  </tr>
-  <tr>
-    <td>1997</td>
-    <td>Runner-up</td>
-    <td>Champions</td>
-  </tr>
-  <tr>
-    <td>1996</td>
-    <td>Champions</td>
-    <td>Champions</td>
-  </tr>
-  <tr>
-    <td>1995</td>
-    <td>Champions</td>
-    <td>Champions</td>
-  </tr>
-  <tr>
-    <td>1994</td>
-    <td>2nd Runner-up</td>
-    <td>Champions</td>
-  </tr>
-  <tr>
-    <td>1993</td>
-    <td>Champions</td>
-    <td>Champions</td>
-  </tr>
-  <tr>
-    <td>1992</td>
-    <td>Champions</td>
-    <td>Champions</td>
-  </tr>
-  <tr>
-    <td>1991</td>
-    <td>Champions</td>
-    <td>Champions</td>
-  </tr>
-  <tr>
-    <td>1990</td>
-    <td>Champions</td>
-    <td>Champions</td>
-  </tr>
-  <tr>
-    <td>1989</td>
-    <td>Champions</td>
-    <td>Champions</td>
-  </tr>
-  <tr>
-    <td>1988</td>
-    <td>Champions</td>
-    <td>2nd Runner-up</td>
-  </tr>
-  <tr>
-    <td>1987</td>
-    <td>Champions</td>
-    <td>Champions</td>
-  </tr>
-  <tr>
-    <td>1986</td>
-    <td>Runner-up</td>
-    <td>Champions</td>
-  </tr>
-  <tr>
-    <td>1985</td>
-    <td>Champions</td>
-    <td>Champions</td>
-  </tr>
-  <tr>
-    <td>1984</td>
-    <td>Champions</td>
-    <td>Champions</td>
-  </tr>
-  <tr>
-    <td>1983</td>
-    <td>Champions</td>
-    <td>Runner-up</td>
-  </tr>
-  <tr>
-    <td>1982</td>
-    <td>Runner-up</td>
-    <td>Champions</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>C Division</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>B Division</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N.A.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N.A.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N.A.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2016</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2015</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2015</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2014</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2013</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2012</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2011</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2010</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2009</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2008</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2007</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2006</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2005</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2004</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2003</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2002</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2001</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1999</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1998</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1997</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1996</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1995</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1994</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1993</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1992</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1991</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1990</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1989</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1988</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1987</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1986</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1985</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1984</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1983</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1982</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-### NATIONAL INTER-SCHOOL BADMINTON CHAMPIONSHIPS RECORDS
-
-<table>
-<thead>
-  <tr>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-  </tr>
-</thead>
+<h3>NATIONAL INTER-SCHOOL BADMINTON CHAMPIONSHIPS RECORDS</h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td>Year</td>
-    <td>C Division</td>
-    <td>B Division</td>
-    <td>A Division</td>
-  </tr>
-  <tr>
-    <td>2022</td>
-    <td>N.A.</td>
-    <td>N.A.</td>
-    <td>2nd Runner-up</td>
-  </tr>
-  <tr>
-    <td>2021</td>
-    <td>N.A.</td>
-    <td>N.A.</td>
-    <td>N.A.</td>
-  </tr>
-  <tr>
-    <td>2020</td>
-    <td>N.A.</td>
-    <td>N.A.</td>
-    <td>N.A.</td>
-  </tr>
-  <tr>
-    <td>2019</td>
-    <td>2nd Runner-up</td>
-    <td>Runner-up</td>
-    <td>Champion</td>
-  </tr>
-  <tr>
-    <td>2018</td>
-    <td>2nd Runner-up</td>
-    <td>Runner-up</td>
-    <td>2nd Runner-up</td>
-  </tr>
-  <tr>
-    <td>2017</td>
-    <td>Champions</td>
-    <td>3rd Runner-up</td>
-    <td>Runner-up</td>
-  </tr>
-  <tr>
-    <td>2016</td>
-    <td>Runner-up</td>
-    <td>Runner-up</td>
-    <td>Quarter Final</td>
-  </tr>
-  <tr>
-    <td>2015</td>
-    <td>2nd Runner-up</td>
-    <td>2nd Runner-up</td>
-    <td>Runner-up</td>
-  </tr>
-  <tr>
-    <td>2014</td>
-    <td>2nd Runner-up</td>
-    <td>3rd Runner-up</td>
-    <td>Champions</td>
-  </tr>
-  <tr>
-    <td>2013</td>
-    <td>Runner-up</td>
-    <td>2nd Runner-up</td>
-    <td>Champions</td>
-  </tr>
-  <tr>
-    <td>2012</td>
-    <td>Runner-up</td>
-    <td>2nd Runner-up</td>
-    <td>Runner-up</td>
-  </tr>
-  <tr>
-    <td>2011</td>
-    <td>Runner-up</td>
-    <td>Quarter Final</td>
-    <td>Champions</td>
-  </tr>
-  <tr>
-    <td>2010</td>
-    <td>3rd Runner-up</td>
-    <td>Quarter Final</td>
-    <td>Champions</td>
-  </tr>
-  <tr>
-    <td>2009</td>
-    <td>3rd Runner-up</td>
-    <td>Quarter Final</td>
-    <td>2nd Runner-up</td>
-  </tr>
-  <tr>
-    <td>2008</td>
-    <td>Runner-up</td>
-    <td>2nd Runner-up</td>
-    <td>Runner-up</td>
-  </tr>
-  <tr>
-    <td>2007</td>
-    <td>Quarter Final</td>
-    <td>Quarter Final</td>
-    <td>Runner-up</td>
-  </tr>
-  <tr>
-    <td>2006</td>
-    <td>Runner-up</td>
-    <td>3rd Runner-up</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2005</td>
-    <td>3rd Runner-up</td>
-    <td>2nd Runner-up</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2004</td>
-    <td>Runner-up</td>
-    <td>Runner-up</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2003</td>
-    <td>Runner-up</td>
-    <td>Runner-up</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2002</td>
-    <td>Runner-up</td>
-    <td>3rd Runner-up</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2001</td>
-    <td>2nd Runner-up</td>
-    <td>3rd Runner-up</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2000</td>
-    <td>Champions</td>
-    <td>2nd Runner-up</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1999</td>
-    <td>Runner-up</td>
-    <td>Runner-up</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1998</td>
-    <td>2nd Runner-up</td>
-    <td>Champions</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1997</td>
-    <td>3rd Runner-up</td>
-    <td>Runner-up</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1996</td>
-    <td>Champions</td>
-    <td>Quarter Final</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1995</td>
-    <td>Champions</td>
-    <td>Runner-up</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1994</td>
-    <td>Runner-up</td>
-    <td>Champions</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1993</td>
-    <td>2nd Runner-up</td>
-    <td>Champions</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1992</td>
-    <td>Quarter Final</td>
-    <td>Champions</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1991</td>
-    <td>Champions</td>
-    <td>Champions</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1990</td>
-    <td>Champions</td>
-    <td>Champions</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1989</td>
-    <td>Runner-up</td>
-    <td>Champions</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1988</td>
-    <td>Champions</td>
-    <td>Champions</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1987</td>
-    <td>Champions</td>
-    <td>Champions</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1986</td>
-    <td>Runner-up</td>
-    <td>Champions</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1985</td>
-    <td>Champions</td>
-    <td>Champions</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1984</td>
-    <td>Champions</td>
-    <td>Champions</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1983</td>
-    <td>Champions</td>
-    <td>Champions</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1982</td>
-    <td>Runner-up</td>
-    <td>Champions</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1981</td>
-    <td>Champions</td>
-    <td>Champions</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1980</td>
-    <td>Runner-up</td>
-    <td>Champions</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1979</td>
-    <td>Champions</td>
-    <td>Champions</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1978</td>
-    <td>—</td>
-    <td>Champions</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1977</td>
-    <td>—</td>
-    <td>Champions</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1976</td>
-    <td>—</td>
-    <td>Champions</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1974</td>
-    <td>3rd Runner-up</td>
-    <td>Champions</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1973</td>
-    <td>—</td>
-    <td>Runner-up</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1972</td>
-    <td>Champions</td>
-    <td>2nd Runner-up</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1970</td>
-    <td>Champions</td>
-    <td>3rd Runner-up</td>
-    <td></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A Division</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N.A.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N.A.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N.A.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N.A.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N.A.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N.A.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N.A.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N.A.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2016</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quarter Final</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2015</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2014</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2013</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2012</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2011</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quarter Final</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2010</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quarter Final</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2009</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quarter Final</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2008</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2007</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quarter Final</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quarter Final</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2006</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2005</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2004</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2003</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2002</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2001</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1999</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1998</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1997</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1996</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quarter Final</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1995</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1994</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1993</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1992</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quarter Final</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1991</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1990</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1989</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1988</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1987</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1986</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1985</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1984</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1983</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1982</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1981</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1980</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1979</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1978</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>—</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1977</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>—</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1976</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>—</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1974</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1973</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>—</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1972</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1970</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-
-<img src="/images/WorldSchool.jpg" style="width:25%">
+<div class="isomer-image-wrapper">
+<img style="width:25%" height="auto" width="100%" src="/images/WorldSchool.jpg">
+</div>
+<p></p>
