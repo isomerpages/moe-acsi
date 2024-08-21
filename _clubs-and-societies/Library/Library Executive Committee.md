@@ -156,6 +156,18 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Facilities Coordinator 2IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ryan Choy J-En</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>12</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Facilities Officer (Y3)</p>
 <p>&nbsp;</p>
 </td>
