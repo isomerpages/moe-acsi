@@ -5,6 +5,48 @@ description: ""
 third_nav_title: Mathematics
 variant: tiptap
 ---
-<table style="box-sizing: border-box; border-collapse: collapse; min-width: 500px; margin-top: 0px; color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: border-box; margin-top: 0px;"><tr style="box-sizing: border-box; margin-top: 0px;"><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px;"><a style="box-sizing: border-box; background-color: transparent; font-size: 1em; font-family: Arial, sans-serif !important; outline-width: 0px; text-decoration: underline; margin-top: 0px;" href="https://eric.ed.gov/"><img alt="" src="/images/Library%20Digital%20Toolkit/ERIC-300x125.png" class="alignnone wp-image-19036" loading="lazy" width="200" height="83"></a></td><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px;"><a style="box-sizing: border-box; background-color: transparent; font-size: 1em; font-family: Arial, sans-serif !important; text-decoration: none; margin-top: 0px;" rel="noopener noreferrer" target="_blank" href="https://eric.ed.gov/">ERIC – Education Resources Information Center</a></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px;"><a style="box-sizing: border-box; background-color: transparent; font-size: 1em; font-family: Arial, sans-serif !important; text-decoration: none; margin-top: 0px;" href="https://doaj.org/"><img style="box-sizing: border-box; border-style: none; max-width: 100%; height: auto; margin: 0px 20px 20px 0px;" alt="" src="/images/Library%20Digital%20Toolkit/DOAJ.png" class="alignnone wp-image-19035" loading="lazy" width="200" height="92"></a></td><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px;"><a style="box-sizing: border-box; background-color: transparent; font-size: 1em; font-family: Arial, sans-serif !important; text-decoration: none; margin-top: 0px;" rel="noopener noreferrer" target="_blank" href="https://doaj.org/">DOAJ: Directory of Open Access Journals</a></td></tr></tbody></table>
-
-* * *
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="83" width="200" alt="" src="/images/Library%20Digital%20Toolkit/ERIC-300x125.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://eric.ed.gov/" rel="noopener noreferrer" target="_blank">ERIC – Education Resources Information Center</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; border-style: none; max-width: 100%; height: auto; margin: 0px 20px 20px 0px;" height="92" width="200" alt="" src="/images/Library%20Digital%20Toolkit/DOAJ.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://doaj.org/" rel="noopener noreferrer" target="_blank">DOAJ: Directory of Open Access Journals</a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Library Digital Toolkit/zbMATH.gif">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://zbmath.org/" rel="noopener noreferrer nofollow" target="_blank">Zentralblatt MATH&nbsp;(zbMATH)</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p></p>
