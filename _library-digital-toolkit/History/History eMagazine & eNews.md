@@ -93,6 +93,18 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="https://eresources.nlb.gov.sg/main/Browse?startsWith=P" rel="noopener noreferrer nofollow" target="_blank">Pressreader [NLB]</a>
 </p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Library Digital Toolkit/Capture2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://eresources.nlb.gov.sg/newspapers/" rel="noopener noreferrer nofollow" target="_blank">NewspaperSG</a>
+</p>
 </td>
 </tr>
 </tbody>
