@@ -40,88 +40,37 @@ applicants that only shortlisted candidates will be notified.</p>
 <p>We welcome qualified and highly motivated individuals with a strong passion
 for teaching of the following subjects to be part of the dynamic, creative
 and innovative teaching team.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Art and Design</strong>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Art and Design</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Secondary Levels</strong>
+<p>o&nbsp;&nbsp;&nbsp; <strong>Secondary Levels</strong>
 </p>
-</li>
-</ul>
-</li>
-<li>
-<p><strong>Business Management</strong>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Business Management</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Junior College Levels</strong>
+<p><strong>o&nbsp;&nbsp;&nbsp; Junior College Levels</strong>
 </p>
-</li>
-</ul>
-</li>
-<li>
-<p><strong>English Language &amp; Literature</strong>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Economics</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Secondary Levels</strong>
+<p>o&nbsp;&nbsp;&nbsp; <strong>Junior College Levels</strong>
 </p>
-</li>
-</ul>
-</li>
-<li>
-<p><strong>English Language &amp; Literature</strong>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>English Language &amp; Literature</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Junior College Levels</strong>
+<p>o&nbsp;&nbsp;&nbsp; <strong>Secondary Levels</strong>
 </p>
-</li>
-</ul>
-</li>
-<li>
-<p><strong>Physical Education</strong>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>English Language &amp; Literature</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Secondary Levels</strong>
+<p>o&nbsp;&nbsp;&nbsp; <strong>Junior College Levels</strong>
 </p>
-</li>
-</ul>
-</li>
-<li>
-<p><strong>Tamil Language</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Secondary Levels</strong>
-</p>
-</li>
-</ul>
-</li>
-</ul>
 <p><strong><u>Executive and Support Staff</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Estate Development Officer (Estate Development Department)</strong>
+<p><strong>Estate Development Manager/Deputy Estate Development Manager</strong>
 </p>
 </li>
 <li>
-<p><strong>Finance Officer (Finance Department)</strong>
-</p>
-</li>
-<li>
-<p><strong>School Counsellor (Agape Counselling Department)</strong>
+<p><strong>Estate Development Officer</strong>
 </p>
 </li>
 </ul>
 <p>Interested applicants, please email your resume to&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">lilliantan@acsindep.edu.sg</a>
-</p>
-<p>For relief teaching positions, applicants must be a registered relief
-teacher with MOE under REMS (Employment Management System). Interested
-applicants, please email your resume, Education Certifications and Transcripts
-to:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">homeihoe@acsindep.edu.sg</a>
 </p>
