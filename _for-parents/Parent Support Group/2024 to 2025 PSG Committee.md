@@ -11,15 +11,21 @@ variant: tiptap
 <tr></tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_picture.jpg">
+</div>
 <table style="width: 0px">
 <colgroup></colgroup>
 <tbody>
 <tr></tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GetImage.jpg">
-</div>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -32,6 +38,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Choo Choon Teck&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice Chairperson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aaron Goh</p>
 </td>
 </tr>
 <tr>
@@ -104,7 +118,7 @@ variant: tiptap
 <p>Merchandise&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tammy</p>
+<p>Tammy Gan / Stephanie Cheong</p>
 </td>
 </tr>
 <tr>
@@ -128,7 +142,7 @@ variant: tiptap
 <p>Marketing &amp; Branding&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Choo Choon Teck, Aaron Goh (t.b.d)&nbsp;</p>
+<p>Choo Choon Teck, Aaron Goh&nbsp;</p>
 </td>
 </tr>
 </tbody>
