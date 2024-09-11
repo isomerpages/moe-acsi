@@ -3,14 +3,23 @@ title: Teachers & EXCO Members
 permalink: /healthfitness/teachers/
 description: ""
 third_nav_title: Health and Fitness Club
-variant: markdown
+variant: tiptap
 ---
-### &nbsp;**Dr. Christine Chan <br> [christinechanbl@acsindep.edu.sg](mailto:christinechanbl@acsindep.edu.sg)**
-
-### **Amber Dachlan 6.04 (Chair/President) [19amber.dachlan@acsians.acsi.edu.sg](mailto:19amber.dachlan@acsians.acsi.edu.sg)**&nbsp;
-
-### **Mehsabir Mehsabir 6.12 (Exco member) [19mehsabir@acsians.acsi.edu.sg](mailto:19mehsabir@acsians.acsi.edu.sg)**
-
-### **Tan Yu Yang, Jaden 6.04 (Exco member) [19tan.yu.yang.jaden@acsians.acsi.edu.sg](mailto:19tan.yu.yang.jaden@acsians.acsi.edu.sg)**
-
-### **Nyeo Zi Xin Kieran 6.01 (Exco member) &nbsp;[19nyeo.zi.xin.kieran@acsians.acsi.edu.sg](mailto:19nyeo.zi.xin.kieran@acsians.acsi.edu.sg)**
+<h2>Dr. Christine Chan</h2>
+<h2><a rel="noopener noreferrer nofollow" target="_blank">christinechanbl@acsindep.edu.sg</a></h2>
+<h2>&nbsp;</h2>
+<h2>Hamza Asim 5.11 (Co-Chair/President)</h2>
+<h2><a rel="noopener noreferrer nofollow" target="_blank">20hamza.asim@acsians.acsi.edu.sg</a></h2>
+<h2>&nbsp;</h2>
+<h2>Yoon Sae Young 5.01 (Co-Chair/President)</h2>
+<h2><a rel="noopener noreferrer nofollow" target="_blank">20yoon.sae.young@acsians.acsi.edu.sg</a></h2>
+<h2>&nbsp;</h2>
+<h2>Lucas Yeo Zong Yu 5.10 (EXCO)</h2>
+<h2><a rel="noopener noreferrer nofollow" target="_blank">20lucas.yeo.zong.yu@acsians.acsi.edu.sg</a></h2>
+<h2>&nbsp;</h2>
+<h2>Trina Lim Hsin Yi 5.11 (EXCO)</h2>
+<h2><a rel="noopener noreferrer nofollow" target="_blank">20lim.hsin.yi.trina@acsians.acsi.edu.sg</a></h2>
+<h2>&nbsp;</h2>
+<h2>Eve Tan Rui Ying 5.03 (EXCO)</h2>
+<h2><a rel="noopener noreferrer nofollow" target="_blank">20eve.tan.rui.ying@acsians.acsi.edu.sg</a></h2>
+<p></p>
