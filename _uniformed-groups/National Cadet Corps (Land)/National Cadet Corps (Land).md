@@ -3,13 +3,13 @@ title: National Cadet Corps (Land)
 permalink: /nccland/
 description: ""
 third_nav_title: National Cadet Corps (Land)
+variant: markdown
 ---
-<img src="/images/NCC-Logo.jpg" 
-     style="width:60%">
+<img src="/images/NCC-Logo.jpg" style="width:60%">
 
 National Cadet Corps (Land)
 
-**NCC – Nurturing. Committed.** **Cool.**
+**NCC – Nurturing. Committed.**&nbsp;**Cool.**
 
 Vision
 
@@ -18,8 +18,6 @@ Vision
 Mission
 
 **To Nurture Inspiring Leaders And Committed Citizens Through Fun, Adventurous And Military-related Activities**
-
-[http://ncc.org.sg/](http://ncc.org.sg/)
 
 [https://www.facebook.com/sgncc.hq/](https://www.facebook.com/sgncc.hq/)
 
@@ -61,7 +59,7 @@ Role modeling and influencing fellow-cadets to aspire to their highest potential
 
 Timely execution of tasks that have to be done, even though they might be difficult and painful, and doing them to the best of one’s ability; self-discipline that produces mental and physical resilience and strength.
 
-**Commitment & Responsibility**
+**Commitment &amp; Responsibility**
 
 Taking training seriously and aspiring to benefit optimally from the experiences; show of dedication and pride to the Corps.
 
@@ -109,7 +107,7 @@ We are the NCC (Repeat x3)
 
 229 Ang Mo Kio Street 66 Singapore 567759
 
-For HQ NCC Map & Buses click on [HQ NCC Map & Buses](https://www.acsindep.moe.edu.sg/wp-content/uploads/2018/09/HQ-NCC-Map-Buses.pdf)
+For HQ NCC Map &amp; Buses click on&nbsp;[HQ NCC Map &amp; Buses](https://www.acsindep.moe.edu.sg/wp-content/uploads/2018/09/HQ-NCC-Map-Buses.pdf)
 
 **Currently for uniform kit exchange (exchange old uniform/boots for new uniform/boots), only TEACHER OFFICERS are allowed to go to the NCC Logistics Branch to do uniform kit exchange for the cadets.**
 
