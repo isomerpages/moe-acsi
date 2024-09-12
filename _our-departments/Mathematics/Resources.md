@@ -3,14 +3,12 @@ title: Resources
 permalink: /departments/mathematics/resources/
 description: ""
 third_nav_title: Mathematics
+variant: markdown
 ---
-
-# links broken: Sketchcast, Mathematics PlaySpace (MaPS),GeoGebra, speed app,Dabbleboard
 
 You may want to explore the following interesting sites related to mathematics competition
 
 [Mathematics competition resources](/mathcompetition/announcements/)    
-[National Library of Virtual Manipulatives](http://nlvm.usu.edu/en/nav/vlibrary.html)   
 [speed app2](http://www.phy.ntnu.edu.tw/ntnujava/index.php?topic=2589.0)   
 [Mathematics PlaySpace (MaPS)](http://tinyurl.com/mathematicsplayspace)   
 [GeoGebra](http://www.geogebra.org/cms/)   
