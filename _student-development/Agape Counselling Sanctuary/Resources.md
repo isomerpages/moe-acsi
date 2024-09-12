@@ -86,9 +86,9 @@ ADHD
 
   Emotional Resilience
 
-*   [Nurturing Emotional Resilience](http://sites.acsindep.edu.sg/counselling/uploads/Nuturing%20Emotional%20Resilience%20(ACSI%202010).ppt)
+*   [Nurturing Emotional Resilience](https://sites.acsindep.edu.sg/counselling/uploads/Nuturing%20Emotional%20Resilience%20(ACSI%202010).ppt)
 *   [Resilience Booklet](/files/Resilience%20Booklet.pdf)
-*   [The Resilient Practitioner by Maureen Neihart (Slides with notes)](http://sites.acsindep.edu.sg/counselling/uploads/The%20Resilient%20Practitioner%20by%20Maureen%20Neihart%20(Slides%20with%20notes)_110511.pdf)
+*   [The Resilient Practitioner by Maureen Neihart (Slides with notes)](https://sites.acsindep.edu.sg/counselling/uploads/The%20Resilient%20Practitioner%20by%20Maureen%20Neihart%20(Slides%20with%20notes)_110511.pdf)
 *   [Building Resilient Kids by Marion Neubronner (slides with notes)](/files/Building_Resilient_Kids_by_Marion_Neubronner_(slides%20with%20notes)_12052011.pdf)
 *   [Research on Resilience in Singapore 2011](/files/Research%20on%20Resilience%20in%20Singapore%202011.pdf)
 *   [Emotional Resilience – Cyberbullying](http://sites.acsindep.edu.sg/counselling/Cyber%20bullying/ACSI%20Chapel%202011%20v2.ppsx)
@@ -114,7 +114,6 @@ Managing Transition
 General Resources (for teachers and parents)
 
 *   [How To Tell If Your Child Has A Substance Abuse Issue | A Comprehensive Guide For Parents](https://www.arkbh.com/child-substance-abuse-issue/)
-*   [Resources on Addictions by IMH](https://www.imh.com.sg/clinical/page.aspx?id=246)
 *   [Suicide: Curb the impulse, save a life (Source: The Straits Times © Singapore Press Holdings Limited. Permission required for reproduction)](/files/20200921_Suicide-Curb-the-impulse-save-a-life_ST.pdf)
 *   [How to talk to your kids about their mental health](https://www.nbcnews.com/better/lifestyle/how-talk-your-kids-about-their-mental-health-ncna1006396)
 *   [Parents as Allies in Children’s Well-Being](/files/HowAreYou.pdf)
