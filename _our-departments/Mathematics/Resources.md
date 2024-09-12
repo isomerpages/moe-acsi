@@ -5,23 +5,17 @@ description: ""
 third_nav_title: Mathematics
 variant: markdown
 ---
-
 You may want to explore the following interesting sites related to mathematics competition
 
 [Mathematics competition resources](/mathcompetition/announcements/)    
 [speed app2](http://www.phy.ntnu.edu.tw/ntnujava/index.php?topic=2589.0)   
-[Mathematics PlaySpace (MaPS)](http://tinyurl.com/mathematicsplayspace)   
-[GeoGebra](http://www.geogebra.org/cms/)   
+[GeoGebra](http://www.geogebra.org/)   
 [Arcademic Skill Builders](http://www.arcademicskillbuilders.com/)   
-[speed app](https://dl.dropbox.com/u/24511248/JaveEJS/ejs_PriMathSpeedV8.jar)   
-[Dabbleboard](http://dabbleboard.com/)   
 [MathSnacks](http://www.mathsnacks.org/)   
-[MathVids](http://www.mathvids.com/)    
 [Prezi](http://prezi.com/)   
 [Math Apprentice](http://www.mathapprentice.com/)   
 [Interactive Mathematics](http://www.intmath.com/)   
-[Sketchcast](http://sketchcast.com/)   
-[MathTV](http://www.mathtv.com/videos_by_topic)   
+[MathTV](http://www.mathtv.com/)   
 [KidsNumbers](http://www.kidsnumbers.com/)   
 [Voicethread](http://voicethread.com/)   
 [HippoCampus](http://www.hippocampus.org/)   
