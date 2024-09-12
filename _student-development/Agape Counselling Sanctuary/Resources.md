@@ -32,12 +32,7 @@ _Home care learning_
 *   [Parent Kit](https://www.moe.gov.sg/parentkit)
 *   [National Care Hotline now ready for calls after 300 specialists volunteer to help man the 24-hour hotline](https://www.straitstimes.com/singapore/health/national-care-hotline-now-ready-for-calls-after-300-specialists-volunteer-to-help)
 *   [Free Webinar Series: Leading Through Uncertain Times](https://info.peoplekeys.com/leading-through-uncertain-times-webinar?utm_campaign=Leadership&utm_medium=email&_hsenc=p2ANqtz-_tuNe3sRS6N8uj9LvCK6q_rWSlkn53WwP8kAIeTdIpHQYfnDUhXORpKy56YnRKg3DAS513r4SD52QJZHK-RESZZSdCeA&_hsmi=86425648&utm_source=hs_email&utm_content=86425648&hsCtaTracking=e375b18a-315c-4c2d-a09a-42b74d9b7ec4%7Cfa01ab4a-25c9-4f99-b9ec-9dda96cade5f)
-*   [Coronavirus: 7 Ways to Thrive Under Home-based Learning](https://www.family.org.sg/FOTFS/In_The_Press/coronavirus_7_ways_to_thrive_under_home_based_learning.aspx)
-*   [How Your Marriage Can Survive the Coronavirus](https://www.family.org.sg/FOTFS/Blog/Marriage/how_your_marriage_can_survive_the_coronavirus.aspx)
-*   [Tips for Parents for Working from Home](https://www.nie.edu.sg/teacher-education/useful-resources-for-HBL-WFH/tips-for-parents-for-working-from-home-(wfh))
-*   [Working and Learning from Home During the COVID-19 Outbreak](https://www.healthychildren.org/English/health-issues/conditions/chest-lungs/Pages/Working-and-Learning-from-Home-During-the-COVID-19-Outbreak.aspx)
 *   [Five tips for keeping kids learning at home](https://pursuit.unimelb.edu.au/articles/five-tips-for-keeping-kids-learning-at-home)
-*   [Commentary: Home-based learning is strange, new ground. But we can conquer that too](https://www.channelnewsasia.com/news/commentary/coronavirus-covid-19-home-based-e-learning-moe-school-teacher-12624202)
 *   [Commentary: The joys and frustrations of home-based learning](https://www.channelnewsasia.com/news/commentary/home-based-learning-covid-19-coronavirus-singapore-tips-parents-12618236)
 *   [BigLove Parentings Tips](/files/BigLove-Parentings-Tips.pdf)
 
@@ -45,15 +40,12 @@ _Managing exam stress_
 
 *   [It’s exams time for parents bookmark](/files/It's%20exams%20time_for%20parents_bookmark%20(2).pdf)
 *   [Students and Stress: What Can I Do as a Parent to Help My Child?](http://singteach.nie.edu.sg/issue60-contributions01/)
-*   [How to Overcome Exam Stress Together: 4 ways you and your child can enjoy preparing for the exams](https://www.family.org.sg/FOTFS/Blog/Parenting/How_to_Overcome_Exam_Stress_Together.aspx)
 *   [Helping your child cope with exam anxiety](https://www.todayonline.com/lifestyle/helping-your-child-cope-exam-anxiety)
 *   [4 tips to help your child manage stress](https://www.schoolbag.sg/story/four-tips-to-help-your-child-manage-stress)
 
 _Building positive relationships_
 
 *   [Building a Relationship with Your Teen](http://www.thesuccessfulparent.com/categories/adolescence/item/building-a-relationship-with-your-teen)
-*   [Healthy Parent-Child Relationships: Setting Limits](https://www.hhs.gov/ash/oah/adolescent-development/healthy-relationships/parents-child/setting-limits/index.html)
-*   [5 Ways to Build a Strong Bond with Your Teen](https://childdevelopmentinfo.com/family-building/5-ways-to-build-a-strong-bond-with-your-teen/#.W6w3rWgzZPZ)
 *   [Teen Communication: How to Talk to a Teenager](https://childdevelopmentinfo.com/parenting/how-to-talk-to-a-teenager/#.W6w4lGgzZPZ)
 *   [10 Tips for Improving Parent-Teen Relationships](https://www.huffingtonpost.com/annie-fox/10-tips-for-improving-parent-teen-relationships_b_6737916.html)
 
