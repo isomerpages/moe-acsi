@@ -3,10 +3,11 @@ title: Links
 permalink: /npccland/links/
 description: ""
 third_nav_title: National Police Cadet Corps
+variant: markdown
 ---
 *   **NPCC website**
 
-[http://www.npcc.gov.sg](http://www.npcc.gov.sg/)
+[https://www.npcc.org.sg/](https://www.npcc.org.sg/)
 
 *   **NPCC Home-Based Learning website**
 
