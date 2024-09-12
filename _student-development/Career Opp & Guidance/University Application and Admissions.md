@@ -193,7 +193,7 @@ deadlines and course information can be found on the university websites.</p>
 <p>Switzerland</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://swisseducationfair.org/visitor/studying-in-switzerland/" rel="noopener noreferrer nofollow" target="_blank">http://swisseducationfair.org/visitor/studying-in-switzerland/</a>
+<p><a href="https://studyinginswitzerland.com/" rel="noopener noreferrer nofollow" target="_blank">https://studyinginswitzerland.com/</a>
 <br>
 <br>
 </p>
