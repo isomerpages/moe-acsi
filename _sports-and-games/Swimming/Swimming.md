@@ -3,6 +3,7 @@ title: Swimming
 permalink: /swimming/
 description: ""
 third_nav_title: Swimming
+variant: markdown
 ---
 ![](/images/Picture1.png)
 
@@ -71,24 +72,6 @@ Zheng Wen Quah  : [https://www.youtube.com/watch?v=93D6oVVmdqQ](https://www.yo
 SEA Games 2019 relay: [https://www.youtube.com/watch?v=RK33HXSVBuM](https://www.youtube.com/watch?v=RK33HXSVBuM)
 
 Some news articles
-
-[https://www.channelnewsasia.com/news/sport/sea-games-2019-swimming-jonathan-tan-teong-tzen-wei-record-12166622](https://www.channelnewsasia.com/news/sport/sea-games-2019-swimming-jonathan-tan-teong-tzen-wei-record-12166622)
-
-[https://www.channelnewsasia.com/news/sport/teong-tzen-wei-beat-joseph-schooling-swimming-sea-games-2019-12155672](https://www.channelnewsasia.com/news/sport/teong-tzen-wei-beat-joseph-schooling-swimming-sea-games-2019-12155672)
-
-[https://www.channelnewsasia.com/news/sport/sea-games-2019-joseph-schooling-gold-100m-butterfly-12160220](https://www.channelnewsasia.com/news/sport/sea-games-2019-joseph-schooling-gold-100m-butterfly-12160220)
-
-[https://www.channelnewsasia.com/news/sport/sea-games-2019-quah-zheng-wen-mvp-most-valuable-male-athlete-12176152](https://www.channelnewsasia.com/news/sport/sea-games-2019-quah-zheng-wen-mvp-most-valuable-male-athlete-12176152)
-
-[https://www.channelnewsasia.com/news/singapore/sea-games-2019-swimming-darren-chua-joseph-schooling-freestyle-12165250](https://www.channelnewsasia.com/news/singapore/sea-games-2019-swimming-darren-chua-joseph-schooling-freestyle-12165250)
-
-[https://www.channelnewsasia.com/news/sport/sea-games-2019-darren-chua-swimming-gold-profile-12171628](https://www.channelnewsasia.com/news/sport/sea-games-2019-darren-chua-swimming-gold-profile-12171628)
-
-[http://www.swimming.org.sg/SSA/NEWS-MEDIA/Latest-News/Archived-News/2019/Lionel-Khoo-wins-Singapore-s-first-breaststroke-go.aspx](http://www.swimming.org.sg/SSA/NEWS-MEDIA/Latest-News/Archived-News/2019/Lionel-Khoo-wins-Singapore-s-first-breaststroke-go.aspx)
-
-### Noah Lim, also a swimmer represented Singapore for jiu-jitsu and won a gold medal.
-
-[https://www.channelnewsasia.com/news/sport/sea-games-2019-noah-lim-jiu-jitsu-gold-singapore-martial-arts-12167680](https://www.channelnewsasia.com/news/sport/sea-games-2019-noah-lim-jiu-jitsu-gold-singapore-martial-arts-12167680)
 
 [https://www.straitstimes.com/sport/sea-games-noah-lim-submits-thai-opponent-to-win-jiu-jitsu-gold-for-singapore](https://www.straitstimes.com/sport/sea-games-noah-lim-submits-thai-opponent-to-win-jiu-jitsu-gold-for-singapore)
 
