@@ -5,4 +5,90 @@ description: ""
 third_nav_title: Career Opp & Guidance
 variant: tiptap
 ---
-<table width="100%" border="1"><tbody><tr><td style="text-align: center;" colspan="2"><strong>GENERAL INFORMATION</strong></td></tr><tr><td><strong>ECG Website</strong></td><td><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance">https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance</a></td></tr><tr><td><strong>Schoolbag Website</strong></td><td><a href="https://www.schoolbag.edu.sg/">https://www.schoolbag.edu.sg/</a></td></tr><tr><td><strong>ECG Parent Guide</strong></td><td><a href="https://go.gov.sg/ecgparentguide">https://go.gov.sg/ecgparentguide</a></td></tr><tr><td style="text-align: center;" colspan="2">&nbsp;<strong>INFORMATION ON SEC &amp; POST-SEC EDUCATION</strong></td></tr><tr><td><strong>Post-Sec Education Options</strong></td><td><a href="http://www.moe.gov.sg/education/post-secondary">www.moe.gov.sg/education/post-secondary</a></td></tr><tr><td><strong>What’s Next (After O Level)</strong></td><td><a href="https://www.moe.gov.sg/-/media/files/programmes/ecg/whats-next-o-level.ashx?la=en&amp;hash=555A5ECD895D93910DFF28299017A3B2B1A15F68">https://www.moe.gov.sg/-/media/files/programmes/ecg/whats-next-o-level.ashx?la=en&amp;hash=555A5ECD895D93910DFF28299017A3B2B1A15F68</a></td></tr><tr><td style="text-align: center;" colspan="2"><strong>INFORMATION ON INSTITUTES OF HIGHER LEARNING</strong></td></tr><tr><td><strong>Autonomous Universities in Singapore</strong></td><td><a href="https://www.moe.gov.sg/post-secondary/overview/autonomous-universities/">https://www.moe.gov.sg/post-secondary/overview/autonomous-universities/</a></td></tr></tbody></table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>GENERAL INFORMATION</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ECG Website</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Schoolbag Website</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ECG Parent Guide</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.pdf</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>&nbsp;<strong>INFORMATION ON SEC &amp; POST-SEC EDUCATION</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Post-Sec Education Options</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.moe.gov.sg/education/post-secondary" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/education/post-secondary</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>What’s Next (After O Level)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/-/media/files/programmes/ecg/whats-next-o-level.ashx?la=en&amp;hash=555A5ECD895D93910DFF28299017A3B2B1A15F68" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/programmes/ecg/whats-next-o-level.ashx?la=en&amp;hash=555A5ECD895D93910DFF28299017A3B2B1A15F68</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>INFORMATION ON INSTITUTES OF HIGHER LEARNING</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Autonomous Universities in Singapore</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/post-secondary/overview/autonomous-universities/" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/overview/autonomous-universities/</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
