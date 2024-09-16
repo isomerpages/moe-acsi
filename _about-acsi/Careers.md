@@ -25,25 +25,17 @@ variant: markdown
 <li><strong>Junior College Levels</strong></li>
 </ul>
 </li>
-<li><strong>Economics</strong>
-<ul>
-<li><strong>Junior College Levels</strong></li>
-</ul>
-</li>
-<li><strong>English Language &amp; Literature</strong>
+<li><strong>Geography</strong>
 <ul>
 <li><strong>Secondary Levels</strong></li>
 </ul>
 </li>
-<li><strong>English Language &amp; Literature</strong>
+<li><strong>Mathematics</strong>
 <ul>
-<li><strong>Junior College Levels</strong></li>
+<li><strong>Secondary Levels</strong></li>
 </ul>
 </li>
 </ul>
-<p><strong><u>Executive and Support Staff</u></strong></p>
-<ul>
-<li><strong>Estate Development Manager/Deputy Estate Development Manager</strong></li>
-<li><strong>Estate Development Officer</strong></li>
-</ul>
+
+
 <p>Interested applicants, please email your resume to&nbsp;lilliantan@acsindep.edu.sg</p>
