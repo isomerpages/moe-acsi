@@ -2,6 +2,7 @@ collections:
   talent-development:
     output: true
     order:
+      - "ACis/ACis: Advanced Class for Integrative Studies.md"
       - ACis/.keep
       - Talent Development.md
       - 3 Year Programme for Athletes/.keep
