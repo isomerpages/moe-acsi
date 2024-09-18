@@ -2,8 +2,6 @@ collections:
   talent-development:
     output: true
     order:
-      - "ACis/ACis: Advanced Class for Integrative Studies.md"
-      - ACis/.keep
       - Talent Development.md
       - 3 Year Programme for Athletes/.keep
       - 3 Year Programme for Athletes/3 Year IB Diploma Programme for High
@@ -18,6 +16,8 @@ collections:
       - ACH/Programmes.md
       - ACH/Frequently Asked Questions.md
       - "ACS: Accelerated Class for Science.md"
+      - ACis/.keep
+      - "ACis/ACis: Advanced Class for Integrative Studies.md"
       - "ASP: Advanced Science Programme.md"
       - ACSians In Action.md
       - Experiential Learning/.keep
