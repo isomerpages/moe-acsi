@@ -12,9 +12,10 @@ Programme. The ACis aims to help students develop a deeper understanding
 of the Humanities subjects through structured enrichment opportunities.
 Students will also engage in inter-disciplinary learning through these
 opportunities.&nbsp;</p>
-<p>The ACis is one of the&nbsp;Humanities Talent Development Programmes offered
-by ACS (Independent), the other programmes being the <a href="https://www.acsindep.moe.edu.sg/talent-development/humanities-scholarship-programme/" rel="noopener noreferrer nofollow" target="_blank">Humanities Scholarship &amp; Programme (for Year 5 &amp; 6 students)</a> and
-the <a href="https://www.acsindep.moe.edu.sg/talent-development/accelerated-class-for-humanities-ach/" rel="noopener noreferrer nofollow" target="_blank">Accelerated Class for Humanities (for Year 3 &amp; 4 students in the Integrated Programme)</a>.&nbsp;</p>
+<p>The ACis is one of the Humanities Talent Development Programmes offered
+by ACS (Independent), the other programmes being the <a href="https://www.acsindep.moe.edu.sg/advanced-class-for-integrative-studies/" rel="noopener noreferrer nofollow" target="_blank">Advanced Class for Integrative Studies (for Year 5 and 6 students)</a> and
+the <a href="https://www.acsindep.moe.edu.sg/talent-development/accelerated-class-for-humanities-ach/" rel="noopener noreferrer nofollow" target="_blank">Accelerated Class for Humanities (for Year 3 &amp; 4 students in the Integrated Programme).</a>
+</p>
 <p><strong>Eligibility</strong>
 </p>
 <p>The ACis is open for application to students of all nationalities who:</p>
