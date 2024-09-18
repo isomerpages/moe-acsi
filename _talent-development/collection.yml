@@ -16,9 +16,10 @@ collections:
       - ACH/Programmes.md
       - ACH/Frequently Asked Questions.md
       - "ACS: Accelerated Class for Science.md"
-      - Advanced Class for Integrative Studies.md
-      - Advanced Science Programme/.keep
-      - Advanced Science Programme/Advanced Science Programme.md
+      - ACis/Frequently Asked Questions.md
+      - ACis/.keep
+      - "ACis/ACis: Advanced Class for Integrative Studies.md"
+      - "ASP: Advanced Science Programme.md"
       - ACSians In Action.md
       - Experiential Learning/.keep
       - Experiential Learning/Experiential Learning.md
@@ -34,6 +35,7 @@ collections:
       - HSP/Signature Programmes.md
       - HSP/The HSP Class.md
       - HSP/Overseas Enrichment Programme Gallery.md
+      - HSP/Frequently Asked Questions.md
       - Music Elective Programme.md
       - Regional Studies Programme/.keep
       - Regional Studies Programme/Regional Studies Programme.md
