@@ -24,7 +24,9 @@ place on&nbsp;<strong>2 Nov (Sat)</strong>&nbsp;at&nbsp;<a rel="noopener norefer
 <p><a href="/files/Announcements &amp;amp; News/ACS_I__Water_Polo_Academy_brochure_for_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Water Polo Academy 2025 Registration</a>
 </p>
 </li>
-</ul><a class="isomer-image-wrapper" href="/files/Announcements &amp;amp; News/ACS_I__Water_Polo_Academy_brochure_for_2025.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACS_I__Water_Polo_Academy_brochure_for_2025.jpg"></a>
+</ul>
+<p><a href="/files/ACS_I__Water_Polo_Academy_brochure_for_2025.pdf" rel="noopener nofollow" target="_blank">12345</a>
+</p><a class="isomer-image-wrapper" href="/files/Announcements &amp;amp; News/ACS_I__Water_Polo_Academy_brochure_for_2025.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACS_I__Water_Polo_Academy_brochure_for_2025.jpg"></a>
 <ul data-tight="true" class="tight">
 <li>
 <p>For enquiries on the water polo programme/training matters, please email:&nbsp;
