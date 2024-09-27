@@ -5,62 +5,127 @@ description: ""
 third_nav_title: Badminton
 variant: tiptap
 ---
-<table>
-<thead>
-  <tr>
-    <th style="width:200px"></th>
-    <th style="width:200px"></th>
-    <th style="width:200px"></th>
-		<th style="width:200px"></th>
-  </tr>
-</thead>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td style="text-align:center"><a href="/images/badminton%201.jpeg"> <img src="/images/badminton%201.jpeg" style="width:200px"></a></td>
-    <td style="text-align:center"><a href="/images/badminton%202.jpeg"> <img src="/images/badminton%202.jpeg" style="width:200px"></a></td>
-    <td style="text-align:center"><a href="/images/badminton%203.jpeg"> <img src="/images/badminton%203.jpeg" style="width:200px; height: 130px"></a></td>
-    <td style="text-align:center"><a href="/images/badminton%204.jpeg"> <img src="/images/badminton%204.jpeg" style="width:200px"></a></td>
-  </tr>
-   <tr>
-    <td style="text-align:center"><a href="/images/badminton%205.jpeg"> <img src="/images/badminton%205.jpeg" style="width:200px; height: 130px"></a></td>
-    <td style="text-align:center"><a href="/images/badminton%206.jpeg"> <img src="/images/badminton%206.jpeg" style="width:200px"></a></td>
-    <td style="text-align:center"><a href="/images/badminton%207.jpeg"> <img src="/images/badminton%207.jpeg" style="width:200px"></a></td>
-    <td style="text-align:center"><a href="/images/badminton%208.jpeg"> <img src="/images/badminton%208.jpeg" style="width:200px"></a></td>
-  </tr>
-	<tr>
-    <td style="text-align:center"><a href="/images/badminton%209.jpeg"> <img src="/images/badminton%209.jpeg" style="width:200px; height: 130px"></a></td>
-    <td style="text-align:center"><a href="/images/badminton%2010.jpeg"> <img src="/images/badminton%2010.jpeg" style="width:200px"></a></td>
-		<td style="text-align:center"><a href="/images/badminton%2011.jpeg"> <img src="/images/badminton%2011.jpeg" style="width:200px"></a></td>
-		<td style="text-align:center"><a href="/images/badminton%2012.jpeg"> <img src="/images/badminton%2012.jpeg" style="width:200px"></a></td>
-	</tr>
-	<tr>
-    <td style="text-align:center"><a href="/images/badminton%2013.jpeg"> <img src="/images/badminton%2013.jpeg" style="width:200px; height: 130px"></a></td>
-    <td style="text-align:center"><a href="/images/badminton%2014.jpeg"> <img src="/images/badminton%2014.jpeg" style="width:200px"></a></td>
-		<td style="text-align:center"><a href="/images/badminton%2015.jpeg"> <img src="/images/badminton%2015.jpeg" style="width:200px"></a></td>
-		<td style="text-align:center"><a href="/images/badminton%2016.jpeg"> <img src="/images/badminton%2016.jpeg" style="width:200px"></a></td>
-	</tr>
-	<tr>
-    <td style="text-align:center"><a href="/images/badminton%2017.jpeg"> <img src="/images/badminton%2017.jpeg" style="width:200px; height: 130px"></a></td>
-    <td style="text-align:center"><a href="/images/badminton%2018.jpeg"> <img src="/images/badminton%2018.jpeg" style="width:200px"></a></td>
-		<td style="text-align:center"><a href="/images/badminton%2019.jpeg"> <img src="/images/badminton%2019.jpeg" style="width:200px"></a></td>
-		<td style="text-align:center"><a href="/images/badminton%2020.jpeg"> <img src="/images/badminton%2020.jpeg" style="width:200px"></a></td>
-	</tr>
-	<tr>
-    <td style="text-align:center"><a href="/images/badminton%2021.jpeg"> <img src="/images/badminton%2021.jpeg" style="width:200px; height: 130px"></a></td>
-    <td style="text-align:center"><a href="/images/badminton%2022.jpeg"> <img src="/images/badminton%2022.jpeg" style="width:200px"></a></td>
-		<td style="text-align:center"><a href="/images/badminton%2023.jpeg"> <img src="/images/badminton%2023.jpeg" style="width:200px"></a></td>
-		<td style="text-align:center"><a href="/images/badminton%2024.jpeg"> <img src="/images/badminton%2024.jpeg" style="width:200px"></a></td>
-	</tr>
-	<tr>
-    <td style="text-align:center"><a href="/images/badminton%2025.jpeg"> <img src="/images/badminton%2025.jpeg" style="width:200px; height: 130px"></a></td>
-    <td style="text-align:center"><a href="/images/badminton%2026.jpeg"> <img src="/images/badminton%2026.jpeg" style="width:200px"></a></td>
-		<td style="text-align:center"><a href="/images/badminton%2027.jpeg"> <img src="/images/badminton%2027.jpeg" style="width:200px"></a></td>
-		<td style="text-align:center"><a href="/images/badminton%2028.jpeg"> <img src="/images/badminton%2028.jpeg" style="width:200px"></a></td>
-	</tr>
-	<tr>
-    <td style="text-align:center"><a href="/images/badminton%2029.jpeg"> <img src="/images/badminton%2029.jpeg" style="width:200px; height: 130px"></a></td>
-    <td style="text-align:center"><a href="/images/badminton%2030.jpeg"> <img src="/images/badminton%2030.jpeg" style="width:200px"></a></td>
-		<td style="text-align:center"><a href="/images/badminton%2031.jpeg"> <img src="/images/badminton%2031.jpeg" style="width:200px"></a></td>
-	</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Badminton/NSG_SZ_2024_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Badminton/NSG_SZ_2024_2.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Badminton/NSG_SZ_2024_4.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Badminton/NSG_SZ_2024_5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Badminton/NSG_SZ_2024_6.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Badminton/NSG_SZ_2024_3.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Badminton/NSG_C_Division_L1_Finals_2024_9.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Badminton/NSG_C_Division_L1_Finals_2024_6.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Badminton/NSG_C_Division_L1_Finals_2024_4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Badminton/NSG_C_Division_L1_Finals_2024_7.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Badminton/NSG_C_Division_L1_Finals_2024_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Badminton/NSG_C_Division_L1_Finals_2024_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Badminton/NSG_C_Division_L1_Finals_2024_5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Badminton/NSG_C_Division_L1_Finals_2024_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Badminton/NSG_C_Division_L1_Finals_2024_8.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Sports/Badminton/A_Div_2024.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
