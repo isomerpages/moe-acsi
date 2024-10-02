@@ -5,38 +5,61 @@ description: ""
 third_nav_title: Christian Fellowship
 variant: tiptap
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-vy94{color:#00E;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-cly1">Dr Bok Hai Choo Christine</th>
-    <th class="tg-cly1">Teacher I/C</th>
-    <th class="tg-vy94"><a href="mailto:bokhaichoo@acsindep.edu.sg"><span style="text-decoration:none;background-color:transparent">bokhaichoo@acsindep.edu.sg</span></a></th>
-  </tr>
-</thead>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-cly1">Mrs Cynthia Yeong</td>
-    <td class="tg-cly1">Christian Ministry Staff</td>
-    <td class="tg-vy94"><a href="mailto:cynthia@as.acsi.edu.sg"><span style="text-decoration:none;background-color:transparent">cynthia@as.acsi.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Mr Timmy Ng</td>
-    <td class="tg-cly1">Christian Ministry Staff</td>
-    <td class="tg-vy94"><a href="mailto:timmyng@as.acsi.edu.sg"><span style="text-decoration:none;background-color:transparent">timmyng@as.acsi.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Ms Annalisa Daniel</td>
-    <td class="tg-cly1">Christian Ministry Staff</td>
-    <td class="tg-vy94"><a href="mailto:annalisa@as.acsi.edu.sg"><span style="text-decoration:none;background-color:transparent">annalisa@as.acsi.edu.sg</span></a></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Dr Bok Hai Choo Christine</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Teacher I/C</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="mailto:bokhaichoo@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bokhaichoo@acsindep.edu.sg</a>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Deborah Siew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Christian Ministry Staff</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:deborahsiewjy@as.acsi.edu.sg" rel="noopener noreferrer nofollow" target="_blank">deborahsiewjy@as.acsi.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Timmy Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Christian Ministry Staff</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:timmyng@as.acsi.edu.sg" rel="noopener noreferrer nofollow" target="_blank">timmyng@as.acsi.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Annalisa Daniel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Christian Ministry Staff</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:annalisa@as.acsi.edu.sg" rel="noopener noreferrer nofollow" target="_blank">annalisa@as.acsi.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
