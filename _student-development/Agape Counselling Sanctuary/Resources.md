@@ -66,7 +66,7 @@ Coping with Stress
 
 Cyber Wellness
 
-*   [A Parents’ Guide to Facebook](http://www.connectsafely.org/pdfs/fbparents.pdf) from ConnectSafely.org
+*   [A Parents’ Guide to Facebook](https://connectsafely.org/wp-content/uploads/fbparents.pdf) from ConnectSafely.org
 *   [Internet Sex Screening Test](/files/Internet%20Sex%20Screeing%20Test.pdf)
 *   [Computer Addiction](/files/ACS%20HOPE%20Computer%20Addiction.pdf)
 
