@@ -2,7 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - Values in Action CAS Service/.keep
       - CCA and Interest Groups/.keep
       - CCA and Interest Groups/CCA and Interest Groups.md
       - CCA and Interest Groups/Sports and Games.md
@@ -21,6 +20,7 @@ collections:
       - Student Leadership/Prefectorial Board Our Projects.md
       - Student Leadership/Prefectorial Board Contact Us.md
       - Student Leadership/Houses.md
+      - Values in Action CAS Service/.keep
       - ACSpression.md
       - Agape Counselling Sanctuary/.keep
       - Agape Counselling Sanctuary/Agape Counselling Sanctuary.md
