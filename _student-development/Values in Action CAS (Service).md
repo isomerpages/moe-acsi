@@ -21,11 +21,11 @@ how they can continue to contribute meaningfully.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><u>Collaboration with Active Global Home &amp; Community Care</u>
+<p><a href="/files/CAS/Collaboration_with_Active_Global_Home___Community_Care.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Collaboration with Active Global Home &amp; Community Care</u></a>
 </p>
 </li>
 <li>
-<p><u>Collaboration with Foreign Domestic Worker Association for Social Support and Training (FAST)</u>
+<p><a href="/files/CAS/Collaboration_with_Foreign_Domestic_Worker_Association_for_Social_Support_and_Training__FAST__.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Collaboration with Foreign Domestic Worker Association for Social Support and Training (FAST)</u></a>
 </p>
 </li>
 <li>
