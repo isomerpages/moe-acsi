@@ -29,51 +29,51 @@ how they can continue to contribute meaningfully.</p>
 </p>
 </li>
 <li>
-<p><u>Collaboration with Methodist Welfare Services (MWS) Christalite Student Care Centre</u>
+<p><a href="/files/CAS/Collaboration_with_Methodist_Welfare_Services__MWS__Christalite_Student_Care_Centre_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Collaboration with Methodist Welfare Services (MWS) Christalite Student Care Centre</u></a>
 </p>
 </li>
 <li>
-<p><u>Collaboration with SHINE Children and Youth Services</u>
+<p><a href="/files/CAS/Collaboration_with_SHINE_Children_and_Youth_Services.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Collaboration with SHINE Children and Youth Services</u></a>
 </p>
 </li>
 <li>
-<p><u>Collaboration with Dementia Singapore</u>
+<p><a href="/files/CAS/Collaboration_with_Dementia_Singapore.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Collaboration with Dementia Singapore</u></a>
 </p>
 </li>
 <li>
-<p><u>Collaboration with FaithActs</u>
+<p><a href="/files/CAS/Collaboration_with_FaithActs.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Collaboration with FaithActs</u></a>
 </p>
 </li>
 <li>
-<p><u>Collaboration with Baray Wisdom Nest School</u>
+<p><a href="/files/CAS/Collaboration_with_Baray_Wisdom_Nest_School.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Collaboration with Baray Wisdom Nest School</u></a>
 </p>
 </li>
 <li>
-<p><u>Collaboration with CareBrotherSG</u>
+<p><a href="/files/CAS/Collaboration_with_CareBrotherSG.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Collaboration with CareBrotherSG</u></a>
 </p>
 </li>
 <li>
-<p><u>Collaboration with Good Shepherd Marymount Centre</u>
+<p><a href="/files/CAS/Collaboration_with_Good_Shepherd_Marymount_Centre.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Collaboration with Good Shepherd Marymount Centre</u></a>
 </p>
 </li>
 <li>
-<p><u>Collaboration with My Little Gems Preschool</u>
+<p><a href="/files/CAS/Collaboration_with_My_Little_Gems_Preschool.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Collaboration with My Little Gems Preschool</u></a>
 </p>
 </li>
 <li>
-<p><u>ACS(I) Blood Drive 2024</u>
+<p><a href="/files/CAS/ACS_I__Blood_Drive_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>ACS(I) Blood Drive 2024</u></a>
 </p>
 </li>
 <li>
-<p><u>Project Emberace</u>
+<p><a href="/files/CAS/Project_Emberace.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Project Emberace</u></a>
 </p>
 </li>
 <li>
-<p><u>Project Reperio</u>
+<p><a href="/files/CAS/Project_Reperio.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Project Reperio</u></a>
 </p>
 </li>
 <li>
-<p><u>Service-Learning Trip to Cambodia</u>
+<p><a href="/files/CAS/Service_Learning_Trip_to_Cambodia.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Service-Learning Trip to Cambodia</u></a>
 </p>
 </li>
 </ul>
