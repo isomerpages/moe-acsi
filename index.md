@@ -69,6 +69,8 @@ sections:
         our curriculum.
       alt: Image alt text
       image: /images/VIA_Homepage.jpg
+      button: More
+      url: /values-in-action-cas-service/
   - infopic:
       title: Developing Innovation & Technology
       description: ACS(I) offers tech programmes across Year 1-4 in programming, AI
