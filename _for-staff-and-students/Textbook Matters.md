@@ -7,8 +7,8 @@ variant: markdown
 <p>Pacific Bookstores will oversee textbook sales.&nbsp;Please note the options provided by our vendor and their respective dates in the attached file.</p>
 <p>Resources for Textbook Matters:</p>
 <ol>
-<li><a href="/files/PACIFIC_BOOKSTORES_ONLINE_PURCHASE_GUIDE_2025__ACSI_.pdf">Pacific Bookstores Purchase Guide</a></li>
-<li><a href="/files/Booklist_2025.pdf">Y2 – Y4 Booklists</a></li>
+<li>Pacific Bookstores Purchase Guide</li>
+<li><a href="/files/Booklists_2025.pdf">Y1 – Y4 Booklists</a></li>
 </ol>
 <p>Website for Online Sales:&nbsp;<a data-linkindex="0" data-auth="NotApplicable" href="https://www.pacificbookstores.com/">https://www.pacificbookstores.com/</a></p>
 <p>Online Sales Period:</p>
