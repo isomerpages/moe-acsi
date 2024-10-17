@@ -8,7 +8,7 @@ variant: markdown
 <p>Resources for Textbook Matters:</p>
 <ol>
 <li><a href="/files/PACIFIC_BOOKSTORES_ONLINE_PURCHASE_GUIDE_2025__ACSI_.pdf">Pacific Bookstores Purchase Guide</a></li>
-<li><a href="/files/Booklist_2025.pdf">Y2 – Y4 Booklists</a></li>
+<li>Y2 – Y4 Booklists</li>
 </ol>
 <p>Website for Online Sales:&nbsp;<a data-linkindex="0" data-auth="NotApplicable" href="https://www.pacificbookstores.com/">https://www.pacificbookstores.com/</a></p>
 <p>Online Sales Period:</p>
