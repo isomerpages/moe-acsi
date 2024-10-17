@@ -20,7 +20,7 @@ their talents and discern their role in society, all within the supportive
 framework of a close-knit community blessed with a dedicated teaching team
 and a strong alumni network.<strong>&nbsp;</strong>
 </p>
-<p>The HSP Cis is one of the Humanities Talent Development Programmes offered
+<p>The HSP is is one of the Humanities Talent Development Programmes offered
 by ACS (Independent), the other programmes being the <a href="https://www.acsindep.moe.edu.sg/advanced-class-for-integrative-studies/" rel="noopener noreferrer nofollow" target="_blank">Advanced Class for Integrative Studies (for Year 5 and 6 students)</a> and
 the <a href="https://www.acsindep.moe.edu.sg/talent-development/accelerated-class-for-humanities-ach/" rel="noopener noreferrer nofollow" target="_blank">Accelerated Class for Humanities (for Year 3 &amp; 4 students in the Integrated Programme).</a>
 </p>
