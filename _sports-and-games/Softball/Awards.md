@@ -3,8 +3,10 @@ title: Awards
 permalink: /softball/awards/
 description: ""
 third_nav_title: Softball
+variant: markdown
 ---
 **National Softball Championship**<br>
+2024&nbsp;&nbsp;&nbsp; B Div 2nd, C Div 1st<br>
 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B Div 3rd, C Div 2nd<br>
 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B Div 4th, C Div 3rd <br>
 2018&nbsp; &nbsp; &nbsp;A Div 3rd, B Div 4th <br>
