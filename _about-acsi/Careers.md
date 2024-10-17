@@ -72,7 +72,17 @@ and innovative teaching team.</p>
 </ul>
 </li>
 <li>
-<p><strong>Geography</strong>
+<p><strong>English Language &amp; Literature</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Secondary Levels</strong>
+</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Geography &amp; Social Studies</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -92,4 +102,5 @@ and innovative teaching team.</p>
 </ul>
 </li>
 </ul>
-<p>Interested applicants, please email your resume to&nbsp;lilliantan@acsindep.edu.sg</p>
+<p>Interested applicants, please email your resume to&nbsp;<a href="mailto:lilliantan@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lilliantan@acsindep.edu.sg</a>
+</p>
