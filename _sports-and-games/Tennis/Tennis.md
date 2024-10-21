@@ -5,13 +5,15 @@ description: ""
 third_nav_title: Tennis
 variant: markdown
 ---
-##### **Y5 Tennis Selection Trial 2024 for both Boys and Girls** #####
+##### **2025 Year 1 CCA tennis selection trials** #####
  
-**Date: Friday 16 February 2024**<br>
-**Time: Report by 1430**<br>
-**Venue: Tennis Court (Outdoor)**<br>
-**Please report in your sports attire and bring your own tennis racquets.**<br>
-**Only for school team or experienced players.**
+**2025 Year 1 CCA tennis selection trials**
+
+**Date : 14 (Tues) and 16 Jan (Thur) 2025 3.30pm- 4.30pm<br>
+Report to the tennis courts (outdoor)<br>
+Sports attire &amp; bring your own racquet.<br>**
+
+**School team players or experienced players only.**
 
 * * *
 
