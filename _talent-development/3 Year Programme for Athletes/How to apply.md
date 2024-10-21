@@ -19,6 +19,15 @@ in the programme if there are no applicants of sufficient merit. The decision
 of the selection committee is final. Enquiries or disputes surrounding
 its decisions will not be entertained.</p>
 <p>&nbsp;</p>
-<p><strong><u>Application</u></strong>
+<p><strong><u>Application for Academic Year 2025</u></strong>
 </p>
-<p>Applications for Academic Year 2024 have closed as of 17 March 2024.</p>
+<p>For interested applicants, please find the application documents below:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Application Form</p>
+</li>
+<li>
+<p>Letter of Undertaking for NSA</p>
+</li>
+</ul>
+<p></p>
