@@ -7,8 +7,6 @@ variant: markdown
 ---
 ##### **2025 Year 1 CCA tennis selection trials** #####
  
-**2025 Year 1 CCA tennis selection trials**
-
 **Date : 14 (Tues) and 16 Jan (Thur) 2025 3.30pm- 4.30pm<br>
 Report to the tennis courts (outdoor)<br>
 Sports attire &amp; bring your own racquet.<br>**
