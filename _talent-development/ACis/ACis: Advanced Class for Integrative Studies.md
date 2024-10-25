@@ -14,9 +14,12 @@ of the Humanities subjects through structured enrichment opportunities.
 Students will also engage in inter-disciplinary learning through these
 opportunities.&nbsp;</p>
 <p>The ACis is one of the Humanities Talent Development Programmes offered
-by ACS (Independent), the other programmes being the <a href="https://www.acsindep.moe.edu.sg/advanced-class-for-integrative-studies/" rel="noopener noreferrer nofollow" target="_blank">Advanced Class for Integrative Studies (for Year 5 and 6 students)</a> and
-the <a href="https://www.acsindep.moe.edu.sg/talent-development/accelerated-class-for-humanities-ach/" rel="noopener noreferrer nofollow" target="_blank">Accelerated Class for Humanities (for Year 3 &amp; 4 students in the Integrated Programme).</a>
+by ACS (Independent), the other programmes being the&nbsp;<a href="https://www.acsindep.moe.edu.sg/talent-development/humanities-scholarship-programme/" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities Scholarship &amp; Programme (for Year 5 &amp; 6 students)</u></a>&nbsp;and
+the&nbsp;<a href="https://www.acsindep.moe.edu.sg/talent-development/accelerated-class-for-humanities-ach/" rel="noopener noreferrer nofollow" target="_blank"><u>Accelerated Class for Humanities (for Year 3 &amp; 4 students in the Integrated Programme).</u></a>
 </p>
+<p>Indicate your intent to apply for the ACis at&nbsp;<a href="http://www.tinyurl.com/ACSIHTDP" rel="noopener noreferrer nofollow" target="_blank"><u>www.tinyurl.com/ACSIHTDP</u></a>&nbsp;by&nbsp;<strong><u>5pm on Tuesday, 29 Oct 2024.</u></strong>
+</p>
+<p>&nbsp;Submit your application essay by&nbsp;<strong><u>5pm on Friday, 8 Nov&nbsp;2024</u></strong>.</p>
 <p><strong>Eligibility</strong>
 </p>
 <p>The ACis is open for application to students of all nationalities who:</p>

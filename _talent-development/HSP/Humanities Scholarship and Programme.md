@@ -24,6 +24,14 @@ and a strong alumni network.<strong>&nbsp;</strong>
 by ACS (Independent), the other programmes being the <a href="https://www.acsindep.moe.edu.sg/advanced-class-for-integrative-studies/" rel="noopener noreferrer nofollow" target="_blank">Advanced Class for Integrative Studies (for Year 5 and 6 students)</a> and
 the <a href="https://www.acsindep.moe.edu.sg/talent-development/accelerated-class-for-humanities-ach/" rel="noopener noreferrer nofollow" target="_blank">Accelerated Class for Humanities (for Year 3 &amp; 4 students in the Integrated Programme).</a>
 </p>
+<p><strong>For IP students:&nbsp;</strong>Application for 2025 cycle starts
+on&nbsp;<strong>Monday, 14 October and ends at 11.59pm on Wednesday, 13 November 2024</strong>.
+No offline applications will be accepted after application period ends.</p>
+<p>&nbsp;Indicate your intent to apply for the HSP so that the school can
+begin to process your nomination, at&nbsp;<a href="http://www.tinyurl.com/ACSIHTDP" rel="noopener noreferrer nofollow" target="_blank"><u>www.tinyurl.com/ACSIHTDP</u></a>&nbsp;by&nbsp;<strong>5pm on Tuesday, 29 October 2024</strong>.</p>
+<p>&nbsp;</p>
+<p><strong>For all other students:&nbsp;</strong>Application for 2025 cycle
+will start in mid-January 2025.</p>
 <p><strong>Eligibility</strong>
 </p>
 <p>The HSP is open for application to Singapore Citizens who:</p>
