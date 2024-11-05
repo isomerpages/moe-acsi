@@ -34,7 +34,7 @@ variant: markdown
 		   <td style="text-align:center"><a href="/images/Diance%20Venia/0O6A5438___Copy.jpg"> <img src="/images/Diance%20Venia/0O6A5438___Copy.jpg" style="width:200px"></a></td>
   </tr>
 	 <tr>
-    <td style="text-align:center"><a href="/images/Diance%20Venia/DV6.jpg"> <img src="/images/Diance%20Venia/DV6.jpg" style="width:200px; height: 130px"></a></td>
+    <td style="text-align:center"><a href="/images/Diance%20Venia/DV9.jpg"> <img src="/images/Diance%20Venia/DV9.jpg" style="width:200px; height: 130px"></a></td>
     <td style="text-align:center"><a href="/images/Diance%20Venia/DV6.jpg"> <img src="/images/Diance%20Venia/DV6.jpg" style="width:200px"></a></td>
     <td style="text-align:center"><a href="/images/Diance%20Venia/DV6.jpg"> <img src="/images/Diance%20Venia/DV6.jpg" style="width:200px"></a></td>
 		   <td style="text-align:center"><a href="/images/Diance%20Venia/DV6.jpg"> <img src="/images/Diance%20Venia/DV6.jpg" style="width:200px"></a></td>
@@ -52,4 +52,3 @@ variant: markdown
   </tr>
 </tbody>
 </table>
-
