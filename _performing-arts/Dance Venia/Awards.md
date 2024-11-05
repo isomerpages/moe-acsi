@@ -3,7 +3,11 @@ title: Awards
 permalink: /dancevenia/awards/
 description: ""
 third_nav_title: Dance Venia
+variant: markdown
 ---
+Singapore Youth Festival Arts Presentation (International Dance) – JC/CI Category, 2021  <br>
+**Certificate of Accomplishment**
+
 Singapore Youth Festival Arts Presentation (International Dance) – JC/CI Category, 2019  <br>
 **Certificate of Distinction**
 
@@ -21,7 +25,7 @@ Singapore Youth Festival Central Judging (Dance) – JC/CI Category, 2011  <br>
 
 DanceWorks! 2010 Grand Final – Category 3 (Open), 2010  
 **First Place**  <br>
-Watch the performance [here](https://www.youtube.com/embed/XnubTQMJbeU "Watch DanceWorks! 2010 performance on YouTube")
+Watch the performance&nbsp;[here](https://www.youtube.com/embed/XnubTQMJbeU "Watch DanceWorks! 2010 performance on YouTube")
 
 Singapore Youth Festival Central Judging (Dance) – JC/CI Category, 2009  <br>
 **Gold With Honours**
