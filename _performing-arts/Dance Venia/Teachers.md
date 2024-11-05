@@ -6,41 +6,83 @@ third_nav_title: Dance Venia
 variant: tiptap
 ---
 <p>Teachers-in-Charge</p>
-<table class="tg">
-<thead>
-<tr>
-<th class="tg-1wig"><span style="font-weight: bolder;"> Name</span></th>
-<th class="tg-1wig"><span style="font-weight: bolder;"> Description</span></th>
-</tr>
-</thead>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td class="tg-cly1">Ms Diana <span style="font-weight: bolder;">CHNG</span></td>
-<td class="tg-cly1">Teacher in-charge</td>
+<th rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Description</strong>
+</p>
+</th>
 </tr>
 <tr>
-<td class="tg-cly1"> Mdm <span style="font-weight: bolder;">XU</span> ZhiWei </td>
-<td class="tg-cly1">Teacher in-charge</td>
+<td rowspan="1" colspan="1">
+<p>Ms Diana <strong>CHNG</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher in-charge</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm <strong>XU</strong> ZhiWei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher in-charge</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms <strong>Chan </strong>Yu Mun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher in-charge</p>
+</td>
 </tr>
 </tbody>
 </table>
 <p>Instructors</p>
-<table class="tg">
-<thead>
-<tr>
-<th class="tg-1wig"><span style="font-weight: bolder;">Name</span></th>
-<th class="tg-cly1"><span style="font-weight: bolder;">Description</span></th>
-</tr>
-</thead>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td class="tg-cly1">Mr Andy Benjamin <span style="font-weight: bolder;">CAI</span></td>
-<td class="tg-cly1">Choreographer/Instructor</td>
+<th rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Description</strong>
+</p>
+</th>
 </tr>
 <tr>
-<td class="tg-cly1">Mr Nicholas&nbsp;
- <span style="font-weight: bolder;">LONG</span> </td>
-<td class="tg-cly1">Choreographer/Instructor</td>
+<td rowspan="1" colspan="1">
+<p>Mr Andy Benjamin <strong>CAI</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choreographer/Instructor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Nicholas&nbsp; <strong>LONG</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choreographer/Instructor</p>
+</td>
 </tr>
 </tbody>
 </table>
