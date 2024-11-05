@@ -48,6 +48,7 @@ variant: markdown
 	 <tr>
     <td style="text-align:center"><a href="/images/Diance%20Venia/0O6A5492.jpg"> <img src="/images/Diance%20Venia/0O6A5492.jpg" style="width:200px; height: 130px"></a></td>
     <td style="text-align:center"><a href="/images/Diance%20Venia/0O6A5721.jpg"> <img src="/images/Diance%20Venia/0O6A5721.jpg" style="width:200px"></a></td>
+		  <td style="text-align:center"><a href="/images/Diance%20Venia/DV13.jpg"> <img src="/images/Diance%20Venia/DV13.jpg" style="width:200px"></a></td>
 		   
   </tr>
 </tbody>
