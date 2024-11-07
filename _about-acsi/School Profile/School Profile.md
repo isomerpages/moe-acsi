@@ -3,7 +3,7 @@ title: School Profile
 permalink: /about-acs-independent/school-profile/
 description: ""
 third_nav_title: School Profile
-variant: tiptap
+variant: markdown
 ---
 <h1>School Profile</h1>
 <p>Anglo-Chinese School (ACS) was founded by Methodist Bishop William Fitzjames
@@ -37,6 +37,6 @@ the holistic development of our students.</p>
 <p><a href="https://www.acsindep.moe.edu.sg/about-acs-independent/school-profile/#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a>&nbsp;
 <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2018-10-09_152727.html" rel="noopener noreferrer nofollow" target="_blank">https://eresources.nlb.gov.sg/infopedia/articles/SIP_2018-10-09_152727.html</a>
 </p>
-<p><a href="/files/About ACS(I)/School Profile/2024_school_profile_final_12_sept.pdf" rel="noopener nofollow" target="_blank">To download our School Profile, click here.</a>
+<p><a href="/files/2024_school_profile_final_7_nov.pdf" rel="noopener nofollow" target="_blank">To download our School Profile, click here.</a>
 </p>
 <p></p>
