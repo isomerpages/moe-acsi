@@ -13,18 +13,10 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Richard Seow</p>
+<p>Mr Choe Peng Sum</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +32,7 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Adam Tan Chin Han</p>
+<p>Mr Richard Seow</p>
 </td>
 </tr>
 <tr>
@@ -48,7 +40,7 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Choe Peng Sum</p>
+<p>Mr Adam Tan Chin Han</p>
 </td>
 </tr>
 <tr>
@@ -125,6 +117,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
-<p><strong>Updated July 2024</strong>
+<p><strong>Updated November 2024</strong>
 </p>
+<p></p>
