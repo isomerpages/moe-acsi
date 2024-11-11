@@ -1,8 +1,9 @@
 ---
-title: Student Committee &amp; Exco
+title: Student Committee & Exco
 permalink: /bowling/student-committee-exco/
 description: ""
 third_nav_title: Bowling
+variant: markdown
 ---
 <table width="60%">
 <thead>
@@ -42,5 +43,5 @@ third_nav_title: Bowling
 </tr>
 </tbody>
 </table>
-
+sdfsgsdsdfsfsdsfdsdffsd
 <img src="/images/WorldSchool.jpg" style="width:25%">
