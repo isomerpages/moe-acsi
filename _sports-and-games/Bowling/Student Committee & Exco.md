@@ -44,8 +44,8 @@ variant: markdown
 <p>C Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Captain&nbsp;– Bennett Tay</p>
-<p>Vice Captain –&nbsp;Leighton Kuah</p>
+<p>Captain&nbsp;– Bennett Tay
+<br>Vice Captain –&nbsp;Leighton Kuah</p>
 </td>
 </tr>
 </tbody>
