@@ -3,7 +3,18 @@ title: Events
 permalink: /library-council/events/
 description: ""
 third_nav_title: Library
+variant: markdown
 ---
+**Activities for Year 2024**
+
+1\. CCA Fairs for Y1 and Y5
+
+2\. School Open House on 13 April 2024
+
+3\. NLB Book Buzz on 27 Feb and 10 July 2024
+
+4\. ‘Buzz Wire’ workshops at Jurong and Tampines Regional Libraries during Nov/Dec school holidays
+
 **Activities for Year 2023**
 
 *   Conducting Library Workshops @ NLB during Jun &amp; Dec Holidays on building a Google Cardboard &amp; a hologram ![](https://lh5.googleusercontent.com/g1mxuuHo6T4Qh8MJ1eQP5LVQc5kt_8ckszS1TCTf2A-AWRWa1oStPaxaSkIpDfT41hLSz0pKToTCXmfvMML5wjRol_F13fSEPTlX-p3_aY25TH3et0uJ6jy9KieShqDBWtD9E_vRhJpT)
