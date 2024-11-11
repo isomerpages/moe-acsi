@@ -17,7 +17,8 @@ variant: tiptap
 <p>Mr Benjamin Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:benjaminwongzm@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">67739202<br><u>benjaminwongzm@acsindep.edu.sg</u></a>
+<p>67739202</p>
+<p><a href="mailto:benjaminwongzm@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">benjaminwongzm@acsindep.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -29,7 +30,8 @@ variant: tiptap
 <p>Mr Lee Beng Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:benjaminwongzm@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">68700620<br><u>leebenghwee@acsindep.edu.sg</u></a>
+<p>68700620</p>
+<p><a href="mailto:benjaminwongzm@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leebenghwee@acsindep.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -42,7 +44,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>68700402</p>
-<p><a href="mailto:benjaminwongzm@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>dominiclimjq@acsindep.edu.sg</u></a>
+<p><a href="mailto:benjaminwongzm@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dominiclimjq@acsindep.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,7 +57,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>68700417</p>
-<p><a href="mailto:benjaminwongzm@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>linzhangli@acsindep.edu.sg</u></a>
+<p><a href="mailto:benjaminwongzm@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">linzhangli@acsindep.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -64,7 +66,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:25%" height="auto" width="100%" src="/images/WorldSchool.jpg">
 </div>
