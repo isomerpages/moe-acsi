@@ -1,46 +1,58 @@
 ---
-title: Student Committee &amp; Exco
+title: Student Committee & Exco
 permalink: /bowling/student-committee-exco/
 description: ""
 third_nav_title: Bowling
+variant: markdown
 ---
-<table width="60%">
-<thead>
-<tr>
-<td>
-<p><strong>Appointment</strong></p>
-</td>
-<td>
-<p><strong>Name of Student</strong></p>
-</td>
-</tr>
-</thead>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td>
+<td rowspan="1" colspan="1">
+<p><strong>2025&nbsp;Appointment</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Student</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>A Division</p>
 </td>
-<td>
-<p>Captain – Zach Ramin (Boys) / Chee Jaye Min (Girls)<br> Vice Captains – Jag Ng (Boys) / Eugene Yeo (Boys)</p>
+<td rowspan="1" colspan="1">
+<p>Captain –&nbsp;Mike Ong&nbsp;(Boys) /&nbsp;Emmelyn Chia&nbsp;(Girls)
+<br>Vice Captains –&nbsp;Ian Tay</p>
 </td>
 </tr>
 <tr>
-<td>
+<td rowspan="1" colspan="1">
 <p>B Division</p>
 </td>
-<td>
-<p>Captain – Wilfred Er<br> Vice Captains – Mike Ong / Ian Tay</p>
+<td rowspan="1" colspan="1">
+<p>Captain –&nbsp;Izz Irfan
+<br>Vice Captain –&nbsp;Donovan Lim</p>
 </td>
 </tr>
 <tr>
-<td>
+<td rowspan="1" colspan="1">
 <p>C Division</p>
 </td>
-<td>
-<p>Captain – Donovan Lim<br>Vice Captain – Izz Irfan</p>
+<td rowspan="1" colspan="1">
+<p>Captain&nbsp;– Bennett Tay
+<br>Vice Captain –&nbsp;Leighton Kuah</p>
 </td>
 </tr>
 </tbody>
 </table>
-
-<img src="/images/WorldSchool.jpg" style="width:25%">
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:25%" height="auto" width="100%" src="/images/WorldSchool.jpg">
+</div>
+<p></p>

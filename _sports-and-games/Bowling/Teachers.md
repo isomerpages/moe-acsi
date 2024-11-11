@@ -3,57 +3,72 @@ title: Teachers
 permalink: /bowling/teachers/
 description: ""
 third_nav_title: Bowling
+variant: tiptap
 ---
-<table width="60%">
-<thead>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
-<td>
+<td rowspan="1" colspan="1">
 <p>Mr Benjamin Wong</p>
 </td>
-<td>
-<p>67739202<br> <a href="mailto:benjaminwongzm@acsindep.edu.sg">benjaminwongzm@acsindep.edu.sg</a></p>
+<td rowspan="1" colspan="1">
+<p>67739202</p>
+<p><a href="mailto:benjaminwongzm@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">benjaminwongzm@acsindep.edu.sg</a>
+</p>
 </td>
-<td>
+<td rowspan="1" colspan="1">
 <p>Overall Teacher in Charge and DSA point of contact</p>
 </td>
 </tr>
-</thead>
-<tbody>
 <tr>
-<td>
+<td rowspan="1" colspan="1">
 <p>Mr Lee Beng Hwee</p>
 </td>
-<td>
-<p>68700620<br> <a href="mailto:benjaminwongzm@acsindep.edu.sg">leebenghwee@acsindep.edu.sg</a></p>
+<td rowspan="1" colspan="1">
+<p>68700620</p>
+<p><a href="mailto:benjaminwongzm@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leebenghwee@acsindep.edu.sg</a>
+</p>
 </td>
-<td>
+<td rowspan="1" colspan="1">
 <p>Overseeing B Div</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Ms Raelene Chan</p>
+<td rowspan="1" colspan="1">
+<p>Mr Dominic Lim</p>
 </td>
-<td>
-<p>68700653<br> <a href="mailto:raelenechanxy@acsindep.edu.sg">raelenechanxy@acsindep.edu.sg</a></p>
+<td rowspan="1" colspan="1">
+<p>68700402</p>
+<p><a href="mailto:benjaminwongzm@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dominiclimjq@acsindep.edu.sg</a>
+</p>
 </td>
-<td>
-<p>Overseeing A Div</p>
+<td rowspan="1" colspan="1">
+<p>Overseeing C Div</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Mr Dominic Lim</p>
+<td rowspan="1" colspan="1">
+<p>Ms Lin Zhangli</p>
 </td>
-<td>
-<p>68700402<br>
-<a href="mailto:dominiclimjq@acsindep.edu.sg">dominiclimjq@acsindep.edu.sg</a></p>
+<td rowspan="1" colspan="1">
+<p>68700417</p>
+<p><a href="mailto:benjaminwongzm@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">linzhangli@acsindep.edu.sg</a>
+</p>
 </td>
-<td>
-<p>Overseeing C Div</p>
+<td rowspan="1" colspan="1">
+<p>Overseeing&nbsp;A&nbsp;Div</p>
 </td>
 </tr>
 </tbody>
 </table>
-
-<img src="/images/WorldSchool.jpg" style="width:25%">
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:25%" height="auto" width="100%" src="/images/WorldSchool.jpg">
+</div>
+<p></p>
