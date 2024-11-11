@@ -24,7 +24,7 @@ Venues for sectionals and combined rehearsals will be announced to students.
 
 * * *
 
-**Absence/ Late-Coming / Early-Dismissal Notification Protocol for 2023**
+**Absence/ Late-Coming / Early-Dismissal Notification Protocol for 2025**
 
 Hi orchestra! Kindly inform and seek approval to be excused from your respective level teachers and Ms Poh should you be unable to attend any rehearsals (or part thereof).
 
