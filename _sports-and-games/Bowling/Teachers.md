@@ -66,8 +66,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-
-sdfsdfsdgsgssdgsgd
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:25%" height="auto" width="100%" src="/images/WorldSchool.jpg">
 </div>
