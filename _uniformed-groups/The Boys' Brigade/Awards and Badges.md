@@ -3,6 +3,7 @@ title: Awards and Badges
 permalink: /bb/awards-and-badges/
 description: ""
 third_nav_title: The Boys' Brigade
+variant: markdown
 ---
 Core Awards
 -----------
@@ -28,7 +29,6 @@ Core Awards
 *   First Aid Stage 2
 *   Lifeskills Stage 2
 *   NCO Star Stage 1 (on attendance at Leadership Development Camp 1 in June)
-*   NYAA Bronze
 
 ### Year 3
 
@@ -38,7 +38,6 @@ Core Awards
 *   First Aid / Adventure / Drill / Community Service Stage 3 (externally assessed)
 *   NCO Star Stage 2 (on attendance at Leadership Development Camp 2)
 *   Intermediate Proficiency Award
-*   NYAA Silver
 
 ### Year 4
 
@@ -49,4 +48,3 @@ Core Awards
 
 *   Anchor Award
 *   Presidents’ Award
-*   NYAA Gold
