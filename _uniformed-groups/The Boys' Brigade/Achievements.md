@@ -3,7 +3,29 @@ title: Achievements
 permalink: /bb/achievements/
 description: ""
 third_nav_title: The Boys' Brigade
+variant: markdown
 ---
+### 2024
+
+BB Blaze: Overall Blaze Champion
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1st Place - Blazer Overall Champions
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3rd Place - Open Category
+
+Founder’s Award (Y4): 8 Recipients
+
+President’s Award (Y6) : 2 Recipients
+
+BB Week: Gold Honour Roll
+
+BB Week: Highest Company Collection Award for Seniors Programme, Dr Lee Soon Ann Challenge Trophy
+
+J.M. Fraser Award: Higher Distinction, Best Company
+
+Singapore Pipe Band Competition (SPBC): 1st Place (Solo Bass Drumming under 16 and under 18
+
+
 ### 2023   
          
 BB Blaze : 9th Placing / Gold Honour Roll <br>
