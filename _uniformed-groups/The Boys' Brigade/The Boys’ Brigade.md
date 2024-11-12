@@ -3,9 +3,9 @@ title: The Boys’ Brigade
 permalink: /bb/
 description: ""
 third_nav_title: The Boys' Brigade
+variant: markdown
 ---
-<img src="/images/boysbrigadlogo1.jpg" 
-     style="width:70%">
+<img src="/images/boysbrigadlogo1.jpg" style="width:70%">
 		 
 **The BB Object**  
 The advancement of Christ’s Kingdom among Boys and the promotion of habits of Obedience, Reverence, Discipline, Self-respect and all that tends toward a true Christian Manliness.
@@ -18,9 +18,6 @@ To nurture Youth, based on Christian values, to serve and lead.
 
 **Our Motto**  
 Sure and Stedfast
-
-**Our Theme 2017**  
-“Let us consider how we may spur one another on toward love and good deeds” (Hebrews 10:24)
 
 **History of the Boys’ Brigade 12th(I) Singapore Company**
 
