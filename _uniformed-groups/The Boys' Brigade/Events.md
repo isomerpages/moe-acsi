@@ -3,20 +3,30 @@ title: Events
 permalink: /bb/events-2/
 description: ""
 third_nav_title: The Boys' Brigade
+variant: markdown
 ---
 **Events**
 
-1.  BB Day (12 January yearly)
-2.  Target Award Camp (March holidays) : for Yr 1 & Yr 4
-3.  Primers Leadership Camp (March holidays) : for Yr 5 & Yr 6
-4.  BB Week (April yearly)
-5.  Enrolment Parade & Service (two Saturdays in end March/early April)
-6.  Leadership Development Camp 1 & Hike (June) : for Yr 2 & Yr 5
-7.  Leadership Training Camp & Hike (June) : for Yr 3
-8.  BB Cares (July)
-9.  Y1 Hike (July)
-10.  First Aid Examination (August)
-11.  Adventure Examination (August)
-12.  Drill Examination (October)
-13.  Company Day (October)
-14.  BB Share-a-Gift (November / December)
+**Major Events**
+
+1.  Tue 14 Jan – ACS(I) BB Day Observance Ceremony
+2.  Sat 29 Mar – Company Hike #1
+3.  Sat 19 Apr – Enrolment Parade and Service
+4.  Sat 26 Apr – Primers Handover
+5.  April – BB Week (yearly)
+6.  Sat 3 May – Company Administration Handover
+7.  Sat 31 May to Sun 1 Jun – Company Hike #2
+8.  Sat 25 Oct – Company Day
+9.  Fri 5 Dec and Sat 6 Dec – 12th&nbsp;Company BB Share-a-Gift Car Flag Off
+10.  All year round – BB Cares
+
+**Camps**
+
+1.  Sat 15 Mar to Mon 17 Mar<br>
+– Blaze Training Camp (for selected Year 2s to 4s)<br>
+– Target Award Camp (for all Year 1s and 4s)<br>
+– Primer Leadership Camp (for all Year 5s and 6s)<br>
+– Leadership Training Camp (for all Year 3s)
+
+2.  Sat 31 May to Mon 2 Jun<br>
+– Leadership Development Camp (for all Year 2s)
