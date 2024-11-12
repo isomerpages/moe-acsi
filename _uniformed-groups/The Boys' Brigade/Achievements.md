@@ -7,22 +7,14 @@ variant: markdown
 ---
 ### 2024
 
-BB Blaze: Overall Blaze Champion
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1st Place - Blazer Overall Champions
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3rd Place - Open Category
-
-Founder’s Award (Y4): 8 Recipients
-
-President’s Award (Y6) : 2 Recipients
-
-BB Week: Gold Honour Roll
-
-BB Week: Highest Company Collection Award for Seniors Programme, Dr Lee Soon Ann Challenge Trophy
-
-J.M. Fraser Award: Higher Distinction, Best Company
-
+BB Blaze: Overall Blaze Champion<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1st Place - Blazer Overall Champions<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3rd Place - Open Category<br>
+Founder’s Award (Y4): 8 Recipients<br>
+President’s Award (Y6) : 2 Recipients<br>
+BB Week: Gold Honour Roll<br>
+BB Week: Highest Company Collection Award for Seniors Programme, Dr Lee Soon Ann Challenge Trophy<br>
+J.M. Fraser Award: Higher Distinction, Best Company<br>
 Singapore Pipe Band Competition (SPBC): 1st Place (Solo Bass Drumming under 16 and under 18
 
 
