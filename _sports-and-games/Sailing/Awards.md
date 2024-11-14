@@ -16,9 +16,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>2023 National School Games:
-<br>
-</p>
+<p>2023 National School Games:</p>
 </th>
 </tr>
 <tr>
