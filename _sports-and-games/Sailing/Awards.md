@@ -6,56 +6,42 @@ third_nav_title: Sailing
 variant: markdown
 ---
 <p>Our sailors did well in the Inter-Schools’ Sailing Championships.</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table data-editing-info="{&quot;topBorderColor&quot;:&quot;#ABABAB&quot;,&quot;bottomBorderColor&quot;:&quot;#ABABAB&quot;,&quot;verticalBorderColor&quot;:&quot;#ABABAB&quot;,&quot;hasHeaderRow&quot;:false,&quot;hasFirstColumn&quot;:false,&quot;hasBandedRows&quot;:false,&quot;hasBandedColumns&quot;:false,&quot;bgColorEven&quot;:null,&quot;bgColorOdd&quot;:&quot;#ABABAB20&quot;,&quot;headerRowColor&quot;:&quot;#ABABAB&quot;,&quot;tableBorderFormat&quot;:0,&quot;verticalAlign&quot;:&quot;top&quot;}" border="1">
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p>A Div (2024-2025)</p>
+<td>
+<div data-olk-copy-source="MessageBody">A Div (2024-2025)</div>
 </td>
-<td rowspan="1" colspan="1">
-<p>B Div (2024-2025)</p>
+<td>
+<div>B Div (2024-2025)</div>
 </td>
-<td rowspan="1" colspan="1">
-<p>C Div (2024-2025)</p>
+<td>
+<div>C Div (2024-2025)</div>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Captain: Jarrod Toh</p>
-<p></p>
-<p>Vice-Captain:&nbsp; Sarah Seow Hui Yan</p>
-<p></p>
-<p>Safety IC: Kezmond Lee Jun Yaw</p>
-<p></p>
-<p>Attendance IC: Tabitha Ng Kar-Ley</p>
-<p></p>
-<p>Logistics IC: Tan Kai Neng Jonan</p>
+<td>
+<div>Captain: Jarrod Toh</div>
+<div>Vice-Captain: Sarah Seow Hui Yan</div>
+<div>Safety IC: Kezmond Lee Jun Yaw</div>
+<div>Attendance IC: Tabitha Ng Kar-Ley</div>
+<div>Logistics IC: Tan Kai Neng Jonan</div>
 </td>
-<td rowspan="1" colspan="1">
-<p>Captain: Lucas Quek Heok Kiat</p>
-<p></p>
-<p>Vice-Captain: Austin Yeo Jia Yu</p>
-<p></p>
-<p>Safety IC: Isaac Poon Weng-Yew</p>
-<p></p>
-<p>Attendance IC: Mark Ethan Wong Zhi En</p>
-<p></p>
-<p>Logistics IC: Zach Low Yu Jie</p>
+<td>
+<div>Captain: Lucas Quek Heok Kiat</div>
+<div>Vice-Captain: Austin Yeo Jia Yu</div>
+<div>Safety IC: Isaac Poon Weng-Yew</div>
+<div>Attendance IC: Mark Ethan Wong Zhi En</div>
+<div>Logistics IC: Zach Low Yu Jie</div>
 </td>
-<td rowspan="1" colspan="1">
-<p>Captain: Pee Teck Woon</p>
-<p></p>
-<p>Vice-Captain: Yap Swee Wayne</p>
-<p></p>
+<td>
+<div>Captain: Pee Teck Woon</div>
+<div>Vice-Captain: Yap Swee Wayne</div>
 </td>
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
 <p><strong>2022</strong>&nbsp;results are as follow:</p>
 <p>B Div: 3rd&nbsp;and 4th&nbsp;(ILCA 4 Fleet)
 <br>C Div: 1st&nbsp;and 2nd&nbsp;&nbsp;&nbsp;(ILCA 4 Fleet)
