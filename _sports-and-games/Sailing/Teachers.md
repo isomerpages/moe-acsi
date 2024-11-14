@@ -3,6 +3,7 @@ title: Teachers
 permalink: /sailing/teachers/
 description: ""
 third_nav_title: Sailing
+variant: markdown
 ---
 ### Teachers in charge
 
@@ -44,11 +45,8 @@ third_nav_title: Sailing
 </thead>
 <tbody>
   <tr>
-    <td>Mr. Foo Say Juan</td>
-    <td>foosj@hotmail.com</td>
+    <td>Coach provided by Singapore Sailing Federation (SSF)</td>
+    <td>info@singaporesailing.org.sg</td>
   </tr>
 </tbody>
 </table>
-
-
-
