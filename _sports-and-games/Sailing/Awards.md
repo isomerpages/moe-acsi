@@ -6,7 +6,43 @@ third_nav_title: Sailing
 variant: tiptap
 ---
 <p>Our sailors did well in the Inter-Schools’ Sailing Championships.</p>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>2024 National School Games:</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A Div Boys + Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SILVER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Div Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SILVER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Div Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SILVER</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
