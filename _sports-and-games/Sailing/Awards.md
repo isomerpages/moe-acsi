@@ -3,40 +3,81 @@ title: Awards
 permalink: /sailing/awards/
 description: ""
 third_nav_title: Sailing
-variant: markdown
+variant: tiptap
 ---
 <p>Our sailors did well in the Inter-Schools’ Sailing Championships.</p>
-<table data-editing-info="{&quot;topBorderColor&quot;:&quot;#ABABAB&quot;,&quot;bottomBorderColor&quot;:&quot;#ABABAB&quot;,&quot;verticalBorderColor&quot;:&quot;#ABABAB&quot;,&quot;hasHeaderRow&quot;:false,&quot;hasFirstColumn&quot;:false,&quot;hasBandedRows&quot;:false,&quot;hasBandedColumns&quot;:false,&quot;bgColorEven&quot;:null,&quot;bgColorOdd&quot;:&quot;#ABABAB20&quot;,&quot;headerRowColor&quot;:&quot;#ABABAB&quot;,&quot;tableBorderFormat&quot;:0,&quot;verticalAlign&quot;:&quot;top&quot;}" cellspacing="10" border="1">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td>
-<div data-olk-copy-source="MessageBody">A Div (2024-2025)</div>
+<th rowspan="1" colspan="2">
+<p>2024 National School Games:</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A Div Boys + Girls</p>
 </td>
-<td>
-<div>B Div (2024-2025)</div>
-</td>
-<td>
-<div>C Div (2024-2025)</div>
+<td rowspan="1" colspan="1">
+<p>SILVER</p>
 </td>
 </tr>
 <tr>
-<td>
-<div>Captain: Jarrod Toh</div>
-<div>Vice-Captain: Sarah Seow Hui Yan</div>
-<div>Safety IC: Kezmond Lee Jun Yaw</div>
-<div>Attendance IC: Tabitha Ng Kar-Ley</div>
-<div>Logistics IC: Tan Kai Neng Jonan</div>
+<td rowspan="1" colspan="1">
+<p>B Div Boys</p>
 </td>
-<td>
-<div>Captain: Lucas Quek Heok Kiat</div>
-<div>Vice-Captain: Austin Yeo Jia Yu</div>
-<div>Safety IC: Isaac Poon Weng-Yew</div>
-<div>Attendance IC: Mark Ethan Wong Zhi En</div>
-<div>Logistics IC: Zach Low Yu Jie</div>
+<td rowspan="1" colspan="1">
+<p>SILVER</p>
 </td>
-<td>
-<div>Captain: Pee Teck Woon</div>
-<div>Vice-Captain: Yap Swee Wayne</div>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Div Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SILVER</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>2023 National School Games:</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A Div Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SILVER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Div Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SILVER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Div Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GOLD (ILCA 4)&nbsp;</p>
+<p>SILVER (Optimist)</p>
 </td>
 </tr>
 </tbody>
