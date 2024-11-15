@@ -3,20 +3,113 @@ title: ACS(I) Board of Management
 permalink: /about-acs-independent/board-of-management/
 description: ""
 third_nav_title: Leadership
-variant: markdown
+variant: tiptap
 ---
-|               |                         |
-|---------------|-------------------------|
-| Chairman      | Mr Richard Seow         |
-| Vice Chairman | Dr Wong Heng Yu         |
-| Member        | Mr Wee Cheng Hoon       |
-| Member        | Ms Charlotte Yew        |
-| Member        | Mr Toh Han Li           |
-| Member        | Mr Ravindran Alfreds         |
-| Member        | Mr Lee Lung Nien        |
-| Member        | Mr Wendell Wong         |
-| Member        | Mr Chua Yu-Jin          |
-| Member        | Mr Alvin Tan           |
-| Member        | Rev Khoo Kay Huat |
-
-<center><b>Updated: April 2024</b></center>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Choe Peng Sum</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Wong Heng Yu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wee Cheng Hoon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Charlotte Yew</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Toh Han Li</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ravindran Alfreds</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Lung Nien</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wendell Wong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chua Yu-Jin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Alvin Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rev Khoo Kay Huat</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Updated: November 2024</strong>
+</p>
+<p></p>
+<p></p>
