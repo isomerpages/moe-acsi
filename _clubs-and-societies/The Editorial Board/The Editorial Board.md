@@ -3,11 +3,14 @@ title: The Editorial Board
 permalink: /magazine/
 description: ""
 third_nav_title: The Editorial Board
+variant: markdown
 ---
-The Editorial Board (School Magazine) was established in 1927.
+**Editorial Board (formerly known as School Magazine) - Established in 1927**
 
-The Editorial Board is a committed team of graphic designers, photographers, videographers, and motion graphic technicians. The board believes in a multidisciplinary approach to design and publicity. They use a variety of skills, their creativity and passion to serve the school in numerous areas, the most important one being the design of the yearbook. The board also works with corporate comm to produce videos etc.
+The Editorial Board is a dedicated team of graphic designers, photographers, videographers, and motion graphic artists. Emphasising a multidisciplinary approach, the Board applies creativity, diverse skill sets, and passion to support various school functions, with the most significant being the design of the annual yearbook. The team also collaborates closely with the Corporate Communications department to produce videos and other media content.
 
-As for requirements, candidates should be very willing to learn new skills, mainly on their own time. Additionally, experience in any of the previously listed creative domains is preferred. Candidates should expect a trial period when signing up. If you are interested in being part of the board, do note that it is time consuming and not a small commitment.
+Requirements:
 
-The Board’s previous projects include directing and producing music videos that encompass what ACSI stands for. These include “One AC”, “One Family”. The Board collaborates with the school’s Corporate Committee to update the School Profile every year.
+Candidates must be eager to learn new skills, often on their own time and prior experience in any of the mentioned creative fields is preferred. New members should expect a trial period upon joining. It is important to note that being part of the Editorial Board requires substantial time and commitment.
+
+Past projects include directing and producing music videos that embody ACSI's values, such as "One AC" and "One Family." The Board also works with the Corporate Committee to annually update the School Profile.
