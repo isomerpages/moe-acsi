@@ -78,7 +78,7 @@ variant: markdown
 </a>
 <br>
 <a href="/magazine/">
-<img src="/images/editorial%20board.png" style="width:70%">
+<img src="/images/EdBoard_CCA_Photo.jpg" style="width:70%">
 </a>
 <br>
 <a href="/src/">
