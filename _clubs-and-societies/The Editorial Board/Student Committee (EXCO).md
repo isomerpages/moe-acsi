@@ -3,15 +3,18 @@ title: Student Committee (EXCO)
 permalink: /magazine/student-committee-exco/
 description: ""
 third_nav_title: The Editorial Board
+variant: markdown
 ---
-**2023 Editorial Board Student Committee (EXCO)**
+**2025 Editorial Board Student Committee (EXCO)**
 
-President – Duane Seah (6.03 Bethlehem)
+President – Ryan Ethan Yeo (6.12)
 
-Vice President (Photography) – Marcus Kang (6.06 Damascus)
+Vice President – Tan Qi (6.01)
 
-Vice President (HR) – Lucas Tan (6.04 Cana)
+Director (HR) – Lucas Tan (6.13)
 
-Vice President (Graphic Design) – Bryan Cheung (6.06 Damascus)
+Director (Graphic Design) – Chloe Lee (6.06)
 
-Vice President (Editorial) – Ryan Daniel Chua (6.03 Bethlehem)
+Director (Videography) – Chen Shengxu (6.04)
+
+Director (Photography) – Janav Nagapatla (Year 5)
