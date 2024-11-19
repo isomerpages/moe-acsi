@@ -2,7 +2,7 @@
 title: Student Committee (EXCO)
 permalink: /magazine/student-committee-exco/
 description: ""
-third_nav_title: The Editorial Board
+third_nav_title: Editorial Board
 variant: markdown
 ---
 **2025 Editorial Board Student Committee (EXCO)**

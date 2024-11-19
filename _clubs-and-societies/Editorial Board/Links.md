@@ -2,7 +2,7 @@
 title: Links
 permalink: /magazine/links/
 description: ""
-third_nav_title: The Editorial Board
+third_nav_title: Editorial Board
 variant: markdown
 ---
 **YouTube links to our Editorial Board Productions:**
