@@ -34,9 +34,7 @@ To register, please follow these steps:</p>
 <p>Enable the Windows pop-up</p>
 </li>
 <li>
-<p><strong>Click on the registration link: [to be updated]</strong>
-</p>
-<p>&nbsp;</p>
+<p><strong>Click on the registration link: [to be updated]</strong>&nbsp;</p>
 </li>
 </ul>
 <p><strong><u>Step 2: Downloading of Year 1 Orientation Package 2025</u></strong>
@@ -46,7 +44,6 @@ Please download and read through the package using this link which will
 be available only from 1.00 pm onwards on the day of the release of posting
 results:&nbsp;<strong>[to be updated]</strong>
 </p>
-<p></p>
 <p><strong><u>Step 3: Purchase of items for school</u></strong>
 </p>
 <table style="minWidth: 75px">
@@ -109,7 +106,6 @@ results:&nbsp;<strong>[to be updated]</strong>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p><strong>Appeals</strong>
 </p>
 <p>Appeals will only be via online application and the portal for appeals
