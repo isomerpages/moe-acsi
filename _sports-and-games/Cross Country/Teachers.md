@@ -28,7 +28,8 @@ variant: tiptap
 <p>Mr Gavin Ang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>gavinang@acsindep.edu.sg</p>
+<p><a href="mailto:gavinang@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gavinang@acsindep.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>68700677</p>
@@ -39,7 +40,8 @@ variant: tiptap
 <p>Mr Jason Lai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jasonlaijr@acsindep.edu.sg</p>
+<p><a href="mailto:jasonlaijr@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jasonlaijr@acsindep.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>68700695</p>
@@ -50,12 +52,25 @@ variant: tiptap
 <p>Mr John Foenander</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>foenanderjohnpaul@acsindep.edu.sg</p>
+<p><a href="mailto:foenanderjohnpaul@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foenanderjohnpaul@acsindep.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>67768563</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Kian Jie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ongkianjie@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ongkianjie@acsindep.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>67731433</p>
+</td>
+</tr>
 </tbody>
 </table>
-<p><strong>Coach</strong>:&nbsp; &nbsp; &nbsp; Mr Zorndrix Dass</p>
+<p></p>
