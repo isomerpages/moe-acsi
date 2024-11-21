@@ -5,6 +5,80 @@ description: ""
 third_nav_title: Cross Country
 variant: tiptap
 ---
+<p><strong>2024 Pocari Sweat 2.4km Challenge</strong>
+</p>
+<p>Our runners have achieved stellar results at the 2024 Pocari Sweat Challenge.&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2.4km C Boys</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2.4km B Boys</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chang Zhi (1st)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Akid (1st)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Oliver (3rd)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Reuben (2nd)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ethan (5th)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Luca (3rd)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Isaac (10th)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sebastian (4th)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>Honourable mentions to Chang Zhi and Akid who’ve also broke the National
+2.4km Best Timing records for their respective categories.&nbsp;</p>
+<p>Congratulations to all winners and we are thankful for the support of
+parents, friends and family who have come down to support our runners.</p>
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024AA.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024AB.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024AC.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024AD.jpg">
+</div>
 <p><strong>2024 National Schools Games Cross Country Championships</strong>
 </p>
 <p><strong>“A” Division Boys: 3rd Runner-up</strong>
