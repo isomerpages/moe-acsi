@@ -3,8 +3,17 @@ title: Photo Gallery
 permalink: /crosscountry/gallery/
 description: ""
 third_nav_title: Cross Country
-variant: tiptap
+variant: markdown
 ---
+<h1 style="text-align: center;"><a rel="noopener" target="_blank" href="https://www.instagram.com/indepcross/"><strong><u>ACX Cross Country Official Instagram</u></strong></a></h1>
+
+<h3>2024 Pocari Sweat 2.4km Challenge</h3>
+
+![](/images/2024AE.jpg)
+![](/images/2024AF.jpg)
+![](/images/2024AG.jpg)
+![](/images/2024AH.jpg)
+
 <h3>2024 Cross-Country National Schools Games@Sports Hub&nbsp;</h3>
 <p>Photo Credits: Mr Richard Seow and Mr Lawrence Ang</p>
 <div class="isomer-image-wrapper">
