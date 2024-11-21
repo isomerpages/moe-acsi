@@ -5,6 +5,43 @@ description: ""
 third_nav_title: Photographic Society
 variant: markdown
 ---
+
+
+### AWARDS 2024
+
+**Our Schools, Our Stories Photo & Video Contest 2024**
+
+Ely Anakin Bin Nor Sazly’s (6.10) photos, captioned “Break From School”, clinched the Best Photo Story Award under the Youth category, Our School Community theme. 
+
+From school events to class bonding sessions, his photos preserve cherished school memories, encapsulating the vibrant spirit of the AC community.
+
+![](/images/Capture777.jpg)
+![](/images/Capture7777.jpg)
+
+_OSOS Award-winning Photos by Ely Anakin (6.10)_
+
+**19th Ngee Ann Photography Exhibition 2024**
+
+The works of Brandon Tan Ming Xuan (3.02), Josh Chia Ren Jie (3.16) and Zhang Jincheng (2.05) were showcased at LASALLE College of the Arts. 
+
+![](/images/Picture77.jpg)
+
+_“Triangle” by Zhang Jincheng (2.05)_
+
+Jincheng’s photograph embodies the raw intensity of a basketball match, capturing the pivotal moment on the court that represents the culmination of the players’ efforts.
+
+![](/images/Picture87.jpg)
+
+_“Pecking Order” by Brandon Tan Ming Xuan (3.02)_
+
+“Pecking Order” encapsulates a fleeting moment of tranquility in nature.
+
+![](/images/Picture97.jpg)
+
+_“Inverted Falls” by Josh Chia Ren Jie (3.16)_
+
+Taken at Jewel Changi Airport, “Inverted Falls” is a testament to the architectural marvel that is the Rain Vortex, encouraging others to appreciate the intricate details that make it a wonder.
+
 ### AWARDS 2023
      
 **Winner of Singapore Young Photographers’ Convention (SYPC)**
