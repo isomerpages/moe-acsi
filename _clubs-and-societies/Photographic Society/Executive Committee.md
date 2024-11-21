@@ -5,24 +5,30 @@ description: ""
 third_nav_title: Photographic Society
 variant: markdown
 ---
-President: Ely Anakin Binte Nor Sazly (5.10, 2023)
+President: Ishan Jetly Amirthalingam (5.01, 2024)
 
-Vice-President (Operation): Aaron Ong Chong Hao (5.16, 2023)
+Vice-President (Operation): Owen Ong Chong Kuan (5.13, 2024)
 
-Vice-President (Training): Zhang Sijun (5.16, 2023)
+Vice-President (Training): Brandon Tan Ming Xuan (3.02, 2024)
 
-Webmaster (Head): Michael Yeo Yong Shern (5.03, 2023)
+Quartermaster: Lakshaya Jangir (5.17, 2024)
 
-Webmaster: Jaden Joseph (3.08, 2023)
+Quartermaster: Tyrrell Tan Kai Sheng (3.03, 2024)
 
-Quartermaster (Head): Ishan Jetly Amirthalingam (4.09, 2023)
+Quartermaster: Brandon Tan Kai Jie (2.01, 2024)
 
-Quartermaster: Lam Tuck Shin, Ian (5.12, 2023)
+Quartermaster: Zhang Jincheng (2.05, 2024)
 
-Quartermaster: Owen Ong Chong Kuan (4.13, 2023)
+Quartermaster: Tang Zhi Hao, Aaron (2.07, 2024)
 
-Quartermaster: Yao Zongrui (3.03, 2023)
+Trainer: Shawn Lin Haoen (4.15, 2024)
 
-Quartermaster: Brandon Tan Ming Xuan (2.06, 2023)
+Trainer: Josh Chia Ren Jie (3.16, 2024)
 
-Communication (Head): Sean Wang Jing Xi (5.16, 2023)
+Trainer (Understudy): Tang Zhi Hao, Aaron (2.07, 2024)
+
+Events Administrator: Prakhar Saxena (5.18, 2024)
+
+Communication (Head): Ong Shi Ern, Joy (5.11, 2024)
+
+Communication (Understudy): Brandon Tan Kai Jie (2.01, 2024)
