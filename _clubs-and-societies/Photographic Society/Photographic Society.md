@@ -5,32 +5,53 @@ description: ""
 third_nav_title: Photographic Society
 variant: markdown
 ---
-Welcome!
+**Welcome!**
 
-The ACS (Independent) Photographic Society, also known affectionately as Photog, is a place where photography enthusiasts explore and further their interests. Photog provides training from our own talented members and external professional photographers in addition to its primary aim of documenting school events.
+Welcome to the ACS (Independent) Photographic Society — fondly known as Photog! Our club is the home for passionate photography enthusiasts eager to explore and deepen their craft. As the visual chronicler of our school's most significant moments, we document the myriad of events and celebrations that define the heart and soul of ACS(I), turning fleeting moments into lasting memories. 
 
-What do we do during CCA meetings?
+**What do we do during CCA meetings?**
 
-Our meetings are divided into training sessions (within campus or out of campus) and/or bonding sessions.
+At Photog, our journey is as much about learning as it is about creating. We offer a comprehensive array of training sessions, guided by seasoned professionals from the broader photographic community as well as skilled peers within the club. Whether you’re exploring the fundamentals of photography or delving into advanced techniques, there is always a place here for growth.
 
-During training, we have either internal or external trainers who will enhance our skill sets and knowledge on various genres, processing the photos, tips to improve and more!
+Photog is more than just a haven for learning — it is a community built on strong bonds and shared passion. Our club thrives on camaraderie, with regular bonding sessions to strengthen friendships and encourage collaboration among members, creating lifelong friendships alongside unforgettable memories. 
 
-Our bonding sessions on the other hand, provides a time for relaxation to know our fellow members to build camaraderie ship through games.
 
-Occasionally we also invite guest speakers to motivate us and equip us with the required knowledge to reach greater heights! For example, we had invited Mr Russel Wong and we are awed by his humbleness and perseverance.
 
-Listening to experts in this field may be very useful but the lessons learnt only come to fruition when we put our skills to the test. Holding the camera and exploring the world of photography hands-on is an authentic experience for any budding photographer! 📸 As part of our training program, we had interesting night photography sessions at Merlion Park and Chinatown, Architecture photography at Esplanade Theatre by the Bay, the CBD and Chinatown and also street photography among other exciting genres
+|  |  | 
+| -------- | -------- | 
+| ![](/images/Picture117.jpg)  | ![](/images/Picture27.jpg)     | 
 
-![](/images/Clubs%20And%20Societies/Photo%20Club/Picture18.jpg)
 
-![](/images/Clubs%20And%20Societies/Photo%20Club/Picture19.png)
 
-![](/images/Clubs%20And%20Societies/Photo%20Club/Picture20.png)
-     
-We have a wide range of DSLR, mirrorless camera bodies, lens, tripods and other items that members can borrow when they are shooting for school’s events. Many members have also gone on to purchase cameras of their own as they develop further in this hobby.
 
-“_Photography is the story I fail to put into words_” – Destin Sparks. If you want to capture those lasting memories and write your own story, join us today!
+
+
+_A Sneak Peek into our Bonding Sessions_
+
+Occasionally, we have the privilege of hosting esteemed guest speakers who offer a window into their world, inspiring us with their experiences and insights into the world of photography. A memorable example was our session with Mr. Russel Wong, whose humility and perseverance left an indelible impression on our CCA.
+
+Our adventures often extend beyond the familiar confines of the campus. From night photography at Merlion Park and Chinatown to architectural shoots at the Esplanade and the Central Business District, as well as street photography sessions, we offer a wide spectrum of opportunities to challenge and expand our skills.  These authentic experiences bring theory to life, giving us the chance to experiment, push creative boundaries, and see the world anew through our lenses.  
+
+![A group of people standing around a statue
+Description automatically generated](file:///C:/Users/alexwoo.ADMIN/AppData/Local/Packages/oice_16_974fa576_32c1d314_2356/AC/Temp/msohtmlclip1/01/clip_image006.jpg)![A group of people standing outside
+Description automatically generated](file:///C:/Users/alexwoo.ADMIN/AppData/Local/Packages/oice_16_974fa576_32c1d314_2356/AC/Temp/msohtmlclip1/01/clip_image008.jpg)
+
+_ACPhotog’s recent excursion to the Central Business District_
+
+Photog also boasts an impressive arsenal of equipment. When shooting for school events, members have access to an extensive collection of Canon DSLR, mirrorless camera bodies, lenses, tripods, and other essential gear. As their passion and expertise grow, many of our members have gone on to invest in their own gear, taking their craft to new heights.
+
+![A person looking through a large camera
+Description automatically generated](file:///C:/Users/alexwoo.ADMIN/AppData/Local/Packages/oice_16_974fa576_32c1d314_2356/AC/Temp/msohtmlclip1/01/clip_image010.jpg)![A person taking a picture of himself
+Description automatically generated](file:///C:/Users/alexwoo.ADMIN/AppData/Local/Packages/oice_16_974fa576_32c1d314_2356/AC/Temp/msohtmlclip1/01/clip_image012.jpg)
+
+_Photog members in action_
+
+**Schedule**
+
+We meet every Wednesday from 3.30 to 5.30 pm, usually in classrooms B3-06, B3-07 and B3-08. 
+
+If you are eager to learn more about photography — capturing stories that resonate, moments that inspire, and scenes that move hearts — and wish to contribute meaningfully to the school community, we welcome you to join us!
 
 Let the photoshoot begin!
 
-You can also find us at [https://www.instagram.com/acphotogclub/](https://www.instagram.com/acphotogclub/)
+You can also find us at [https://www.instagram.com/acphotogclub/](https://www.instagram.com/acphotogclub/)
