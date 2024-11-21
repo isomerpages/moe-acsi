@@ -67,18 +67,16 @@ parents, friends and family who have come down to support our runners.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024AA.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024AB.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024AC.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024AD.jpg">
 </div>
+<p></p>
 <p><strong>2024 National Schools Games Cross Country Championships</strong>
 </p>
 <p><strong>“A” Division Boys: 3rd Runner-up</strong>
