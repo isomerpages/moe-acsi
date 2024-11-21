@@ -9,7 +9,10 @@ variant: markdown
 
 <h3>2024 Pocari Sweat 2.4km Challenge</h3>
 
-
+![](/images/2024AE.jpg)
+![](/images/2024AF.jpg)
+![](/images/2024AG.jpg)
+![](/images/2024AH.jpg)
 
 <h3>2024 Cross-Country National Schools Games@Sports Hub&nbsp;</h3>
 <p>Photo Credits: Mr Richard Seow and Mr Lawrence Ang</p>
