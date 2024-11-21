@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Debate Club
 variant: tiptap
 ---
-<p><u>*This page is updated quarterly.</u>
+<p>&nbsp;<u>*This page is updated quarterly.</u>
 </p>
 <p><strong>Singapore Secondary Schools Debate Championship (SSSDC) History</strong>
 </p>
@@ -140,7 +140,7 @@ Guan Wei; Tham Di Xi</p>
 <p>2016</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Michael Lee; Pulkit Athavle; Christopher Low; Gabriel See; Jonathan Loke</p>
+<p>Michael Lee; Pulkit Athavale; Christopher Low; Gabriel See; Jonathan Loke</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Division I Runners-Up; Christopher—Individual 3<sup>rd</sup>
@@ -319,6 +319,31 @@ Soh–Individual 11<sup>th</sup>
 <td rowspan="1" colspan="1">
 <p><strong>Result</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>November 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thoburn Cup 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> Runners-Up; Heng Jie Feng Ayden —Individual 2<sup>nd</sup>;
+Nathaniel Cheng Rong En —Individual 3<sup>rd</sup>; Lau Cedric Dreyzen
+Uy —Individual 5<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Debaters’ Edge Debate Open 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participants</p>
 </td>
 </tr>
 <tr>
@@ -1025,6 +1050,19 @@ Goh—Individual 2<sup>nd</sup>; Arthur Lee—Individual 5<sup>th</sup>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Debaters’ Edge Debate Open 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions; Caden Wong Jing Xi—Individual 1<sup>st</sup>; Yang Zhenglin—Individual
+4<sup>th</sup>; Gabriel Wong Kiat En—Individual 9<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>June 2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1033,7 +1071,8 @@ Goh—Individual 2<sup>nd</sup>; Arthur Lee—Individual 5<sup>th</sup>
 <td rowspan="1" colspan="1">
 <p>Quarter-finalists; Zachary Caden Wong Jing Xi—Individual 9<sup>th</sup>;
 Gabriel Wong Kiat En—Individual 10<sup>th</sup>; Kwah Hsiang Rui David—Individual
-16<sup>th</sup>; Matthew Khoo Wen Kai—Individual 20<sup>th</sup>;&nbsp;</p>
+16<sup>th</sup>; Matthew Khoo Wen Kai—Individual 20<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -1840,4 +1879,5 @@ Lee, Joy Priya, Carolyn Balakrishnan)</p>
 </table>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<p></p>
 <p></p>
