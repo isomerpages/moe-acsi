@@ -5,11 +5,14 @@ description: ""
 third_nav_title: Wind Ensemble
 variant: markdown
 ---
-
 ![](/images/IMG_8247.jpg)
 
 Year 5 CCA Fair
 
+![](/images/1K3A9683_DxO.jpg)
+![](/images/1K3A9923_DxO.jpg)
+
+138th Founder's Day
 
 ![](/images/FD2023_71.jpg)
 
