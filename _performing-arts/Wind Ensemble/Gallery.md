@@ -27,8 +27,21 @@ Year 5 CCA Fair
 ![](/images/IMG_6845_DxO.jpg)
 
  2024 Festival of the Arts
+ 
+ ![](/images/IBWE_Camp__Nov_2024_.jpg)
+ 
+ 2024 IBWE Camp
+ 
+ ![](/images/img_9984_dxo_54142107345_o.jpg)
 
 ![](/images/FD2023_71.jpg)
+![](/images/img_9965_dxo_54140792807_o.jpg)
+![](/images/img_0219_dxo_54141926373_o.jpg)
+![](/images/Copy_of_1O2A0321.jpg)
+![](/images/Copy_of_1O2A0285.jpg)
+![](/images/Copy_of_1O2A9921.jpg)
+
+2024 Thanksgiving Concert
 
 Founder's Day
 
