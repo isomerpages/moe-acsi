@@ -5,87 +5,102 @@ description: ""
 third_nav_title: Wind Ensemble
 variant: tiptap
 ---
-<table width="414">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td width="198">
-<p><strong>Appointment</strong></p>
+<td rowspan="1" colspan="1">
+<p><strong>Appointment</strong>
+</p>
 </td>
-<td width="216">
-<p><strong>Name of Student</strong></p>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Student</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td width="198">
+<td rowspan="1" colspan="1">
 <p>President</p>
 </td>
-<td width="216">
-<p>Wong Jun Yang, Gordon</p>
+<td rowspan="1" colspan="1">
+<p>Isaac Tan</p>
 </td>
 </tr>
 <tr>
-<td width="198">
+<td rowspan="1" colspan="1">
 <p>Vice-President (Admin)</p>
 </td>
-<td width="216">
-<p>Hilary Chan Seok Teng</p>
+<td rowspan="1" colspan="1">
+<p>Cheryl Esther Chua</p>
 </td>
 </tr>
 <tr>
-<td width="198">
+<td rowspan="1" colspan="1">
 <p>Vice-President (Welfare)</p>
 </td>
-<td width="216">
-<p>Lim En Ling Alexis</p>
+<td rowspan="1" colspan="1">
+<p>Jonathan Foo</p>
 </td>
 </tr>
 <tr>
-<td width="198">
+<td rowspan="1" colspan="1">
 <p>Student Conductor</p>
 </td>
-<td width="216">
-<p>Grace Sen Le Yi</p>
+<td rowspan="1" colspan="1">
+<p>Amelie Peh</p>
 </td>
 </tr>
 <tr>
-<td width="198">
+<td rowspan="1" colspan="1">
 <p>Quartermaster</p>
 </td>
-<td width="216">
-<p>Elijah Cheng Tzy Shin</p>
+<td rowspan="1" colspan="1">
+<p>Ryden Tey</p>
 </td>
 </tr>
 <tr>
-<td width="198">
+<td rowspan="1" colspan="1">
 <p>Quartermaster</p>
 </td>
-<td width="216">
-<p>Zong Shengbo</p>
+<td rowspan="1" colspan="1">
+<p>Kendrick Chia</p>
 </td>
 </tr>
 <tr>
-<td width="198">
+<td rowspan="1" colspan="1">
 <p>Head Librarian</p>
 </td>
-<td width="216">
-<p>Aiden Loh E Kye</p>
+<td rowspan="1" colspan="1">
+<p>Peter Sam Chow</p>
 </td>
 </tr>
 <tr>
-<td width="198">
+<td rowspan="1" colspan="1">
 <p>Head Logistics</p>
 </td>
-<td width="216">
-<p>Zacchaeus Goh Jing En</p>
+<td rowspan="1" colspan="1">
+<p>Daniel Khor</p>
 </td>
 </tr>
 <tr>
-<td width="198">
+<td rowspan="1" colspan="1">
 <p>Creative Director</p>
 </td>
-<td width="216">
-<p>Ethan Chng Xue Heng</p>
+<td rowspan="1" colspan="1">
+<p>Emily Ng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Creative Director</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bharath Jumbunathan</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
