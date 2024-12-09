@@ -39,6 +39,15 @@ variant: markdown
 
 2024  Singapore International Band Festival 
 
+![](/images/img_9928_dxo_54141972909_o.jpg)
+![](/images/img_0190_dxo_54140793067_o.jpg)
+![](/images/DSC08212.jpg)
+![](/images/Copy_of_1O2A9921.jpg)
+![](/images/Copy_of_1O2A0401.jpg)
+![](/images/Copy_of_1O2A0154.jpg)
+
+2024 Thanksgiving Concert
+
 ![](/images/FD2023_71.jpg)
 
 Founder's Day
