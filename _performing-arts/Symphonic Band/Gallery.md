@@ -5,6 +5,11 @@ description: ""
 third_nav_title: Symphonic Band
 variant: markdown
 ---
+
+![](/images/1O2A0039.jpg)
+
+2024 Discovery Camp
+
 ![](/images/FD2023_71.jpg)
 
 Founder's Day
@@ -28,4 +33,3 @@ Band Night
 ![](/images/DSC03605.jpeg)
 
 Thanksgiving Concert
-
