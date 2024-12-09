@@ -14,6 +14,14 @@ Year 5 CCA Fair
 
 138th Founder's Day
 
+![](/images/DSC02643.jpg)
+![](/images/DSC02600.jpg)
+![](/images/DSC02597.jpg)
+![](/images/DSC02623.jpg)
+![](/images/IMG_9426.jpg)
+
+2024 Asia Pacific Band Festival
+
 ![](/images/FD2023_71.jpg)
 
 Founder's Day
