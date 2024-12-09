@@ -10,5 +10,7 @@ variant: markdown
 *   Mdm Salinah Latiff, Overall-in-Charge (OC), [salinah@acsindep.edu.sg](mailto:salinah@acsindep.edu.sg)
 *   Mr Peh Sik Kai 
 *   Mdm Martinah Talib
+*   Mdm Wang Fang Hong
+*   Mdm Punitha
 
 ![](/images/MEGACAMP-GRP-FOTO.jpg)
