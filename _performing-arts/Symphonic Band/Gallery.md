@@ -13,6 +13,13 @@ variant: markdown
 
 138th Founder's Day
 
+![](/images/IMG_9426.jpg)
+![](/images/DSC02624.jpg)
+![](/images/DSC02623.jpg)
+![](/images/DSC02617.jpg)
+
+2024  Asia Pacfic Band Festival 
+
 
 ![](/images/FD2023_71.jpg)
 
