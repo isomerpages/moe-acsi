@@ -196,4 +196,15 @@ Unit Recognition (Distinction)  <br>
 Air District Third Placing for Soccer  <br>
 HQ NCC Outstanding Cadet Award 2023 (MSG Novi Lew)  <br>
 HQ NCC Outstanding Cadet Award 2023 (MSG Raphael Tan Xun)  <br>
-ACS (Independent) Sword of Honour Award 2022 (MSG Novi Lew)
+ACS (Independent) Sword of Honour Award 2024 (MSG Novi Lew)
+
+### 2024
+
+Unit Recognition (Distinction)<br>
+HQ NCC Air District First Placing for Soccer<br>
+HQ NCC Air District First-runner up Placing for Captain’s Ball<br>
+HQ NCC Air District Secon-runner up Placing for Frisbee<br>
+HQ NCC Outstanding Cadet Award 2024 (MSG Murali Mourya)<br>
+HQ NCC Outstanding Cadet Award 2024 (MSG Ethan Tan Jun En)<br>
+ACS (Independent) Sword of Honour Award 2024 (MSG Murali Mourya)<br>
+2024 Singapore Youth Flying Club SWIFT course Top three placing (SSG Maximus Mathias Tan)<br>
