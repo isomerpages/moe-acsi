@@ -5,9 +5,114 @@ description: ""
 third_nav_title: Vocal ACcord
 variant: tiptap
 ---
+<p><strong>2025 Highlights</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Date</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Venue</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA commissioning service performance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10 February</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Audi 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National University Hospital Music Outreach with patients (CAS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ongoing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Founder’s Day service performance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28 February</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Audi 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vocal ACcord Beatboxing Masterclass</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17 March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GMR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Open House Performance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 April</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Foyer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Performing Arts Night Festival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25 April</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CPA1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vocal ACcord Annual Concert</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>2024 Highlights</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -68,7 +173,12 @@ variant: tiptap
 </table>
 <p></p>
 <p><strong>2023 Highlights</strong>&nbsp;</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -145,7 +255,12 @@ variant: tiptap
 </table>
 <p><strong>2022 Highlights</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -199,7 +314,12 @@ variant: tiptap
 </table>
 <p><strong>2021 Highlights</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -253,7 +373,12 @@ variant: tiptap
 </table>
 <p><strong>2019 Highlights</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -296,7 +421,12 @@ variant: tiptap
 </table>
 <p><strong>2018 Highlights</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
