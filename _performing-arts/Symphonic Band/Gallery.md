@@ -5,6 +5,49 @@ description: ""
 third_nav_title: Symphonic Band
 variant: markdown
 ---
+![](/images/1O2A0039.jpg)
+
+2024 Discovery Camp
+
+![](/images/1K3A9459_DxO.jpg)
+
+138th Founder's Day
+
+![](/images/IMG_9426.jpg)
+![](/images/DSC02624.jpg)
+![](/images/DSC02623.jpg)
+![](/images/DSC02617.jpg)
+
+2024  Asia Pacfic Band Festival 
+
+![](/images/ry_bandfoa24_054_53728293750_o.jpg)
+![](/images/ry_bandfoa24_037_53726944917_o.jpg)
+![](/images/ry_bandfoa24_030_53728290300_o.jpg)
+![](/images/ry_bandfoa24_023_53728294410_o.jpg)
+![](/images/IMG_7160_DxO.jpg)
+
+2024 Festival of The Arts
+
+![](/images/1k.jpg)
+![](/images/2k.jpg)
+![](/images/3.jpg)
+![](/images/4k.jpg)
+![](/images/5k.jpg)
+![](/images/6k.jpg)
+![](/images/7.jpg)
+![](/images/ry_bandfoa24_054_53728293750_o.jpg)
+
+2024  Singapore International Band Festival 
+
+![](/images/img_9928_dxo_54141972909_o.jpg)
+![](/images/img_0190_dxo_54140793067_o.jpg)
+![](/images/DSC08212.jpg)
+![](/images/Copy_of_1O2A9921.jpg)
+![](/images/Copy_of_1O2A0401.jpg)
+![](/images/Copy_of_1O2A0154.jpg)
+
+2024 Thanksgiving Concert
+
 ![](/images/FD2023_71.jpg)
 
 Founder's Day
@@ -28,4 +71,3 @@ Band Night
 ![](/images/DSC03605.jpeg)
 
 Thanksgiving Concert
-

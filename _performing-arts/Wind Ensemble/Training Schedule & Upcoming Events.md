@@ -52,20 +52,21 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p>&nbsp;The training schedule above serves as a guide. There will be additional rehearsals to prepare for the concerts / competitions in which the Wind Ensemble performs in.</p>
-<p>&nbsp;Please refer to the link below for the detailed schedule or email the respective teacher-in-charge.</p>
-<p>&nbsp;<a href="https://calendar.google.com/calendar/embed?src=acsbands@gmail.com&amp;ctz=Asia/Singapore&amp;gsessionid=OK">https://calendar.google.com/calendar/embed?src=acsbands@gmail.com&amp;ctz=Asia/Singapore&amp;gsessionid=OK</a>&nbsp;</p>
+<p>The training schedule above serves as a guide. There will be additional rehearsals to prepare for the concerts / competitions in which the Wind Ensemble performs in.</p>
+<p>Please refer to the link below for the detailed schedule or email the respective teacher-in-charge.</p>
+<p><a href="https://calendar.google.com/calendar/embed?src=acsbands@gmail.com&amp;ctz=Asia/Singapore&amp;gsessionid=OK">https://calendar.google.com/calendar/embed?src=acsbands@gmail.com&amp;ctz=Asia/Singapore&amp;gsessionid=OK</a></p>
 <p>The IB Wind Ensemble performs/competes in several events over the course of two years:</p>
 <ul>
 <li>Singapore International Band Festival</li>
 <li>Singapore Youth Festival Arts Presentation</li>
-<li>ACS (Independent) Festival Of Arts</li>
+<li>ACS (Independent) Festival Of the Arts</li>
+<li>ACS (Independent) Band Night</li>
 <li>Band Thanksgiving Concert</li>
-<li>ACS (Independent) Founder's Day Parade</li>
-<li>ACS (Independent) National Day Parade</li>
 </ul>
 <p>&nbsp;<strong>UPCOMING EVENTS</strong>&nbsp;</p>
 <ul>
-<li>17 May 2024, Friday Band Festival of the Arts</li>
-<li>15 November 2024, Friday 2024 Thanksgiving Concert</li>
+<li>30 April – 2 May 2025 [TBC] 2025 Singapore Youth Festival Arts Presentation</li>
+<li>25 April 2025, Friday Performing Arts Night Festival</li>
+<li>23 May 2025, Friday 2025 Band Night</li>
+<li>14 November 2025, Friday 2025 Thanksgiving Concert </li>
 </ul>

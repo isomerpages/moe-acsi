@@ -7,7 +7,12 @@ variant: tiptap
 ---
 <p><strong>Teachers</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -47,31 +52,24 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>2023/24 EXCO</strong>
+<p><strong>2024/25 EXCO</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>President</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Charlotte Tang Jia Yun</p>
+<p>Evan Choo Qi Jie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">19charlotte.tang@acsians.acsi.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice President</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wong Xing Yu, Alicia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">19alicia.wong@acsians.acsi.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">20evan.choo.qi.jie@acsians.acsi.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -80,70 +78,22 @@ variant: tiptap
 <p>Music Team Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Goh Jing Kai Elijah</p>
+<p>Chong Xiu Qi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">19elijah.goh@acsians.acsi.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">20chong.xiu.qi@acsians.acsi.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Music Team member</p>
+<p>Welfare &amp; Logistics I/C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Starz Seng Chun Shi</p>
+<p>Kong Kaien Victoria</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">19starz.seng@acsians.acsi.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Music Team member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Joshua Wong Shun Kai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">19joshua.wong@acsians.acsi.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Music Team member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>David Wong Tze Yang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">19david.wong@acsians.acsi.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Quartetmistress</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Min Yee Amber</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">19tan.min.yee.amber@acsians.acsi.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Welfare and Publicity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Rebecca Kua Rui Xuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">19rebecca.kua@acsians.acsi.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">20victoria.kong@acsians.acsi.edu.sg</a>
 </p>
 </td>
 </tr>

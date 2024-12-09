@@ -11,6 +11,9 @@ variant: markdown
 
 ![](/images/6__Francis__Band_Director_s_Profile_.jpeg)
 
+
+**MR FRANCIS TAN**
+
 Band Director
 
 Francis Huan Chun Tan is Music Director and Resident Conductor of Anglo-Chinese School (independent) Bands. His tenure with the bands has seen it clinch the Champion Band in Division 2A of the 2022 Singapore International Band Festival. His other major portfolio centres around his role as Resident Conductor of the National University of Singapore Centre for the Arts where he is also the Principal Tutor of the Wind Symphony.
@@ -21,12 +24,18 @@ His interest in leadership and conducting has also led him to conduct in-depth r
 
 Francis Tan also frequently speaks at youth leadership workshops and is keen to empower young musicians in advocating for the arts to the community. His involvement in co-creating the Wind Bands Association of Singapore (WBAS) Youth Arts Leaders Conference (formally known as WBAS Student Leadership Workshops), which is in its twelfth run, is testament to his music advocacy work.
 
+
 ### MS. SHARON TAN
 
 **Assistant Band Director**
 
-<img src="/images/SharonTan-680x1024.jpg" style="width:50%">
-    
+![](/images/sharon_Tan.jpg)    
+       
+
+**MS SHARON TAN**
+
+Assistant Band Director
+
 Sharon Tan received her Masters in Band Conducting from the American Band College and the Sam-Houston State University, where she had the opportunity to work with various composers, conductors, educators, pedagogues as well as instrumentalists such as Frank Ticheli, Johann de Meij, Loras Schissel, Anthony Maiello, Patricia George, Jim Walker, Pat Sheridan and many more.
 
 As a flautist, Sharon has accumulated a colourful palate of performing experience with solo, chamber, band, orchestra, Broadway, Pop and chorus performances both locally and internationally. She has also benefitted from various renowned flautists including Mary Fukushima (USA), Riona O’Duinnin (Ireland), Carla Corredu (the Netherlands), Angela Rowland (Macau Symphony Orchestra), Emer Macdonough (UK), Betsy Hill (USA), Roberto Alvarez Gonzalez (Spain), Wang Tong (China) and Jin Ta (China).
