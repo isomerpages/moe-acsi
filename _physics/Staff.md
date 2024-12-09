@@ -14,17 +14,7 @@ run effective and engaging student-centric lessons for our&nbsp;students.</p>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Umay Khng</p>
-</td>
-</tr>
+
 <tr>
 <td rowspan="1" colspan="1">
 <p>Dean Science / Physics</p>
@@ -34,6 +24,17 @@ run effective and engaging student-centric lessons for our&nbsp;students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Colleen Ng Shing Ling</p>
+</td>
+</tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<p>Deputy Dean Science / Physics (Acting)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quek Siew Ling</p>
 </td>
 </tr>
 <tr>
@@ -201,17 +202,18 @@ run effective and engaging student-centric lessons for our&nbsp;students.</p>
 <p>Sharmila Manoj Saralkar</p>
 </td>
 </tr>
-<tr>
+	<tr>
 <td rowspan="1" colspan="1">
-<p>Deputy Dean Science / Physics (Acting)</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Quek Siew Ling</p>
+<p>Umay Khng</p>
 </td>
 </tr>
+
 <tr>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
