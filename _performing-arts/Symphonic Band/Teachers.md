@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Symphonic Band
 variant: markdown
 ---
-
-
 <table style="margin-left:-.5pt;border-collapse:collapse;mso-table-layout-alt:fixed;
  border:none;mso-border-alt:solid black .75pt;mso-yfti-tbllook:1536;mso-padding-alt:
  0in 5.4pt 0in 5.4pt;mso-border-insideh:.75pt solid black;mso-border-insidev:
