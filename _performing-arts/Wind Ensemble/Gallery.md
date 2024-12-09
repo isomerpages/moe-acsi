@@ -22,6 +22,12 @@ Year 5 CCA Fair
 
 2024 Asia Pacific Band Festival
 
+![](/images/ry_bandfoa24_148_53727852816_o.jpg)
+![](/images/ry_bandfoa24_070_53728195014_o.jpg)
+![](/images/IMG_6845_DxO.jpg)
+
+ 2024 Festival of the Arts
+
 ![](/images/FD2023_71.jpg)
 
 Founder's Day
