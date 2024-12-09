@@ -5,6 +5,12 @@ description: ""
 third_nav_title: Wind Ensemble
 variant: markdown
 ---
+
+![](/images/IMG_8247.jpg)
+
+Year 5 CCA Fair
+
+
 ![](/images/FD2023_71.jpg)
 
 Founder's Day
@@ -27,4 +33,4 @@ Band Night
 
 ![](/images/DSC03605.jpeg)
 
-Thanksgiving Concert 
+Thanksgiving Concert
