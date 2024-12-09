@@ -23,3 +23,6 @@ variant: markdown
 <ul>
 <li>Certificate of Accomplishment for Brass Ensemble and Certificate of Distinction for Percussion Ensemble at the 2023 Singapore Youth Festival Arts Presentation</li>
 </ul>
+<ul>
+<li>Gold with Distinction (85.07%) at the 2024 Asia-Pacific Band Festival, Division 3 [ACS(I) Band made up of Symphonic Band and Wind Ensemble]</li>
+</ul>
