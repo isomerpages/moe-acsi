@@ -20,6 +20,13 @@ variant: markdown
 
 2024  Asia Pacfic Band Festival 
 
+![](/images/ry_bandfoa24_054_53728293750_o.jpg)
+![](/images/ry_bandfoa24_037_53726944917_o.jpg)
+![](/images/ry_bandfoa24_030_53728290300_o.jpg)
+![](/images/ry_bandfoa24_023_53728294410_o.jpg)
+![](/images/IMG_7160_DxO.jpg)
+
+2024 Festival of The Arts
 
 ![](/images/FD2023_71.jpg)
 
