@@ -23,3 +23,9 @@ variant: markdown
 <ul>
 <li>Certificate of Distinction at the 2023 Singapore Youth Festival Arts Presentation</li>
 </ul>
+<ul>
+<li>Gold with Distinction (85.07%) at the 2024 Asia-Pacific Band Festival, Division 3 [ACS(I) Band made up of Symphonic Band and Wind Ensemble]</li>
+</ul>
+<ul>
+<li>Champion Band in Division 2B, Gold with Distinction (90.17%) at the 2024 Singapore International Band Festival)</li>
+</ul>
