@@ -203,7 +203,7 @@ ACS (Independent) Sword of Honour Award 2023 (MSG Novi Lew)
 Unit Recognition (Distinction)<br>
 HQ NCC Air District First Placing for Soccer<br>
 HQ NCC Air District First-runner up Placing for Captain’s Ball<br>
-HQ NCC Air District Secon-runner up Placing for Frisbee<br>
+HQ NCC Air District Second-runner up Placing for Frisbee<br>
 HQ NCC Outstanding Cadet Award 2024 (MSG Murali Mourya)<br>
 HQ NCC Outstanding Cadet Award 2024 (MSG Ethan Tan Jun En)<br>
 ACS (Independent) Sword of Honour Award 2024 (MSG Murali Mourya)<br>
