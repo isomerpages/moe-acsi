@@ -196,7 +196,7 @@ Unit Recognition (Distinction)  <br>
 Air District Third Placing for Soccer  <br>
 HQ NCC Outstanding Cadet Award 2023 (MSG Novi Lew)  <br>
 HQ NCC Outstanding Cadet Award 2023 (MSG Raphael Tan Xun)  <br>
-ACS (Independent) Sword of Honour Award 2024 (MSG Novi Lew)
+ACS (Independent) Sword of Honour Award 2023 (MSG Novi Lew)
 
 ### 2024
 
