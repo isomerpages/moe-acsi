@@ -9,25 +9,18 @@ variant: tiptap
 </p>
 <p><strong>We warmly welcome you to join our VA family！</strong>
 </p>
-<p><strong>Kindly scan the QR code below to register for 2024 Vocal ACcord audition.</strong>
-</p>
-<p><strong>Click this </strong><a href="https://for.edu.sg/vocalaccordinterestform" rel="noopener noreferrer nofollow" target="_blank">link</a><strong> to indicate your interest and we will get back to you shortly!</strong>
+<p><strong>Kindly scan the QR code below OR click this&nbsp;<a href="https://forms.office.com/r/RaTTurhrLP" class="x_OWAAutoLink" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a>&nbsp;to indicate your interest and we will get back to you shortly!</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Vocal_Accord__3_.jpg">
 </div>
-<p><strong>We are looking for:</strong>
-</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>We are looking for:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Anyone who loves and is not afraid to sing.</p>
-</li>
-<li>
-<p>Singers with past experience [preferably]</p>
-</li>
-<li>
-<p>Individuals with at least some musical background</p>
+<p>Anyone who loves to sing</p>
 </li>
 <li>
 <p>Beatboxers</p>
@@ -47,7 +40,12 @@ variant: tiptap
 <li>
 <p>Video/ Audio Editors</p>
 </li>
+<li>
+<p>Anyone with an interest in music and would like to jam along with us!</p>
+</li>
 </ul>
+</li>
+</ol>
 <p></p>
 <p><strong>Here’s what our VA alumni have to say about Vocal ACcord!</strong>
 </p>
