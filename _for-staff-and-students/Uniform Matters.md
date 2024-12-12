@@ -23,7 +23,8 @@ variant: markdown
 <p><strong>Online Order Link:&nbsp;</strong><a href="https://www.schooluniforms.sg/acs-independent-11" rel="noopener noreferrer nofollow" target="_blank">https://www.schooluniforms.sg/acs-independent-11</a>
 </p>
 <p>Dates for School Uniform Sales 2024 at ACS (I)</p>
-<p>19 Dec 2024: 9 am to 4 pm
+<p>18 Dec 2024:  11.00 am to 4 pm
+<br>19 Dec 2024: 9 am to 4 pm
 <br>20 Dec 2024: 9 am to 4 pm
 <br>23, 26, 27, 30 Dec 2024: 9 am to 2 pm</p>
 <p>Venue: Ground Floor (near the roundabout)</p>
