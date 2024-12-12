@@ -13,10 +13,8 @@ variant: tiptap
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Vocal_Accord__3_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Vocal_Accord__4_.png">
 </div>
-<ol data-tight="true" class="tight">
-<li>
 <p>We are looking for:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -44,8 +42,6 @@ variant: tiptap
 <p>Anyone with an interest in music and would like to jam along with us!</p>
 </li>
 </ul>
-</li>
-</ol>
 <p></p>
 <p><strong>Here’s what our VA alumni have to say about Vocal ACcord!</strong>
 </p>
