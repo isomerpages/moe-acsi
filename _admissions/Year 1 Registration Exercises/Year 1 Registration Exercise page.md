@@ -9,13 +9,13 @@ third_nav_title: Year 1 Registration Exercises
 </p>
 <p><strong>Information for 2025 Year 1 students</strong>
 </p>
-<p>As communicated by MOE, the S1 Posting Results will be released between
-Wednesday, 18 December 2024 and Friday, 20 December 2024.&nbsp;</p>
+<p>As communicated by MOE, the S1 Posting Results will be released&nbsp;on
+Wednesday, 18 December 2024.&nbsp;</p>
 <p>Incoming 2025 Year 1 students, please complete&nbsp;<strong>ALL</strong>&nbsp;<strong>three</strong>&nbsp;<strong>steps</strong>&nbsp;below,
 in the order as shown, to ensure you do not miss out on any important administrative
 procedure and are well prepared for the new school year.&nbsp;</p>
-<p>The ACS(I) online registration portal will only be opened from&nbsp;<strong>1.00 pm onwards on the day of the release of posting results. Registration will run for three days, closing at 10.00 am on the third day. The link will be provided here on the day of the release of the posting result.</strong>&nbsp;</p>
-<p><strong><u>Step 1: Registration for 2025 Year 1 cohort – ONLINE ONLY</u></strong>
+<p>The ACS(I) online registration portal will only be opened from&nbsp;<strong>1.00 pm onwards&nbsp;on Wednesday, 18 December.&nbsp;Registration will run for three days, closing at 10.00 am on&nbsp;Friday, 20 December 2024.&nbsp;The link will be provided here on the day of the release of the posting result.</strong>&nbsp;</p>
+<p><strong>Step 1: Registration for 2025 Year 1 cohort – ONLINE ONLY</strong>
 </p>
 <p>Students posted to ACS(I) need not report to the school after the release
 of school posting results. However,&nbsp;<strong><u>ALL</u></strong>&nbsp;incoming
@@ -34,18 +34,16 @@ To register, please follow these steps:</p>
 <p>Enable the Windows pop-up</p>
 </li>
 <li>
-<p><strong>Click on the registration link: [to be updated]</strong>&nbsp;</p>
+<p><strong>Click on the registration link: [to be updated]&nbsp;</strong>&nbsp;&nbsp;</p>
 </li>
 </ul>
-<p><strong><u>Step 2: Downloading of Year 1 Orientation Package 2025</u></strong>
+<p><strong>Step 2: Downloading of Year 1 Orientation Package 2025</strong>
 </p>
 <p>The Orientation Package contains crucial information and details for school.
 Please download and read through the package using this link which will
-be available only from 1.00 pm onwards on the day of the release of posting
-results:&nbsp;<strong>[to be updated]</strong>
+be available only from 1.00 pm onwards on&nbsp;Wednesday, 18 December 2024:&nbsp;<strong>[to be updated]&nbsp;</strong>
 </p>
-<p><strong><u>Step 3: Purchase of items for school</u></strong>
-</p>
+<p><strong>Step 3: Purchase of items for school</strong>&nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -106,13 +104,13 @@ results:&nbsp;<strong>[to be updated]</strong>
 </tr>
 </tbody>
 </table>
-<p><strong>Appeals</strong>
+<p>&nbsp;<strong>Appeals</strong>
 </p>
 <p>Appeals will only be via online application and the portal for appeals
-will only be opened from 1 pm on the day of the release of the posting
-results.<strong>&nbsp;</strong>Appeals application will run for three days,
-closing at 10.00 am on the third day. The link will be provided here on
-the day of the release of the posting result.&nbsp;</p>
+will only be opened from 1.00 pm on&nbsp;Wednesday, 18 December 2024.&nbsp;Appeals
+application will run for three days, closing at 10.00 am on&nbsp;Friday,
+20 December 2024.&nbsp;The link will be provided here on the day of the
+release of the posting result.&nbsp;</p>
 <p>Please note that entry into our school is based on merit and subject to
 vacancy (students need to meet the COP).&nbsp;</p>
 <p>Results will be known between 30 Dec to 31 Dec 2024. Successful applicants
