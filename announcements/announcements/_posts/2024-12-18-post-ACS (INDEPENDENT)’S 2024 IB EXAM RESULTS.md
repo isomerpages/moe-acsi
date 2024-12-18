@@ -34,6 +34,7 @@ encouragement.</p>
 <p>The IBDP Class of 2024, together with teachers, parents and the Senior
 Administration, will come together on 3 January 2025 to celebrate and give
 thanks for this set of results.<em>&nbsp;</em>&nbsp;</p>
+<p></p>
 <p>To God Be The Glory!</p>
 <p>The Best Is Yet To Be!&nbsp;</p>
 <p>______________________<strong>&nbsp;</strong>
