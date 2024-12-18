@@ -63,9 +63,7 @@ a 4,000-word paper.</p>
 <p><strong><a href="https://ibo.org/programmes/diploma-programme/curriculum/dp-core/creativity-activity-and-service/" rel="noopener noreferrer nofollow" target="_blank">Creativity, activity, service</a></strong>,
 in which students complete a project related to those three concepts.</p>
 </li>
-<li>
-<p>&nbsp;</p>
-</li>
+
 </ul>
 <p>The six subject groups are:&nbsp;</p>
 <ul data-tight="true" class="tight">
