@@ -34,14 +34,17 @@ To register, please follow these steps:</p>
 <p>Enable the Windows pop-up</p>
 </li>
 <li>
-<p><strong>Click on the registration link: [to be updated]&nbsp;</strong>&nbsp;&nbsp;</p>
+<p><strong>Click on the registration link: </strong><a rel="noopener noreferrer nofollow" target="_blank">https://site1.acsindep.edu.sg/links/Y1Posting_Student.aspx</a>
+</p>
 </li>
 </ul>
 <p><strong>Step 2: Downloading of Year 1 Orientation Package 2025</strong>
 </p>
 <p>The Orientation Package contains crucial information and details for school.
 Please download and read through the package using this link which will
-be available only from 1.00 pm onwards on&nbsp;Wednesday, 18 December 2024:&nbsp;<strong>[to be updated]&nbsp;</strong>
+be available only from 1.00 pm onwards on&nbsp;Wednesday, 18 December 2024:&nbsp;
+<a rel="noopener noreferrer nofollow" target="_blank">https://sites.acsindep.edu.sg/Year</a><a href="https://sites.acsindep.edu.sg/Year%201%20Registration/Year%201.zip" rel="noopener noreferrer nofollow" target="_blank"> 1 Registration/Year </a>
+<a rel="noopener noreferrer nofollow" target="_blank">1.zip</a>
 </p>
 <p><strong>Step 3: Purchase of items for school</strong>&nbsp;</p>
 <table style="minWidth: 75px">
