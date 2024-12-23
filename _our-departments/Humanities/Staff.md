@@ -3,169 +3,356 @@ title: Staff
 permalink: /departments/humanities/staff/
 description: ""
 third_nav_title: Humanities
-variant: markdown
+variant: tiptap
 ---
-<table width="677">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td width="182">Subject</td>
-<td width="307">Designation</td>
-<td width="188">Name</td>
+<td rowspan="1" colspan="1">
+<p>Subject</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Designation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
 </tr>
 <tr>
-<td width="182">Humanities / History</td>
-<td width="307">Dean, Humanities</td>
-<td width="188">Mr. Liu Guoyi</td>
+<td rowspan="1" colspan="1">
+<p>Humanities / History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dean, Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Liu Guoyi</p>
+</td>
 </tr>
 <tr>
-<td width="182">Humanities / Geography</td>
-<td width="307">Deputy Dean, Humanities / Geography</td>
-<td width="188">Mrs. Sandra Sim</td>
+<td rowspan="1" colspan="1">
+<p>Humanities / Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Dean, Humanities / Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs. Sandra Sim</p>
+</td>
 </tr>
 <tr>
-<td width="182">Humanities/ Geography</td>
-<td width="307">Deputy Dean, Humanities / HSP</td>
-<td width="188">Mr. Benjamin Yuan</td>
+<td rowspan="1" colspan="1">
+<p>Humanities/ Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Dean, Humanities / HSP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Benjamin Yuan</p>
+</td>
 </tr>
 <tr>
-<td width="182">Humanities / History</td>
-<td width="307">Deputy Dean, Humanities / History Express</td>
-<td width="188">Mdm. Vijitha Ranjee</td>
+<td rowspan="1" colspan="1">
+<p>Humanities / History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Dean, Humanities / History Express</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm. Vijitha Ranjee</p>
+</td>
 </tr>
 <tr>
-<td width="182">Humanities / History</td>
-<td width="307">Director, Affective Curriculum</td>
-<td width="188">Mr. Jarett Kan Wern Hau</td>
+<td rowspan="1" colspan="1">
+<p>Humanities / History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Director, Affective Curriculum</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Jarett Kan Wern Hau</p>
+</td>
 </tr>
 <tr>
-<td width="182">Humanities / History</td>
-<td width="307">Director, Professional &amp; Teacher Leader Development&nbsp;</td>
-<td width="188">Mr. Tan Kok Choon</td>
+<td rowspan="1" colspan="1">
+<p>Humanities / History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Director, Professional &amp; Teacher Leader Development&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Tan Kok Choon</p>
+</td>
 </tr>
 <tr>
-<td width="182">Humanities / History</td>
-<td width="307">Director, Student Leadership&nbsp;</td>
-<td width="188">Mr. Koh Tiang Peng</td>
+<td rowspan="1" colspan="1">
+<p>Humanities / History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Director, Student Leadership&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Koh Tiang Peng</p>
+</td>
 </tr>
 <tr>
-<td width="182">Humanities / History</td>
-<td width="307">Senior Teacher</td>
-<td width="188">Mr. Norman Chua Ching Poo</td>
+<td rowspan="1" colspan="1">
+<p>Humanities / History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Norman Chua Ching Poo</p>
+</td>
 </tr>
 <tr>
-<td width="182">Humanities / History</td>
-<td width="307">Teacher</td>
-<td width="188">Mr. Brian Chirnside</td>
+<td rowspan="1" colspan="1">
+<p>Humanities / History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Brian Chirnside</p>
+</td>
 </tr>
 <tr>
-<td width="182">Humanities / History</td>
-<td width="307">Teacher</td>
-<td width="188">Mr. Bobby Chew Tao Teng</td>
+<td rowspan="1" colspan="1">
+<p>Humanities / History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Bobby Chew Tao Teng</p>
+</td>
 </tr>
 <tr>
-<td width="182">Humanities / History</td>
-<td width="307">Teacher</td>
-<td width="188">Ms. Cindy See Toh</td>
+<td rowspan="1" colspan="1">
+<p>Humanities / History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Cindy See Toh</p>
+</td>
 </tr>
 <tr>
-<td width="182">Humanities / Geography</td>
-<td width="307">Teacher</td>
-<td width="188">Mr. Eugene Lim Chun Yen</td>
+<td rowspan="1" colspan="1">
+<p>Humanities / Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Eugene Lim Chun Yen</p>
+</td>
 </tr>
 <tr>
-<td width="182">Humanities / History</td>
-<td width="307">Teacher</td>
-<td width="188">Mdm. Goh Hwee Hwee</td>
+<td rowspan="1" colspan="1">
+<p>Humanities / History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm. Goh Hwee Hwee</p>
+</td>
 </tr>
 <tr>
-<td width="182">Humanities / History</td>
-<td width="307">Teacher</td>
-<td width="188">Mr. Gavin Ang Chi Hong</td>
+<td rowspan="1" colspan="1">
+<p>Humanities / History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Gavin Ang Chi Hong</p>
+</td>
 </tr>
 <tr>
-<td width="182">Humanities / Geography</td>
-<td width="307">Teacher</td>
-<td width="188">Mr. Jason Lai</td>
+<td rowspan="1" colspan="1">
+<p>Humanities / Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Jason Lai</p>
+</td>
 </tr>
 <tr>
-<td width="182">Humanities / History</td>
-<td width="307">Teacher</td>
-<td width="188">Mr. Lee James Belcher</td>
+<td rowspan="1" colspan="1">
+<p>Humanities / History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Lee James Belcher</p>
+</td>
 </tr>
 <tr>
-<td width="182">Humanities / Geography</td>
-<td width="307">Teacher</td>
-<td width="188">Mdm Lim Wan Hoon</td>
+<td rowspan="1" colspan="1">
+<p>Humanities / Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Wan Hoon</p>
+</td>
 </tr>
 <tr>
-<td width="182">Humanities / History</td>
-<td width="307">Teacher</td>
-<td width="188">Mr. Lincoln Chua Kay Leng</td>
+<td rowspan="1" colspan="1">
+<p>Humanities / History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Lincoln Chua Kay Leng</p>
+</td>
 </tr>
 <tr>
-<td width="182">Humanities / History</td>
-<td width="307">Teacher</td>
-<td width="188">Mr. Lau Keng Chong Jonathan</td>
+<td rowspan="1" colspan="1">
+<p>Humanities / Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Mark Frank Ratnam</p>
+</td>
 </tr>
 <tr>
-<td width="182">Humanities / Geography</td>
-<td width="307">Teacher</td>
-<td width="188">Mr. Mark Frank Ratnam</td>
+<td rowspan="1" colspan="1">
+<p>Humanities / Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Michelle Fong Qi Min</p>
+</td>
 </tr>
 <tr>
-<td width="182">Humanities / Geography</td>
-<td width="307">Teacher</td>
-<td width="188">Ms. Michelle Fong Qi Min</td>
+<td rowspan="1" colspan="1">
+<p>Humanities / History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Moghan Das</p>
+</td>
 </tr>
 <tr>
-<td width="182">Humanities / History</td>
-<td width="307">Teacher</td>
-<td width="188">Mr. Moghan Das</td>
+<td rowspan="1" colspan="1">
+<p>Humanities / History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Neo Chai Wee</p>
+</td>
 </tr>
 <tr>
-<td width="182">Humanities / History</td>
-<td width="307">Teacher</td>
-<td width="188">Mr. Neo Chai Wee</td>
+<td rowspan="1" colspan="1">
+<p>Humanities / History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Peh Sik Kai</p>
+</td>
 </tr>
 <tr>
-<td width="182">Humanities / History</td>
-<td width="307">Teacher</td>
-<td width="188">Mr. Peh Sik Kai</td>
+<td rowspan="1" colspan="1">
+<p>Humanities / Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Salinah Bee D/O Abdul Latiff</p>
+</td>
 </tr>
 <tr>
-<td width="182">Humanities / Geography</td>
-<td width="307">Teacher</td>
-<td width="188">Ms. Salinah Bee D/O Abdul Latiff</td>
+<td rowspan="1" colspan="1">
+<p>Humanities / Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs. Suliana J Franz</p>
+</td>
 </tr>
 <tr>
-<td width="182">Humanities / Geography</td>
-<td width="307">Teacher</td>
-<td width="188">Mrs. Suliana J Franz</td>
+<td rowspan="1" colspan="1">
+<p>Humanities / Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Tan Shue Er Maybelline</p>
+</td>
 </tr>
 <tr>
-<td width="182">Humanities / Geography</td>
-<td width="307">Teacher</td>
-<td width="188">Ms. Tan Shue Er Maybelline</td>
+<td rowspan="1" colspan="1">
+<p>Humanities / History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Teo Eng Han</p>
+</td>
 </tr>
 <tr>
-<td width="182">Humanities / History</td>
-<td width="307">Teacher</td>
-<td width="188">Mr. Teo Eng Han</td>
+<td rowspan="1" colspan="1">
+<p>Humanities / History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm. Toh Ling Lee</p>
+</td>
 </tr>
 <tr>
-<td width="182">Humanities / History</td>
-<td width="307">Teacher</td>
-<td width="188">Mdm. Toh Ling Lee</td>
+<td rowspan="1" colspan="1">
+<p>Humanities / History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Wong Tze Yung</p>
+</td>
 </tr>
 <tr>
-<td width="182">Humanities / History</td>
-<td width="307">Teacher</td>
-<td width="188">Mr. Wong Tze Yung</td>
-</tr>
-<tr>
-<td width="182">Humanities / Geography</td>
-<td width="307">Teacher</td>
-<td width="188">Ms. Parvathy D/O Vegadasalam&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>Humanities / Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Parvathy D/O Vegadasalam&nbsp;</p>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>

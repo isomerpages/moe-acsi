@@ -77,20 +77,7 @@ variant: markdown
 <p>Year 3</p>
 </td>
 </tr>
-<tr>
-<td>
-<p>Mr Joseph Sim</p>
-</td>
-<td>
-<p>68700491</p>
-</td>
-<td>
-<p><a href="mailto:simmingkwang@acsindep.edu.sg">simmingkwang@acsindep.edu.sg</a></p>
-</td>
-<td>
-<p>Year 4</p>
-</td>
-</tr>
+
 <tr>
 <td>
 <p>Ms Li Yuexia</p>

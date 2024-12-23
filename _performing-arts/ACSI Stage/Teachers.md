@@ -3,7 +3,53 @@ title: Teachers
 permalink: /indepstage/teachers/
 description: ""
 third_nav_title: ACSI Stage
+variant: tiptap
 ---
-**Teachers-In-Charge**
-
-<table style="box-sizing: border-box; border-collapse: collapse; min-width: 500px; color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; border-color: rgb(209, 209, 209); height: 193px;" width="100%" border="1"><tbody style="box-sizing: border-box; margin-top: 0px;"><tr style="box-sizing: border-box; margin-top: 0px;"><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px; width: 202.609px;"><strong style="box-sizing: border-box; font-weight: bolder; margin-top: 0px;">Name of Teacher</strong></td><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 276.719px;"><strong style="box-sizing: border-box; font-weight: bolder; margin-top: 0px;">Email</strong></td><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 419.672px;"><strong style="box-sizing: border-box; font-weight: bolder; margin-top: 0px;">Remarks&nbsp;</strong></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px; width: 202.609px;">&nbsp;Mr Brian Connor</td><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 276.719px;">&nbsp;bjconnor@acsindep.edu.sg</td><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 419.672px;">Overall Teacher in Charge</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px; width: 202.609px;">&nbsp;Dr Angela Chew</td><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 276.719px;">&nbsp;angelamarycca@acsindep.edu.sg</td><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 419.672px;">Teacher in Charge: Sets &amp; Props; Budget &amp; Claims; VIA</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px; width: 202.609px;">Ms Janarthanan Ahalya</td><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 276.719px;">janarthanan@acsindep.edu.sg</td><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 419.672px;">Teacher in Charge: Costumes &amp;&nbsp;Make-up; CCA Records; Catering</td></tr></tbody></table>
+<p><strong>Teachers-In-Charge</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Teacher</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Remarks&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Mr Brian Connor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;bjconnor@acsindep.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Overall Teacher in Charge</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Dr Angela Chew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;angelamarycca@acsindep.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher in Charge: Sets &amp; Props; Budget &amp; Claims; VIA</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

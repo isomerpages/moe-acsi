@@ -3,6 +3,7 @@ title: Teachers
 permalink: /squash/teachers/
 description: ""
 third_nav_title: Squash
+variant: markdown
 ---
 <table>
 <thead>
@@ -12,18 +13,12 @@ third_nav_title: Squash
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td>Ms Mavis Hoon</td>
-    <td>Teacher-in-charge</td>
-  </tr>
+  
   <tr>
     <td>Mr Jerel Chen</td>
     <td>Teacher-in-charge</td>
   </tr>
-  <tr>
-    <td>Mdm Cheng Siau Yian</td>
-    <td>Teacher-in-charge</td>
-  </tr>
+ 
   <tr>
     <td>Ms Shirley Lim</td>
     <td>Teacher-in-charge</td>

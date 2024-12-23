@@ -13,18 +13,6 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Dr Bok Hai Choo Christine</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Teacher I/C</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="mailto:bokhaichoo@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bokhaichoo@acsindep.edu.sg</a>
-</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Deborah Siew</p>
 </td>

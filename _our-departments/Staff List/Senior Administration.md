@@ -3,23 +3,28 @@ title: Senior Administration
 permalink: /senior-administration/
 description: ""
 third_nav_title: Staff List
-variant: tiptap
+variant: markdown
 ---
 <p>Please note that only the names and details of key-points-of-contact are
 reflected in the staff Directory. For the&nbsp;<strong>full contact list</strong>&nbsp;of
 teachers and staff, Parents&nbsp;<strong>may log in to the</strong>&nbsp;<strong><a href="http://lms.acsindep.edu.sg/ACSIndep/logon_new.aspx?type=parents" rel="noopener noreferrer nofollow" target="_blank">Parents’ Portal</a></strong>&nbsp;and
 view the Staff List under Parent’s Resources tab.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>DEPARTMENTS</p>
+<p>Departments</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>APPOINTMENTS</p>
+<p>Appointment</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>NAMES</p>
+<p>Name</p>
 </th>
 </tr>
 <tr>
@@ -27,7 +32,7 @@ view the Staff List under Parent’s Resources tab.</p>
 <p>Senior Administration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Principal</p>
+<p>Principal/Boarding School Warden</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Arene Koh</p>
@@ -38,7 +43,7 @@ view the Staff List under Parent’s Resources tab.</p>
 <p>Senior Administration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deputy Principal (Foundational Years 1 &amp; 2)</p>
+<p>Deputy Principal (Year 1 &amp; 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Patrick Soo</p>
@@ -49,7 +54,8 @@ view the Staff List under Parent’s Resources tab.</p>
 <p>Senior Administration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deputy Principal (Express &amp; Integrated Programme Years 3 &amp; 4)</p>
+<p>Deputy Principal (Year 3 &amp; 4) &amp; Deputy Warden, ACS(I) Boarding
+School</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Yong Lee Har</p>
@@ -60,7 +66,7 @@ view the Staff List under Parent’s Resources tab.</p>
 <p>Senior Administration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deputy Principal (Student Development)</p>
+<p>Deputy Principal (Year 5 and 6)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Judy Ho</p>
@@ -71,7 +77,7 @@ view the Staff List under Parent’s Resources tab.</p>
 <p>Senior Administration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deputy Principal (Student Development)</p>
+<p>Deputy Principal (Student Development) &amp; Chief Safety Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Andrew Yong</p>
@@ -82,12 +88,35 @@ view the Staff List under Parent’s Resources tab.</p>
 <p>Senior Administration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deputy Principal (Corporate Development)</p>
+<p>Deputy Principal (Innovation &amp; Technology)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Terence Chiew</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Administration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Principal (Year 3 and 4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Alice Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Administration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Principal (Administration)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Bernard Chan</p>
+</td>
+</tr>
+
 </tbody>
 </table>
-<p></p>
+<p>&nbsp;</p>
