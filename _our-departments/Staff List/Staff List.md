@@ -32,7 +32,7 @@ view the Staff List under Parent’s Resources tab.</p>
 <p>Senior Administration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Principal</p>
+<p>Principal/Boarding School Warden</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Arene Koh</p>
@@ -66,7 +66,7 @@ School</p>
 <p>Senior Administration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deputy Principal (Student Development)</p>
+<p>Deputy Principal (Year 5 and 6)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Judy Ho</p>
@@ -88,10 +88,32 @@ School</p>
 <p>Senior Administration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deputy Principal (Corporate Development)</p>
+<p>Deputy Principal (Innovation &amp; Technology)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Terence Chiew</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Administration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Principal (Year 3 and 4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Alice Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Administration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Principal (Administration)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Bernard Chan</p>
 </td>
 </tr>
 <tr>
@@ -132,8 +154,7 @@ School</p>
 <p>English/Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dean, English Language &amp; Literature (Integrated Programme / O Level)
-(Acting)</p>
+<p>Dean, English Language &amp; Literature (Integrated Programme / O Level)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Karen Ng</p>
@@ -214,17 +235,6 @@ School</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Dennis Sim Heng Hock</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Science / Physics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dean, Science/Physics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Jamin Jeow See Boon</p>
 </td>
 </tr>
 <tr>
@@ -401,7 +411,7 @@ Committee)</p>
 <p>Director Year 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Alice Tan</p>
+<p>Mr Phee Beng Chang</p>
 </td>
 </tr>
 <tr>
@@ -431,10 +441,32 @@ Committee)</p>
 <p>Econs / B&amp;M</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Director, Community Education &amp; Engagement</p>
+<p>Director, Student Engagement &amp; Empowerment</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ivy Quek Mui Khim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English/Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Director, Partnerships &amp; Talent Development (Acting)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Benjamin Wong Zi Ming</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science / Physics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dean, Science (Physics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Colleen Ng Shing Ling</p>
 </td>
 </tr>
 <tr>
