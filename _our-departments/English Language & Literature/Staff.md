@@ -5,7 +5,11 @@ description: ""
 third_nav_title: English Language & Literature
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -105,14 +109,6 @@ Leader</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year 1, Director</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms. Ahalya Janarthanan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Coordinator – Year 2, English Language&nbsp;</p>
 </td>
 </tr>
 <tr>
