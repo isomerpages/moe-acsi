@@ -13,10 +13,7 @@ variant: markdown
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td>Ms Mavis Hoon</td>
-    <td>Teacher-in-charge</td>
-  </tr>
+  
   <tr>
     <td>Mr Jerel Chen</td>
     <td>Teacher-in-charge</td>
