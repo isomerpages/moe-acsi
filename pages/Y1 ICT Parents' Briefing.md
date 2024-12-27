@@ -1,6 +1,6 @@
 ---
 title: Y1 ICT Parents' Briefing
-permalink: /year-1-ict-parent-briefing/
+permalink: /year-1-discovery-camp-ict-talk/
 description: ""
 variant: markdown
 ---
