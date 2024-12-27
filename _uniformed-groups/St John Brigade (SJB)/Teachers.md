@@ -5,46 +5,82 @@ description: ""
 third_nav_title: St John Brigade (SJB)
 variant: tiptap
 ---
-This section provides the key teachers in charge / coaches and if applicable the areas of responsibilities. A contact email may be provided. Tels are optional. &nbsp;A sample template is provided below.
-
-<table>
-<thead>
-  <tr>
-    <th>Name of Teacher</th>
-    <th>Email</th>
-    <th>Remarks </th>
-  </tr>
-</thead>
+<p>This section provides the key teachers in charge / coaches and if applicable
+the areas of responsibilities. A contact email may be provided. Tels are
+optional. &nbsp;A sample template is provided below.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td> Mr Kenneth Seah</td>
-    <td> cheehwa@acsindep.edu.sg</td>
-    <td>Overall Teacher in Charge</td>
-  </tr>
-  <tr>
-    <td> Mdm Usha</td>
-    <td>usha@acsindep.edu.sg</td>
-    <td>Year 1 cadets</td>
-  </tr>
-  <tr>
-    <td> Ms Alice Pang</td>
-    <td>alicephh@acsindep.edu.sg</td>
-    <td>Year 3 cadets</td>
-  </tr>
-  <tr>
-    <td> Ms Florence Chiang</td>
-    <td>florencechiangss@acsindep.edu.sg</td>
-    <td>Year 2 cadets</td>
-  </tr>
-  <tr>
-    <td> Ms Ivy Goh</td>
-    <td> ivygohqf@acsindep.edu.sg</td>
-    <td>Year 4 cadets</td>
-  </tr>
-  <tr>
-    <td>Mr Wong Tze Yung</td>
-    <td>tzeyung@acsindep.edu.sg</td>
-    <td>Year 5 &amp; 6 cadets</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name of Teacher</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Remarks</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kenneth Seah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>cheehwa@acsindep.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Overall Teacher in Charge</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Alice Pang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>alicephh@acsindep.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year 3 cadets</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Florence Chiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>florencechiangss@acsindep.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year 2 cadets</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ivy Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ivygohqf@acsindep.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year 4 cadets</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Tze Yung</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tzeyung@acsindep.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year 5 &amp; 6 cadets</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
