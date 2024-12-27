@@ -2,6 +2,7 @@
 title: Competitions
 permalink: /mathcompetition/competitions/
 description: ""
+variant: markdown
 ---
+## [Competitions](/files/Mathematics_Competitions_in_2025.pdf)
 
-## [Competitions](/files/Mathematics%20Competition%20Team/Mathematics-Competitions-in-2023.pdf)
