@@ -7,7 +7,7 @@ variant: tiptap
 <p><strong>Road Safety and Traffic Matters</strong>
 </p>
 <p>For further information on the school’s safety and security measures,
-please refer to the following document: <em>Safety and Security Measures </em>
+please refer to the following document: <a href="https://sites.acsindep.edu.sg/Road%20Safety/Safety%20and%20Security%20Measures.pdf" rel="noopener nofollow" target="_blank">Safety and Security Measures</a>
 </p>
 <p><strong>Entry / Exit Points</strong>
 </p>
