@@ -100,7 +100,7 @@ TRIGONOMETRY, FUNCTIONS etc., beyond the secondary and IBDP syllabus.</p>
 <p>489</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jonaschow@<a rel="noopener noreferrer nofollow" target="_blank">acsindep.edu.sg</a> 
+<p>jonaschow@acsindep.edu.sg 
 </p>
 </td>
 </tr>
@@ -112,7 +112,7 @@ TRIGONOMETRY, FUNCTIONS etc., beyond the secondary and IBDP syllabus.</p>
 <p>552</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>zhangqing@<a rel="noopener noreferrer nofollow" target="_blank">acsindep.edu.sg</a> 
+<p>zhangqing@acsindep.edu.sg 
 </p>
 </td>
 </tr>
@@ -124,7 +124,7 @@ TRIGONOMETRY, FUNCTIONS etc., beyond the secondary and IBDP syllabus.</p>
 <p>427</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>liujian@<a rel="noopener noreferrer nofollow" target="_blank">acsindep.edu.sg</a> 
+<p>liujian@acsindep.edu.sg
 </p>
 </td>
 </tr>
