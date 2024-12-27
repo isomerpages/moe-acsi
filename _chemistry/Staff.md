@@ -4,164 +4,343 @@ permalink: /departments/science/chemistry/staff/
 description: ""
 variant: tiptap
 ---
-<table width="727" border="1">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td>Dean Science/Chemistry</td>
-<td>Mr</td>
-<td>Dennis Sim</td>
+<td rowspan="1" colspan="1">
+<p>Dean Science/Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dennis Sim</p>
+</td>
 </tr>
 <tr>
-<td>Deputy Dean Science/Chemistry</td>
-<td>Mdm</td>
-<td>Jess Wong Shu Yee</td>
-</tr>
-	<tr>
-<td>Deputy Director (Year 4)</td>
-<td>Mr</td>
-<td>Eric Xie&nbsp;Jianzhong</td>
-</tr>
-	<tr>
-<td>Deputy Director (Affective Curriculum)</td>
-<td>Mr</td>
-<td>Julius Lee</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Dean Science/Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jess Wong Shu Yee</p>
+</td>
 </tr>
 <tr>
-<td>Senior Teacher</td>
-<td>Mr</td>
-<td>Tan Keng Hsin</td>
-</tr>
-	<tr>
-<td>Senior Teacher</td>
-<td>Mr</td>
-<td>Lee Beng Hwee</td>
-</tr>
-<tr>
-<td>Teacher</td>
-<td>Ms</td>
-<td>Esther Poh</td>
-</tr>
-
-<tr>
-<td>Teacher</td>
-<td>Ms</td>
-<td>Kwoh Siew Lay</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Director (Year 4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Eric Xie&nbsp;Jianzhong</p>
+</td>
 </tr>
 <tr>
-<td>Teacher</td>
-<td>Mdm</td>
-<td>Lydia Yap</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Director (Affective Curriculum)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Julius Lee</p>
+</td>
 </tr>
 <tr>
-<td>Teacher</td>
-<td>Mdm</td>
-<td>Usha Penninal</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Keng Hsin</p>
+</td>
 </tr>
 <tr>
-<td>Teacher</td>
-<td>Mr</td>
-<td>Jerel Chen</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Beng Hwee</p>
+</td>
 </tr>
 <tr>
-<td>Teacher</td>
-<td>Mdm</td>
-<td>Jolene Tan</td>
-</tr>
-
-<tr>
-<td>Teacher</td>
-<td>Mdm</td>
-<td>Tang Yee Voon</td>
-</tr>
-<tr>
-<td>Teacher</td>
-<td>Ms</td>
-<td>Lai Chien Siew</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Esther Poh</p>
+</td>
 </tr>
 <tr>
-<td>Teacher</td>
-<td>Ms</td>
-<td>Kan Ximin</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kwoh Siew Lay</p>
+</td>
 </tr>
 <tr>
-<td>Teacher</td>
-<td>Ms</td>
-<td>Patricia Xu</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lydia Yap</p>
+</td>
 </tr>
 <tr>
-<td>Teacher</td>
-<td>Mr</td>
-<td>Tay Wee Leong</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jerel Chen</p>
+</td>
 </tr>
 <tr>
-<td>Teacher</td>
-<td>Ms</td>
-<td>Caviner Wong</td>
-</tr>
-
-<tr>
-<td>Teacher</td>
-<td>Dr</td>
-<td>Wong Yee Lin</td>
-</tr>
-<tr>
-<td>Teacher</td>
-<td>Mr</td>
-<td>Brian Thian</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jolene Tan</p>
+</td>
 </tr>
 <tr>
-<td>Teacher</td>
-<td>Mr</td>
-<td>Alex Voon Qiyuan</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tang Yee Voon</p>
+</td>
 </tr>
 <tr>
-<td>Teacher</td>
-<td>Ms </td>
-<td>Tay Lingxin</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lai Chien Siew</p>
+</td>
 </tr>
 <tr>
-<td>Teacher</td>
-<td>Mr </td>
-<td>Kwan Jian Ming</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kan Ximin</p>
+</td>
 </tr>
 <tr>
-<td>Laboratory Supervisor</td>
-<td>Mrs</td>
-<td>Reena Quah</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Patricia Xu</p>
+</td>
 </tr>
 <tr>
-<td>Deputy Laboratory Supervisor</td>
-<td>Mr</td>
-<td>Joshua Chong Li Zhong</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tay Wee Leong</p>
+</td>
 </tr>
 <tr>
-<td>Laboratory Technical Officer</td>
-<td>Mdm</td>
-<td>Candy Ang Khang Ni</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Caviner Wong</p>
+</td>
 </tr>
 <tr>
-<td>Laboratory Technical Officer</td>
-<td>Ms</td>
-<td>Irene Law</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wong Yee Lin</p>
+</td>
 </tr>
 <tr>
-<td>Laboratory Technical Officer</td>
-<td>Ms</td>
-<td>Ms Stefanie Lim</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Brian Thian</p>
+</td>
 </tr>
 <tr>
-<td>Laboratory Technical Officer</td>
-<td>Mr </td>
-<td>Goh Ying Zheng</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Alex Voon Qiyuan</p>
+</td>
 </tr>
 <tr>
-<td>Laboratory Technical Officer</td>
-<td>Mdm</td>
-<td>Sakuntala Devi</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tay Lingxin</p>
+</td>
 </tr>
-<tr><td>Laboratory Technical Officer</td>
-<td>Ms</td>
-<td>Nurul Mahirah Binte Zailani</td>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kwan Jian Ming</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Laboratory Supervisor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Reena Quah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Deputy Laboratory Supervisor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Joshua Chong Li Zhong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Laboratory Technical Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Candy Ang Khang Ni</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Laboratory Technical Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Irene Law</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Laboratory Technical Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Stefanie Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Laboratory Technical Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Goh Ying Zheng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Laboratory Technical Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sakuntala Devi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Laboratory Technical Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nurul Mahirah Binte Zailani</p>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>
