@@ -151,28 +151,6 @@ variant: tiptap
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lai Chien Siew</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kan Ximin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Patricia Xu</p>
 </td>
 </tr>
@@ -229,6 +207,61 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Kwan Jian Ming</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Celeste Teo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ong Lay Choo Felicia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Soh Yong Bin Matthew</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chia Guo Hui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yew Yishen Sam</p>
 </td>
 </tr>
 <tr>
