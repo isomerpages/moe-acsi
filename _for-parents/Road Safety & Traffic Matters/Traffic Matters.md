@@ -145,6 +145,10 @@ spot in front of the Boarding School.</p>
 security before they are allowed into the school. They will be given a
 sticker that needs to be adhered visibly on their clothing while in the
 school premises. Example:</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Road Safety &amp; Traffic matters/Picture12.png">
+</div>
 <p>22.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For visitors with no prior appointment
 made with the school, they can park at the visitors’ carpark (if there
 are available lots).</p>
