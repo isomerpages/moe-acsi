@@ -126,7 +126,7 @@ invited visitors. These lots are located directly opposite the Boarding
 School, as shown in the figure marked in red.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="60%" alt="" src="/images/Road Safety &amp; Traffic matters/Picture11.png">
+<img style="width: 50%" height="auto" width="50%" alt="" src="/images/Road Safety &amp; Traffic matters/Picture11.png">
 </div>
 <p>19.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you have been invited to visit
 the school, our school staff will ask for the following details so that
