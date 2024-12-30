@@ -3,117 +3,138 @@ title: Schedule
 permalink: /schedule-2/
 description: ""
 third_nav_title: Golf
-variant: markdown
+variant: tiptap
 ---
-**The schedule below serves as a guide to the training schedule. Throughout the season, teachers may adjust the schedule&nbsp;to suit competition and school commitments.**
-
-**Students who are interested in joining Golf as CCA are required to e-mail directly to the teacher in charge to indicate their interest at&nbsp;&nbsp;[jaxleongcw@acsindep.edu.sg](mailto:jaxleongcw@acsindep.edu.sg)**&nbsp; **at the start of the academic year.**
-
-**Recreational group:**
-
-<table>
-<thead>
-  <tr>
-    <th>Training Venue</th>
-    <th>SingaGolf Pte Ltd<br><br>Sembawang Country Club<br>249 Sembawang Road<br>Singapore 758352</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Day</td>
-    <td>Wednesday</td>
-  </tr>
-  <tr>
-    <td>Time</td>
-    <td>4.00 pm to 5.30 pm</td>
-  </tr>
-  <tr>
-    <td>Meeting place</td>
-    <td>Wednesday 3.15 pm at ACS (Independent) space frame</td>
-  </tr>
-  <tr>
-    <td>Dismissal</td>
-    <td>6.15 pm ACS (I) space frame</td>
-  </tr>
-  <tr>
-    <td>Training and transportation fees</td>
-    <td>To be confirmed</td>
-  </tr>
-</tbody>
-</table>
-
-### Training Schedule 2024:
-
-<p><strong>Recreational group:</strong></p>
-<table width="237">
+<p><strong>The schedule below serves as a guide to the training schedule. Throughout the season, teachers may adjust the schedule&nbsp;to suit competition and school commitments.</strong>
+</p>
+<p><strong>Students who are interested in joining Golf as CCA are required to e-mail directly to the teacher in charge to indicate their interest at&nbsp;&nbsp;<a href="mailto:jaxleongcw@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jaxleongcw@acsindep.edu.sg</a></strong>&nbsp; <strong>at the start of the academic year.</strong>
+</p>
+<p><strong>Recreational group:</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td width="236" colspan="3">
-<p>Training Schedule 2024</p>
+<th rowspan="1" colspan="1">
+<p>Training Venue</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>SingaGolf Pte Ltd
+<br>
+<br>Sembawang Country Club
+<br>249 Sembawang Road
+<br>Singapore 758352</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
 </td>
 </tr>
 <tr>
-<td width="102">
-<p>February</p>
+<td rowspan="1" colspan="1">
+<p>Time</p>
 </td>
-<td width="119">
-<p>21st, 28th</p>
-</td>
-</tr>
-<tr>
-<td width="102">
-<p>March</p>
-</td>
-<td width="119">
-<p>6th, 20th</p>
+<td rowspan="1" colspan="1">
+<p>4.00 pm to 5.30 pm</p>
 </td>
 </tr>
 <tr>
-<td width="102">
-<p>April</p>
+<td rowspan="1" colspan="1">
+<p>Meeting place</p>
 </td>
-<td width="119">
-<p>3rd, 24th</p>
-</td>
-</tr>
-<tr>
-<td width="102">
-<p>May</p>
-</td>
-<td width="119">
-<p>15th</p>
+<td rowspan="1" colspan="1">
+<p>Wednesday 3.15 pm at ACS (Independent) space frame</p>
 </td>
 </tr>
 <tr>
-<td width="102">
-<p>June</p>
+<td rowspan="1" colspan="1">
+<p>Dismissal</p>
 </td>
-<td width="119">
-<p>26th</p>
-</td>
-</tr>
-<tr>
-<td width="102">
-<p>July</p>
-</td>
-<td width="134" colspan="2">
-<p>3rd, 10th, 17th, 31st</p>
+<td rowspan="1" colspan="1">
+<p>6.15 pm ACS (I) space frame</p>
 </td>
 </tr>
 <tr>
-<td width="102">
-<p>August</p>
+<td rowspan="1" colspan="1">
+<p>Training and transportation fees</p>
 </td>
-<td width="119">
-<p>7th</p>
+<td rowspan="1" colspan="1">
+<p>To be confirmed</p>
 </td>
 </tr>
 </tbody>
 </table>
-
-*Training dates may change due to unforeseen school events.
-
-**Competitive group:**
-
-Sports Psychology<br>
-Date :&nbsp; 12th, 19th January, 2nd, 16th, 23rd February, 22nd March, 12th April
+<h3>Training Schedule 2025:</h3>
+<p><strong>Recreational group                  </strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>February</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>19th, 26th</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>March</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>5th, 12th, 26th</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>April</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>9th, 23rd</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>May</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>14th, 28th</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>July</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2nd, 9th, 23th, 30th</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Competitive group</strong>
+</p>
+<p>Course Management&nbsp;</p>
+<p>Date : 20<sup>th</sup>&nbsp;January, 3<sup>rd</sup>&nbsp;and 17<sup>th</sup>&nbsp;February,
+3<sup>rd</sup>&nbsp;and 24<sup>th</sup>&nbsp;March.</p>
+<p>&nbsp;</p>
