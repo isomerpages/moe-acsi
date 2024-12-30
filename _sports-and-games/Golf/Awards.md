@@ -549,7 +549,7 @@ Long)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9th&nbsp;position (Koh Juin Hao Colin 5.01)</p>
+<p>9th&nbsp;position (Koh Juin Hao Colin 6.01)</p>
 </td>
 </tr>
 <tr>
