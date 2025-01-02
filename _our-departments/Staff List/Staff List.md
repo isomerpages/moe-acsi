@@ -438,7 +438,7 @@ Committee)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Econs / B&amp;M</p>
+<p>TOK</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Director, Student Engagement &amp; Empowerment</p>
