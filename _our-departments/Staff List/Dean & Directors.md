@@ -5,7 +5,10 @@ description: ""
 third_nav_title: Staff List
 variant: tiptap
 ---
-<p>Please note that only the names and details of key-points-of-contact are reflected in the staff Directory. For the <strong>full contact list</strong> of teachers and staff, Parents <strong>may log in to the</strong> <a href="http://lms.acsindep.edu.sg/ACSIndep/logon_new.aspx?type=parents"><strong>Parents’ Portal</strong></a> and view the Staff List under Parent’s Resources tab.</p>
+<p>Please note that only the names and details of key-points-of-contact are
+reflected in the staff Directory. For the <strong>full contact list</strong> of
+teachers and staff, Parents <strong>may log in to the</strong>  <strong><a href="http://lms.acsindep.edu.sg/ACSIndep/logon_new.aspx?type=parents" rel="noopener noreferrer nofollow" target="_blank">Parents’ Portal</a></strong> and
+view the Staff List under Parent’s Resources tab.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -24,7 +27,6 @@ variant: tiptap
 <p>Name</p>
 </th>
 </tr>
-
 <tr>
 <td rowspan="1" colspan="1">
 <p>Econs / B&amp;M</p>
@@ -347,7 +349,7 @@ Committee)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Econs / B&amp;M</p>
+<p>TOK</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Director, Student Engagement &amp; Empowerment</p>
@@ -378,7 +380,6 @@ Committee)</p>
 <p>Mdm Colleen Ng Shing Ling</p>
 </td>
 </tr>
-
 </tbody>
 </table>
 <p>&nbsp;</p>
