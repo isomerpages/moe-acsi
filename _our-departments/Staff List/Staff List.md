@@ -3,7 +3,7 @@ title: Staff List
 permalink: /about-acs-independent/staff-list/
 description: ""
 third_nav_title: Staff List
-variant: markdown
+variant: tiptap
 ---
 <p>Please note that only the names and details of key-points-of-contact are
 reflected in the staff Directory. For the <strong>full contact list</strong> of
@@ -438,7 +438,7 @@ Committee)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Econs / B&amp;M</p>
+<p>TOK</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Director, Student Engagement &amp; Empowerment</p>
