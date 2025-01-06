@@ -60,8 +60,7 @@ which is an independent, self-directed piece of research, finishing with
 a 4,000-word paper.</p>
 </li>
 <li>
-<p><strong><a href="https://ibo.org/programmes/diploma-programme/curriculum/dp-core/creativity-activity-and-service/" rel="noopener noreferrer nofollow" target="_blank">Creativity, activity, service</a></strong>,
-in which students complete a project related to those three concepts.</p>
+<p><strong><a href="https://ibo.org/programmes/diploma-programme/curriculum/dp-core/creativity-activity-and-service/" rel="noopener noreferrer nofollow" target="_blank">Creativity, activity, service</a></strong>,          in which students participate in a range of experiences and at least one project related to those three concepts.</p>
 </li>
 
 </ul>
