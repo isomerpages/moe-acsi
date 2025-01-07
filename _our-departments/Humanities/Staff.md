@@ -39,10 +39,10 @@ variant: tiptap
 <p>Humanities / Geography</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deputy Dean, Humanities / Geography</p>
+<p>Deputy Dean, Humanities (Geography) (Acting)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs. Sandra Sim</p>
+<p>Mrs. Suliana J Franz</p>
 </td>
 </tr>
 <tr>
@@ -223,6 +223,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Humanities / History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Linda Goon&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Humanities / Geography</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -295,17 +306,6 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs. Suliana J Franz</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Humanities / Geography</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms. Tan Shue Er Maybelline</p>
 </td>
 </tr>
@@ -350,7 +350,7 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Parvathy D/O Vegadasalam&nbsp;</p>
+<p>Mr. Ong Kian Jie</p>
 </td>
 </tr>
 </tbody>
