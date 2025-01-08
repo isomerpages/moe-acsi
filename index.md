@@ -22,10 +22,10 @@ sections:
       subtitle: Announcements
       button: more
   - infopic:
-      title: Theme Verse 2024
+      title: Theme Verse 2025
       id: infopic
-      image: /images/Theme_2024_For_Webpage_Banner_c.jpg
-      alt: Theme Verse 2024
+      image: /images/Theme Verse Infopic/Theme_2025_For_Webpage_Banner_copy.jpg
+      alt: Theme Verse 2025
   - infopic:
       title: Athlete Friendly Education Centre
       subtitle: World Academy of Sports
