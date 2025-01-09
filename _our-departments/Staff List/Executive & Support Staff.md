@@ -274,7 +274,7 @@ view the Staff List under Parent’s Resources tab.</p>
 <p>IT Development</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IT Development Manager (Acting)</p>
+<p>IT Development Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Siow Pei Fang</p>
