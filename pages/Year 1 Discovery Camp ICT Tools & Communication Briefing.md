@@ -1,5 +1,5 @@
 ---
-title: Y1 ICT Parents' Briefing
+title: Year 1 Discovery Camp ICT Tools & Communication Briefing
 permalink: /year-1-discovery-camp-ict-briefing/
 description: ""
 variant: markdown
