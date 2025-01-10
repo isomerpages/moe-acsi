@@ -3,6 +3,7 @@ title: Mother Tongue
 permalink: /departments/mother-tongue/
 description: ""
 third_nav_title: Mother Tongue
+variant: markdown
 ---
 **Mother Tongue Language Policy**
 
@@ -39,8 +40,6 @@ Chinese B, Malay B, Tamil B, Hindi B at Standard Level
 OR
 
 Spanish&nbsp;_ab initio\*_
-
-French&nbsp;_ab initio\*_
 
 &nbsp;\* To offer Language ab initio, students must have obtained a D7 grade or better for the GCE ‘O’ Level Higher MT exam. Otherwise they will be required to sit for the GCE ‘A’ Level H1 MT exam.
 
