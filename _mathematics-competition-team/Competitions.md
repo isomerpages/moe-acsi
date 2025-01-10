@@ -4,5 +4,4 @@ permalink: /mathcompetition/competitions/
 description: ""
 variant: markdown
 ---
-## [Competitions](/files/Mathematics_Competitions_in_2025.pdf)
-
+## [Competitions in 2025 (updated)](/files/Mathematics_Competitions_in_2025_updated_10_Jan.pdf)
