@@ -483,6 +483,35 @@ skills from Canoeing and I will continue training hard.</p>
 <img style="width:40%" height="auto" width="100%" src="/images/canoe%205.png">
 </div>
 <hr>
+<h4>Sean Becker (6.11 – 2018)</h4>
+<p>I joined rugby in primary 1 but I didn’t enjoy it very much so I quit
+in primary 3. Then I was without a CCA for the rest of primary school.
+At the very most I would do some light gym exercises to keep active but
+honestly aside from natural fitness I wasn’t doing very much in terms of
+exercise or any sort of sports.</p>
+<p>I was intrigued by the sport on CCA day as I hadn’t heard about it before
+but one of the seniors signed me up because I was bigger than the other
+Sec 1s and on the day of the selection I just felt like trying something
+new so I figured I would give it a try</p>
+<p>It’s a tough time trying to manage all my work especially in IB when our
+schedules don’t permit us much time outside of school. I thought it best
+that I focus on completing as much work as possible during school hours
+and then completely focusing on training after that. At night it was also
+difficult to complete much work as I also needed sufficient sleep so I
+had to prioritise whenever I faced a tough decision.</p>
+<p>During exam periods I did my best to maintain a healthy balance between
+these commitments even when races and examinations clashed. To do my best
+in both would be a difficult task but that was no excuse not to do so.</p>
+<p>I sincerely believe that Canoeing has taught me the value of hard work.
+I was never immediately the best but only through dedication and profound
+belief did I progress to a much higher level than I ever thought possible.</p>
+<p>It has also greatly and in a positive manner enhanced my confidence and
+given me the tools I need to overcome any problem I encounter and welcome
+adversity which I feel will help in the long run</p>
+<div class="isomer-image-wrapper">
+<img style="width:40%" height="auto" width="100%" src="/images/canoe%2020.png">
+</div>
+<hr>
 <h4>Justin Lee (1.11 – 2017)</h4>
 <p>Before I joined canoeing I was not very sporty with swimming being the
 only sport I had ever done. Even so, I had stopped swimming lessons a long
@@ -876,35 +905,7 @@ opportunity and I am very happy that I seized that opportunity.</p>
 <div class="isomer-image-wrapper">
 <img style="width:40%" height="auto" width="100%" src="/images/canoe%2019.png">
 </div>
-<hr>
-<h4>Sean Becker (6.11 – 2018)</h4>
-<p>I joined rugby in primary 1 but I didn’t enjoy it very much so I quit
-in primary 3. Then I was without a CCA for the rest of primary school.
-At the very most I would do some light gym exercises to keep active but
-honestly aside from natural fitness I wasn’t doing very much in terms of
-exercise or any sort of sports.</p>
-<p>I was intrigued by the sport on CCA day as I hadn’t heard about it before
-but one of the seniors signed me up because I was bigger than the other
-Sec 1s and on the day of the selection I just felt like trying something
-new so I figured I would give it a try</p>
-<p>It’s a tough time trying to manage all my work especially in IB when our
-schedules don’t permit us much time outside of school. I thought it best
-that I focus on completing as much work as possible during school hours
-and then completely focusing on training after that. At night it was also
-difficult to complete much work as I also needed sufficient sleep so I
-had to prioritise whenever I faced a tough decision.</p>
-<p>During exam periods I did my best to maintain a healthy balance between
-these commitments even when races and examinations clashed. To do my best
-in both would be a difficult task but that was no excuse not to do so.</p>
-<p>I sincerely believe that Canoeing has taught me the value of hard work.
-I was never immediately the best but only through dedication and profound
-belief did I progress to a much higher level than I ever thought possible.</p>
-<p>It has also greatly and in a positive manner enhanced my confidence and
-given me the tools I need to overcome any problem I encounter and welcome
-adversity which I feel will help in the long run</p>
-<div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/canoe%2020.png">
-</div>
+
 <hr>
 <h4>Ray Chua (6.15 – 2017)</h4>
 <p>Never before have I regarded myself as a sportsman, having absolutely
