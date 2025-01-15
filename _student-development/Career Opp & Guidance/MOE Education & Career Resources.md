@@ -59,7 +59,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.moe.gov.sg/education/post-secondary" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/education/post-secondary</a>
+<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary</a>
 </p>
 </td>
 </tr>
