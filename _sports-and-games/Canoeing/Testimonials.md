@@ -483,6 +483,26 @@ skills from Canoeing and I will continue training hard.</p>
 <img style="width:40%" height="auto" width="100%" src="/images/canoe%205.png">
 </div>
 <hr>
+
+<h4>Hup Jun Jie (5.01 – 2018)</h4>
+<p>Before joining Canoeing, in my primary school I was not in a sport CCA
+and even though I loved sports, I was not playing any sports at a competitive
+level.</p>
+<p>I thought it was interesting and I wanted to join a sport. I was selected
+with no prerequisite.</p>
+<p>Canoeing is a taxing sport. Very often I come back home from training
+being very lethargic and very lazy. However, this has also taught me to
+handle high workloads when I grew older and even though many people see
+this as a problem, I would view this as a lesson to prepare us for the
+future.</p>
+<p>Canoeing has taught me many things, from values such as resilience, determination
+to things such as lifelong friendship. Canoeing is a once in a lifetime
+opportunity and I am very happy that I seized that opportunity.</p>
+<div class="isomer-image-wrapper">
+<img style="width:40%" height="auto" width="100%" src="/images/canoe%2019.png">
+</div>
+
+<hr>
 <h4>Sean Becker (6.11 – 2018)</h4>
 <p>I joined rugby in primary 1 but I didn’t enjoy it very much so I quit
 in primary 3. Then I was without a CCA for the rest of primary school.
@@ -887,23 +907,6 @@ who I know will stick with me through thick and thin and is the reason
 why I managed to stay in canoeing until today.</p>
 <div class="isomer-image-wrapper">
 <img style="width:40%" height="auto" width="100%" src="/images/canoe%2018.png">
-</div>
-<h4>Hup Jun Jie (5.01 – 2018)</h4>
-<p>Before joining Canoeing, in my primary school I was not in a sport CCA
-and even though I loved sports, I was not playing any sports at a competitive
-level.</p>
-<p>I thought it was interesting and I wanted to join a sport. I was selected
-with no prerequisite.</p>
-<p>Canoeing is a taxing sport. Very often I come back home from training
-being very lethargic and very lazy. However, this has also taught me to
-handle high workloads when I grew older and even though many people see
-this as a problem, I would view this as a lesson to prepare us for the
-future.</p>
-<p>Canoeing has taught me many things, from values such as resilience, determination
-to things such as lifelong friendship. Canoeing is a once in a lifetime
-opportunity and I am very happy that I seized that opportunity.</p>
-<div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/canoe%2019.png">
 </div>
 
 <hr>
