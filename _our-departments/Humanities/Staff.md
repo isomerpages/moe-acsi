@@ -245,17 +245,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Humanities / Geography</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms. Michelle Fong Qi Min</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Humanities / History</p>
 </td>
 <td rowspan="1" colspan="1">
