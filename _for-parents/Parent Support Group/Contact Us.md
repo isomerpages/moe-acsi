@@ -3,68 +3,59 @@ title: Contact Us
 permalink: /for-parents/acsi-parent-support-group/contact-us/
 description: ""
 third_nav_title: Parent Support Group
+variant: markdown
 ---
 Anglo-Chinese School (Independent)  <br>
 Attention: Parent Support Group  <br>
 121 Dover Road  <br>
 Singapore 139650  <br>
-E-mail: [psg@as.acsi.edu.sg](mailto:psg@as.acsi.edu.sg)
+E-mail:&nbsp;[psg@as.acsi.edu.sg](mailto:psg@as.acsi.edu.sg)
 
 <a href="https://www.facebook.com/ACSIPSG/">
-<img src="/images/Facebook-128px.png" alt="facebook"  style="width:10%" align = "left">
+<img src="/images/Facebook-128px.png" alt="facebook" style="width:10%" align="left">
 </a>
 <br><br><br>
 <a href="https://t.me/ACSIPSG">
-<img src="/images/Telegram-128px.png" alt="telegram"  style="width:10%" align = "left">
+<img src="/images/Telegram-128px.png" alt="telegram" style="width:10%" align="left">
 </a>
 <br><br><br>
 
 ### PSG Sub-Committee Contact Persons
 
-**Parents’ Prayer Group**  
+**Parents’ Prayer Group**
 
-Winnie Tan [winnie.acsiprayerparents@gmail.com](mailto:winnie.acsiprayerparents@gmail.com)
+Winnie Tan [winnie.acsiprayerparents@gmail.com](mailto:winnie.acsiprayerparents@gmail.com)&nbsp;
 
-**Fathers’ Prayer Group**  
+**Fathers’ Prayer Group**&nbsp;
 
-Kirindeep Singh [kirindeepsingh@gmail.com](mailto:kirindeepsingh@gmail.com)
+Kirindeep Singh [kirindeepsingh@gmail.com](mailto:kirindeepsingh@gmail.com)&nbsp;
 
-**Gratitude & Blessings (Teachers’ Day Lunch etc)**  
+**Gratitude &amp; Blessings (Teachers’ Day Lunch etc)**
 
-Dana Magnus [acsigratitudenblessing@gmail.com](mailto:acsigratitudenblessing@gmail.com)
+Dana Magnus [acsigratitudenblessing@gmail.com](mailto:acsigratitudenblessing@gmail.com)&nbsp;
 
-**Membership & Outreach**  
+**Membership &amp; Outreach**
 
-Irene Widiani [psg@as.acsi.edu.sg](mailto:psg@as.acsi.edu.sg)  
+Geraldine Lim [psg@as.acsi.edu.sg](mailto:psg@as.acsi.edu.sg)&nbsp;
 
-Geraldine Lim [psg@as.acsi.edu.sg](mailto:psg@as.acsi.edu.sg)
+**Hospitality &amp; Integration (HI!) Programme**
 
-**Hospitality & Integration (HI!) Programme**  
+Rebecca Vagenende [psg@as.acsi.edu.sg](mailto:psg@as.acsi.edu.sg)&nbsp;
 
-Irene Widiani [psg@as.acsi.edu.sg](mailto:psg@as.acsi.edu.sg)
+**Merchandise**&nbsp;
 
-**Webstore**  
+Tammy Gan / Belle Chua [psg@as.acsi.edu.sg](mailto:psg@as.acsi.edu.sg)&nbsp;
 
-Stephanie Cheong [products.acsipsg@gmail.com](mailto:products.acsipsg@gmail.com)
+**Talks, Seminars &amp; Workshops**&nbsp;
 
-**Talks, Seminars & Workshops**  
+Eunice Tay [psg@as.acsi.edu.sg](mailto:psg@as.acsi.edu.sg)&nbsp;
 
-Amelia Chew [psg@as.acsi.edu.sg](mailto:psg@as.acsi.edu.sg)  
+**IT Infrastructure &amp; Support&nbsp;**
 
-Shana Tan [psg@as.acsi.edu.sg](mailto:psg@as.acsi.edu.sg)
+Joshua Duan [psg@as.acsi.edu.sg](mailto:psg@as.acsi.edu.sg)&nbsp;
 
-**IT Infrastructure & Support**  
+**Marketing &amp; Branding (Social Media, Publicity &amp; Content)**
 
-Choo Choon Teck [psg@as.acsi.edu.sg](mailto:psg@as.acsi.edu.sg)  
+Choo Choon Teck [psg@as.acsi.edu.sg](mailto:psg@as.acsi.edu.sg)&nbsp;
 
-Elizabeth Khoo [psg@as.acsi.edu.sg](mailto:psg@as.acsi.edu.sg)
-
-**Marketing & Branding (Social Media, Publicity & Content)**  
-
-Choo Choon Teck [psg@as.acsi.edu.sg](mailto:psg@as.acsi.edu.sg)  
-
-Elizabeth Khoo [psg@as.acsi.edu.sg](mailto:psg@as.acsi.edu.sg)
-
-**Entrepreneurship (Projects)**  
-
-Irene Chua [psg@as.acsi.edu.sg](mailto:psg@as.acsi.edu.sg)
+Aaron Goh [psg@as.acsi.edu.sg](mailto:psg@as.acsi.edu.sg)
