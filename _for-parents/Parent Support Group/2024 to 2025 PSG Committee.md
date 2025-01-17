@@ -115,10 +115,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Merchandise&nbsp;</p>
+<p>Merchandise</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tammy Gan / Stephanie Cheong</p>
+<p>Tammy Gan / Belle Chua</p>
 </td>
 </tr>
 <tr>
@@ -142,7 +142,7 @@ variant: tiptap
 <p>Marketing &amp; Branding&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Choo Choon Teck, Aaron Goh&nbsp;</p>
+<p>Choo Choon Teck, Aaron Goh</p>
 </td>
 </tr>
 </tbody>
@@ -167,7 +167,7 @@ variant: tiptap
 <p>Deputy Principal&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yong Lee Har&nbsp;</p>
+<p>Mrs Judy Ho</p>
 </td>
 </tr>
 </tbody>
