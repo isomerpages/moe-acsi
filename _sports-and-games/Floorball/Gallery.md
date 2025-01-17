@@ -5,31 +5,21 @@ description: ""
 third_nav_title: Floorball
 variant: markdown
 ---
-<table>
-<thead>
-  <tr>
-    <th style="width:200px"></th>
-    <th style="width:200px"></th>
-    <th style="width:200px"></th>
-		<th style="width:200px"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td style="text-align:center"><a href="/images/CCA%20Sports/Floorball/Floorball_1.jpg"> <img src="/images/CCA%20Sports/Floorball/Floorball_1.jpg" style="width:200px"></a></td>
-    <td style="text-align:center"><a href="/images/CCA%20Sports/Floorball/Floorball_2.jpg"> <img src="/images/CCA%20Sports/Floorball/Floorball_2.jpg" style="width:200px"></a></td>
-    <td style="text-align:center"><a href="/images/CCA%20Sports/Floorball/Floorball_3.jpg"> <img src="/images/CCA%20Sports/Floorball/Floorball_3.jpg" style="width:200px; height: 130px"></a></td>
-    <td style="text-align:center"><a href="/images/CCA%20Sports/Floorball/Floorball_4.png"> <img src="/images/CCA%20Sports/Floorball/Floorball_4.png" style="width:200px"></a></td>
-  </tr>
-   <tr>
-    <td style="text-align:center"><a href="/images/CCA%20Sports/Floorball/Floorball_5.png"> <img src="/images/CCA%20Sports/Floorball/Floorball_5.png" style="width:200px"></a></td>
-    <td style="text-align:center"><a href="/images/CCA%20Sports/Floorball/Floorball_6.jpg"> <img src="/images/CCA%20Sports/Floorball/Floorball_6.jpg" style="width:200px"></a></td>
-    <td style="text-align:center"><a href="/images/CCA%20Sports/Floorball/Floorball_7.jpg"> <img src="/images/CCA%20Sports/Floorball/Floorball_7.jpg" style="width:200px; height: 130px"></a></td>
-    <td style="text-align:center"><a href="/images/CCA%20Sports/Floorball/Floorball_8.jpg"> <img src="/images/CCA%20Sports/Floorball/Floorball_8.jpg" style="width:200px"></a></td>
-  </tr>
-		<tr>
-    <td style="text-align:center"><a href="/images/CCA%20Sports/Floorball/Floorball_9.jpg"> <img src="/images/CCA%20Sports/Floorball/Floorball_9.jpg" style="width:200px; height: 130px"></a></td>
-    <td style="text-align:center"><a href="/images/CCA%20Sports/Floorball/Floorball_10.png"> <img src="/images/CCA%20Sports/Floorball/Floorball_10.png" style="width:200px"></a></td>
-	</tr>
-</tbody>
-</table>
+![](/images/Floorball/Floorball1.jpg)
+![](/images/Floorball/Floorball2.jpg)
+![](/images/Floorball/Floorball3.jpg)
+![](/images/Floorball/Floorball4.jpg)
+![](/images/Floorball/Floorball5.jpg)
+![](/images/Floorball/Floorball6.jpg)
+![](/images/Floorball/Floorball7.jpg)
+![](/images/Floorball/Floorball8.jpg)
+![](/images/Floorball/Floorball9.jpg)
+![](/images/Floorball/Floorball10.jpg)
+![](/images/Floorball/Floorball11.jpg)
+![](/images/Floorball/Floorball12.jpg)
+![](/images/Floorball/Floorball13.jpg)
+![](/images/Floorball/Floorball14.jpg)
+![](/images/Floorball/Floorball15.jpg)
+![](/images/Floorball/Floorball16.jpg)
+![](/images/Floorball/Floorball17.jpg)
+![](/images/Floorball/Floorball18.jpg)
