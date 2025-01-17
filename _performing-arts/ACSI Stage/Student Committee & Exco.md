@@ -1,7 +1,155 @@
 ---
-title: Student Committee &amp; Exco
+title: Student Committee & Exco
 permalink: /indepstage/student-committee-exco/
 description: ""
 third_nav_title: ACSI Stage
+variant: markdown
 ---
-<table style="box-sizing: border-box; border-collapse: collapse; min-width: 500px; color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; height: 274px; border-color: rgb(209, 209, 209);" width="100%" border="1"><tbody style="box-sizing: border-box; margin-top: 0px;"><tr style="box-sizing: border-box; margin-top: 0px; height: 24px;"><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px; width: 550.875px; height: 24px;"><strong style="box-sizing: border-box; font-weight: bolder; margin-top: 0px;">Appointment</strong></td><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 245.172px; height: 24px;"><strong style="box-sizing: border-box; font-weight: bolder; margin-top: 0px;">Name of Student</strong></td><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 102.953px; height: 24px;"><strong style="box-sizing: border-box; font-weight: bolder; margin-top: 0px;">Class</strong></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px; width: 550.875px; height: 24px;">President</td><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 245.172px; height: 24px;">Gabrielle Tan Li Hsuen</td><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 102.953px; height: 24px;">6.06</td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px; width: 550.875px; height: 24px;">Vice President/Welfare</td><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 245.172px; height: 24px;">Pan Wei Hang</td><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 102.953px; height: 24px;">6.07</td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px; width: 550.875px; height: 24px;">Secretary</td><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 245.172px; height: 24px;">Mandava Roopa Sree</td><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 102.953px; height: 24px;">6.14</td></tr><tr style="box-sizing: border-box; height: 27px;"><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px; width: 550.875px; height: 27px;">Quartermaster/Safety</td><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 245.172px; height: 27px;">Sean Chew Shaoyi</td><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 102.953px; height: 27px;">6.09</td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px; width: 550.875px; height: 24px;">Manager IT</td><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 245.172px; height: 24px;">Teoh Michael</td><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 102.953px; height: 24px;">6.07</td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; margin-top: 0px; width: 550.875px; height: 24px;">Director of Publicity</td><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 245.172px; height: 24px;">Zhou Ziyue Mia</td><td style="box-sizing: border-box; border-collapse: collapse; padding: 10px 15px; line-height: 18px; width: 102.953px; height: 24px;">6.09</td></tr></tbody></table>
+**EXCO 2024-25**
+
+<table style="width:100.0%;background:white;border-collapse:collapse;border:none;
+ mso-border-alt:outset #D1D1D1 .75pt;mso-yfti-tbllook:1184" width="100%" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:.25in"><td style="width:266.85pt;border:solid #D6D6D6 1.0pt;
+  mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
+  padding:7.5pt 11.25pt 7.5pt 11.25pt;height:.25in" valign="top" width="356"><p style="line-height:13.5pt" class="MsoNormal"><b><span style="font-family:
+  &quot;inherit&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  Arial;color:#484848;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+  EN-GB">Appointment</span></b><span style="font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+  EN-GB"></span></p></td><td style="width:120.9pt;border:solid #D6D6D6 1.0pt;
+  border-left:none;mso-border-left-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
+  mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:7.5pt 11.25pt 7.5pt 11.25pt;
+  height:.25in" valign="top" width="161"><p style="line-height:13.5pt" class="MsoNormal"><b><span style="font-family:
+  &quot;inherit&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  Arial;color:#484848;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+  EN-GB">Name of Student</span></b><span style="font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+  EN-GB"></span></p></td><td style="width:62.95pt;border:solid #D6D6D6 1.0pt;
+  border-left:none;mso-border-left-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
+  mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:7.5pt 11.25pt 7.5pt 11.25pt;
+  height:.25in" valign="top" width="84"><p style="line-height:13.5pt" class="MsoNormal"><b><span style="font-family:
+  &quot;inherit&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  Arial;color:#484848;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+  EN-GB">Class</span></b><span style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:Arial;color:black;mso-font-kerning:
+  0pt;mso-ligatures:none;mso-fareast-language:EN-GB"></span></p></td></tr><tr style="mso-yfti-irow:1;height:.25in"><td style="width:266.85pt;border:solid #D6D6D6 1.0pt;
+  border-top:none;mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
+  mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:7.5pt 11.25pt 7.5pt 11.25pt;
+  height:.25in" valign="top" width="356"><p style="line-height:13.5pt" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+  EN-GB">President</span></p></td><td style="width:120.9pt;border-top:none;border-left:
+  none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
+  mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
+  padding:7.5pt 11.25pt 7.5pt 11.25pt;height:.25in" valign="top" width="161"><p style="line-height:13.5pt" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+  EN-GB">Ho Yee Lok, Ella</span></p></td><td style="width:62.95pt;border-top:none;border-left:
+  none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
+  mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
+  padding:7.5pt 11.25pt 7.5pt 11.25pt;height:.25in" valign="top" width="84"><p style="line-height:13.5pt" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+  EN-GB">6.14</span></p></td></tr><tr style="mso-yfti-irow:2;height:.25in"><td style="width:266.85pt;border:solid #D6D6D6 1.0pt;
+  border-top:none;mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
+  mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:7.5pt 11.25pt 7.5pt 11.25pt;
+  height:.25in" valign="top" width="356"><p style="line-height:13.5pt" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+  EN-GB">Vice President</span></p></td><td style="width:120.9pt;border-top:none;border-left:
+  none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
+  mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
+  padding:7.5pt 11.25pt 7.5pt 11.25pt;height:.25in" valign="top" width="161"><p style="line-height:13.5pt" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+  EN-GB">Ang Jia Yong Joshua</span></p></td><td style="width:62.95pt;border-top:none;border-left:
+  none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
+  mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
+  padding:7.5pt 11.25pt 7.5pt 11.25pt;height:.25in" valign="top" width="84"><p style="line-height:13.5pt" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+  EN-GB">6.19</span></p></td></tr><tr style="mso-yfti-irow:3;height:.25in"><td style="width:266.85pt;border:solid #D6D6D6 1.0pt;
+  border-top:none;mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
+  mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:7.5pt 11.25pt 7.5pt 11.25pt;
+  height:.25in" valign="top" width="356"><p style="line-height:13.5pt" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+  EN-GB">Secretary</span></p></td><td style="width:120.9pt;border-top:none;border-left:
+  none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
+  mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
+  padding:7.5pt 11.25pt 7.5pt 11.25pt;height:.25in" valign="top" width="161"><p style="line-height:13.5pt" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+  EN-GB">Ephraim Tan</span></p></td><td style="width:62.95pt;border-top:none;border-left:
+  none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
+  mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
+  padding:7.5pt 11.25pt 7.5pt 11.25pt;height:.25in" valign="top" width="84"><p style="line-height:13.5pt" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+  EN-GB">6.19</span></p></td></tr><tr style="mso-yfti-irow:4;height:20.25pt"><td style="width:266.85pt;border:solid #D6D6D6 1.0pt;
+  border-top:none;mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
+  mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:7.5pt 11.25pt 7.5pt 11.25pt;
+  height:20.25pt" valign="top" width="356"><p style="line-height:13.5pt" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+  EN-GB">Director of Publicity</span></p></td><td style="width:120.9pt;border-top:none;border-left:
+  none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
+  mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
+  padding:7.5pt 11.25pt 7.5pt 11.25pt;height:20.25pt" valign="top" width="161"><p style="line-height:13.5pt" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+  EN-GB">Manikandan Bhavya</span></p></td><td style="width:62.95pt;border-top:none;border-left:
+  none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
+  mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
+  padding:7.5pt 11.25pt 7.5pt 11.25pt;height:20.25pt" valign="top" width="84"><p style="line-height:13.5pt" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+  EN-GB">6.05</span></p></td></tr><tr style="mso-yfti-irow:5;height:20.25pt"><td style="width:266.85pt;border:solid #D6D6D6 1.0pt;
+  border-top:none;mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
+  mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:7.5pt 11.25pt 7.5pt 11.25pt;
+  height:20.25pt" valign="top" width="356"><p style="line-height:13.5pt" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+  EN-GB">Quartermaster/Safety Officer</span></p></td><td style="width:120.9pt;border-top:none;border-left:
+  none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
+  mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
+  padding:7.5pt 11.25pt 7.5pt 11.25pt;height:20.25pt" valign="top" width="161"><p style="line-height:13.5pt" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+  EN-GB">Maasila Joseph</span></p></td><td style="width:62.95pt;border-top:none;border-left:
+  none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
+  mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
+  padding:7.5pt 11.25pt 7.5pt 11.25pt;height:20.25pt" valign="top" width="84"><p style="line-height:13.5pt" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+  EN-GB">6.04</span></p></td></tr><tr style="mso-yfti-irow:6;mso-yfti-lastrow:yes;height:.25in"><td style="width:266.85pt;border:solid #D6D6D6 1.0pt;
+  border-top:none;mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
+  padding:7.5pt 11.25pt 7.5pt 11.25pt;height:.25in" valign="top" width="356"><p style="line-height:13.5pt" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+  EN-GB">Welfare Officer</span></p></td><td style="width:120.9pt;border-top:none;border-left:
+  none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
+  mso-border-alt:solid #D6D6D6 .25pt;padding:7.5pt 11.25pt 7.5pt 11.25pt;
+  height:.25in" valign="top" width="161"><p style="line-height:13.5pt" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+  EN-GB">Plasencia Babu</span></p></td><td style="width:62.95pt;border-top:none;border-left:
+  none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
+  mso-border-alt:solid #D6D6D6 .25pt;padding:7.5pt 11.25pt 7.5pt 11.25pt;
+  height:.25in" valign="top" width="84"><p style="line-height:13.5pt" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+  EN-GB">6.10</span></p></td></tr></tbody></table>
