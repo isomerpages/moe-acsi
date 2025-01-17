@@ -3,26 +3,29 @@ title: Teachers
 permalink: /floorball/teachers/
 description: ""
 third_nav_title: Floorball
-variant: markdown
+variant: tiptap
 ---
-<table width="803">
-<thead>
-<tr>
-<td>
-<p><strong>Teachers-in-Charge</strong></p>
-</td>
-</tr>
-</thead>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td>
-<p>Mr Timothy Chee (chihyung@acsindep.edu.sg)</p>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers-in-Charge</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Ms Lee Ooi Lian (ooilian@acsindep.edu.sg)</p>
+<td rowspan="1" colspan="1">
+<p>Mr Timothy Chee (<a rel="noopener noreferrer nofollow" target="_blank">chihyung@acsindep.edu.sg</a>)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Ooi Lian (<a rel="noopener noreferrer nofollow" target="_blank">ooilian@acsindep.edu.sg</a>)</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
