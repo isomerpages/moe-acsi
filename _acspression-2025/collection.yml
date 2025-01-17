@@ -2,6 +2,7 @@ collections:
   acspression-2025:
     output: true
     order:
+      - Term 2/.keep
       - Term 3/.keep
       - Term 4/.keep
       - Term 1/.keep
