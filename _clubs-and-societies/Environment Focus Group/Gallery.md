@@ -16,20 +16,19 @@ variant: markdown
 ![](/images/EFG/Picture18.jpg)
 
 **Mushroom Cultivation**
-![](/images/EFG/Picture19.jpg)
+![](/images/EFG/Picture19.png)
 ![](/images/EFG/Picture20.jpg)
-![](/images/EFG/Picture21.jpg)
-![](/images/EFG/Picture22.jpg)
+![](/images/EFG/Picture21.png)
+![](/images/EFG/Picture22.png)
 
 **Vermicomposting**
 
 ![](/images/EFG/Picture23.jpg)
-![](/images/EFG/Picture24.jpg)
 
 **Community Outreach**
+![](/images/EFG/Picture24.jpg)
 ![](/images/EFG/Picture25.jpg)
 ![](/images/EFG/Picture26.jpg)
-![](/images/EFG/Picture27.jpg)
 
 **Achievement**
-![](/images/EFG/Picture28.jpg)
+![](/images/EFG/Picture27.jpg)
