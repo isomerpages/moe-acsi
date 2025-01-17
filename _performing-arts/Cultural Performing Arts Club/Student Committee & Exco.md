@@ -191,4 +191,108 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p>&nbsp;&nbsp;</p>
+<p><strong>2025 Malay Kompang EXCO members</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Role</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AARON JAYMES ZHUNG CHENG LIM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.08</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NOOR IRFAN BIN RAIMI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.04</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ADRIAN DEVLIN SANJAYA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.03</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Safety Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DANIEL TONGGOREDJO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.03</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Welfare Rep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CADEL YEOH SZE HOCK</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.16</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Conductor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DARREL NEHEMIA YUNUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.14</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Instrument Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EDWARD NICOLAS WEI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.05</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;</strong>
+</p>
