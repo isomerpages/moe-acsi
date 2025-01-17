@@ -5,12 +5,15 @@ description: ""
 third_nav_title: Floorball
 variant: tiptap
 ---
-<p>Our team participates in two National Inter-school Floorball Competitions (NISFC) annually. Selected players will represent ACS (Independent) for these competitions. The competitions periods are as follows:</p>
-<ul>
-<li>B Division (Term 1 and 2: Jan to March)</li>
-<li>C Division (Term 3: July to August)</li>
+<p>Our team participates in two National Inter-school Floorball Competitions
+(NISFC) annually. Selected players will represent ACS (Independent) for
+these competitions. The competitions periods are as follows:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B Division (Jan to March)</p>
+</li>
+<li>
+<p>C Division (May to August)</p>
+</li>
 </ul>
-<p><strong>Floorball trial for Year 1s:</strong></p>
-<p><strong>Date</strong>: January of the year</p>
-<p><strong>Venue</strong>: MPH 1 – Have a quick and light lunch before that.</p>
-<p><strong>Time</strong>: 3pm</p>
+<p></p>
