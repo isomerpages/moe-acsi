@@ -4,17 +4,38 @@ permalink: /student-development/acspression/acspression/
 variant: markdown
 description: ""
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td><a href="/heart-on-the-beach/">ACSpression 2024</a></td>
-<td><a href="/announcements/ACSpression-March-2023/Bring-Your-Parents-to-School-Day/">ACSpression 2023</a></td>
-<td>&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p><a href="/lawyer/" rel="noopener noreferrer nofollow" target="_blank">ACSpression 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/heart-on-the-beach/" rel="noopener noreferrer nofollow" target="_blank">ACSpression 2024</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<a href="/announcements/ACSpression-March-2023/Bring-Your-Parents-to-School-Day/" rel="noopener noreferrer nofollow" target="_blank">ACSpression 2023</a>
+</p>
+</td>
 </tr>
 <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>
