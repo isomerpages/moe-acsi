@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Joint Admissions Exercise
 variant: markdown
 ---
-** JAE (Joint Admission Exercise)**
+**JAE (Joint Admission Exercise)**
 
 The 2024 Singapore-Cambridge GCE O-Level Examination results will be released at 2 pm on Friday, 10 January 2025.
 
