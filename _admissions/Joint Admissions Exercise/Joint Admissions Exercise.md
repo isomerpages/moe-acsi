@@ -15,6 +15,6 @@ The 2025 JAE posting results will be released on Tuesday, 4 February 2024.
 
 All posted students are to report to school on 5 February 2025. Please report at 7:45 am outside the ACS(I) Administration Office that day in school uniform. Further information on the orientation programme and other matters will be shared with you at that time.
 
-**2024** **JAE (Joint Admission Exercise) Appeal**
+**2025** **JAE (Joint Admission Exercise) Appeal**
 
-Students who wish to appeal for admission into 2024 IBDP after the release of the Joint Admission Exercise (JAE) posting may do so from 8 am on Thursday, 1February 2024, to 12 pm on Wednesday, 7 February 2024. For more information on appeals, please visit  [/admissions/joint-admissions-exercise/appeals/](https://www.acsindep.moe.edu.sg/admissions/joint-admissions-exercise/appeals/).
+Students who wish to appeal for admission into 2025 IBDP after the release of the Joint Admission Exercise (JAE) posting may do so from Tuesday, 8am 4th February 2025 to Thurday, 12pm 6th February 2025. For more information on appeals, please visit  [/admissions/joint-admissions-exercise/appeals/](https://www.acsindep.moe.edu.sg/admissions/joint-admissions-exercise/appeals/).
