@@ -9,7 +9,7 @@ variant: markdown
 
 The 2024 Singapore-Cambridge GCE O-Level Examination results will be released at 2 pm on Friday, 10 January 2025.
 
-The JAE application starts from 4pm on Friday, 10 January _2025_ and ends at 4pm on Wednesday, 15 January 2025.  Registration for courses under the JAE should be submitted through the JAE-Internet System (JAE-IS) at [https://www.moe.gov.sg/jae](https://www.moe.gov.sg/jae) using Singpass.
+The JAE application starts from 4pm on Friday, 10 January 2025 and ends at 4pm on Wednesday, 15 January 2025.  Registration for courses under the JAE should be submitted through the JAE-Internet System (JAE-IS) at [https://www.moe.gov.sg/jae](https://www.moe.gov.sg/jae) using Singpass.
 
 The 2025 JAE posting results will be released on Tuesday, 4 February 2024.
 
