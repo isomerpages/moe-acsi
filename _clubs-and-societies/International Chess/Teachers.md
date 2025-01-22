@@ -3,29 +3,53 @@ title: Teachers
 permalink: /international-chess/teachers/
 description: ""
 third_nav_title: International Chess
+variant: tiptap
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1wig"><span style="font-weight:bolder">Name of Teacher</span></th>
-    <th class="tg-1wig"><span style="font-weight:bolder">Email</span></th>
-    <th class="tg-1wig"><span style="font-weight:bolder">Telephone </span></th>
-  </tr>
-</thead>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-cly1"> Mr Kenneth Ong</td>
-    <td class="tg-cly1"> kenneth@acsindep.edu.sg</td>
-    <td class="tg-cly1">68700675</td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;Name of Teachers</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Telephone&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Mr Kenneth Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">kenneth@acsindep.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>68700675</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Xu Shu Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">shuhong@acsindep.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>68700485</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
