@@ -7,5 +7,5 @@ variant: tiptap
 <p></p>
 <p></p>
 <p></p>
-<p>All applicants must take the&nbsp;<strong>HAST</strong>&nbsp;on&nbsp;<strong>Friday, 12 July 2024</strong>.
-There is no retest for the HAST.&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><strong>Application for admission into the Year 3 Integrated Programme for enrolment into Year 2025 has closed.&nbsp; Kindly visit the school website in early February 2025 if you are interested for enrolment into Year 2026. Thank you.</strong>
+</p>
