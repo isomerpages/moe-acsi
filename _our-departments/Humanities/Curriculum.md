@@ -3,10 +3,11 @@ title: Curriculum
 permalink: /departments/humanities/curriculum/
 description: ""
 third_nav_title: Humanities
+variant: markdown
 ---
-1.  [Geography Lower Sec Exp](/files/Our%20Departments/Humanities/geography-lower-sec-exp.pdf) 
+1.  [Geography Lower Sec](/files/Our%20Departments/Humanities/Geog_LOWER_SEC.pdf) 
 2.  [Geography Lower Sec IP](/files/Our%20Departments/Humanities/Geography-Lower-Sec-IP.pdf) 
-3.  [Geography Upper Sec Exp](/files/Our%20Departments/Humanities/geography-core-upper-sec-exp.pdf) 
+3.  [Geography Upper Sec](/files/Our%20Departments/Humanities/Geog_UPPER_SEC_Core.pdf) 
 4.  [Geography Upper Sec IP](/files/Our%20Departments/Humanities/geography-upper-sec-ip.pdf)
 5.  [History Lower Sec Exp](/files/Our%20Departments/Humanities/Years-1-and-2-Express-history-2021.pdf)
 6.  [History and Current Affairs Lower Sec IP](/files/Our%20Departments/Humanities/history-and-current-affairs-lower-sec-ip.pdf)
@@ -18,3 +19,4 @@ third_nav_title: Humanities
 12.  [Humanities (Social Studies, Geography)](/files/Our%20Departments/Humanities/Humanities-SS-Geo.pdf)
 13.  [Humanities (Social Studies, History)](/files/Our%20Departments/Humanities/Humanities-SS-and-History.pdf)
 14.  [Humanities (Social Studies, Literature in English)](/files/Our%20Departments/Humanities/humanities-ss-and-literature.pdf)
+
