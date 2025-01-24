@@ -2,34 +2,32 @@
 title: Uniform Matters
 permalink: /for-students/uniform/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p>Please find information below for the two suppliers for ACS(I) Uniform:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>BIBI &amp; BABA</p>
-</li>
-<li>
-<p>FINEST FASHION PTE LTD</p>
-</li>
-</ol>
-<p></p>
-<ol data-tight="true" class="tight">
-<li>
 <p><strong>BIBI &amp; BABA</strong>
-</p>
+<br>(Order Link: <a rel="noopener noreferrer nofollow" target="_blank">https://www.schooluniforms.sg/acs-independent-11</a>)</p>
+</li>
+<li>
+<p><strong>FINEST FASHION PTE LTD</strong>
+<br>(Order Link: <a rel="noopener noreferrer nofollow" target="_blank">https://finestuniform.com/collections/anglo-chinese-secondary-school</a>)</p>
 </li>
 </ol>
-<p><strong>Online Order Link:&nbsp;</strong><a href="https://www.schooluniforms.sg/acs-independent-11" rel="noopener noreferrer nofollow" target="_blank">https://www.schooluniforms.sg/acs-independent-11</a>
+<p>&nbsp;</p>
+<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; BIBI &amp; BABA</strong>
+</p>
+<p><strong>Online Order Link:&nbsp;</strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.schooluniforms.sg/acs-independent-11</a>
 </p>
 <p>Dates for School Uniform Sales 2024 at ACS (I)</p>
-<p>18 Dec 2024:  11.00 am to 4 pm
+<p>18 Dec 2024: 11.00 am to 4 pm
 <br>19 Dec 2024: 9 am to 4 pm
 <br>20 Dec 2024: 9 am to 4 pm
 <br>23, 26, 27, 30 Dec 2024: 9 am to 2 pm</p>
 <p>Venue: Ground Floor (near the roundabout)</p>
 <p>The operating hours for their retail shop and factory are as follows:</p>
-<p><strong><u>BIBI &amp; BABA @ Far East Shopping Centre</u></strong>
+<p><strong>BIBI &amp; BABA @ Far East Shopping Centre</strong>
 </p>
 <p><strong>545 Orchard Road #02-28<br>Singapore 238882<br>Tel: 6732 7022</strong>
 </p>
@@ -117,7 +115,9 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p><strong><u>BIBI &amp; BABA @ Henderson Factory </u><em><u>(For Made-to-Measure Orders)</u></em></strong>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>BIBI &amp; BABA @ Henderson Factory&nbsp;<em><u>(For Made-to-Measure Orders)</u></em></strong>
 </p>
 <p><strong>213 Henderson Road #01-12<br>Singapore 159553<br>Tel: 6271 9248</strong>
 </p>
@@ -189,20 +189,14 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p><em>Please note that you are encouraged to bring your own bag for purchases with Bibi&amp;Baba as plastic bags are chargeable at 20 cents each, in their effort to do their part to reduce the use of plastic and to help save the environment.</em>
+<p><em>Please note that you are encouraged to bring your own bag for purchases with Bibi &amp; Baba as plastic bags are chargeable at 20 cents each, in their effort to do their part to reduce the use of plastic and to help save the environment.</em>
 </p>
 <p><em>All funds collected will go towards charity.</em>
 </p>
-<p>
-<br>
+<p>&nbsp;</p>
+<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FINEST FASHION PTE LTD</strong>
 </p>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p><strong>FINEST FASHION PTE LTD</strong>
-</p>
-</li>
-</ol>
-<p><strong>Online Order Link:</strong>&nbsp;<a href="https://finestuniform.com/collections/anglo-chinese-secondary-school" rel="noopener noreferrer nofollow" target="_blank">https://finestuniform.com/collections/anglo-chinese-secondary-school</a>
+<p><strong>Online Order Link:</strong>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://finestuniform.com/collections/anglo-chinese-secondary-school</a>
 </p>
 <p>You may purchase your uniforms from both outlets with made-to-measure
 orders available at both locations. The operating hours for their retail
@@ -269,4 +263,4 @@ shop and factory are as follows:</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>&nbsp;</p>
