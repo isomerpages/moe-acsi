@@ -14,7 +14,7 @@ at 4pm on Wednesday, 15 January 2025.&nbsp; Registration for courses under
 the JAE should be submitted through the JAE-Internet System (JAE-IS) at
 <a href="https://www.moe.gov.sg/jae" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/jae</a>using Singpass.</p>
 <p>The 2025&nbsp;JAE posting results will be released on&nbsp;Tuesday,&nbsp;4&nbsp;February
-2024.</p>
+2025.</p>
 <p>All posted students are to report to school on&nbsp;5&nbsp;February 2025.
 Please report at 7:45 am outside the ACS(I)&nbsp;Administration Office&nbsp;that
 day in school uniform. Further information on the orientation programme
