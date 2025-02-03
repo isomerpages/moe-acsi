@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p><strong>2025</strong>&nbsp;<strong>JAE (Joint Admission Exercise) Appeal</strong>
 </p>
-<p>Students who wish to appeal for admission into 2024 IBDP after the release
+<p>Students who wish to appeal for admission into 2025 IBDP after the release
 of the Joint Admission Exercise (JAE) posting may do so from&nbsp;Tuesday,
 04 February, 2025 to 12:00 PM on Thursday, 06 February, 2025 (tentative
 dates)&nbsp;online. There is no need to come in person.</p>
