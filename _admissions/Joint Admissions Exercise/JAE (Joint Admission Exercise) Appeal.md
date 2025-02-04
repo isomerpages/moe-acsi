@@ -19,5 +19,3 @@ circumstances.</p>
 <p>Students who wish to appeal for a place must meet the L1R5 cut-off point
 to be considered.</p>
 <p>To submit your appeal, please click&nbsp;<strong><a href="https://site1.acsindep.edu.sg/Appls/Y5AdmissionAppeal/AppealForm.aspx" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
-<p><strong>Successful appeal applicants will be contacted via telephone by&nbsp; Thursday, 06 February, 2025 (tentative date), 5:00 PM.</strong>
-</p>
