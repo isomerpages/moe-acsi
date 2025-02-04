@@ -20,8 +20,9 @@ variant: markdown
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/Group_1_Language_and_Literature_Course_Outline_2024.pdf">English Language &amp; Literature Course Outline&nbsp;</a></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf">English Literature HL Course Outline</a>&nbsp;</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_1_Language_and_Literature_Course_Outline_2025.pdf">English Language &amp; Literature Course Outline&nbsp;</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_1_Literature_Course_Outline_2025.pdf">English Literature HL Course Outline</a>&nbsp;</p>
+	
 </td>
 </tr>
 <tr>
