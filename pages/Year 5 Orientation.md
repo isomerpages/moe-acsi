@@ -30,8 +30,9 @@ variant: markdown
 <p>Chinese B, Tamil B, Malay B, Hindi B, Spanish Ab Initio &amp; French Ab Initio</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/Group_2_Language_Ab_Initio_Course_Outline_2024.pdf">Language Ab Course Outline</a></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/Group_2_Language_B_Course_Outlines_2024.pdf">&nbsp;Language B Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_2_Language_Ab_Initio_Course_Outline_2025.pdf">Language Ab Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_2_Language_B_Course_Outline_2025.pdf">&nbsp;Language B Course Outline</a></p>
+
 </td>
 </tr>
 <tr>
