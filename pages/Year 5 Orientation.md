@@ -91,8 +91,7 @@ variant: markdown
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/group_5_mathematics_course_outline_2024.pdf">Mathematics Course Outline</a></p>
-	
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_5_Mathematics_Course_Outline_2025.pdf">Mathematics Course Outline</a></p>
 </td>
 </tr>
 <tr>
@@ -100,7 +99,7 @@ variant: markdown
 <p>Music &amp; Visual Arts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/Group_6_Music_and_Visual_Art_Course_Outline_2024.pdf">Music and Visual Art Course Outline</a>&nbsp;</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_6_Music_and_Visual_Art_Course_Outline_2025.pdf">Music and Visual Art Course Outline</a>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -108,7 +107,9 @@ variant: markdown
 <p>Creativity, Activity &amp; Service (CAS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/IB_Core_CAS_Course_Outline_2024.pdf">Creativity, Activity &amp; Service (CAS) Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/IB_Core_CAS_Course_Outline_2025.pdf">Creativity, Activity &amp; Service (CAS) Course Outline</a></p>
+
+	
 </td>
 </tr>
 <tr>
@@ -116,7 +117,7 @@ variant: markdown
 <p>Extended Essay (EE) &amp; Theory of Knowledge (TOK)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/IB_Core_TOK_Course_Outline_2024.pdf">Theory of Knowledge (TOK) Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/IB_Core_TOK_Course_Outline_2025.pdf">Theory of Knowledge (TOK) Course Outline</a></p>
 </td>
 </tr>
 <tr>
@@ -124,7 +125,7 @@ variant: markdown
 <p>Humanities Scholarship Programme (HSP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/Humanities_Scholarship_Programme_Course_Outlines_2024.pdf">HSP Brochure</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/ACis_and_HSP_Brochure_2025.pdf">HSP Brochure</a></p>
 </td>
 </tr>
 </tbody>
