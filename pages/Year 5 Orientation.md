@@ -2,7 +2,7 @@
 title: Year 5 Orientation
 permalink: /ib-evening/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <p><strong>Links for IB Evening Subject Course Outlines</strong></p>
 <table>
@@ -20,8 +20,9 @@ variant: tiptap
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/Group_1_Language_and_Literature_Course_Outline_2024.pdf">English Language &amp; Literature Course Outline&nbsp;</a></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/Group_1_Literature_HL_Course_Outline_2024.pdf">English Literature HL Course Outline</a>&nbsp;</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_1_Language_and_Literature_Course_Outline_2025.pdf">English Language &amp; Literature Course Outline&nbsp;</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_1_Literature_Course_Outline_2025.pdf">English Literature HL Course Outline</a>&nbsp;</p>
+	
 </td>
 </tr>
 <tr>
@@ -29,8 +30,9 @@ variant: tiptap
 <p>Chinese B, Tamil B, Malay B, Hindi B, Spanish Ab Initio &amp; French Ab Initio</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/Group_2_Language_Ab_Initio_Course_Outline_2024.pdf">Language Ab Course Outline</a></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/Group_2_Language_B_Course_Outlines_2024.pdf">&nbsp;Language B Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_2_Language_Ab_Initio_Course_Outline_2025.pdf">Language Ab Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_2_Language_B_Course_Outline_2025.pdf">&nbsp;Language B Course Outline</a></p>
+
 </td>
 </tr>
 <tr>
@@ -38,8 +40,9 @@ variant: tiptap
 <p>History &amp; Geography</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/Group_3_Geography_Course_Outline_2024.pdf">Geography Course Outline</a></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/Group_3_History_Course_Outline_2024.pdf">History Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_3_Geography_Course_Outline_2025.pdf">Geography Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_3_History_Course_Outline_2025.pdf">History Course Outline</a></p>
+	
 </td>
 </tr>
 <tr>
@@ -47,8 +50,8 @@ variant: tiptap
 <p>Economics &amp; Business Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/Group_3_Business_Management_Course_Outline_2024.pdf">Business Management Course Outline</a></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/Group_3_Economics_Course_Outline_2024.pdf">Economics Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_3_Business_Management_Course_Outline_2025.pdf">Business Management Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_3_Economics_Brochure_2025.pdf">Economics Course Outline</a></p>
 </td>
 </tr>
 <tr>
@@ -56,7 +59,7 @@ variant: tiptap
 <p>Physics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/Group_4_Physics_Course_Outline_2024.pdf">Physics Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_4_Physics_Course_Outline_2025.pdf">Physics Course Outline</a></p>
 </td>
 </tr>
 <tr>
@@ -64,7 +67,7 @@ variant: tiptap
 <p>Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/Group_4_Chemistry_Course_Outline_2024.pdf">Chemistry Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_4_Chemistry_Course_Outline_2025.pdf">Chemistry Course Outline</a></p>
 </td>
 </tr>
 <tr>
@@ -72,7 +75,7 @@ variant: tiptap
 <p>Biology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/Group_4_Biology_Course_Outline_2024.pdf">Biology Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_4_Biology_Course_Outline_2025.pdf">Biology Course Outline</a></p>
 </td>
 </tr>
 <tr>
@@ -80,7 +83,7 @@ variant: tiptap
 <p>Computer Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/Group_4_Computer_Science_Course_Outline_2024.pdf">Computer Science Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_4_Computer_Science_Course_Outline_2025.pdf">Computer Science Course Outline</a></p>
 </td>
 </tr>
 <tr>
@@ -88,7 +91,7 @@ variant: tiptap
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/group_5_mathematics_course_outline_2024.pdf">Mathematics Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_5_Mathematics_Course_Outline_2025.pdf">Mathematics Course Outline</a></p>
 </td>
 </tr>
 <tr>
@@ -96,7 +99,7 @@ variant: tiptap
 <p>Music &amp; Visual Arts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/Group_6_Music_and_Visual_Art_Course_Outline_2024.pdf">Music and Visual Art Course Outline</a>&nbsp;</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_6_Music_and_Visual_Art_Course_Outline_2025.pdf">Music and Visual Art Course Outline</a>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -104,7 +107,9 @@ variant: tiptap
 <p>Creativity, Activity &amp; Service (CAS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/IB_Core_CAS_Course_Outline_2024.pdf">Creativity, Activity &amp; Service (CAS) Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/IB_Core_CAS_Course_Outline_2025.pdf">Creativity, Activity &amp; Service (CAS) Course Outline</a></p>
+
+	
 </td>
 </tr>
 <tr>
@@ -112,7 +117,7 @@ variant: tiptap
 <p>Extended Essay (EE) &amp; Theory of Knowledge (TOK)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/IB_Core_TOK_Course_Outline_2024.pdf">Theory of Knowledge (TOK) Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/IB_Core_TOK_Course_Outline_2025.pdf">Theory of Knowledge (TOK) Course Outline</a></p>
 </td>
 </tr>
 <tr>
@@ -120,7 +125,7 @@ variant: tiptap
 <p>Humanities Scholarship Programme (HSP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/Humanities_Scholarship_Programme_Course_Outlines_2024.pdf">HSP Brochure</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/ACis_and_HSP_Brochure_2025.pdf">HSP Brochure</a></p>
 </td>
 </tr>
 </tbody>
