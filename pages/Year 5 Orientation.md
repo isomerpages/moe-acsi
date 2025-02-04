@@ -59,7 +59,7 @@ variant: markdown
 <p>Physics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/Group_4_Physics_Course_Outline_2024.pdf">Physics Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_4_Physics_Course_Outline_2025.pdf">Physics Course Outline</a></p>
 </td>
 </tr>
 <tr>
@@ -67,7 +67,7 @@ variant: markdown
 <p>Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/Group_4_Chemistry_Course_Outline_2024.pdf">Chemistry Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_4_Chemistry_Course_Outline_2025.pdf">Chemistry Course Outline</a></p>
 </td>
 </tr>
 <tr>
@@ -75,7 +75,7 @@ variant: markdown
 <p>Biology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/Group_4_Biology_Course_Outline_2024.pdf">Biology Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_4_Biology_Course_Outline_2025.pdf">Biology Course Outline</a></p>
 </td>
 </tr>
 <tr>
@@ -83,7 +83,7 @@ variant: markdown
 <p>Computer Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/Group_4_Computer_Science_Course_Outline_2024.pdf">Computer Science Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_4_Computer_Science_Course_Outline_2025.pdf">Computer Science Course Outline</a></p>
 </td>
 </tr>
 <tr>
@@ -92,6 +92,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/IB%20Evening/group_5_mathematics_course_outline_2024.pdf">Mathematics Course Outline</a></p>
+	
 </td>
 </tr>
 <tr>
