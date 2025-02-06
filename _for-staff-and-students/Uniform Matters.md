@@ -19,13 +19,8 @@ variant: tiptap
 <p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; BIBI &amp; BABA</strong>
 </p>
 <p><strong>Online Order Link:&nbsp;</strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.schooluniforms.sg/acs-independent-11</a>
+<br>
 </p>
-<p>Dates for School Uniform Sales 2024 at ACS (I)</p>
-<p>18 Dec 2024: 11.00 am to 4 pm
-<br>19 Dec 2024: 9 am to 4 pm
-<br>20 Dec 2024: 9 am to 4 pm
-<br>23, 26, 27, 30 Dec 2024: 9 am to 2 pm</p>
-<p>Venue: Ground Floor (near the roundabout)</p>
 <p>The operating hours for their retail shop and factory are as follows:</p>
 <p><strong>BIBI &amp; BABA @ Far East Shopping Centre</strong>
 </p>
