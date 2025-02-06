@@ -5,6 +5,7 @@ description: ""
 third_nav_title: The Boys' Brigade
 variant: tiptap
 ---
+<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -13,7 +14,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>12I Senior Leadership 2023</strong>
+<p><strong>12I Senior Leadership</strong>
 </p>
 </td>
 </tr>
@@ -93,12 +94,6 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>2024 Jan - Jun</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p><strong>Cohort Appointments</strong>
 </p>
 </td>
@@ -113,46 +108,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year 4 OIC</p>
+<p>Year 1 OIC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Aaron Heng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="4" colspan="1">
-<p>Y4 Team</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Matthew Tan</p>
+<p>Mr Daniel Tang</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Cheng Jun Yuan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Jerome Tan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Joel Long</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Y1Y4 Gen Coord</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Megan Chong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year 2 TIC</p>
+<p>Year 4 TIC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Elaine Lui</p>
@@ -160,28 +124,34 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Year 4 OIC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Peace Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year 2 TIC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Samuel Yew</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Year 2 OIC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Samuel Song</p>
+<p>Mr Joel Long</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Year 2 Team</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Reuben Wong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Eber Fu</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Zachary See</p>
+<p>Mr Josiah See</p>
 </td>
 </tr>
 <tr>
@@ -197,23 +167,7 @@ variant: tiptap
 <p>Year 5 OIC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Darrell Lim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Y5 Team</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Trinh Tran</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Y2Y5 Gen Coord</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Trinh Tran</p>
+<p>Mr Jerome Tan</p>
 </td>
 </tr>
 <tr>
@@ -229,75 +183,44 @@ variant: tiptap
 <p>Year 3 OIC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Faith Sze &amp; Ms Peace Lim</p>
+<p>Mr Samuel Song</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
-<p>Year 3 Team</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ryan Chin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Brendan Soh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tobias Lee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year 6 TIC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Li Yuexia</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year 6 OIC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Daniel Tang</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Y6 Team</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Justin Lee</p>
+<p>Mr Eber Gareth Fu</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Isaac Lee</p>
+<p>Mr Zachary See</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Rachel Koh</p>
+<p>Juniors Prog Coord</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Gareth Tan (acting)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primers Coord</p>
+<p>Seniors Prog Coord</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primers Prog Coord</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Joseph Lai</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Y3Y6 Gen Coord</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Isaac Lee</p>
 </td>
 </tr>
 <tr>
@@ -313,32 +236,10 @@ variant: tiptap
 <p>Band OIC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Brendan Soh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="4" colspan="1">
-<p>Band Team</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lucas Goh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ryan Chong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Tobias Lee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Matthias Liew</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
