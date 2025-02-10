@@ -16,7 +16,7 @@ water polo to pick up the skillsets necessary to enjoy the sport.</p>
 <p>For Primary 2 or Primary 3 boys who are keen to enrol in ACS(I) WPA’s
 2025 intake, you are invited to register for the Selection Trials taking
 place on&nbsp;<strong>2 Nov (Sat)</strong>&nbsp;at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/WPA2025</a>.</p>
-<p><strong>Registration closes on 21 Oct 2024.</strong>
+<p><strong>       Registration is now Closed</strong>
 </p>
 <p>For more information, please refer to or download the brochure below.</p>
 <ul data-tight="true" class="tight">
