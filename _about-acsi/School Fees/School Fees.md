@@ -6,7 +6,8 @@ third_nav_title: School Fees
 variant: markdown
 ---
 <p>School fees with effect from 1 January 2025 are tabulated below. Admission to our school is merit-based and no Singaporean admitted to ACS (Independent) will be turned away because he / she cannot afford school fees. Singapore citizens may seek information on the various financial assistance programmes from our Deputy Principal, Mr Patrick Soo (patrick@acsindep.edu.sg).</p>
-<table width="100%">
+
+<table width="100%" border="2">
 <tbody>
 <tr>
 <td width="40%" style="text-align: center;">
