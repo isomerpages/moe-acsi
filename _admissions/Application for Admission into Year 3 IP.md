@@ -5,7 +5,5 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<p></p>
-<p></p>
-<p><strong>Application for admission into the Year 3 Integrated Programme for enrolment into Year 2025 has closed.&nbsp; Kindly visit the school website in early February 2025 if you are interested for enrolment into Year 2026. Thank you.</strong>
+<p><strong>Application for admission into the Year 3 Integrated Programme for enrolment into Academic Year 2025 has closed.&nbsp; Kindly visit the school website in February 2025/March 2025 if you are interested to apply for enrolment into Academic Year 2026. Thank you.</strong>
 </p>
