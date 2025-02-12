@@ -1,6 +1,6 @@
 ---
 title: Application for Admission into Year 3 IP for students from Other Schools
-permalink: /admissions/application-for-admission-into-year-3-ip/
+permalink: /admissions/application-for-admission-into-year-3-ip-for-students-from-other-schools/
 description: ""
 variant: tiptap
 ---
