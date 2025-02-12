@@ -2,6 +2,12 @@ collections:
   acspression-2025:
     output: true
     order:
+      - Term 1/The Canal.md
+      - Term 1/Orion's Belt.md
+      - Term 1/Season’s Greetings.md
+      - Term 1/Sun shower.md
+      - Term 1/Whisper of the Heart.md
+      - Term 1/A New Year.md
       - Term 1/Lawyer.md
       - Term 1/There is a watcher.md
       - Term 1/A bund dance.md
