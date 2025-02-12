@@ -2,6 +2,7 @@ collections:
   acspression-2025:
     output: true
     order:
+      - Term 1/Orion's Belt.md
       - Term 1/Season’s Greetings.md
       - Term 1/Sun shower.md
       - Term 1/Whisper of the Heart.md
