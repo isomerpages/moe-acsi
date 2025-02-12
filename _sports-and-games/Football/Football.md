@@ -11,5 +11,4 @@ Welcome to the Anglo Chinese School (Independent) Football CCA. We have a proud 
 
 We say farewell and thank you to all Footballers who are graduating this year. They should be very proud of their service to the school. We would also like to thank our teachers for their efforts, commitment and support as well as making CCA a joyous experience. As ever, our teams’ commitment level has grown and although competition for places in the team is fierce, there is a great sense of team-spirit as we strive to achieve both glory for the school but also to enjoy ourselves and make great memories. We have grown stronger overtime and we are ready for this year. For us, the best is certainly yet to be!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RQYPCzCLucw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/KMoQnLlgYmo?si=R2LgPm76Jqg846c3" height="415" width="660"></iframe>
