@@ -164,9 +164,6 @@ no separate application is needed.</p>
 <p>a) School-based scholarships:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Khoo Yang Tin Scholarships</p>
-</li>
-<li>
 <p>Leong Family Scholarships</p>
 </li>
 <li>
@@ -184,6 +181,9 @@ Lim and Chu Yung Yung Bursary</p>
 </li>
 <li>
 <p>Ho Poh Huat Bursary</p>
+</li>
+<li>
+<p>Khoo Yang Tin Bursary</p>
 </li>
 </ul>
 <p>c) The ACS (Independent) Pocket Money Fund</p>
