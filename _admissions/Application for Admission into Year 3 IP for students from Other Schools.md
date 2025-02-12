@@ -1,5 +1,5 @@
 ---
-title: Application for Admission into Year 3 IP
+title: Application for Admission into Year 3 IP for students from Other Schools
 permalink: /admissions/application-for-admission-into-year-3-ip/
 description: ""
 variant: tiptap

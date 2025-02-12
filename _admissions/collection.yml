@@ -3,7 +3,8 @@ collections:
     output: true
     order:
       - Admissions.md
-      - Application for Admission into Year 3 IP.md
+      - Application for Admission into Year 3 IP for students from Other
+        Schools.md
       - Admission Examination for Enrolment into Years 2 and 5.md
       - Direct School Admission Secondary (Year 1).md
       - Direct School Admission Junior College (Year 5).md
