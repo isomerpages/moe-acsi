@@ -3,11 +3,14 @@ title: Guitar Orchestra
 permalink: /guitar/
 description: ""
 third_nav_title: Guitar Orchestra
+variant: markdown
 ---
-The ACS (I) Guitar Orchestra is a full-fledged Niibori orchestra, comprising of the Alto Cembalo, Alto, Prime, Prime Cembalo, Bass, Contrabass and Guitarron. Over the past year, our talented 80-member strong orchestra had performed for a variety of events both on and off campus. With our wide repertoire ranging from major classical works to jazz and even contemporary music, we perform at major school events including Festival of Arts and Honors Day; and at a variety of off-campus venues, including guitar festivals and other public school performances.
+The ACS (I) Guitar Orchestra is a full-fledged Niibori orchestra, featuring the Alto Cembalo, Alto, Prime, Prime Cembalo, Bass, Contrabass, and Guitarron. With a talented 80-member ensemble, we have performed at a variety of events both on and off campus over the past year. Our diverse repertoire spans major classical works, jazz, and contemporary music, showcased at key school events such as the Festival of Arts and Honors Day.
 
-Additionally, the Guitar Orchestra has performed well in various competitions and performances.  Both the Secondary and the IB section of the Guitar Orchestra have obtained Certificates of Distinction in the Singapore Youth Festival Arts Presentation for numerous successive years.
+Beyond performances, the Guitar Orchestra has consistently excelled in competitions. Both the Secondary and IB sections have earned Certificates of Distinction in the Singapore Youth Festival Arts Presentation for numerous successive years, reflecting our musical excellence.
 
-Besides just achievements, the Guitar Orchestra has provided members with invaluable exposure and experience. The orchestra has been improving itself musically and technically through a series of master classes by renowned professional guitarists. Furthermore, the myriad of activities such as annual camps and many other member-organised outings such as Action Day, the orchestra has indeed bonded the students as one cohesive family.
+The orchestra not only hones musical and technical skills but also fosters camaraderie. Members benefit from master classes led by renowned professional guitarists and engage in enriching activities such as annual camps and internal concerts, strengthening our bond as a close-knit community.
 
-In all, the students have indeed scaled to greater heights as an Orchestra with their respective Student Presidents—Liu Eng Tang Richard of 6.12, and Goh Xiwen of 3.02 in charge of the orchestra. This success can also be attributed to a team of devoted committee members who carry out their duties with great passion and a heart of service. Currently, Ms Sherilyn Khng leads the orchestra as the teacher-in-charge, along with Mr Benjamin Yeo, Ms Jacqueline Liew, Ms Krystal Lee, Mr Loy Xing Jian, and Ms Vivian Tan. We currently have 3 conductors cum instructors in the orchestra: Mr Balraj Gopal, Mr Ang Dun Hao and Mr Leslie Danker.
+This growth and success are guided by dedicated student leaders, including Student Presidents Declan Keh (6.08) and Kuan Junheng, Jayden (4.10), supported by a passionate committee committed to service. The orchestra is under the stewardship of Ms. Sherilyn Khng (teacher-in-charge), alongside Mr. Benjamin Yeo, Ms. Jacqueline Liew, Ms. Krystal Lee, Mr. Loy Xing Jian, and Ms. Yu See Yee. Our four conductors and instructors—Mr. Balraj Gopal, Mr. Ang Dun Hao, Mr. Leslie Danker, and Mr. Tan Han Siang—play a crucial role in shaping our musical journey.
+
+Together, we continue to push boundaries, striving for musical excellence and unity as an orchestra.
