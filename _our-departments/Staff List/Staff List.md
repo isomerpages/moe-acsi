@@ -636,17 +636,6 @@ Committee)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Careers Counselling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>College Counsellors</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Hwang Ying Chien</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Front Office</p>
 </td>
 <td rowspan="1" colspan="1">
