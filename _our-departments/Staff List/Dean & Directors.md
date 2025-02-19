@@ -98,7 +98,7 @@ view the Staff List under Parent’s Resources tab.</p>
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dean, Curriculum &amp; Assessment</p>
+<p>Dean, Mathematics (IBDP)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Koo-Chua Zhi Min</p>
