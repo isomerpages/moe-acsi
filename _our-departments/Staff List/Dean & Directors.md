@@ -90,17 +90,6 @@ view the Staff List under Parent’s Resources tab.</p>
 <p>Dean, Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Jeann Woo</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dean, Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Gina Ong</p>
 </td>
 </tr>
@@ -109,7 +98,7 @@ view the Staff List under Parent’s Resources tab.</p>
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dean, Curriculum &amp; Assessment</p>
+<p>Dean, Mathematics (IBDP)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Koo-Chua Zhi Min</p>
