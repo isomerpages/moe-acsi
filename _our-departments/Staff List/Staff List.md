@@ -132,7 +132,7 @@ School</p>
 <p>English/Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dean, English Language &amp; Literature</p>
+<p>Dean, English Language &amp; Literature (IBDP)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Maria Nathan</p>
@@ -632,17 +632,6 @@ Committee)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Wint Wah Kyaw</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Careers Counselling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>College Counsellors</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Hwang Ying Chien</p>
 </td>
 </tr>
 <tr>
