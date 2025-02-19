@@ -132,7 +132,7 @@ School</p>
 <p>English/Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dean, English Language &amp; Literature</p>
+<p>Dean, English Language &amp; Literature (IBDP)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Maria Nathan</p>
