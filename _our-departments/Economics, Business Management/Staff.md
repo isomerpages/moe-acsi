@@ -77,14 +77,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ivy Quek</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Economics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Ismail Shifaz (Deputy Dean)</p>
 </td>
 <td rowspan="1" colspan="1">
