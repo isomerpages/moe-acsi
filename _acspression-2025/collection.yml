@@ -2,6 +2,7 @@ collections:
   acspression-2025:
     output: true
     order:
+      - Term 1/Why Staying Hydrated is a Game Changer.md
       - Term 1/The Canal.md
       - Term 1/Orion's Belt.md
       - Term 1/Season’s Greetings.md
