@@ -54,8 +54,7 @@ variant: tiptap
 <p>67769532</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:maybellinetan@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">maybellinetan@acsindep.edu.sg</a>
-</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">maybellinetanse@acsindep.edu.sg</a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year 1</p>
