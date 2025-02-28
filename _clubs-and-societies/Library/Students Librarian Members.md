@@ -426,10 +426,10 @@ variant: tiptap
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/Slide6-1024x576.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/Slide6-1024x576.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/Slide7-1024x576.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/Slide7-1024x576.jpg">
 </div>
 <p></p>
