@@ -15,7 +15,7 @@ or Microsoft Edge at a screen resolution of 1024 x 768 or higher.</p>
 <p><strong>This will be a walk-in event, with no registration required.</strong> As
 there is limited parking in the school, visitors are advised to park their
 vehicles at the multi-storey carparks nearby.</p>
-<p>Our Open House maps are available for download <a href="https://sites.acsindep.edu.sg/open%20house/2024%20Open%20House%20Booths.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
 <p><strong>Key Locations For:</strong> 
 <br><a href="/talks-general-enquiries-campus-tours/" rel="noopener noreferrer nofollow" target="_blank">Talks, General Enquiries &amp; Campus Tours</a> |
 <a href="/cca-booths/" rel="noopener noreferrer nofollow" target="_blank">CCA Booths</a>| <a href="/distinctive-programmes-subject-booths/" rel="noopener noreferrer nofollow" target="_blank">Distinctive Programmes &amp; Subject Booths</a>
