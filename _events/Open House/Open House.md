@@ -5,12 +5,12 @@ description: ""
 third_nav_title: Open House
 variant: tiptap
 ---
-<h2><strong><em>Welcome to Anglo-Chinese School (Independent)’s Open House 2024</em></strong></h2>
+<h2><strong><em>Welcome to Anglo-Chinese School (Independent)’s Open House 2025</em></strong></h2>
 <p>*This site is best viewed using current versions of Firefox, Chrome, Safari
 or Microsoft Edge at a screen resolution of 1024 x 768 or higher.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open_House_Poster_No_QR_cropped.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open_House_Poster_2025_no_QR.png">
 </div>
 <p><strong>This will be a walk-in event, with no registration required.</strong> As
 there is limited parking in the school, visitors are advised to park their
