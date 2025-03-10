@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC-Air.png">
 </div>
-<h3><strong>NCC (Air) Calendar of Events 2024</strong></h3>
+<h3><strong>NCC (Air) Calendar of Events 2025</strong></h3>
 <p><strong>&nbsp;</strong>
 </p>
 <table style="minWidth: 100px">
@@ -39,16 +39,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Air Affirmation Ceremony for all cadets --- 20 May</p>
+<p>Air Affirmation Ceremony for all cadets --- 14,15,16,19, 20 May</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Camp Steel for all cadets --- 17 April</p>
+<p>Camp Steel for all cadets --- 13 February-22 April</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mt. Ophir Expedition for nominated cadets --- 10-12 June/11-13 June</p>
+<p>Mt. Ophir Puncak Expedition for nominated cadets --- 17-20 June</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outstanding Cadet Award Ceremony for nominated cadets ---29 June</p>
+<p>Outstanding Cadet Award Ceremony for nominated cadets ---21 June</p>
 </td>
 </tr>
 <tr>
@@ -62,20 +62,20 @@ variant: tiptap
 <p>Gold Wing Course for all cadets --- To be confirmed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cadet Officer Course for nominated cadets --- 18-29 November</p>
+<p>75<sup>th</sup> Cadet Officer Course for nominated cadets --- 17-28 November</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Camp Forge for all cadets --- 2 August</p>
+<p>Camp Forge for all cadets --- 10 July-26 August</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Freestyle Exhibition Drills Basic Instructor Course for nominated cadets
---- 10-14 June</p>
+<p>20<sup>th</sup> Freestyle Exhibition Drills Basic Instructor Course for
+nominated cadets --- 09-13 June</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Freestyle Exhibition Drills Auxiliary Instructor Course for nominated
-cadets ---10-14 June</p>
+<p>19<sup>th</sup> Freestyle Exhibition Drills Auxiliary Instructor Course
+for nominated cadets ---09-13 June</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -118,8 +118,8 @@ for all cadets --- To be confirmed</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Specialist Leaders Course for nominated cadets --- 19-21 June/
-3-5 September</p>
+<p>Senior Specialist Leaders Course for nominated cadets --- 03-05 June,11-13
+June, 25-27 June, 08-10 September</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -133,7 +133,7 @@ for all cadets --- To be confirmed</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Advance Drill Course for nominated cadets --- 11-15 March</p>
+<p>18<sup>th</sup> Advance Drill Course for nominated cadets --- 17-21 March</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -147,21 +147,8 @@ for all cadets --- To be confirmed</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Camp for nominated cadets --- 21-24 August</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>International Cadet Exchange Program for nominated cadets --- 10-17 November</p>
+<p>International Cadet Exchange Program for nominated cadets --- India (16-29
+January), Hong Kong (August),&nbsp; Brunei (December)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
