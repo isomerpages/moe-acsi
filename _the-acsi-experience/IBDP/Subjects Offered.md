@@ -5,32 +5,157 @@ description: ""
 third_nav_title: IBDP
 variant: tiptap
 ---
-ACS (Independent) offers the following subjects. However, the subjects taught will depend upon the number of students selecting them. If the enrolment for a subject is too small, it may not viable for the school to offer the subject. Each diploma student is required to take six subjects chosen across at least Groups 1 to 5.
-
-**GROUP ONE – Studies in Language & Literature**
-
-All students will study Literature (English) or Language & Literature (English). The range of texts studied is broad; students grow to appreciate a language’s complexity, wealth and subtleties in a variety of contexts. Confidence and competence in oral and written communication skills are fostered. One of the explicit aims of these subjects is to engender a lifelong interest in literature and a love for the elegance and richness of human expression.
-
-**GROUP TWO — Language acquisition**
-
-Chinese, Malay, Tamil, Hindi, Spanish
-
-The two language options in this group; Language B or _ab initio_, accommodate second language learners with previous experience learning the language, and beginners respectively. The principal aim is to enable students to use the language in a range of contexts and for many purposes; the courses focus on written and spoken communication.
-
-**GROUP THREE — Individuals and Societies**
-
-Business Management, Economics, Geography, History
-
-**GROUP FOUR — Sciences**
-
-Biology, Chemistry, Physics, Computer Science
-
-**GROUP FIVE — Mathematics**
-
-Mathematics: Analysis and Approaches offered at Standard and Higher Levels are available to cater for different abilities and levels of student interest. This course has a strong emphasis on the ability to construct, communicate and justify correct mathematical arguments. Students should expect to develop insight into mathematical form and structure, and should be intellectually equipped to appreciate the links between concepts in different topic areas. Students are also encouraged to develop the skills needed to continue their mathematical growth in other learning environments.
-
-**GROUP SIX — The Arts**
-
-This includes visual arts and music, with emphasis placed on practical production by the student and exploration of a range of creative work in a global context.
-
-Options: Instead of a group 6 subject, a candidate in ACS (Independent) may select an additional subject from Groups 3 or 4.
+<p><strong>Subjects Groups&nbsp;</strong>
+</p>
+<p>At ACS (Independent), students offering the IB diploma must take 3 Higher
+Level (HL) subjects and 3 Standard Level (SL) subjects. They must select
+one subject each from Groups 1 to 5. The sixth subject may be an arts subject
+from Group 6, or an additional subject from Groups 3 or 4.&nbsp;</p>
+<p>HL and SL subjects differ in scope but are measured according to the same
+grade descriptors, with students expected to demonstrate a greater body
+of knowledge, understanding and skills at higher level. Standard level
+subjects take up 150 teaching hours while Higher level comprises 240 teaching
+hours.&nbsp;</p>
+<p>ACS (Independent) offers a variety of subjects. However, whether a class
+will be formed for the subjects will depend on the enrolment of students.
+If the number of students selecting a subject is too small, it may not
+be viable for the school to offer the subject.&nbsp;</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Higher Level (HL)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Standard Level (SL)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Group 1:&nbsp; Studies in Language &amp; Literature</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Literature (English)</p>
+<p>Language &amp; Literature (English)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Literature (English)</p>
+<p>Language &amp; Literature (English)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Group 2: Language acquisition</strong>
+</p>
+<p><strong>&nbsp;Language B&nbsp;</strong>
+</p>
+<p><strong>OR&nbsp;</strong>
+</p>
+<p><strong>Language <em>ab initio*</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>&nbsp;</p>
+<p>&nbsp;</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese B</p>
+<p>Malay B</p>
+<p>Tamil B</p>
+<p>Hindi B</p>
+<p>Spanish <em>ab initio</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Group 3: Individuals &amp; Societies</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Business Management</p>
+<p>Economics</p>
+<p>Geography</p>
+<p>History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Business Management</p>
+<p>Economics</p>
+<p>Geography</p>
+<p>History</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Group 4: Sciences</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Biology</p>
+<p>Chemistry</p>
+<p>Physics</p>
+<p>Computer Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Biology</p>
+<p>Chemistry</p>
+<p>Physics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Group 5: Mathematics</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics:
+<br>Analysis &amp; Approaches</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics:
+<br>Analysis &amp; Approaches</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Group 6: The Arts</strong>
+</p>
+<p><strong>OR</strong>
+</p>
+<p><strong>A second-choice subject from Group 3 or 4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music</p>
+<p>Visual Arts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>&nbsp;</u>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>&nbsp;</em>
+</p>
+<p><em>* To offer Language ab initio, students must have obtained a D7 grade or better for the GCE ‘O’ Level Higher MT exam. Otherwise they will be required to sit for the GCE ‘A’ Level H1 MT exam.</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
