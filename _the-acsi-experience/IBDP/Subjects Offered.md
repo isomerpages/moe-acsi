@@ -13,7 +13,6 @@ variant: markdown
 <tbody>
 <tr>
 <td rowspan="1" colspan="1" style="text-align: left;">
-<p><strong>&nbsp;</strong></p>
 </td>
 <td rowspan="1" colspan="1" style="text-align: left;">
 <p><strong>Higher Level (HL)</strong></p>
@@ -44,9 +43,7 @@ variant: markdown
 <p><strong>Group 2: Language acquisition </strong><strong>Language B&nbsp;</strong><strong>OR&nbsp;</strong><strong>Language <em>ab initio*</em></strong></p>
 </td>
 <td rowspan="1" colspan="1" style="text-align: left;">
-<p><strong>&nbsp;</strong>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 </td>
 <td rowspan="1" colspan="1" style="text-align: left;">
 <ul>
@@ -101,9 +98,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1" style="text-align: left;">
-<p><strong>&nbsp;</strong></p>
 <p><strong>Group 5: Mathematics</strong></p>
-<p><strong>&nbsp;</strong></p>
 </td>
 <td rowspan="1" colspan="1" style="text-align: left;">
 <p>Mathematics: <br>Analysis &amp; Approaches</p>
@@ -123,7 +118,6 @@ variant: markdown
 </ul>
 </td>
 <td rowspan="1" colspan="1" style="text-align: left;">
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
