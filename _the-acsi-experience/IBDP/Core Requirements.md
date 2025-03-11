@@ -5,6 +5,8 @@ description: ""
 third_nav_title: IBDP
 variant: tiptap
 ---
+<p><strong>DP Core Requirements</strong>
+</p>
 <p>The DP core is made up of three required components comprising theory
 of knowledge (TOK), creativity, activity, service (CAS) and the Extended
 Essay (EE). Through the DP core, students reflect on the nature of knowledge,
