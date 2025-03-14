@@ -2,6 +2,7 @@ collections:
   acspression-2025:
     output: true
     order:
+      - Term 1/pentadactyl limbs.md
       - Term 1/Snapshot.md
       - Term 1/How to Maintain a Healthy Lifestyle in AC Infographic.md
       - Term 1/Why Staying Hydrated is a Game Changer.md
