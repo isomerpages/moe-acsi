@@ -9,12 +9,13 @@ variant: markdown
 
 ![](/images/B_Division_Champions_2025.jpg)
 
-![](/images/Visakh_power_.jpg)
 
 
 ### A Division Winners! 2024
 
 ![](/images/A_Division_Winners__2024.jpg)
+
+![](/images/Visakh_power_.jpg)
 
 
 ### Cricket C Division Champions 2023
