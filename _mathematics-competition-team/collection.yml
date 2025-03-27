@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Mathematics Competition Team.md
-      - Announcements.md
       - Calendar.md
       - Competitions.md
       - Training MTC.md
