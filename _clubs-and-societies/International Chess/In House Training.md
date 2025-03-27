@@ -27,331 +27,671 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>1</p>
+<td rowspan="3" colspan="1">
+<p><strong>1</strong>
+</p>
+</td>
+<td rowspan="3" colspan="1">
+<p><strong>6</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Beginner: Basic Checkmates I
-<br>Intermediate: Opening Traps I
-<br>Advanced: Endgame Puzzles I</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Beginner: Basic Checkmates II
-<br>Intermediate: Opening Traps II
-<br>Advanced: Endgame Puzzles II</p>
+<p><strong>Beginner: Double Attack I (Part 1)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Beginner: Pins and Skewers I
-<br>Intermediate: Positional Sacrifices I
-<br>Advanced: Rook vs. Pawn Endgames I</p>
+<p><strong>Intermediate: Double Attack II (Part 1)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1</p>
+<p><strong>Advanced: Doubel Attack III (Part 1)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>1</strong>
+</p>
+</td>
+<td rowspan="3" colspan="1">
+<p><strong>7</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Beginner: Forks I
-<br>Intermediate: Positional Sacrifices II
-<br>Advanced: Rook vs. Pawn Endgames II</p>
+<p><strong>Beginner: Double Attack I (Part 2)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Beginner: Discovered Attack I
-<br>Intermediate: Overworked Defender I
-<br>Advanced: Rook vs. Pawn Endgames II</p>
+<p><strong>Intermediate: Double Attack II (Part 2)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
+<p><strong>Advanced: Doubel Attack III (Part 2)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>1</strong>
+</p>
+</td>
+<td rowspan="3" colspan="1">
+<p><strong>8</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Beginner: King vs. Pawn Endgames I
-<br>Intermediate: Zwischenzug I
-<br>Advanced: Queen vs. Pawn Endgames I</p>
+<p><strong>Beginner: Discovered Attack I (Part 1)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Beginner: Opposition
-<br>Intermediate: Zwischenzug II
-<br>Advanced: Queen vs. Pawn Endgames II</p>
+<p><strong>Intermediate: Discovered Attack II (Part 1)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
+<p><strong>Intermediate: Discovered Attack II (Part 1)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>1</strong>
+</p>
+</td>
+<td rowspan="3" colspan="1">
+<p><strong>9</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Beginner: Triangulation
-<br>Intermediate: Zugzwang I
-<br>Advanced: Minor Piece Endgames I</p>
+<p><strong>Beginner: Discovered Attack I (Part 2)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Beginner: B+B Checkmates
-<br>Intermediate: Combinations I
-<br>Advanced: Minor Piece Endgames II</p>
+<p><strong>Intermediate: Discovered Attack II (Part 2)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
+<p><strong>Advanced: Discovered Attack III (Part 2)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>1</strong>
+</p>
+</td>
+<td rowspan="3" colspan="1">
+<p><strong>10</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Beginner: Calculation
-<br>Intermediate: Combinations II
-<br>Advanced: Minor Piece Endgames III</p>
+<p><strong>Beginner: Pin and its exploitation I (Part 1)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Beginner: Back-rank Checkmates
-<br>Intermediate: B+N Checkmates
-<br>Advanced: Knight Endgames I</p>
+<p><strong>Intermediate: Pin and its exploitation II (Part 1)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
+<p><strong>Advanced: Pin and its exploitation III (Part 1)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>2</strong>
+</p>
+</td>
+<td rowspan="3" colspan="1">
+<p><strong>1</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Beginner: Perpetual Check I
-<br>Intermediate: King vs. Pawn Endgames: Reti's Idea
-<br>Advanced: Knight Endgames I</p>
+<p><strong>Beginner: Pin and its exploitation I (Part 2)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Beginner: Outposts I
-<br>Intermediate: King vs. Pawn Endgames: The Pendulum
-<br>Advanced: Opposite-coloured Bishops I</p>
+<p><strong>Intermediate: Pin and its exploitation II (Part 2)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
+<p><strong>Advanced: Pin and its exploitation III (Part 2)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>2</strong>
+</p>
+</td>
+<td rowspan="3" colspan="1">
+<p><strong>2</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Beginner: Winning the Exchange
-<br>Intermediate: Underpromotion I
-<br>Advanced: Opposite-coloured Bishops II</p>
+<p><strong>Beginner: Diversion I (Part 1)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Beginner: Double Attack I
-<br>Intermediate: Endgames: Bishop vs. 3 pawns
-<br>Advanced: Advanced Puzzles I</p>
+<p><strong>Intermediate: Diversion II (Part 1)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p><strong>Advanced: Diversion III (Part 1)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>2</strong>
+</p>
+</td>
+<td rowspan="3" colspan="1">
+<p><strong>3</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Beginner: Hanging Piece
-<br>Intermediate: Endgames: Rook vs. Passed Pawns
-<br>Advanced: Advanced Puzzles II
-<br>Advanced: Recap on theories taught over the previous sessions</p>
+<p><strong>Beginner: Diversion I (Part 2)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Beginner: Beginner Puzzles I
-<br>Intermediate: Intermediate Puzzles I
-<br>Advanced: Advanced Puzzles III
-<br>Beginner: Recap on theories taught over the previous sessions
-<br>Intermediate: Recap on theories taught over the previous sessions</p>
+<p><strong>Intermediate: Diversion II (Part 2)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p><strong>Advanced: Diversion III (Part 2)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>2</strong>
+</p>
+</td>
+<td rowspan="3" colspan="1">
+<p><strong>4</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Beginner: Beginner Puzzles II
-<br>Intermediate: Intermediate Puzzles II
-<br>Advanced: Advanced Puzzles IV</p>
+<p><strong>Beginner: Decoy I (Part 1)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NST Training Sessions
-<br>Notation to be done.
-<br>Analysis of games to be carried out next session.</p>
+<p><strong>Intermediate: Decoy II (Part 1)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p><strong>Advanced: Decoy III (Part 1)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>2</strong>
+</p>
+</td>
+<td rowspan="3" colspan="1">
+<p><strong>5</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NST Training Sessions
-<br>Notation to be done.
-<br>Analysis of games to be carried out next session.</p>
+<p><strong>Beginner: Decoy I (Part 2)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NST Training Sessions
-<br>Notation to be done.
-<br>Analysis of games to be carried out next session.</p>
+<p><strong>Intermediate: Decoy II (Part 2)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p><strong>Advanced: Decoy III (Part 2)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>2</strong>
+</p>
+</td>
+<td rowspan="3" colspan="1">
+<p><strong>6</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NST Training Sessions
-<br>Notation to be done.
-<br>Analysis of games to be carried out next session.</p>
+<p><strong>Beginner: Interference I (Part 1)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NST Training Sessions
-<br>Notation to be done.
-<br>Analysis of games to be carried out next session.</p>
+<p><strong>Intermediate: Interference II (Part 1)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p><strong>Advanced: Interference III (Part 1)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>2</strong>
+</p>
+</td>
+<td rowspan="3" colspan="1">
+<p><strong>7</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NST Training Sessions
-<br>Notation to be done.
-<br>Analysis of games to be carried out next session.</p>
+<p><strong>Beginner: Interference I (Part 2)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p><strong>Intermediate: Interference II (Part 2)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Advanced: Interference III (Part 2)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>2</strong>
+</p>
+</td>
+<td rowspan="3" colspan="1">
+<p><strong>8</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10</p>
+<p><strong>Beginner: Defense Elimination I (Part 1)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Intermediate: Defense Elimination II (Part 1)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Advanced: Defense Elimination III (Part 1)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>2</strong>
+</p>
+</td>
+<td rowspan="3" colspan="1">
+<p><strong>9</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NST Training Sessions
-<br>Notation to be done.
-<br>Analysis of games to be carried out next session.</p>
+<p><strong>Beginner: Defense Elimination I (Part 2)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Intermediate: Defense Elimination II (Part 2)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Advanced: Defense Elimination III (Part 2)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>2</strong>
+</p>
+</td>
+<td rowspan="3" colspan="1">
+<p><strong>10</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Beginner: Summary Test on Double Attack, Discovered Attack, Pin and its exploitation, Diversion, Decoy, Interference, Defense Elimination (I)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Intermediate: Summary Test on&nbsp; Double Attack, Discovered Attack, Pin and its exploitation, Diversion, Decoy, Interference, Defense Elimination (II)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Advanced: Summary Test on&nbsp; Double Attack, Discovered Attack, Pin and its exploitation, Diversion, Decoy, Interference, Defense Elimination (III)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p><strong>3</strong>
+</p>
+</td>
+<td rowspan="4" colspan="1">
+<p><strong>1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Beginner: Square Vacation I (Part 1)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Intermediate: Square Vacation II (Part 1)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Advanced: Square Vacation III (Part 1)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p><strong>3</strong>
+</p>
+</td>
+<td rowspan="5" colspan="1">
+<p><strong>2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Beginner: Square Vacation I (Part 2)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Intermediate: Square Vacation II (Part 2)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Advanced: Square Vacation III (Part 2)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>3</strong>
+</p>
+</td>
+<td rowspan="3" colspan="1">
+<p><strong>3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Beginner: Line Opening I (Part 1)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Intermediate: Line Opening II (Part 1)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Advanced: Line Opening III (Part 1)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>3</strong>
+</p>
+</td>
+<td rowspan="3" colspan="1">
+<p><strong>4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Beginner: Line Opening I (Part 2)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Intermediate: Line Opening II (Part 2)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Advanced: Line Opening III (Part 2)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>3</strong>
+</p>
+</td>
+<td rowspan="3" colspan="1">
+<p><strong>5</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Beginner: Utilization of Open Files I (Part 1)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Intermediate: Utilization of Open Files II (Part 1)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Advanced: Utilization of Open Files III (Part 1)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>3</strong>
+</p>
+</td>
+<td rowspan="3" colspan="1">
+<p><strong>6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Beginner: Utilization of Open Files I (Part 2)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Intermediate: Utilization of Open Files II (Part 2)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Advanced: Utilization of Open Files III (Part 2)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>3</strong>
+</p>
+</td>
+<td rowspan="3" colspan="1">
+<p><strong>7</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NST Training Sessions</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Notation to be done.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Analysis of games to be carried out next session.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>3</strong>
+</p>
+</td>
+<td rowspan="3" colspan="1">
+<p><strong>8</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NST Training Sessions</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Notation to be done.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Analysis of games to be carried out next session.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>3</strong>
+</p>
+</td>
+<td rowspan="3" colspan="1">
+<p><strong>9</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NST Training Sessions</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Notation to be done.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Analysis of games to be carried out next session.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>3</strong>
+</p>
+</td>
+<td rowspan="3" colspan="1">
+<p><strong>10</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NST Training Sessions</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Notation to be done.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Analysis of games to be carried out next session.</strong>
+</p>
 </td>
 </tr>
 </tbody>
