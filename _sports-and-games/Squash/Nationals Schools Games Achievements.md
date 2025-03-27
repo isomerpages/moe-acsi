@@ -5,197 +5,485 @@ description: ""
 third_nav_title: Squash
 variant: tiptap
 ---
-<img src="/images/IMG_1519-800x598-300x224.jpg" style="width:50%">
-		 
-<table>
-<thead>
-<tr>
-<th>Year</th>
-<th>C Division</th>
-<th>B Division</th>
-<th>A Division Boys</th>
-<th>A Division Girls</th>
-</tr>
-</thead>
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/IMG_1519-800x598-300x224.jpg">
+</div>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td>1997</td>
-<td>3rd</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>C Division</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>B Division</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>A Division Boys</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>A Division Girls</p>
+</th>
 </tr>
 <tr>
-<td>1998</td>
-<td>Champions</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
+<td rowspan="1" colspan="1">
+<p>1997</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>–</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>–</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>–</p>
+</td>
 </tr>
 <tr>
-<td>1999</td>
-<td>Champions</td>
-<td>Champions</td>
-<td>–</td>
-<td>–</td>
+<td rowspan="1" colspan="1">
+<p>1998</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>–</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>–</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>–</p>
+</td>
 </tr>
 <tr>
-<td>2000</td>
-<td>Champions</td>
-<td>Champions</td>
-<td>–</td>
-<td>–</td>
+<td rowspan="1" colspan="1">
+<p>1999</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>–</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>–</p>
+</td>
 </tr>
 <tr>
-<td>2001</td>
-<td>2nd</td>
-<td>Champions</td>
-<td>–</td>
-<td>–</td>
+<td rowspan="1" colspan="1">
+<p>2000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>–</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>–</p>
+</td>
 </tr>
 <tr>
-<td>2002</td>
-<td>Champions</td>
-<td>Champions</td>
-<td>–</td>
-<td>–</td>
+<td rowspan="1" colspan="1">
+<p>2001</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>–</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>–</p>
+</td>
 </tr>
 <tr>
-<td>2003</td>
-<td>2nd</td>
-<td>2nd</td>
-<td>–</td>
-<td>–</td>
+<td rowspan="1" colspan="1">
+<p>2002</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>–</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>–</p>
+</td>
 </tr>
 <tr>
-<td>2004</td>
-<td>2nd</td>
-<td>Champions</td>
-<td>–</td>
-<td>–</td>
+<td rowspan="1" colspan="1">
+<p>2003</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>–</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>–</p>
+</td>
 </tr>
 <tr>
-<td>2005</td>
-<td>Champions</td>
-<td>2nd</td>
-<td>–</td>
-<td>–</td>
+<td rowspan="1" colspan="1">
+<p>2004</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>–</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>–</p>
+</td>
 </tr>
 <tr>
-<td>2006</td>
-<td>Champions</td>
-<td>Champions</td>
-<td>–</td>
-<td>–</td>
+<td rowspan="1" colspan="1">
+<p>2005</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>–</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>–</p>
+</td>
 </tr>
 <tr>
-<td>2007</td>
-<td>Champions</td>
-<td>Champions</td>
-<td>Champions</td>
-<td>–</td>
+<td rowspan="1" colspan="1">
+<p>2006</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>–</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>–</p>
+</td>
 </tr>
 <tr>
-<td>2008</td>
-<td>Champions</td>
-<td>2nd</td>
-<td>Champions</td>
-<td>–</td>
+<td rowspan="1" colspan="1">
+<p>2007</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>–</p>
+</td>
 </tr>
 <tr>
-<td>2009</td>
-<td>4th</td>
-<td>Champions</td>
-<td>Champions</td>
-<td>–</td>
+<td rowspan="1" colspan="1">
+<p>2008</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>–</p>
+</td>
 </tr>
 <tr>
-<td>2010</td>
-<td>Champions</td>
-<td>Champions</td>
-<td>3rd</td>
-<td>4th</td>
+<td rowspan="1" colspan="1">
+<p>2009</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>–</p>
+</td>
 </tr>
 <tr>
-<td>2011</td>
-<td>4th</td>
-<td>Champions</td>
-<td>4th</td>
-<td>–</td>
+<td rowspan="1" colspan="1">
+<p>2010</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
 </tr>
 <tr>
-<td>2012</td>
-<td>3rd</td>
-<td>Champions</td>
-<td>Champions</td>
-<td>–</td>
+<td rowspan="1" colspan="1">
+<p>2011</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>–</p>
+</td>
 </tr>
 <tr>
-<td>2013</td>
-<td>2nd</td>
-<td>5th</td>
-<td>Champions</td>
-<td>–</td>
+<td rowspan="1" colspan="1">
+<p>2012</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>–</p>
+</td>
 </tr>
 <tr>
-<td>2014</td>
-<td>2nd</td>
-<td>2nd</td>
-<td>Champions</td>
-<td>–</td>
+<td rowspan="1" colspan="1">
+<p>2013</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>–</p>
+</td>
 </tr>
 <tr>
-<td>2015</td>
-<td>2nd</td>
-<td>2nd</td>
-<td>4th</td>
-<td>4th</td>
+<td rowspan="1" colspan="1">
+<p>2014</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>–</p>
+</td>
 </tr>
 <tr>
-<td>2016</td>
-<td>3rd</td>
-<td>2nd</td>
-<td>5th</td>
-<td>4th</td>
+<td rowspan="1" colspan="1">
+<p>2015</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
 </tr>
 <tr>
-<td>2017</td>
-<td>Champions</td>
-<td>Champions</td>
-<td>4th</td>
-<td>3rd</td>
+<td rowspan="1" colspan="1">
+<p>2016</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
 </tr>
 <tr>
-<td>2018</td>
-<td>Champions</td>
-<td>3rd</td>
-<td>4th</td>
-<td>5th</td>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
 </tr>
 <tr>
-<td>2019</td>
-<td>Champions</td>
-<td>Champions</td>
-<td>2nd</td>
-<td>6th</td>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5th</p>
+</td>
 </tr>
 <tr>
-<td>2020-2021</td>
-<td colspan="4">No NSG</td>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6th</p>
+</td>
 </tr>
 <tr>
-<td>2022</td>
-<td>Champions</td>
-<td>Champions</td>
-<td>Champions</td>
-<td>4th</td>
+<td rowspan="1" colspan="1">
+<p>2020-2021</p>
+</td>
+<td rowspan="1" colspan="4">
+<p>No NSG</p>
+</td>
 </tr>
-	<tr>
-<td>2023</td>
-<td>Champions</td>
-<td>Champions</td>
-<td>Champions</td>
-<td>Champions</td>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>
