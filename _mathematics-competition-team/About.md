@@ -4,7 +4,6 @@ permalink: /mathcompetition/about-mct/
 description: ""
 variant: tiptap
 ---
-<p>Change content to:&nbsp;</p>
 <p><strong>Teachers-in-charge&nbsp;</strong>
 </p>
 <table style="minWidth: 75px">
