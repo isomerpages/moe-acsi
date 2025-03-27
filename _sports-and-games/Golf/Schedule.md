@@ -72,8 +72,6 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Training Schedule 2025:</h3>
-<p><strong>Recreational group                  </strong>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -96,7 +94,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>5th, 12th, 26th</strong>
+<p><strong>5th, 12th</strong>
 </p>
 </td>
 </tr>
@@ -126,12 +124,24 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2nd, 9th, 23th, 30th</strong>
+<p><strong>2nd, 9th, 23rd, 30th</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>August</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>6th</strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
+<p><strong>Recreational group                  </strong>
+</p>
 <p><strong>Competitive group</strong>
 </p>
 <p>Course Management&nbsp;</p>
