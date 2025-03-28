@@ -10,12 +10,12 @@ variant: tiptap
 or Microsoft Edge at a screen resolution of 1024 x 768 or higher.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open_House_Poster_2025_no_QR.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cleaner_cleaner_open_house_no_qr_final.jpg">
 </div>
 <p><strong>This will be a walk-in event, with no registration required.</strong> As
 there is limited parking in the school, visitors are advised to park their
 vehicles at the multi-storey carparks nearby.</p>
-<p></p>
+<p>Our Open House maps are available for download <a href="/files/Open House/2025_Open_House_Map___Booth_Layout_28_Mar_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p><strong>Key Locations For:</strong> 
 <br><a href="/talks-general-enquiries-campus-tours/" rel="noopener noreferrer nofollow" target="_blank">Talks, General Enquiries &amp; Campus Tours</a> |
 <a href="/cca-booths/" rel="noopener noreferrer nofollow" target="_blank">CCA Booths</a>| <a href="/distinctive-programmes-subject-booths/" rel="noopener noreferrer nofollow" target="_blank">Distinctive Programmes &amp; Subject Booths</a>
