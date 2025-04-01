@@ -3,7 +3,7 @@ title: Gallery
 permalink: /tennis/gallery/
 description: ""
 third_nav_title: Tennis
-variant: tiptap
+variant: markdown
 ---
 <table>
 <thead>
