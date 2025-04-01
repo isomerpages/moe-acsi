@@ -5,25 +5,18 @@ description: ""
 third_nav_title: National Cadet Corps (Land)
 variant: markdown
 ---
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+
+<table style="minwidth: 75px;"><colgroup> <col> <col> <col> </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>S/n</strong>
-</p>
+<p><strong>S/n</strong></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Name</strong>
-</p>
+<p><strong>Name</strong></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
+<p><strong>Class</strong></p>
 </td>
 </tr>
 <tr>
@@ -73,25 +66,17 @@ variant: markdown
 </tbody>
 </table>
 <p>&nbsp;</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table style="minwidth: 75px;"><colgroup> <col> <col> <col> </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>S/n</strong>
-</p>
+<p><strong>S/n</strong></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Name</strong>
-</p>
+<p><strong>Name</strong></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
+<p><strong>Class</strong></p>
 </td>
 </tr>
 <tr>
@@ -125,34 +110,33 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>5.14</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>sdffsfd</p>
 </td>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
+
+
+
+afsdfsdfsdfsdfsd
+<table style="minwidth: 100px;"><colgroup> <col> <col> <col> <col> </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>S/n</strong>
-</p>
+<p><strong>S/n</strong></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Name</strong>
-</p>
+<p><strong>Name</strong></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
+<p><strong>Class</strong></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Appointment</strong>
-</p>
+<p><strong>Appointment</strong></p>
 </td>
 </tr>
 <tr>
@@ -297,7 +281,8 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <h3>Past Cadet Officers</h3>
 <table style="minWidth: 100px">
 <colgroup>
