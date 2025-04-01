@@ -3,7 +3,7 @@ title: National Cadet Corps (Land)
 permalink: /nccland/
 description: ""
 third_nav_title: National Cadet Corps (Land)
-variant: markdown
+variant: tiptap
 ---
 <img src="/images/NCC-Logo.jpg" style="width:60%">
 
