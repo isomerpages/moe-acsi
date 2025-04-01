@@ -5,52 +5,70 @@ description: ""
 third_nav_title: National Cadet Corps (Land)
 variant: tiptap
 ---
-<p> NCC (Land) Teacher officers (2021)</p>
-<table>
-<thead>
-<tr>
-<th>Rank/ Name</th>
-<th>Position</th>
-<th>Extension No. (68700-)</th>
-<th>Email Address</th>
-<th>Staffroom</th>
-</tr>
-</thead>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td>MAJ Keith Tan Kian Ping</td>
-<td>Unit Advisor</td>
-<td>463</td>
-<td><a href="mailto:kianping@acsindep.edu.sg">kianping@acsindep.edu.sg</a></td>
-<td>Yellow Level (4th)</td>
+<td rowspan="1" colspan="1">
+<p><strong>S/n</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Appointment</strong>
+</p>
+</td>
 </tr>
 <tr>
-<td>MAJ Terence Ng E G</td>
-<td>CO</td>
-<td>460</td>
-<td><a href="mailto:terencen@acsindep.edu.sg">terencen@acsindep.edu.sg</a></td>
-<td>Yellow Level (4th)</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Wong Hooi Sim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CO &amp; TO (Y3)</p>
+</td>
 </tr>
 <tr>
-<td>LTA Kwoh Siew Lay</td>
-<td>Junior Cadets (Year 1s)</td>
-<td>456</td>
-<td><a href="mailto:siewlay@acsindep.edu.sg">siewlay@acsindep.edu.sg</a></td>
-<td>Yellow Level (4th)</td>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mark Richie Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TO (Y4)</p>
+</td>
 </tr>
 <tr>
-<td>LTA Mark Richie Tan Chiang Sun</td>
-<td>Senior Cadet Leaders (Year 4s)</td>
-<td>619</td>
-<td><a href="mailto:mrichie@acsindep.edu.sg">mrichie@acsindep.edu.sg</a></td>
-<td>Yellow Level (4th)</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Teo Hui Koon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TO (Y1)</p>
+</td>
 </tr>
 <tr>
-<td>2LT Caviner Wong Hai Ling</td>
-<td>Cadet Leaders (Year 3s)</td>
-<td>379</td>
-<td>cavinerwonghl@acsindep.edu.sg</td>
-<td>Red Level (3rd)</td>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Bobby Tantri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TO (Y2)</p>
+</td>
 </tr>
 </tbody>
 </table>
