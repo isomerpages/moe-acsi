@@ -3,8 +3,9 @@ title: Training Plan & Schedule
 permalink: /nccland/training-programme-and-schedule/
 description: ""
 third_nav_title: National Cadet Corps (Land)
+variant: markdown
 ---
-### NCC (LAND) TRAINING PLAN FOR 2021
+### NCC (LAND) TRAINING PLAN 
 
 **Note:**
 
