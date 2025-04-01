@@ -5,17 +5,25 @@ description: ""
 third_nav_title: National Cadet Corps (Land)
 variant: tiptap
 ---
-<table style="minwidth: 75px;"><colgroup> <col> <col> <col> </colgroup>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>S/n</strong></p>
+<p><strong>S/n</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Name</strong></p>
+<p><strong>Name</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Class</strong></p>
+<p><strong>Class</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -65,17 +73,25 @@ variant: tiptap
 </tbody>
 </table>
 <p>&nbsp;</p>
-<table style="minwidth: 75px;"><colgroup> <col> <col> <col> </colgroup>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>S/n</strong></p>
+<p><strong>S/n</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Name</strong></p>
+<p><strong>Name</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Class</strong></p>
+<p><strong>Class</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -109,33 +125,35 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>5.14</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>sdffsfd</p>
 </td>
 </tr>
 </tbody>
 </table>
-
-
-
-afsdfsdfsdfsdfsd
-<table style="minwidth: 100px;"><colgroup> <col> <col> <col> <col> </colgroup>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>S/n</strong></p>
+<p><strong>S/n</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Name</strong></p>
+<p><strong>Name</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Class</strong></p>
+<p><strong>Class</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Appointment</strong></p>
+<p><strong>Appointment</strong>
+</p>
 </td>
 </tr>
 <tr>
