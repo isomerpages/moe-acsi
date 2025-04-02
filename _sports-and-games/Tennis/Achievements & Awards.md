@@ -104,7 +104,7 @@ variant: tiptap
 <p>Champion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Champion</p>
 </td>
 </tr>
 <tr>
@@ -121,7 +121,7 @@ variant: tiptap
 <p>Champion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Champion</p>
 </td>
 </tr>
 <tr>
