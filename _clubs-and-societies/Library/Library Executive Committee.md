@@ -107,19 +107,6 @@ variant: tiptap
 <p><strong>7</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Collection Coordinator (Y3)</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Matt Ong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>8</strong>
-</p>
-</td>
 <td rowspan="2" colspan="1">
 <p>Publicity Coordinators (Y3)</p>
 <p>&nbsp;</p>
@@ -130,7 +117,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>9</strong>
+<p><strong>8</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -139,7 +126,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>10</strong>
+<p><strong>9</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -152,7 +139,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>11</strong>
+<p><strong>10</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -164,7 +151,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>12</strong>
+<p><strong>11</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
