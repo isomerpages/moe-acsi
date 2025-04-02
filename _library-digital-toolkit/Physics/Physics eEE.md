@@ -8,8 +8,8 @@ variant: markdown
 <table>
 <tbody>
 <tr>
-<td><a rel="noopener noreferrer" target="_blank" href="https://schoolibrary.moe.edu.sg/anglochineseindependent/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?QRY=SVL(PhysicsG2016)&amp;NRECS=20"><img height="137" width="200" alt="" src="/images/Library%20Digital%20Toolkit/eEE-300x206.png"></a></td>
-<td><a rel="noopener noreferrer" target="_blank" href="https://schoolibrary.moe.edu.sg/anglochineseindependent/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?QRY=SVL(PhysicsG2016)&amp;NRECS=20">Physics eEE [ACS(I)]</a></td>
+<td><a rel="noopener noreferrer" target="_blank" href="https://schoolibrary.moe.edu.sg/anglochineseindependent/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?QRY=SVL(PHYEE2024)&amp;NRECS=20"><img height="137" width="200" alt="" src="/images/Library%20Digital%20Toolkit/eEE-300x206.png"></a></td>
+<td><a rel="noopener noreferrer" target="_blank" href="https://schoolibrary.moe.edu.sg/anglochineseindependent/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?QRY=SVL(PHYEE2024)&amp;NRECS=20">Physics eEE [ACS(I)]</a></td>
 </tr>
 </tbody>
 </table>
@@ -27,4 +27,3 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-
