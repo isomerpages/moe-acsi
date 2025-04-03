@@ -14,7 +14,7 @@ variant: markdown
 </a>
 <br>
 <a href="/acs-indeponline/">
-<img src="/images/IndepOnline_Logo.png" style="width:70%">
+<img src="/images/IndepOnline_Logo2.png" style="width:70%">
 </a>
 <br>
 <a href="/active-acsians/">
