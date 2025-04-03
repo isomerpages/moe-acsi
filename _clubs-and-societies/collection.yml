@@ -2,13 +2,13 @@ collections:
   clubs-and-societies:
     output: true
     order:
-      - ACS IndepOnline.md
       - ACreatives/.keep
       - ACreatives/ACreatives.md
       - ACreatives/Teachers.md
       - ACreatives/Executive Committee.md
       - ACreatives/Schedule.md
       - ACSpression.md
+      - ACS IndepOnline.md
       - ACtive ACsians/.keep
       - ACtive ACsians/ACtive ACsians.md
       - ACtive ACsians/Teachers.md
