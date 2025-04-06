@@ -13,49 +13,37 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Description</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email address</p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p>Role</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Email</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MAJ Benjamin Chan</p>
+<p>MAJ Benjamin Chan Kim Choon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>OC</p>
+<p>Officer Commanding</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:benjaminchan@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">benjaminchan@acsindep.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">benjaminchan@acsindep.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CPT James Ong</p>
+<p>CPT Lincoln Chua Kay Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher Officer</p>
+<p>2IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jamesong@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jamesong@acsindep.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CPT Lincoln Chua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lincolnchua@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lincolnchua@acsindep.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lincolnchua@acsindep.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -67,7 +55,31 @@ variant: tiptap
 <p>Teacher Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lincolnchua@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharmila@acsindep.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">sharmila@acsindep.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Teo Chin Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">teochinwei@acsindep.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Teo Pei Yu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">teopeiyu@acsindep.edu.sg</a>
 </p>
 </td>
 </tr>
