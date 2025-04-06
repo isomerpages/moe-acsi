@@ -61,6 +61,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Chong Koh You</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Economics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Dominic Lim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -126,6 +134,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Wee Teck</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Economics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Vanessa Seah &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Economics</p>
