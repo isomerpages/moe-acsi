@@ -227,6 +227,17 @@ view the Staff List under Parent’s Resources tab.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Estate Development</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Estate Development Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sathiamoorthy S/O Shanamugam</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Front Office</p>
 </td>
 <td rowspan="1" colspan="1">
