@@ -1,9 +1,9 @@
 ---
-title: Teachers
-permalink: /cricket/teachers/
+title: Cricket teachers
+permalink: /cricket-teachers/
+variant: tiptap
 description: ""
 third_nav_title: Cricket
-variant: tiptap
 ---
 <table style="minWidth: 50px">
 <colgroup>
@@ -37,7 +37,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nurhafiza</p>
+<p>Ms Kavita Mirchandani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher-in-Charge</p>
