@@ -26,8 +26,9 @@ third_nav_title: Open House
 <p><strong>Uniform Groups Booths</strong>
 <br><strong>Location:</strong> Entrance to Clocktower Block</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide5.png">
 </div>
 <p>
 <br>
