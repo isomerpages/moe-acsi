@@ -18,10 +18,10 @@ third_nav_title: Open House
 <br><strong>Location: </strong>Entrance to Admin Block
 <br>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide4.png">
 </div>
-<p></p>
 <p></p>
 <p><strong>Uniform Groups Booths</strong>
 <br><strong>Location:</strong> Entrance to Clocktower Block</p>
