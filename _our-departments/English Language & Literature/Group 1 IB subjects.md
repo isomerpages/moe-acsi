@@ -31,7 +31,7 @@ variant: markdown
 </tr>
 	<tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Our%20Departments/ELL/Booklist_for_Website_SL_and_HL_Lit_2025_26.pdf">English A: Literature Booklist 2025-2026</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Booklist_for_Website_SL_and_HL_Lit_2025_26.pdf">English A: Literature Booklist 2025-2026</a></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Our%20Departments/ELL/Booklist_for_Website_SL_and_HL_LangLit_2025_26.pdf">English A: Language and Literature Booklist 2025-2026</a></p>
@@ -40,3 +40,4 @@ variant: markdown
 </tr>
 </tbody>
 </table>
+
