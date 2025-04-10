@@ -9,10 +9,10 @@ third_nav_title: Open House
 <br><strong>Location:</strong> Auditorium 2
 <br>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide9.png">
 </div>
-<p></p>
 <p></p>
 <p><strong>Performing Arts Booths</strong>
 <br><strong>Location: </strong>Entrance to Admin Block
