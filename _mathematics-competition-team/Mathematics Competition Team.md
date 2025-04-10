@@ -22,5 +22,5 @@ be considered. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 by HCI. Previously known as SMOPS.&nbsp;</p>
 <p>Only shortlisted applicants will be notified and called up for face to
 face interview.</p>
-<p><a href="/files/2025_MCT_Open_House_FAQ.pdf" rel="noopener nofollow" target="_blank">2025  Mathematics Competition Team Open House FAQ</a>
+<p><a href="/files/2025_MCT_Open_House_FAQ.pdf" rel="noopener nofollow" target="_blank">2025 Mathematics Competition Team Open House FAQ</a>
 </p>
