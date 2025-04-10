@@ -104,4 +104,3 @@ variant: markdown
 <p>For more information regarding Cross Country DSA applications, please email Mr Gavin Ang (gavinang@acsindep.edu.sg).</p>
 <p>You may also visit our Official Instagram Page @ <a rel="noopener" target="_blank" href="https://www.instagram.com/indepcross/"><strong><u>ACX Cross Country Official Instagram</u></strong></a>&nbsp;</p>
 
-![](/images/DSA2025A.jpg)
