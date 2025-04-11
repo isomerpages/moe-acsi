@@ -16,6 +16,8 @@ or Microsoft Edge at a screen resolution of 1024 x 768 or higher.</p>
 there is limited parking in the school, visitors are advised to park their
 vehicles at the multi-storey carparks nearby.</p>
 <p>Our Open House maps are available for download <a href="/files/Open House/2025_Open_House_Map___Booth_Layout_28_Mar_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>A student-guided video on our Open House maps is available for viewing
+<a href="https://www.youtube.com/watch?v=w9ngPru8KSk" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><strong>Key Locations For:</strong> 
 <br><a href="/talks-general-enquiries-campus-tours/" rel="noopener noreferrer nofollow" target="_blank">Talks, General Enquiries &amp; Campus Tours</a> |
 <a href="/cca-booths/" rel="noopener noreferrer nofollow" target="_blank">CCA Booths</a>| <a href="/distinctive-programmes-subject-booths/" rel="noopener noreferrer nofollow" target="_blank">Distinctive Programmes &amp; Subject Booths</a>
