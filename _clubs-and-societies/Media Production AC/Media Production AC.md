@@ -7,7 +7,8 @@ variant: markdown
 ---
 ![](/images/Main-Pic.jpg)
 
-        
+![](/images/MPAC_Poster__2__2025.png)
+
 Inspiring Creativity Through Film and Storytelling
 
 Media Production Anglo-Chinese (MPAC) is a vibrant Co-Curricular Activity (CCA) that nurtures students in the art of filmmaking and digital storytelling. Through hands-on experience and guided mentorship, students gain valuable skills in video editing, cinematography, storyboarding, and live event documentation.
