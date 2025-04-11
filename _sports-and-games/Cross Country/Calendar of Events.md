@@ -5,6 +5,20 @@ description: ""
 third_nav_title: Cross Country
 variant: tiptap
 ---
+<p><strong>Major Competitions in 2025:</strong>
+</p>
+<p>1. Wings Cross Country Championships (22 February @ Bedok Reservoir)
+<br>
+<br>2. SA Age-Group Championships (13 - 30 March @ Yio Chu Kang Stadium)
+<br>
+<br>3. Erovra Relay Championships (8 -9 March @ Yio Chu Kang Stadium)
+<br>
+<br>4. National Schools Games Track and Field Championships (7 - 25 April
+@ Choa Chu Kang Stadium / Sports Hub)</p>
+<p>5. National Schools Games Cross Country Championships (13 May @ Sports
+Hub)</p>
+<p>6. 2.4km National Championships Top Youth Race Selection (19 July @ HOA)</p>
+<p></p>
 <p><strong>Major Competitions in 2024:</strong>
 </p>
 <p>1. Swift AA Cross Country Championships (3 February @ Bedok Reservoir)</p>
