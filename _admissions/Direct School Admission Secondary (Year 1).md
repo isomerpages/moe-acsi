@@ -8,5 +8,8 @@ variant: markdown
 <strong><span style="font-size: 12.0pt; color: #4472c4;">FOR 2026 YEAR 1 (SEC 1) INTAKE</span></strong><br>
 </p>
 
-<p><strong>Application to participate in the 2024 DSA-Sec exercise has closed.&nbsp;&nbsp; Kindly visit the school website in early May 2025 if you are interested to participate in the 2025 DSA-Sec exercise for 2026 Year 1 (Sec 1) Intake. Thank you.</strong></p>
-<p><strong>&nbsp;</strong></p>
+    
+		
+
+1. [2025 DSA-Sec (Y1) talent domains](/files/Admissions/2025/2025_DSA_Sec__Y1__talent_domains.pdf)
+
