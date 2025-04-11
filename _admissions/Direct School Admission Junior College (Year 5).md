@@ -7,4 +7,12 @@ variant: markdown
 <p align="center" style="margin-left: 36.0pt; text-align: center;" class="x_MsoNormal"><strong><span style="font-size: 12.0pt; color: #4472c4;">2025 DIRECT SCHOOL ADMISSION – JUNIOR COLLEGES</span></strong><br>
 <strong><span style="font-size: 12.0pt; color: #4472c4;">FOR 2026 YEAR 5 INTAKE</span></strong><br>
 <strong><span style="font-size: 12.0pt; color: #4472c4;">(INTERNATIONAL BACCALAUREATE DIPLOMA PROGRAMME)</span></strong></p>
-<p>Application to participate in the 2024 DSA-JC exercise has closed.&nbsp; Kindly visit the school website in April/early May 2025 for details on 2025 DSA-JC exercise.&nbsp; Thank you.</p>
+
+1.   [2025 DSA-JC (Y5) talent domains](/files/Admissions/2025/2025_DSA_Sec__Y1__talent_domains.pdf)
+2.  [2025 IBDP Write-up and Subjects Offered](/files/Admissions/2025/2025_IBDP_Write_up_and_Subj_Offered.pdf)
+3.  [10 reasons why IBDP is ideal preparation for University](/files/Admissions/2025/10_reasons_why_IBDP_is_ideal_preparation_for_University.pdf)
+
+
+
+
+
