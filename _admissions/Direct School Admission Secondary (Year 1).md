@@ -4,10 +4,10 @@ permalink: /admissions/dsa-year-1/
 description: ""
 variant: markdown
 ---
-<p><strong>2025 DIRECT SCHOOL ADMISSION INTO SECONDARY SCHOOLS (DSA-SEC)</strong>
-<br><strong>FOR 2026 YEAR 1 (SEC 1) INTAKE</strong>
-</p>
-<p>
+<p align="center" style="margin-left: 36.0pt; text-align: center;" class="x_MsoNormal"><strong><span style="font-size: 12.0pt; color: #4472c4;">2025 DIRECT SCHOOL ADMISSION INTO SECONDARY SCHOOLS (DSA-SEC)</span></strong><br>
+<strong><span style="font-size: 12.0pt; color: #4472c4;">FOR 2026 YEAR 1 (SEC 1) INTAKE</span></strong><br>
+
+</p><p>
 <br>
 </p>
 <ol data-tight="true" class="tight">
