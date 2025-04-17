@@ -3,9 +3,85 @@ title: Events & Activities
 permalink: /student-development/career-opp-guidance/events-activities-2/
 description: ""
 third_nav_title: Career Opp & Guidance
-variant: markdown
+variant: tiptap
 ---
-Beyond student engagement during PC periods, the COG organises and supports events and activities to build awareness of opportunities available. These include:
-
-<table style="width:721.0pt;border-collapse:collapse;mso-yfti-tbllook:1184;
- mso-padding-alt:0cm 0cm 0cm 0cm" width="961" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:277.2pt;padding:7.5pt 11.25pt 7.5pt 11.25pt" width="370"><p class="MsoNoSpacing"><b>COG Events &amp; Activities</b></p></td><td style="width:443.8pt;padding:7.5pt 11.25pt 7.5pt 11.25pt" width="592"><p class="MsoNoSpacing"><b>Remarks</b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:277.2pt;padding:7.5pt 11.25pt 7.5pt 11.25pt" valign="top" width="370"><p class="MsoNoSpacing">Consultation Sessions (individual / group)</p></td><td style="width:443.8pt;padding:7.5pt 11.25pt 7.5pt 11.25pt" valign="top" width="592"><p class="MsoNoSpacing">All year round</p><p class="MsoNoSpacing">By appointment via Teams / email</p></td></tr><tr style="mso-yfti-irow:2"><td style="width:277.2pt;padding:7.5pt 11.25pt 7.5pt 11.25pt" valign="top" width="370"><p class="MsoNoSpacing">Visits by universities</p><p class="MsoNoSpacing">Skills workshops (eg. essay writing, interviewing)</p><p class="MsoNoSpacing">Sharing sessions by alumni</p><p class="MsoNoSpacing">Learning journeys</p></td><td style="width:443.8pt;padding:7.5pt 11.25pt 7.5pt 11.25pt" valign="top" width="592"><p class="MsoNoSpacing">All year round</p></td></tr><tr style="mso-yfti-irow:3"><td style="width:277.2pt;padding:7.5pt 11.25pt 7.5pt 11.25pt" valign="top" width="370"><p class="MsoNoSpacing">Parent-engagement</p></td><td style="width:443.8pt;padding:7.5pt 11.25pt 7.5pt 11.25pt" valign="top" width="592"><p class="MsoNoSpacing">May</p><p class="MsoNoSpacing">Event details will be shared via Parents Gateway.</p></td></tr><tr style="mso-yfti-irow:4"><td style="width:277.2pt;padding:7.5pt 11.25pt 7.5pt 11.25pt" valign="top" width="370"><p class="MsoNoSpacing">IB Evening</p></td><td style="width:443.8pt;padding:7.5pt 11.25pt 7.5pt 11.25pt" valign="top" width="592"><p class="MsoNoSpacing">February (Orientation)</p><p class="MsoNoSpacing">Parents &amp; students are welcome to visit us at the COG Booth for enquiries regarding subject combinations, university admission requirements and other matters related.</p></td></tr><tr style="mso-yfti-irow:5"><td style="width:277.2pt;padding:7.5pt 11.25pt 7.5pt 11.25pt" valign="top" width="370"><p class="MsoNoSpacing">Higher Education &amp; Careers Fair</p></td><td style="width:443.8pt;padding:7.5pt 11.25pt 7.5pt 11.25pt" valign="top" width="592"><p class="MsoNoSpacing">April</p></td></tr><tr style="mso-yfti-irow:6;mso-yfti-lastrow:yes"><td style="width:277.2pt;padding:7.5pt 11.25pt 7.5pt 11.25pt" valign="top" width="370"><p class="MsoNoSpacing">OBA ONE ACS Career Forum</p></td><td style="width:443.8pt;padding:7.5pt 11.25pt 7.5pt 11.25pt" valign="top" width="592"><p class="MsoNoSpacing">July</p><p class="MsoNoSpacing">Jointly organised by the ACS OBA and the ACS Family of Schools. For updates, please check the ACS OBA website: &nbsp;<a href="https://www.acsoba.net/events">https://www.acsoba.net/events</a>.</p></td></tr></tbody></table>
+<p>Beyond student engagement during PC periods, the COG organises and supports
+events and activities to build awareness of opportunities available. These
+include:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>COG Events &amp; Activities</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Remarks</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Consultation Sessions (individual / group)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All year round</p>
+<p>By appointment via Teams / email</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Visits by universities</p>
+<p>Skills workshops (eg. essay writing, interviewing)</p>
+<p>Sharing sessions by alumni</p>
+<p>Learning journeys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All year round</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parent-engagement</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May</p>
+<p>Event details will be shared via Parents Gateway.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IB Evening</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>February (Orientation)</p>
+<p>Parents &amp; students are welcome to visit us at the COG Booth for enquiries
+regarding subject combinations, university admission requirements and other
+matters related.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Higher Education &amp; Careers Fair</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OBA ONE ACS Career Forum</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>July</p>
+<p>Jointly organised by the ACS OBA and the ACS Family of Schools. For updates,
+please check the ACS OBA website: &nbsp;<a href="https://acsoba.org/category/upcoming/" rel="noopener noreferrer nofollow" target="_blank">https://acsoba.org/category/upcoming/</a> .</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
