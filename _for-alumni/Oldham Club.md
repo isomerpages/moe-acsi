@@ -2,8 +2,9 @@
 title: Oldham Club
 permalink: /for-alumni/oldham-club/
 description: ""
+variant: markdown
 ---
-The [Oldham Club](https://www.acsoba.net/oldhamclub) is the social and community outreach arm of the ACS OBA which uses sports, arts and other activities as a medium to strengthen our alumni community and ties to wider society.
+The [Oldham Club](https://acsoba.org/oldham-club/) is the social and community outreach arm of the ACS OBA which uses sports, arts and other activities as a medium to strengthen our alumni community and ties to wider society.
 
 Currently, there are 10 chapters which are each run by a dedicated group of volunteers. If you would be keen to find out more, please do so through [https://tinyurl.com/acsioldhamclub](https://tinyurl.com/acsioldhamclub).
 
