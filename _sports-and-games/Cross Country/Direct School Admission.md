@@ -37,7 +37,7 @@ variant: markdown
 <p>o<strong>Only non-spiked running shoes will be allowed for safety reasons</strong></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>•<strong>Time-Trial to be held on ACS(I) School Track (Choose only<u>ONE </u>date)</strong></p>
+<p>•<strong>Time-Trial to be held on ACS(I) School Track (Choose only <u>ONE </u>date)</strong></p>
 <p>1.<strong>28 June 2025</strong></p>
 <p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; or</strong></p>
 <p>2.<strong>5 July 2025</strong></p>
@@ -103,4 +103,3 @@ variant: markdown
 <h3 style="text-align: center;"><strong>5 x Golds, 1 x Silver, 2 x Bronze, 2 x 4th Place &amp; 16 x Finalists</strong></h3>
 <p>For more information regarding Cross Country DSA applications, please email Mr Gavin Ang (gavinang@acsindep.edu.sg).</p>
 <p>You may also visit our Official Instagram Page @ <a rel="noopener" target="_blank" href="https://www.instagram.com/indepcross/"><strong><u>ACX Cross Country Official Instagram</u></strong></a>&nbsp;</p>
-
