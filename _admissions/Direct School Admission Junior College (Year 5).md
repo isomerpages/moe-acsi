@@ -11,6 +11,11 @@ variant: markdown
 <p>
 <br>
 </p>
+        
+
+1.  [2025 DSA-JC (Y5) talent domains.](/files/Admissions/dsa-jc%20(y5)%20talent%20domains%20apr23.pdf)
+2.  [2025 IBDP Write-up and Subjects Offered](/files/2025_IBDP_Write_up_and_Subj_Offered.pdf)
+3.  [10 reasons why IBDP is ideal preparation for University.](/files/10_reasons_why_IBDP_is_ideal_preparation_for_university.pdf)
 
 
 
