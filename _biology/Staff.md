@@ -57,7 +57,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Acting Deputy Dean, Life Science/Biology(Lower Secondary)</p>
+<p>Deputy Dean Science/ Biology &amp; Life Sciences&nbsp;(Lower Secondary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms.</p>
@@ -68,7 +68,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
+<p>Lead Teacher (Acting)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr.</p>
@@ -134,7 +134,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>Deputy Director, Year 2 (Acting)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms.</p>
