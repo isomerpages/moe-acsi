@@ -4,124 +4,265 @@ permalink: /departments/science/biology/staff/
 description: ""
 variant: tiptap
 ---
-<table>
-<thead>
-<tr>
-<th>&nbsp;</th>
-<th>&nbsp;</th>
-<th>&nbsp;</th>
-</tr>
-</thead>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td>Dean Science/Biology &amp; Life Sciences</td>
-<td>Mr.</td>
-<td>See Boon Tiam</td>
+<th rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</th>
 </tr>
 <tr>
-<td>Deputy Dean Science/Biology &amp; Life Sciences</td>
-<td>Mr.</td>
-<td>Charles Low Soo Peng</td>
+<td rowspan="1" colspan="1">
+<p>Dean Science/Biology &amp; Life Sciences</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>See Boon Tiam</p>
+</td>
 </tr>
 <tr>
-<td>Deputy Year Director Year 4</td>
-<td>Mdm.</td>
-<td>Tan Huili</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Dean Science/Biology &amp; Life Sciences</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Charles Low Soo Peng</p>
+</td>
 </tr>
 <tr>
-<td>Acting Deputy Dean, Life Science/Biology(Lower Secondary)</td>
-<td>Ms.</td>
-<td>Krystal Lee Ying Ying</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Year Director Year 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Huili</p>
+</td>
 </tr>
 <tr>
-<td>Senior Teacher</td>
-<td>Mr.</td>
-<td>William Lai Wee Thiam</td>
+<td rowspan="1" colspan="1">
+<p>Acting Deputy Dean, Life Science/Biology(Lower Secondary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Krystal Lee Ying Ying</p>
+</td>
 </tr>
 <tr>
-<td>Senior Teacher</td>
-<td>Mr.</td>
-<td>Chan Huang Kiat</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>William Lai Wee Thiam</p>
+</td>
 </tr>
 <tr>
-<td>Teacher</td>
-<td>Mdm.</td>
-<td>Ali Basheera Banu</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chan Huang Kiat</p>
+</td>
 </tr>
 <tr>
-<td>Teacher</td>
-<td>Mr.</td>
-<td>Andrew Chia Kah Mun</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ali Basheera Banu</p>
+</td>
 </tr>
 <tr>
-<td>Teacher</td>
-<td>Ms.</td>
-<td>Lin Zhangli</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Andrew Chia Kah Mun</p>
+</td>
 </tr>
 <tr>
-<td>Teacher</td>
-<td>Mr.</td>
-<td>Mark Richie Tan Chiang Sun</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lin Zhangli</p>
+</td>
 </tr>
 <tr>
-<td>Teacher</td>
-<td>Ms.</td>
-<td>Sing Geok Qing</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mark Richie Tan Chiang Sun</p>
+</td>
 </tr>
 <tr>
-<td>Teacher</td>
-<td>Ms.</td>
-<td>Shirley Lim Xue Ting</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sing Geok Qing</p>
+</td>
 </tr>
 <tr>
-<td>Teacher</td>
-<td>Ms.</td>
-<td>Jerine Lim Shu Ting</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shirley Lim Xue Ting</p>
+</td>
 </tr>
 <tr>
-<td>Teacher</td>
-<td>Mr.</td>
-<td>Bobby Tantri</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jerine Lim Shu Ting</p>
+</td>
 </tr>
 <tr>
-<td>Teacher</td>
-<td>Ms.</td>
-<td>Chan Yu Mun</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bobby Tantri</p>
+</td>
 </tr>
 <tr>
-<td>Teacher</td>
-<td>Ms.</td>
-<td>Khoo Jiezhu Carolyn</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chan Yu Mun</p>
+</td>
 </tr>
 <tr>
-<td>Teacher</td>
-<td>Mrs.</td>
-<td>Tan Gek Jia Mylene</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Khoo Jiezhu Carolyn</p>
+</td>
 </tr>
 <tr>
-<td>Laboratory Supervisor</td>
-<td>Mrs.</td>
-<td>Reena Quah</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ong Wei Ling</p>
+</td>
 </tr>
 <tr>
-<td>Deputy Laboratory Supervisor</td>
-<td>Mr.</td>
-<td>Joshua Chong</td>
+<td rowspan="1" colspan="1">
+<p>Laboratory Supervisor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Reena Quah</p>
+</td>
 </tr>
 <tr>
-<td>Laboratory Technical Officer</td>
-<td>Mdm.</td>
-<td>Keh Siew Bee</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Laboratory Supervisor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Joshua Chong</p>
+</td>
 </tr>
 <tr>
-<td>Laboratory Technical Officer</td>
-<td>Ms.</td>
-<td>Lim Xian</td>
+<td rowspan="1" colspan="1">
+<p>Laboratory Technical Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Keh Siew Bee</p>
+</td>
 </tr>
 <tr>
-<td>Laboratory Technical Officer</td>
-<td>Mr.</td>
-<td>Samuel Yeo Xian Chong</td>
+<td rowspan="1" colspan="1">
+<p>Laboratory Technical Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Xian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Laboratory Technical Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Samuel Yeo Xian Chong</p>
+</td>
 </tr>
 </tbody>
 </table>
