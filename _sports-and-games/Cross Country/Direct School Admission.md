@@ -38,9 +38,9 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>•<strong>Time-Trial to be held on ACS(I) School Track (Choose only <u>ONE </u>date)</strong></p>
-<p>1. <strong>5th July 2025</strong></p>
+<p>1. <strong>12th July 2025</strong></p>
 <p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; or</strong></p>
-<p>2. <strong>12 July 2025</strong></p>
+<p>2. <strong>19th July 2025</strong></p>
 </td>
 </tr>
 <tr>
