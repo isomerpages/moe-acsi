@@ -66,6 +66,17 @@ variant: markdown
 <p>Krystal Lee Ying Ying</p>
 </td>
 </tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<p>Deputy Director, Year 2 (Acting)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sing Geok Qing</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher (Acting)</p>
@@ -132,17 +143,7 @@ variant: markdown
 <p>Mark Richie Tan Chiang Sun</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Deputy Director, Year 2 (Acting)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sing Geok Qing</p>
-</td>
-</tr>
+
 <tr>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
