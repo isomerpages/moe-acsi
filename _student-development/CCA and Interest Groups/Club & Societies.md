@@ -77,10 +77,6 @@ variant: markdown
 <img src="/images/robotics.png" style="width:70%">
 </a>
 <br>
-<a href="/co-op/">
-<img src="/images/multi%20purpose%20coop%20society.png" style="width:70%">
-</a>
-<br>
 <a href="/magazine/">
 <img src="/images/EdBoard_CCA_Photo.jpg" style="width:70%">
 </a>
