@@ -8,7 +8,7 @@ variant: markdown
 The [**Parents’ Portal**](https://lms.acsindep.edu.sg/ACSIndep/login.aspx) provides resources and students record modules. The PP allows parents to
 
 *   make appointments for Parent-Teacher Meetings
-*   view your child’s term reports, subject teachers list and CCA records
+*   View your child’s subject teachers list
 *   view Parents Resources such as Exam/Common Test timetable, Circulars and Principal presentations.
 
 Please refer to the user guide for help : **[\[Instructions to Access ACS (Independent) Parents’ Portal\]](/files/instructions%20to%20access%20acs%20(indep)%20parents%20portal_v7.pdf)**
