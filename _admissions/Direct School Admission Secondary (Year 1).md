@@ -14,11 +14,11 @@ The ACS (Independent)’s 2025 DSA-Sec (Year 1) exercise can be submitted throug
 
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Admissions/2025/2025_DSA_Sec__Y1__Write_up__Timeline_and_Talent_Selection_Trials.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 DSA-Sec (Y1) Write-up, Timeline and Talent Selection Trials</a>
+<p><a href="/files/Admissions/2025_DSA_Sec__Y1__Write_up__Timeline_and_Talent_Selection_Trials.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 DSA-Sec (Y1) Write-up, Timeline and Talent Selection Trials</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Admissions/2025/2025_FAQ_on_DSA_Sec__Y1_.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 FAQ on DSA-Sec (Y1)</a>
+<p><a href="/files/Admissions/2025_FAQ_on_DSA_Sec__Y1_.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 FAQ on DSA-Sec (Y1)</a>
 </p>
 </li>
 </ol>
