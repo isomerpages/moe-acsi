@@ -15,8 +15,6 @@ variant: markdown
 
 School sports: Third straight C Division cricket title for ACS (I)&nbsp;[https://www.straitstimes.com/sport/schools/school-sports-third-straight-c-division-cricket-title-for-acs-i?&amp;utm\_source=whatsapp&amp;utm\_medium=social-media&amp;utm\_campaign=addtoany](https://www.straitstimes.com/sport/schools/school-sports-third-straight-c-division-cricket-title-for-acs-i?&amp;utm_source=whatsapp&amp;utm_medium=social-media&amp;utm_campaign=addtoany)
 
-Straits Times “C Division 2017” Article:&nbsp;[http://www.straitstimes.com/sport/new-cricket-format-no-issue-for-acsians?&amp;utm\_source=email&amp;utm\_medium=social-media&amp;utm\_campaign=addtoany](http://www.straitstimes.com/sport/new-cricket-format-no-issue-for-acsians?&amp;utm_source=email&amp;utm_medium=social-media&amp;utm_campaign=addtoany)
-
 The school would also like to commend&nbsp;some of our current outstanding Cricketers who have represented us in national and international matches and who have brought glory to our country and school:
 
 1.  Somil Mahesh Batavia
