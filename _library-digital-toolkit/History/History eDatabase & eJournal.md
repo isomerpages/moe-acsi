@@ -3,7 +3,7 @@ title: History eDatabase & eJournal
 permalink: /library-digital-toolkit/history/history-edatabase-ejournal/
 description: ""
 third_nav_title: History
-variant: tiptap
+variant: markdown
 ---
 <table style="minWidth: 50px">
 <colgroup>
@@ -12,6 +12,18 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eJournal-&amp;-eDatabase.aspx#bbc-monitoring-summary-of-world-broadcasts"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/BBC.png"></a>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eJournal-&amp;-eDatabase.aspx#bbc-monitoring-summary-of-world-broadcasts" rel="noopener noreferrer nofollow" target="_blank">BBC Monitoring Summary of World Broadcasts</a> (until
+30 June, 2025)</p>
+<p></p>
+</td>
+</tr>
+	<tr>
+	
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; border-style: none; max-width: 100%; height: auto; margin: 0px 20px 20px 0px;" height="101" width="157" alt="" src="/images/Library%20Digital%20Toolkit/Pro-Quest.png">
