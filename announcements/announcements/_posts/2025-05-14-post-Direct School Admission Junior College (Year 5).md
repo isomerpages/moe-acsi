@@ -7,3 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Please visit <a rel="noopener noreferrer nofollow" target="_blank">https://www.acsindep.moe.edu.sg/admissions/dsa-year-5/</a> for
+information on the <strong>ACS (Independent)’s 2025 DSA-JC (Year 5) exercise</strong>.</p>
