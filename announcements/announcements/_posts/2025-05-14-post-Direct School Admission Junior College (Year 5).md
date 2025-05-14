@@ -5,7 +5,13 @@ date: 2025-05-14
 layout: post
 description: ""
 image: ""
-variant: tiptap
+variant: markdown
 ---
-<p>Please visit <a rel="noopener noreferrer nofollow" target="_blank">https://www.acsindep.moe.edu.sg/admissions/dsa-year-5/</a> for
-information on the <strong>ACS (Independent)’s 2025 DSA-JC (Year 5) exercise</strong>.</p>
+<p>
+  Please visit 
+  <a rel="noopener noreferrer nofollow" target="_blank" href="https://www.acsindep.moe.edu.sg/admissions/dsa-year-5/">
+    ACS (Independent) DSA-JC 2025 Admissions Page
+  </a> 
+  for information on the 
+  <strong>ACS (Independent)’s 2025 DSA-JC (Year 5) exercise</strong>.
+</p>

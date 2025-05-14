@@ -5,7 +5,13 @@ date: 2025-05-14
 layout: post
 description: ""
 image: ""
-variant: tiptap
+variant: markdown
 ---
-<p>Please visit <a rel="noopener noreferrer nofollow" target="_blank">https://www.acsindep.moe.edu.sg/admissions/dsa-year-1/</a> for
-information on the <strong>ACS (Independent)’s 2025 DSA-Sec (Year 1) exercise</strong>.</p>
+<p>
+  Please visit 
+  <a rel="noopener noreferrer nofollow" target="_blank" href="https://www.acsindep.moe.edu.sg/admissions/dsa-year-1/">
+    https://www.acsindep.moe.edu.sg/admissions/dsa-year-1/
+  </a> 
+  for information on the 
+  <strong>ACS (Independent)’s 2025 DSA-Sec (Year 1) exercise</strong>.
+</p>
