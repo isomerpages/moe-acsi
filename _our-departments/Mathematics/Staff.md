@@ -149,24 +149,12 @@ variant: tiptap
 <p>MS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Suling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deputy Director Year 5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MS</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Audrey Tay Shengyi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Deputy Director Year 6</p>
 </td>
 </tr>
-
 <tr>
 <td rowspan="1" colspan="1">
 <p>MR</p>
@@ -365,7 +353,7 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 </tr>
-	<tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>MRS</p>
 </td>
