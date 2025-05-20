@@ -16,4 +16,3 @@ variant: markdown
 2.  [2025 FAQ on DSA-JC (Y5 IBDP)](/files/Admissions/Year%205/2025_FAQ_on_DSA_JC__Y5__updated.pdf)
 3.  [2025 IBDP Write-up and Subjects Offered](/files/2025_IBDP_Write_up_and_Subj_Offered.pdf)
 4.  [10 reasons why IBDP is ideal preparation for University.](/files/10_reasons_why_IBDP_is_ideal_preparation_for_university.pdf)
-
