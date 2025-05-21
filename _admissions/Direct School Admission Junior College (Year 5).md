@@ -10,7 +10,7 @@ variant: markdown
 
 <p>
 <br>
-</p>The ACS (Independent) online DSA-JC Portal&nbsp;will open from 7 May 2025, 9am to 20 June 2025, 5pm.&nbsp; Hardcopies of application forms and photocopies of required documents must be received by the school&nbsp;by 20 June 2025, 5pm.&nbsp; Details on application process and application form are available from the following documents:-       
+</p>The ACS (Independent) online DSA-JC Portal&nbsp;will open from 7 May 2025, 9am to 30 June 2025, 5pm.&nbsp; Hardcopies of application forms and photocopies of required documents must be received by the school&nbsp;by 30 June 2025, 5pm.&nbsp; Details on application process and application form are available from the following documents:-       
 
 1.  [2025 DSA-JC (Y5 IBDP) Write-up](/files/Admissions/Year%205/2025_DSA_JC__Y5__Write_up_updated.pdf)
 2.  [2025 FAQ on DSA-JC (Y5 IBDP)](/files/Admissions/Year%205/2025_FAQ_on_DSA_JC__Y5__updated.pdf)
