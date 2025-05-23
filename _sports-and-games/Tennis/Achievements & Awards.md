@@ -92,6 +92,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>First runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>First runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
