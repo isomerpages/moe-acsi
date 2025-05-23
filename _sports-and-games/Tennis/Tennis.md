@@ -21,4 +21,4 @@ The Tennis Team has achieved excellent results over the years. The team trains h
 
 Much emphasis is placed on the character development of our players. Courage, Integrity and Discipline – the key to the development. Courage to dream; Integrity to uphold fairness; Discipline to train for results. Indeed, we are proud of the many achievements of our past and present players. Not just on the tennis court, but also their achievements outside the tennis court.
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/cj6Ezz_QL7w?si=dOSEpcOc2lcuC4Qc" height="415" width="660"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/cj6Ezz_QL7w?si=dOSEpcOc2lcuC4Qc" height="415" width="660"></iframe>
