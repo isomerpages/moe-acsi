@@ -2,38 +2,62 @@
 title: Hi F(IV)E Programme
 permalink: /events/hi-five-programme/
 description: ""
+variant: markdown
 ---
-The name of the programme ‘Hi F(IV)E’ symbolizes the Year 4 IP saying ‘Hi’ to Year 5 as they transit from the secondary to the International Baccalaureate (IB) programme. The core purpose is to prepare them for the International Baccalaureate Diploma Programme (IBDP) and also life beyond the IBDP.
-
-It aims to support students to develop life skills, explore educational options and experience work situations. Conducted from November to January before students join the IBDP, the students will participate in personal development modules, work attachments, local and overseas Service Learning, and overseas Cultural Immersion programmes. Students are required to submit reflections which will help them to be more engaged in their learning.
-
-**Overall Learning Objectives:**
-
-To equip students with knowledge, skills and learning experiences to prepare them for the IBDP
-
-To provide students opportunities to explore choices in terms of work, life and learning beyond the IBDP
-
-To enhance students’ self-management skills and resilience with a focus on Wellbeing
-
-To provide students opportunities to be attuned to the needs of the community and give back using their expertise and talents
-
-**Format:**
-
-The Hi F(IV)E Programme includes Core Modules which aim to prepare the students for life in and beyond the IBDP as well as Elective Modules which provide a range of options for students from Service Learning, Work Attachments, Cultural Immersion to other self-development modules.
-
-**The Core Modules**
-
-The core modules are organized over 2 weeks from end of October till early of November. Attendance will be taken at the beginning and end of each module and students are expected to attend them.  The core modules are broadly categorized as:
-
-Modules A: Preparation for IB Years
-
-Modules B: Preparation for Life beyond IB Years
-
-The Elective Modules
-
-The elective modules organized to take place from Middle of Nov till Middle of January of the next year. Students are free to source for their own work attachment/internship opportunities and for learning a new skill. At the end of each elective, students are expected to submit reflections on their experience and learning. The elective modules are broadly categorized as:
-
-Modules C: Service Learning   
-Modules D: Work Attachment   
-Modules E: Cultural Immersion   
-Modules F: Others
+<p>The HiF(IV)E Programme seeks to equip Year 4 IP students with future-ready skills and competencies through a dynamic and engaging learning experience. The name of the programme ‘HiF(IV)E’&nbsp;symbolizes the Year 4 IP saying ‘Hi’ to Year 5 as they transit from the secondary to the International Baccalaureate (IB) programme. Over the course of the programme, students have the opportunity to develop life skills, explore educational options, and experience work situations. While the programme is compulsory, students are empowered to exercise student agency to customise their HiF(IV)E experience.</p>
+<p>Overall Learning Objectives:</p>
+<ul>
+<li>To equip students with knowledge, skills, and learning experiences to prepare them for the IBDP</li>
+<li>To provide students opportunities to explore choices in terms of work, life and learning beyond the IBDP</li>
+<li>To provide students opportunities to be attuned to the needs of the community and give back using their expertise and talents</li>
+</ul>
+<p>The HiF(IV)E Programme comprises 3 key components,&nbsp;namely Academic, Career Opportunities and Guidance (COG), and the Empowered ACSian.</p>
+<table>
+<tbody>
+<tr>
+<td width="170">
+<p><strong>Component</strong></p>
+</td>
+<td width="406">
+<p><strong>Highlights</strong></p>
+</td>
+</tr>
+<tr>
+<td width="170">
+<p><strong>Academic</strong></p>
+</td>
+<td width="406">
+<p>1.Introduction to IBDP and course selection</p>
+<p>2.Scholarship and Talent Development briefings</p>
+<p>3.‘Beyond the Classroom”</p>
+<p><em>Students can choose one 2-day enrichment module which will consist of theory and instruction, and a learning journey</em></p>
+</td>
+</tr>
+<tr>
+<td width="170">
+<p><strong>COG</strong></p>
+</td>
+<td width="406">
+<p>1.Fireside Chat with alumni</p>
+<p>2.Career forum with sharing by industry experts from</p>
+<ul>
+<li>Law</li>
+<li>Medicine and Healthcare</li>
+<li>Banking, Finance and Accountancy</li>
+<li>Business and Entrepreneurship</li>
+<li>Engineering</li>
+<li>Technology and AI</li>
+</ul>
+<p><em>Students can choose to attend any 2 of the above sessions</em></p>
+</td>
+</tr>
+<tr>
+<td width="170">
+<p><strong>Empowered ACSian</strong></p>
+</td>
+<td width="406">
+<p>Students will choose to embark on either a 5-day internship, local VIA, overseas VIA (Chiangmai, Thailand or Baray, Cambodia), technology hackathon, or an entrepreneurship and coding working.</p>
+</td>
+</tr>
+</tbody>
+</table>
