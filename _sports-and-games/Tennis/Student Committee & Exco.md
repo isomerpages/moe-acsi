@@ -17,6 +17,8 @@ variant: tiptap
 <p>Captain: Asher Ong</p>
 <p>Vice Captains: Ryan Mackay &amp; Dylan Chan</p>
 <p>Vice Captain: Miles Teo (Well-being for B and C div)</p>
+<p><strong>C&nbsp;Div Boys<br></strong>Captain: Keon Koh
+<br>Vice Captains: Matthew Wei &amp; Leon Ho</p>
 <p>&nbsp;</p>
 <p></p>
 <p></p>
