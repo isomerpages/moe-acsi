@@ -117,14 +117,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mahtani Naresh Gangaram</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Economics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Noh Hee Jung</p>
 </td>
 <td rowspan="1" colspan="1">
