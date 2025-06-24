@@ -16,7 +16,7 @@ You may want to explore the following interesting sites related to mathematics c
 [Math Apprentice](http://www.mathapprentice.com/)   
 [Interactive Mathematics](http://www.intmath.com/)   
 [MathTV](http://www.mathtv.com/)   
-[KidsNumbers](http://www.kidsnumbers.com/)   
+[KidsNumbers](https://www.education.com/resources/?q=kids+number)   
 [Voicethread](http://voicethread.com/)   
 [HippoCampus](http://www.hippocampus.org/)   
 [Math Interactive](http://www.learnalberta.ca/content/mejhm/index.html?l=0)   
