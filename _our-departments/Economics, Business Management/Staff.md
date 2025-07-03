@@ -139,6 +139,14 @@ variant: tiptap
 <p>Economics</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Gerald Chew Yi-Kuang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Business Management</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
