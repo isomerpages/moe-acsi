@@ -53,7 +53,7 @@ variant: markdown
 <p>Ms. Katirina Maria Fernandez</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:katirinamaria@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">katirinamaria@acsindep.edu.sg</a>
+<p>katirinamaria@acsindep.edu.sg
 </p>
 </td>
 <td rowspan="1" colspan="1">
