@@ -9,7 +9,6 @@ variant: markdown
 <br>Erin Lee Min En 5.11
 <br>Nigel Chen Guanrui 5.05
 
-<p></p>
 <h3>NATIONAL INTER-SCHOOL TENNIS CHAMPIONSHIPS RECORDS</h3>
 <table style="minWidth: 75px">
 <colgroup>
