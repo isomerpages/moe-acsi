@@ -5,12 +5,11 @@ description: ""
 third_nav_title: Tennis
 variant: markdown
 ---
-<h3><strong>SINGAPORE SCHOOLS SPORTS COUNCIL SPORTSMANSHIP AWARD 2025</strong></h3>
-<p>
+<h4><strong>SINGAPORE SCHOOLS SPORTS COUNCIL SPORTSMANSHIP AWARD 2025</strong></h4>
 <br>Erin Lee Min En 5.11
 <br>Nigel Chen Guanrui 5.05
-<br>
-</p>
+
+<p></p>
 <h3>NATIONAL INTER-SCHOOL TENNIS CHAMPIONSHIPS RECORDS</h3>
 <table style="minWidth: 75px">
 <colgroup>
