@@ -569,17 +569,6 @@ Committee)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Admin Procurement</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Procurement Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr David Chen Jia Shen</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Boarding School</p>
 </td>
 <td rowspan="1" colspan="1">
