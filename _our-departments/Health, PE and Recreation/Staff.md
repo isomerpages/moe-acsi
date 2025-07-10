@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Health, PE and Recreation
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -109,6 +113,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Chew Yin Xiang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muhammad Khairil Bin Kamal</p>
 </td>
 </tr>
 <tr>
