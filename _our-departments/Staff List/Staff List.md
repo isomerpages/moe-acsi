@@ -613,6 +613,39 @@ Committee)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Careers Counselling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>COG Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Leo Kim Choo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Careers Counselling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>COG Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Kirenjit Kaur D/O Ajit Singh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Careers Counselling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Director, Career Opportunities &amp; Guidance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jamin Jeow See Boon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Estate Development</p>
 </td>
 <td rowspan="1" colspan="1">
