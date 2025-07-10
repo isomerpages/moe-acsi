@@ -3,7 +3,7 @@ title: Senior Administration
 permalink: /senior-administration/
 description: ""
 third_nav_title: Staff List
-variant: markdown
+variant: tiptap
 ---
 <p>Please note that only the names and details of key-points-of-contact are
 reflected in the staff Directory. For the&nbsp;<strong>full contact list</strong>&nbsp;of
@@ -47,18 +47,6 @@ view the Staff List under Parent’s Resources tab.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Patrick Soo</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Administration</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deputy Principal (Year 3 &amp; 4) &amp; Deputy Warden, ACS(I) Boarding
-School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Yong Lee Har</p>
 </td>
 </tr>
 <tr>
@@ -116,7 +104,6 @@ School</p>
 <p>Mr Bernard Chan</p>
 </td>
 </tr>
-
 </tbody>
 </table>
 <p>&nbsp;</p>

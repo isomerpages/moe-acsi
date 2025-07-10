@@ -54,18 +54,6 @@ view the Staff List under Parent’s Resources tab.</p>
 <p>Senior Administration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deputy Principal (Year 3 &amp; 4) &amp; Deputy Warden, ACS(I) Boarding
-School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Yong Lee Har</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Administration</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Deputy Principal (Year 5 and 6)</p>
 </td>
 <td rowspan="1" colspan="1">
