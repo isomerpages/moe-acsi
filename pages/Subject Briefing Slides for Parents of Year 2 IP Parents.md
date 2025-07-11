@@ -10,4 +10,5 @@ description: ""
 </p>
 <p><a href="/files/Briefing Slides for Year 2 IP/Year_2_Subject_Briefing_2025__SEC___IP_Art__20250711.pdf" rel="noopener nofollow" target="_blank">Year 2 Subject Briefing 2025 (Art)</a>
 </p>
-<p></p>
+<p><a href="https://sites.acsindep.edu.sg/Subject%20Briefing/Year%202%20Subject%20Briefing%202025%20-%20History,%20Geography%20&amp;%20ACH%20(IP).pdf" rel="noopener nofollow" target="_blank">Year 2 Subject Briefing 2025 - History, Geography &amp; ACH (IP)</a>
+</p>
