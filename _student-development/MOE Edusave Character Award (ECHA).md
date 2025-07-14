@@ -124,7 +124,7 @@ of ECHA, and will comprise the nomination, selection and endorsement stages.&nbs
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/acs-echa2024" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/acs-echa2025</a>&nbsp;</p>
+<p><a href="https://for.edu.sg/acs-echa2025" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/acs-echa2025</a>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -133,7 +133,7 @@ of ECHA, and will comprise the nomination, selection and endorsement stages.&nbs
 who are not eligible for ECHA) &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/acs-integrity2024" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/acs-integrity2025</a>&nbsp;</p>
+<p><a href="https://for.edu.sg/acs-integrity2025" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/acs-integrity2025</a>&nbsp;</p>
 </td>
 </tr>
 </tbody>
