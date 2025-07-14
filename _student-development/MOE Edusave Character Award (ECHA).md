@@ -110,7 +110,7 @@ noted philanthropist, and an Old Boy of ACS.&nbsp;</p>
 Deserving non-Singaporeans who are not eligible for ECHA, will be separately
 nominated by the school.&nbsp; The selection process is similar to that
 of ECHA, and will comprise the nomination, selection and endorsement stages.&nbsp;</p>
-<p>Nominations for both ECHA &amp; Integrity Award 2025 are now opened.  The closing date for nomination is <strong><u>Monday, 28 July 2025 (5 pm).</u></strong> Late submission will not be accepted.&nbsp;</p>
+<p>Nominations for both the ECHA &amp; Integrity Award 2025 are now open.  The closing date for nominations is <strong><u>Monday, 28 July 2025 (5 pm).</u></strong> Late submissions will not be accepted.&nbsp;</p>
 <p>Please use the following links to nominate deserving students&nbsp;:</p>
 <table style="minWidth: 50px">
 <colgroup>
