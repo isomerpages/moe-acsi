@@ -8,7 +8,7 @@ variant: tiptap
 <p>The safety and well-being of every child is of utmost importance to us.
 Since January 2023, all students are covered under the GPA Insurance provided
 by Income Insurance Limited. The cost of this insurance plan is <strong>$10.90</strong> per
-student and will be deducted via GIRO on 9 May 2024.</p>
+student and will be deducted via GIRO on 9 May 2025.</p>
 <p>You may refer to the <a href="/files/Product_Fact_Sheet_Year_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">product factsheet </a>for
 more information on the limit for medical expenses, policy coverage, benefits
 and claim procedures.</p>
@@ -40,7 +40,7 @@ are involved in sports or other physical CCAs with physical activities.</p>
 <p><strong>Filing of Claims</strong>
 </p>
 <p>All claims should be submitted as soon as possible, subjected to a cap
-of 365 days from the date of the accident. <strong>The first treatment must be sought within 30 days from date of accident. </strong> Please
+of 365 days from the date of the accident. <strong>The first treatment must be sought within 30 days from date of accident. </strong>Please
 refer to the User Guide, which can also found at the same link (<a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg/</a>),
 for more information on how to submit and view claims. Please note that
 claims will require prior payment, and reimbursement will be done upon
