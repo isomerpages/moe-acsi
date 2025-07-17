@@ -2,7 +2,6 @@ collections:
   library-digital-toolkit:
     output: true
     order:
-      - eExam Paper.md
       - ACS(I) Library Digital Toolkit.md
       - Physics/.keep
       - Physics/Physics eDatabase & eJournal.md
@@ -68,6 +67,7 @@ collections:
       - BM & Economics/BM & Economics eBooks.md
       - BM & Economics/BM & Economics eLearn.md
       - BM & Economics/BM & Economics Open Source Resources – Limited Time.md
+      - Music and VA/.keep
       - Music and VA/Music eDatabase and eJournal.md
       - Music and VA/Music eMagazine & eNews.md
       - Music and VA/Music & VA eEE.md
@@ -75,7 +75,6 @@ collections:
       - Music and VA/Music eBooks.md
       - Music and VA/Music eLearn.md
       - Music and VA/Music Open Source Resources – Limited Time.md
-      - Music and VA/.keep
       - Computing/.keep
       - Computing/Computing eDatabase & eJournal.md
       - Computing/Computing eMagazine & eNews.md
@@ -92,6 +91,7 @@ collections:
       - Chinese/Chinese eBooks.md
       - Chinese/Chinese eLearn.md
       - Chinese/Chinese Open Source Resources – Limited Time.md
+      - eExam Paper.md
       - Maker/.keep
       - Maker/Maker Open Source Resources – Limited Time.md
       - Maker/Maker eLearn.md
