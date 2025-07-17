@@ -3,10 +3,11 @@ title: Track and Field
 permalink: /trackfield/
 description: ""
 third_nav_title: Track and Field
+variant: markdown
 ---
 **Information on our CCA:**
 
-Track and Field is an important part of ACS(Independent) with a distinguished history. Our team comprises of A, B and C Division athletes from the sprints, middle-distance, hurdles, jumps, throws and racewalking events.
+The ACS(I) Track & Field Team is a competitive athletics squad that trains and competes in a wide range of events across sprints, hurdles, relays, jumps, and throws. In track events, our athletes specialise in the 100m, 200m, 400m, sprint hurdles, and relays, while our field athletes excel in long jump, triple jump, high jump, shot put, discus, and javelin.
 
 We believe strongly in nurturing the passions of our athletes and focusing on their character development in the pursuit of excellence and when facing challenges.
 
