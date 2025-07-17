@@ -81,10 +81,10 @@ variant: markdown
 <h3><a href="/library-digital-toolkit/chinese/chinese-edatabase-ejournal/">Chinese</a></h3>
 </td>
 <td>
-<h3><a href="/library-digital-toolkit/eexam-paper/year-4-eexam-paper/">eExam Paper</a></h3>
+<h3><a href="/eexam-paper/">eExam Paper</a></h3>
 </td>
 <td>
-<h3><a href="/library-digital-toolkit/eexam-paper/year-4-eexam-paper/"><img height="150" width="150" alt="" src="/images/Library Digital Toolkit/eExam-paper-150x150.jpg"></a></h3>
+<h3><a href="/eexam-paper/"><img height="150" width="150" alt="" src="/images/Library Digital Toolkit/eExam-paper-150x150.jpg"></a></h3>
 </td>
 </tr>
 <tr>
