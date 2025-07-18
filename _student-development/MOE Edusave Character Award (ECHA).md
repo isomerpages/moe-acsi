@@ -82,9 +82,7 @@ stakeholders.</p>
 </ol>
 <ol start="3">
 <li>
-<p>Endorsement : The validation and endorsement of the ECHA awardees will
-be conducted by a panel chaired by either the Principal or Deputy Principal,
-and is independent of the shortlisting panel.&nbsp;&nbsp;<strong> <br></strong>
+<p>Endorsement : The validation and endorsement of the ECHA awardees is the final stage of the selection process&nbsp;and is independent of the shortlisting panel.&nbsp;&nbsp;<strong> <br></strong>
 </p>
 </li>
 </ol>
