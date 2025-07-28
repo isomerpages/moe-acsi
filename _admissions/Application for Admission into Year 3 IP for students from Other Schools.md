@@ -46,7 +46,6 @@ variant: markdown
 <p>:</p>
 </td>
 <td width="265">
-<p>Secondary 2 Programme</p>
 </td>
 </tr>
 <tr>
