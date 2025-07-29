@@ -5,6 +5,18 @@ description: ""
 third_nav_title: Debate Club
 variant: markdown
 ---
+**MOE-ACJC Intercollegiate Debating Championships 2025**
+
+From the 3rd to 5th of June, the IB Debate Club sent a team of five—comprising Nathaniel Cheng (5.12), Jerome Ong (5.17), Yang Zhenglin (6.06), Caden Wong (6.09), and Gabriel Wong (6.19)—to participate in the MOE-ACJC Intercollegiate Debating Championship. The MIDC is the nation’s pinnacle JC-level debating championship, bringing together more than 100 participants from over 20 schools for intensive debates.
+
+We are proud to announce that the team is the first in our school’s history to break 1st into the quarterfinals after 6 gruelling preliminary rounds. The team then advanced into the finals, a feat last accomplished in 2019, where they emerged 1st runners-up on a close 3-2 split decision among the panel.
+
+Three speakers also received top speaker rankings. Gabriel, Jerome, and Caden clinched 12th, 7th, and 6th respectively.
+
+We would like to thank our coach, Shaun, for his dedication throughout the season, our teachers in-charge Mdm Christina Raj and Mr Jacob Mok for their support, and all parents and friends who came down to support us. Lastly, we would like to thank God for without whom none of this would be possible. To God be the Glory, the Best is Yet to Be!
+
+Caden Wong (6.09)
+
 **Debateable Open 2025**
 
 From the 12th-13th of April, the IB Debate Club sent a team of three — comprising Jerome Ong from 5.17, Caden Wong from 6.09, and Gabriel Wong from 6.19 — to participate in the Debateable Open 2025. After numerous hard-fought rounds against international teams, we are pleased to announce that we have emerged 1st Runners-up. All three debaters also ranked among the top speakers in the tournament, with Jerome, Caden and Gabriel clinching 5th, 2nd, and 1st respectively. We would like to thank the Senior Admin, our teachers, Mdm Christina Raj and Mr Jacob Mok for their support, and our coach, Shaun, for his unwavering guidance. Last, we would like to thank God for without whom none of this would have been possible.

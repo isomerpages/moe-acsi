@@ -46,7 +46,7 @@ exceptionally and achieved admirable results.</p>
 <br>Leong Ze Meng, Noel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participants; Individual Speaker Rankings Pending</p>
+<p>Plate Finalists</p>
 </td>
 </tr>
 <tr>
@@ -396,6 +396,17 @@ Soh–Individual 11<sup>th</sup>
 <td rowspan="1" colspan="1">
 <p><strong>Result</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>April 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Raffles Debate Academy U-14s Debating Championships 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participants</p>
 </td>
 </tr>
 <tr>
@@ -1142,6 +1153,45 @@ Goh—Individual 2<sup>nd</sup>; Arthur Lee—Individual 5<sup>th</sup>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>July 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Polytechnic Debate Open 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Semi-finalists; Nathaniel Cheng Rong En—Individual 14<sup>th</sup>; Jerome
+Ong—Individual 17<sup>th</sup>; Jerome Chan Yeak Yern—Individual 27<sup>th</sup>;
+Isabelle Koh Xi Wen—Individual 71<sup>st</sup>; Chew Yi Ren—Individual
+82<sup>nd</sup>; Evonne Toh Jie Xi—Individual 83<sup>rd</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>July 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mid-Year Debate Invitationals 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participants</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jun 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOE-ACJC Intercollegiate Debating Championship 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Runners-Up; Zachary Caden Wong Jing Xi—Individual 6<sup>th</sup>;
+Jerome Ong—Individual 7<sup>th</sup>; Gabriel Wong Kiat En—Individual 12<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Apr 2025</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1859,7 +1909,4 @@ Lee—Individual 10<sup>th</sup>; Gavin Goh—Individual 17<sup>th</sup>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p></p>
 <p></p>
