@@ -74,6 +74,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>--</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>--</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Sec/IP Team Captain</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -123,7 +131,7 @@ variant: tiptap
 <p>President-Designate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Jerome Ong (5.17)</p>
 </td>
 </tr>
 <tr>
@@ -131,7 +139,7 @@ variant: tiptap
 <p>IB Team Captain-Designate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Nathaniel Cheng Rong En (512)</p>
 </td>
 </tr>
 <tr>
@@ -139,7 +147,7 @@ variant: tiptap
 <p>Vice-President-Designate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Jerome Chan Yeak Yern (5.17)</p>
 </td>
 </tr>
 <tr>
@@ -147,7 +155,17 @@ variant: tiptap
 <p>General Secretary-Designate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Zhang Zhihe (5.06)</p>
+<p>Ang Sen Zhe, Micah (5.18)</p>
+<p>Lo Eleanor Wen-Ye (5.17)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>--</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -155,7 +173,7 @@ variant: tiptap
 <p>Sec/IP Team Captain-Designate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Gilbert Wei Ziqi (3.16)</p>
 </td>
 </tr>
 <tr>
@@ -163,7 +181,8 @@ variant: tiptap
 <p>Sec/IP Team Vice-Captain-Designate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Chow Blake Raiden Zhen (3.16)</p>
+<p>Treidan Chan Zhi Kai (3.16)</p>
 </td>
 </tr>
 <tr>
@@ -171,9 +190,11 @@ variant: tiptap
 <p>Sec/IP Secretary-Designate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Leong Ze Meng, Noel (3.10</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p></p>
