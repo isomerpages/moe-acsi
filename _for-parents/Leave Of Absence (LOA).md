@@ -13,4 +13,3 @@ Applicants are to submit the completed **[LOA application form](https://go.gov.
 LOA application is subject to the Principal’s approval, and the school will notify you of the LOA fees payable and subsequent outcome of the application.
 
 LOA needs to be renewed in **November each year** by submitting the renewal application form together with the required payment.
-
