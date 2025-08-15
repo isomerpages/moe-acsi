@@ -9,10 +9,6 @@ variant: markdown
 
 Established in 1994, the ACS (Independent) Boarding School is home to about 500 students and staff. Each hall has carefully selected resident staff who provide a balance of academic and pastoral support.
 
-<p>The ACS(I) Boarding School marks it’s 30<sup>th</sup> anniversary in 2024. Please find our dedicated page for the celebration <a href="https://www.acsibsch30thanniversary.com/">here</a>.</p>
-<p>&nbsp;</p>
-<p><a href="https://www.acsibsch30thanniversary.com/"><img alt="" src="/images/30th_boarding_logo.png"></a></p>
-
 The ACS (Independent) Boarding School aims to:
 
 *   Provide a comfortable, secure and caring environment for living and learning.
