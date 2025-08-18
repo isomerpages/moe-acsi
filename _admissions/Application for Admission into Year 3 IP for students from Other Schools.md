@@ -5,4 +5,5 @@ description: ""
 variant: markdown
 ---
 <p style="font-weight: bold; text-align: center;">&nbsp;</p>
+<p style="font-weight: bold; text-align: center;">&nbsp;</p>
 <p style="font-weight: bold; text-align: center;">Application to participate in our 2025 Integrated Programme admissions exercise has closed.</p>
