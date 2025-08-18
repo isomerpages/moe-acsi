@@ -4,5 +4,5 @@ permalink: /admissions/application-for-admission-into-year-3-ip-for-students-fro
 description: ""
 variant: markdown
 ---
-<p style="font-weight:bold; text-align:center;">Application to participate in our 2025 Integrated Programme admissions exercise has closed.
-Thank you.</p>
+<p style="font-weight: bold; text-align: center;">&nbsp;</p>
+<p style="font-weight: bold; text-align: center;">Application to participate in our 2025 Integrated Programme admissions exercise has closed.</p>
