@@ -590,4 +590,116 @@ Long)
 </tr>
 </tbody>
 </table>
+<h3>2025 National School Games Golf Championships&nbsp;</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>A Div (Team)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>First Runner-up (Lee Brayden &amp; Li Zonglin)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>B Div (Team)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion (Troy Tian Storm &amp; Lim Yong Rui Dylan)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>C Div (Team)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion (Vihaan Oinam Reddy &amp; Dylan Uziel Chan Chua)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>A Div Girls (Individual)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5th&nbsp;position (Yeo Jia En, Jenevieve 6.17)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>A Div (Individual)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion (Lee Brayden 6.09)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7th position (Li Zonglin 5.13)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>B Div (Individual)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion (Troy Tian Sorem 4.13)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9th position (Lim Yong Rui Dylan 3.07)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24th&nbsp;position (Lucas Wong Jun Xian 4.12)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" colspan="1">
+<p><strong>C Div (Individual)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion (Foo Kok Kian 2.09)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>First Runner-up (Lee Seunghan 1.08)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Second Runner-up (Dylan Uziel Chan Chua 2.05)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5th position (Vihaan Oinam Reddy&nbsp; 2.08)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9th position (Kingsley Teo 2.03)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19th position (Evan Kotan Koo 1.06)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
