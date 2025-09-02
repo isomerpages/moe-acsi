@@ -66,7 +66,7 @@ and innovative teaching team.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Secondary Levels</strong>
+<p><strong>Junior College Levels</strong>
 </p>
 </li>
 </ul>
@@ -82,7 +82,17 @@ and innovative teaching team.</p>
 </ul>
 </li>
 <li>
-<p><strong>Geography &amp; Social Studies</strong>
+<p><strong>Physical Education</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Secondary/Junior College Levels</strong>
+</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Physics</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -91,16 +101,22 @@ and innovative teaching team.</p>
 </li>
 </ul>
 </li>
-<li>
-<p><strong>Mathematics</strong>
-</p>
+</ul>
+<p>In addition, we are also looking for the following Executive &amp; Support
+Staff positions:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Secondary Levels</strong>
+<p><strong>Educational Technologist</strong>
+</p>
+</li>
+<li>
+<p><strong>Estate Development Officer (Project Management)</strong>
+</p>
+</li>
+<li>
+<p><strong>Library Officer</strong>
 </p>
 </li>
 </ul>
-</li>
-</ul>
-<p>Interested applicants, please email your resume to&nbsp;<a href="mailto:lilliantan@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lilliantan@acsindep.edu.sg</a>
+<p>Interested applicants, please email your resume to&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">lilliantan@acsindep.edu.sg</a>
 </p>
