@@ -5,9 +5,7 @@ description: ""
 third_nav_title: Library
 variant: tiptap
 ---
-<p><u>Honours Day 2025</u>
-</p>
-<p>&nbsp;</p>
+<p><u>Honours Day 2025</u>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
