@@ -5,6 +5,17 @@ description: ""
 third_nav_title: Library
 variant: markdown
 ---
+**Activities for 2025:**
+
+1.  CCA Fairs (Y1 &amp; Y5)
+2.  NLB Book Buzz (6 March 2025)
+3.  School Open House (12 Apr 2025)
+4.  2025: A Reading Odyssey (9 May)
+5.  Book Talk on Thanksgiving Day (13 Oct)
+6.  Library Learning Visits
+
+Workshops at library@harbourfront and Punggol Regional Library during Nov/Dec school holidays
+
 **Activities for Year 2024**
 
 1\. CCA Fairs for Y1 and Y5
