@@ -6,9 +6,9 @@ third_nav_title: Tennis
 variant: markdown
 ---
 <h4><strong>SINGAPORE SCHOOLS SPORTS COUNCIL SPORTSMANSHIP AWARD 2025</strong></h4>
+<p>
 <br>Erin Lee Min En 5.11
-<br>Nigel Chen Guanrui 5.05
-
+<br>Nigel Chen Guanrui 5.05</p>
 <h3>NATIONAL INTER-SCHOOL TENNIS CHAMPIONSHIPS RECORDS</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -54,6 +54,20 @@ variant: markdown
 </div>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tennis2025.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 125px">
@@ -96,7 +110,7 @@ variant: markdown
 <p>First runner-up</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>First runner-up</p>
 </td>
 </tr>
 <tr>
