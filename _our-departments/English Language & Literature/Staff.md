@@ -190,6 +190,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Brandon Chai Zhong Xun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher, Year 3 and 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms. Chew Kah Wai</p>
 </td>
 <td rowspan="1" colspan="1">
