@@ -406,7 +406,9 @@ Soh–Individual 11<sup>th</sup>
 <p>Raffles Debate Academy U-14s Debating Championships 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participants</p>
+<p>Participants; Xu Yaojia—Individual 12<sup>th</sup>; Dylan Wong Wen Kang—Individual
+21<sup>st</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -1909,4 +1911,7 @@ Lee—Individual 10<sup>th</sup>; Gavin Goh—Individual 17<sup>th</sup>
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p></p>
 <p></p>
