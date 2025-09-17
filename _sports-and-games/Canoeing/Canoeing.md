@@ -30,7 +30,7 @@ Overall Teacher-In-Charge, Canoeing
 
   * * *
 
-Updated on 23rd May 2025)
+(Updated on 23rd May 2025)
 
 The results of the National Inter-Schools Dragon Boat Championships are as follows:  
 ‘A’ Division – 1st  
