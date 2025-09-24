@@ -6,11 +6,11 @@ description: ""
 third_nav_title: 3 Year Programme for Athletes
 ---
 <p>The applicant:</p>
-<p>- must be a student enrolled in ACS(I)’s IB Diploma Programme</p>
-<p>- must be of good character &amp; conduct</p>
-<p>- has represented Singapore/NSA in the Year 2023 <strong><u>and/or</u></strong> 2024
-in regional or international sporting competition/s (minimally ASEAN or
-Asian level) recognised by the relevant national sports associations (NSAs);</p>
+<p>- must be a Year 5 student enrolled in ACS(I)’s IB Diploma Programme</p>
+<p>- must be of good character &amp; conduct has represented Singapore/NSA
+in the Year 2024&nbsp;<strong><u>and/or</u></strong>&nbsp;2025 in regional
+or international sporting competition/s (minimally ASEAN or Asian level)
+recognised by the relevant national sports associations (NSAs);</p>
 <p>- Earmarked by his/her NSA as having potential to compete at Major Games
 e.g. SEA Games, Commonwealth Games, Asian Games, Olympic Games, Youth Olympic
 Games, Commonwealth Youth Games and any other equivalent competitions during
