@@ -22,6 +22,14 @@ variant: markdown
 </p>
 </td>
 </tr>
+	<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eJournal-&amp;-eDatabase.aspx"><img style="width: 25%;" height="160" width="121" alt="" src="/images/Library%20Digital%20Toolkit/JSTOR.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eJournal-&amp;-eDatabase.aspx" rel="noopener noreferrer nofollow" target="_blank">JSTOR [ACS(I)]</a>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -41,14 +49,6 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://eresources.nlb.gov.sg/main/Browse?startsWith=P" rel="noopener noreferrer nofollow" target="_blank">Proquest Arts &amp; Humanities Database [NLB]</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eJournal-&amp;-eDatabase.aspx"><img style="width: 25%;" height="160" width="121" alt="" src="/images/Library%20Digital%20Toolkit/JSTOR.png"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eJournal-&amp;-eDatabase.aspx" rel="noopener noreferrer nofollow" target="_blank">JSTOR [ACS(I)]</a>
 </p>
 </td>
 </tr>
