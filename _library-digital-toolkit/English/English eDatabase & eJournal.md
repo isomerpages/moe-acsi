@@ -18,7 +18,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://eresources.nlb.gov.sg/main/Browse?startsWith=J" rel="noopener noreferrer nofollow" target="_blank">JSTOR : the scholarly journal archive [NLB]</a>
+<p><a href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eJournal-&amp;-eDatabase.aspx" rel="noopener noreferrer nofollow" target="_blank">JSTOR : the scholarly journal archive [NLB]</a>
 </p>
 <p></p>
 <p></p>
