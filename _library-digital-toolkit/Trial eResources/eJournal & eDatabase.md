@@ -5,4 +5,8 @@ description: ""
 third_nav_title: Trial eResources
 variant: tiptap
 ---
-![](/images/Content_to_be_300x47.png)<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Content_to_be_300x47.png">
+</div>
+<p></p>
+<p></p>
