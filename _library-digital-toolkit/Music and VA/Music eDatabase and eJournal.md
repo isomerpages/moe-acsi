@@ -45,7 +45,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eJournal-&amp;-eDatabase.aspx"><img style="box-sizing: border-box; border-style: none; max-width: 100%; height: auto; margin: 0px 20px 20px 0px;" height="160" width="121" alt="" src="/images/Library%20Digital%20Toolkit/JSTOR.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eJournal-&amp;-eDatabase.aspx"><img style="width: 25%;" height="160" width="121" alt="" src="/images/Library%20Digital%20Toolkit/JSTOR.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eJournal-&amp;-eDatabase.aspx" rel="noopener noreferrer nofollow" target="_blank">JSTOR [ACS(I)]</a>
