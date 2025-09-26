@@ -14,7 +14,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100" alt="" src="/images/Library%20Digital%20Toolkit/JSTOR.png">
+<img style="width: 25%" height="auto" alt="" src="/images/Library%20Digital%20Toolkit/JSTOR.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
