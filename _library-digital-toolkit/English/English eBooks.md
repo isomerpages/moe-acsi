@@ -3,7 +3,7 @@ title: English eBooks
 permalink: /library-digital-toolkit/english/nglishooks/
 description: ""
 third_nav_title: English
-variant: tiptap
+variant: markdown
 ---
 <table style="minWidth: 50px">
 <colgroup>
@@ -44,6 +44,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eBook.aspx"><img style="width: 100%" height="auto" width="195" alt="" src="/images/Kitaboo_logo.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eBook.aspx" rel="noopener noreferrer nofollow" target="_blank">Britannica [ACS(I)]</a>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -55,15 +64,7 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eBook.aspx"><img style="width: 100%" height="auto" width="195" alt="" src="/images/Kitaboo_logo.png"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eBook.aspx" rel="noopener noreferrer nofollow" target="_blank">Britannica [ACS(I)]</a>
-</p>
-</td>
-</tr>
+
 </tbody>
 </table>
 <hr>

@@ -3,9 +3,30 @@ title: Geography eDatabase & eJournal
 permalink: /library-digital-toolkit/geography/geography-edatabase-ejournal/
 description: ""
 third_nav_title: Geography
+variant: markdown
 ---
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 25%" height="auto" alt="" src="/images/Library%20Digital%20Toolkit/JSTOR.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eJournal-&amp;-eDatabase.aspx" rel="noopener noreferrer nofollow" target="_blank">JSTOR [ACS(I)]</a>
+</p>
+<p></p>
+<p></p>
+</td>
+</tr>
 
-![](/images/Library%20Digital%20Toolkit/Content-to-be-300x47.png)
+</tbody>
+</table>
 
 * * *
 

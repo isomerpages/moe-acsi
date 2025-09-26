@@ -14,7 +14,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="83" width="300" alt="" src="/images/Library%20Digital%20Toolkit/Grove-Music.png">
+<img style="width: 80%;" height="83" width="300" alt="" src="/images/Library%20Digital%20Toolkit/Grove-Music.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -23,9 +23,17 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eJournal-&amp;-eDatabase.aspx"><img style="width: 25%;" height="160" width="121" alt="" src="/images/Library%20Digital%20Toolkit/JSTOR.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eJournal-&amp;-eDatabase.aspx" rel="noopener noreferrer nofollow" target="_blank">JSTOR [ACS(I)]</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; max-width: 100%; height: auto; margin: 0px 20px 20px 0px;" height="118" width="184" alt="" src="/images/Library%20Digital%20Toolkit/Naxos.png">
+<img style="width: 50%;" height="118" width="184" alt="" src="/images/Library%20Digital%20Toolkit/Naxos.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -36,19 +44,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; border-style: none; max-width: 100%; height: auto; margin: 0px 20px 20px 0px;" height="101" width="157" alt="" src="/images/Library%20Digital%20Toolkit/Pro-Quest.png">
+<img style="width: 50%;" height="101" width="157" alt="" src="/images/Library%20Digital%20Toolkit/Pro-Quest.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://eresources.nlb.gov.sg/main/Browse?startsWith=P" rel="noopener noreferrer nofollow" target="_blank">Proquest Arts &amp; Humanities Database [NLB]</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eJournal-&amp;-eDatabase.aspx"><img style="box-sizing: border-box; border-style: none; max-width: 100%; height: auto; margin: 0px 20px 20px 0px;" height="160" width="121" alt="" src="/images/Library%20Digital%20Toolkit/JSTOR.png"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eJournal-&amp;-eDatabase.aspx" rel="noopener noreferrer nofollow" target="_blank">JSTOR [ACS(I)]</a>
 </p>
 </td>
 </tr>
