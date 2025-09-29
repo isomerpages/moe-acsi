@@ -14,6 +14,17 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 25%" height="70" width="200" alt="" src="/images/Library%20Digital%20Toolkit/JSTOR.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eJournal-&amp;-eDatabase.aspx" rel="noopener noreferrer nofollow" target="_blank">JSTOR [ACS(I)]</a>
+</p>
+</td>
+</tr>
+	<tr>
+	<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="70" width="200" alt="" src="/images/Library%20Digital%20Toolkit/Economist-Intelligence.png">
 </div>
 </td>
