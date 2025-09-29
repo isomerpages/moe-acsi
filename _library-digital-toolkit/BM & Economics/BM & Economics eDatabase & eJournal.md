@@ -3,7 +3,7 @@ title: BM & Economics eDatabase & eJournal
 permalink: /library-digital-toolkit/bm-and-economics/business-and-management-edatabase-ejournal/
 description: ""
 third_nav_title: BM & Economics
-variant: tiptap
+variant: markdown
 ---
 <table style="minWidth: 50px">
 <colgroup>
@@ -13,6 +13,17 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 25%" height="70" width="200" alt="" src="/images/Library%20Digital%20Toolkit/JSTOR.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://anglochineseschooli.sharepoint.com/sites/ACSIeResources/SitePages/eJournal-&amp;-eDatabase.aspx" rel="noopener noreferrer nofollow" target="_blank">JSTOR [ACS(I)]</a>
+</p>
+</td>
+</tr>
+	<tr>
+	<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="70" width="200" alt="" src="/images/Library%20Digital%20Toolkit/Economist-Intelligence.png">
 </div>
