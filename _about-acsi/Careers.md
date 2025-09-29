@@ -52,41 +52,11 @@ and innovative teaching team.</p>
 </ul>
 </li>
 <li>
-<p><strong>Business Management</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Junior College Levels</strong>
-</p>
-</li>
-</ul>
-</li>
-<li>
-<p><strong>Chemistry</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Junior College Levels</strong>
-</p>
-</li>
-</ul>
-</li>
-<li>
 <p><strong>English Language &amp; Literature</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Secondary Levels</strong>
-</p>
-</li>
-</ul>
-</li>
-<li>
-<p><strong>Physical Education</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Secondary/Junior College Levels</strong>
 </p>
 </li>
 </ul>
@@ -111,10 +81,6 @@ Staff positions:</p>
 </li>
 <li>
 <p><strong>Estate Development Officer (Project Management)</strong>
-</p>
-</li>
-<li>
-<p><strong>Library Officer</strong>
 </p>
 </li>
 </ul>
