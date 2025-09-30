@@ -5,21 +5,25 @@ description: ""
 third_nav_title: Health and Fitness Club
 variant: markdown
 ---
-<h2>Dr. Christine Chan</h2>
-<h2><a rel="noopener noreferrer nofollow" target="_blank">christinechanbl@acsindep.edu.sg</a></h2>
-<h2>&nbsp;</h2>
-<h2>Hamza Asim 6.11 (Co-Chair/President)</h2>
-<h2><a rel="noopener noreferrer nofollow" target="_blank">20hamza.asim@acsians.acsi.edu.sg</a></h2>
-<h2>&nbsp;</h2>
-<h2>Yoon Sae Young 6.01 (Co-Chair/President)</h2>
-<h2><a rel="noopener noreferrer nofollow" target="_blank">20yoon.sae.young@acsians.acsi.edu.sg</a></h2>
-<h2>&nbsp;</h2>
-<h2>Lucas Yeo Zong Yu 6.10 (EXCO)</h2>
-<h2><a rel="noopener noreferrer nofollow" target="_blank">20lucas.yeo.zong.yu@acsians.acsi.edu.sg</a></h2>
-<h2>&nbsp;</h2>
-<h2>Trina Lim Hsin Yi 6.11 (EXCO)</h2>
-<h2><a rel="noopener noreferrer nofollow" target="_blank">20lim.hsin.yi.trina@acsians.acsi.edu.sg</a></h2>
-<h2>&nbsp;</h2>
-<h2>Eve Tan Rui Ying 6.03 (EXCO)</h2>
-<h2><a rel="noopener noreferrer nofollow" target="_blank">20eve.tan.rui.ying@acsians.acsi.edu.sg</a></h2>
-<p></p>
+Dr. Christine Chan<br>
+<a rel="noopener noreferrer nofollow" target="_blank">christinechanbl@acsindep.edu.sg</a>
+
+Vince Kuo Chi-Yun&nbsp;&nbsp;&nbsp; (Co-Chair/President)
+
+[21kuo.chiyun.vince@acsians.acsi.edu.sg](mailto:21kuo.chiyun.vince@acsians.acsi.edu.sg)
+
+Dexter Choo Chi Qing (Co-Chair/President)
+
+[21dexter.choo@acsians.acsi.edu.sg](mailto:21dexter.choo@acsians.acsi.edu.sg)
+
+Victoria Chan Kai Li&nbsp; (EXCO)
+
+[21victoria.chan@acsians.acsi.edu.sg](mailto:21victoria.chan@acsians.acsi.edu.sg)
+
+Loh Yan Yi (EXCO)
+
+[21loh.yanyi@acsians.acsi.edu.sg](mailto:21loh.yanyi@acsians.acsi.edu.sg)
+
+Timothy Joseph Chia (EXCO)
+
+[21timothy.chia@acsians.acsi.edu.sg](mailto:21timothy.chia@acsians.acsi.edu.sg)
