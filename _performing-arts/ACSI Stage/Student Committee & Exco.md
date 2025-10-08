@@ -46,14 +46,14 @@ variant: markdown
   padding:7.5pt 11.25pt 7.5pt 11.25pt;height:.25in" valign="top" width="161"><p style="line-height:13.5pt" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;
   color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
-  EN-GB">Ho Yee Lok, Ella</span></p></td><td style="width:62.95pt;border-top:none;border-left:
+  EN-GB">Chloe Lim</span></p></td><td style="width:62.95pt;border-top:none;border-left:
   none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
   mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
   padding:7.5pt 11.25pt 7.5pt 11.25pt;height:.25in" valign="top" width="84"><p style="line-height:13.5pt" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;
   color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
-  EN-GB">6.14</span></p></td></tr><tr style="mso-yfti-irow:2;height:.25in"><td style="width:266.85pt;border:solid #D6D6D6 1.0pt;
+  EN-GB">6.08</span></p></td></tr><tr style="mso-yfti-irow:2;height:.25in"><td style="width:266.85pt;border:solid #D6D6D6 1.0pt;
   border-top:none;mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
   mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:7.5pt 11.25pt 7.5pt 11.25pt;
   height:.25in" valign="top" width="356"><p style="line-height:13.5pt" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
@@ -66,34 +66,34 @@ variant: markdown
   padding:7.5pt 11.25pt 7.5pt 11.25pt;height:.25in" valign="top" width="161"><p style="line-height:13.5pt" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;
   color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
-  EN-GB">Ang Jia Yong Joshua</span></p></td><td style="width:62.95pt;border-top:none;border-left:
+  EN-GB">Tan Kay-Ann Shannah</span></p></td><td style="width:62.95pt;border-top:none;border-left:
   none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
   mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
   padding:7.5pt 11.25pt 7.5pt 11.25pt;height:.25in" valign="top" width="84"><p style="line-height:13.5pt" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;
   color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
-  EN-GB">6.19</span></p></td></tr><tr style="mso-yfti-irow:3;height:.25in"><td style="width:266.85pt;border:solid #D6D6D6 1.0pt;
+  EN-GB">6.18</span></p></td></tr><tr style="mso-yfti-irow:3;height:.25in"><td style="width:266.85pt;border:solid #D6D6D6 1.0pt;
   border-top:none;mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
   mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:7.5pt 11.25pt 7.5pt 11.25pt;
   height:.25in" valign="top" width="356"><p style="line-height:13.5pt" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;
   color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
-  EN-GB">Secretary</span></p></td><td style="width:120.9pt;border-top:none;border-left:
+  EN-GB">Secretary/Safety Officer</span></p></td><td style="width:120.9pt;border-top:none;border-left:
   none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
   mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
   padding:7.5pt 11.25pt 7.5pt 11.25pt;height:.25in" valign="top" width="161"><p style="line-height:13.5pt" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;
   color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
-  EN-GB">Ephraim Tan</span></p></td><td style="width:62.95pt;border-top:none;border-left:
+  EN-GB">Eva Gupta</span></p></td><td style="width:62.95pt;border-top:none;border-left:
   none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
   mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
   padding:7.5pt 11.25pt 7.5pt 11.25pt;height:.25in" valign="top" width="84"><p style="line-height:13.5pt" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;
   color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
-  EN-GB">6.19</span></p></td></tr><tr style="mso-yfti-irow:4;height:20.25pt"><td style="width:266.85pt;border:solid #D6D6D6 1.0pt;
+  EN-GB">6.10</span></p></td></tr><tr style="mso-yfti-irow:4;height:20.25pt"><td style="width:266.85pt;border:solid #D6D6D6 1.0pt;
   border-top:none;mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
   mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:7.5pt 11.25pt 7.5pt 11.25pt;
   height:20.25pt" valign="top" width="356"><p style="line-height:13.5pt" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
@@ -106,34 +106,34 @@ variant: markdown
   padding:7.5pt 11.25pt 7.5pt 11.25pt;height:20.25pt" valign="top" width="161"><p style="line-height:13.5pt" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;
   color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
-  EN-GB">Manikandan Bhavya</span></p></td><td style="width:62.95pt;border-top:none;border-left:
+  EN-GB">Meghan Nim Yi En</span></p></td><td style="width:62.95pt;border-top:none;border-left:
   none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
   mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
   padding:7.5pt 11.25pt 7.5pt 11.25pt;height:20.25pt" valign="top" width="84"><p style="line-height:13.5pt" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;
   color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
-  EN-GB">6.05</span></p></td></tr><tr style="mso-yfti-irow:5;height:20.25pt"><td style="width:266.85pt;border:solid #D6D6D6 1.0pt;
+  EN-GB">6.11</span></p></td></tr><tr style="mso-yfti-irow:5;height:20.25pt"><td style="width:266.85pt;border:solid #D6D6D6 1.0pt;
   border-top:none;mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
   mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:7.5pt 11.25pt 7.5pt 11.25pt;
   height:20.25pt" valign="top" width="356"><p style="line-height:13.5pt" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;
   color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
-  EN-GB">Quartermaster/Safety Officer</span></p></td><td style="width:120.9pt;border-top:none;border-left:
+  EN-GB">Quartermaster</span></p></td><td style="width:120.9pt;border-top:none;border-left:
   none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
   mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
   padding:7.5pt 11.25pt 7.5pt 11.25pt;height:20.25pt" valign="top" width="161"><p style="line-height:13.5pt" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;
   color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
-  EN-GB">Maasila Joseph</span></p></td><td style="width:62.95pt;border-top:none;border-left:
+  EN-GB">Radhizul Arman bin Muhammad Rostam</span></p></td><td style="width:62.95pt;border-top:none;border-left:
   none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
   mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
   padding:7.5pt 11.25pt 7.5pt 11.25pt;height:20.25pt" valign="top" width="84"><p style="line-height:13.5pt" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;
   color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
-  EN-GB">6.04</span></p></td></tr><tr style="mso-yfti-irow:6;mso-yfti-lastrow:yes;height:.25in"><td style="width:266.85pt;border:solid #D6D6D6 1.0pt;
+  EN-GB">6.08</span></p></td></tr><tr style="mso-yfti-irow:6;mso-yfti-lastrow:yes;height:.25in"><td style="width:266.85pt;border:solid #D6D6D6 1.0pt;
   border-top:none;mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
   padding:7.5pt 11.25pt 7.5pt 11.25pt;height:.25in" valign="top" width="356"><p style="line-height:13.5pt" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;
@@ -145,11 +145,11 @@ variant: markdown
   height:.25in" valign="top" width="161"><p style="line-height:13.5pt" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;
   color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
-  EN-GB">Plasencia Babu</span></p></td><td style="width:62.95pt;border-top:none;border-left:
+  EN-GB">Antora Shahreen Hassan</span></p></td><td style="width:62.95pt;border-top:none;border-left:
   none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
   mso-border-alt:solid #D6D6D6 .25pt;padding:7.5pt 11.25pt 7.5pt 11.25pt;
   height:.25in" valign="top" width="84"><p style="line-height:13.5pt" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Arial;
   color:black;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
-  EN-GB">6.10</span></p></td></tr></tbody></table>
+  EN-GB">6.08</span></p></td></tr></tbody></table>
