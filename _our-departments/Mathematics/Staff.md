@@ -218,7 +218,7 @@ variant: tiptap
 <p>Clarice Tan En Qi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>Deputy Director, Student Engagement &amp; Empowerment (VIA) (Acting)</p>
 </td>
 </tr>
 <tr>
@@ -240,7 +240,7 @@ variant: tiptap
 <p>Davin Tan Shun Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>Deputy Director, Year 3 (Acting)</p>
 </td>
 </tr>
 <tr>
@@ -273,7 +273,7 @@ variant: tiptap
 <p>Jaime Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>Senior Teacher&nbsp;(Holistic Development of Students)</p>
 </td>
 </tr>
 <tr>
@@ -284,7 +284,7 @@ variant: tiptap
 <p>Janet Tay Cher Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>Deputy Director Year 4</p>
 </td>
 </tr>
 <tr>
