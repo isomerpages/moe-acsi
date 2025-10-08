@@ -155,6 +155,50 @@ variant: markdown
 <p>Deputy Director Year 6</p>
 </td>
 </tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<p>MS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Janet Tay Cher Hoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Director Year 4</p>
+</td>
+</tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<p>MS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Clarice Tan En Qi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Director, Student Engagement &amp; Empowerment (VIA) (Acting)</p>
+</td>
+</tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<p>MR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Davin Tan Shun Chong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Director, Year 3 (Acting)</p>
+</td>
+</tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<p>MS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jaime Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher&nbsp;(Holistic Development of Students)</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>MR</p>
@@ -215,32 +259,10 @@ variant: markdown
 <p>MS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Clarice Tan En Qi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deputy Director, Student Engagement &amp; Empowerment (VIA) (Acting)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MS</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Dalwinther Kaur</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MR</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Davin Tan Shun Chong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deputy Director, Year 3 (Acting)</p>
 </td>
 </tr>
 <tr>
@@ -263,28 +285,6 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Jaime Ong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher&nbsp;(Holistic Development of Students)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Janet Tay Cher Hoon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deputy Director Year 4</p>
 </td>
 </tr>
 <tr>
