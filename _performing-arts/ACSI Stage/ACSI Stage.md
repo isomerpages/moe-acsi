@@ -13,7 +13,7 @@ Anglo-Chinese School Independent Stage is the school's IB drama CCA and is made 
 
 In 2023, the club produced ACS(I)'s first ever _Shakespeare in the Park_&nbsp;in the school's outdoor amphitheatre, a full-length performance of _As You Like It_ in the original language. This was quickly followed in April 2024 with a premiere of our student playwright Zackary Chong's full length play about the role of art and friendship in Singapore's national identity, _How to Sell Your Art from the Grave_, which also featured original works by IB Art students.         
 
-In July 2025, Stage then presented a run of four performances of our Year 6 IB students' set text Henrik Ibsen's classic play A Doll's House, featuring two different casts over 3 days.
+In July 2024, Stage then presented a run of four performances of our Year 6 IB students' set text Henrik Ibsen's classic play A Doll's House, featuring two different casts over 3 days.
 
 As their 2025 Performing Arts Night Festival offering, Stage presents a whimsical and thought-provoking original short form piece by student playwright Lucas Tan, featuring references to modernist and absurdist theatre in a familiar local setting. This is closely followed by a two night run of our IB Language and Literature set text, the classic Ancient Greek tragedy Euripides' Medea, in which we make use of masks, sets and an outdoor amphitheatre performance setting to recreate the magic of the ancient art form.
 
