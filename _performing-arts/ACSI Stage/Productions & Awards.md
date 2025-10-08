@@ -401,6 +401,15 @@ play by HSP student)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Performing Arts Night Festival: the Blue Birds (original short play by
+student Lucas Tan)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Euripides Medea in an original translation by Angela Chew</p>
 </td>
 <td rowspan="1" colspan="1">
