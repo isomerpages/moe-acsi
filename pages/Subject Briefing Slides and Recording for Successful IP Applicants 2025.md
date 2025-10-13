@@ -10,3 +10,8 @@ description: ""
 </p>
 <p><a href="/files/Brief for Successful IP/Course_outlines_for_Year_3___4_subjects__Integrated_Programme__2026_2027.pdf" rel="noopener nofollow" target="_blank">Course outlines for Year 3 &amp; 4 subjects (Integrated Programme) 2026-2027</a>
 </p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5c6x9_1GqVQ?si=2F1e2AeSpMFryyeF"></iframe>
+</div>
+<p></p>
