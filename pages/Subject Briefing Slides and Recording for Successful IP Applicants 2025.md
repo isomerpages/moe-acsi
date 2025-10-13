@@ -22,5 +22,3 @@ description: ""
 <p>Year 2 Subject Briefing 2025 IP Visual Art</p>
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/GCIvRSR3Qd0?si=NKhpANqp_6GM--r0" height="315" width="560"></iframe>
-
-
