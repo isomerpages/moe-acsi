@@ -1,7 +1,7 @@
 ---
 title: Subject Briefing Slides for Parents of Year 2 IP Parents
 permalink: /subject-briefing-slides-for-parents-of-year-2-ip-parents/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p><a href="/files/Y2_IP_Science_Briefing_2025_July.pdf" rel="noopener nofollow" target="_blank">Y2 IP Science Briefing 2025</a>
