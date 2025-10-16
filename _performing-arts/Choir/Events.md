@@ -16,7 +16,10 @@ variant: tiptap
 <p>Term 1</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Year 1 Performing Arts Showcase (January)</p>
+<p>ACS Sunday (February)</p>
+<p>Founder’s Day Service (March)</p>
+<p>Bonding and Practice Camp (Term 1 Holidays)</p>
 </th>
 </tr>
 <tr>
@@ -24,7 +27,9 @@ variant: tiptap
 <p>Term 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Singapore Youth Festival and Performing Arts Nights Festival (April) /
+Festival of Arts (April)</p>
+<p>New Choir Committee Selection Camp (May)</p>
 </td>
 </tr>
 <tr>
@@ -32,7 +37,7 @@ variant: tiptap
 <p>Term 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>National Day Service (August)</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +45,7 @@ variant: tiptap
 <p>Term 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Choral Exchange or Year End Concert (Early November)</p>
 </td>
 </tr>
 </tbody>
