@@ -5,45 +5,55 @@ description: ""
 third_nav_title: Choir
 variant: tiptap
 ---
-![](/images/Choir-practice-session.jpg)
-
-### Rehearsal Schedule
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-wa1i">Rehearsal Date</th>
-    <th class="tg-wa1i">Time</th>
-    <th class="tg-wa1i">Venue</th>
-  </tr>
-</thead>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir-practice-session.jpg">
+</div>
+<h3>Rehearsal Schedule</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-nrix">Every Tuesday</td>
-    <td class="tg-nrix">1515 – 1815</td>
-    <td class="tg-nrix">CPA1 (Centre for Performing Arts 1)</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Every Thursday</td>
-    <td class="tg-nrix">1515 – 1815</td>
-    <td class="tg-nrix">CPA1 (Centre for Performing Arts 1)</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Rehearsal Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Every Tuesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1515 – 1830</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CPA1 (Centre for Performing Arts 1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Every Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1515 – 1830</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CPA1 (Centre for Performing Arts 1)</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-### Practice and Performing Venues
-
-![](/images/choice%20venue.png)
-
-### Calendar of Events 2022 (**Click to view):**
-
-[2022 Choir Calendar of Events Sem 1](/files/2022-Choir-Calendar-of-Events-Sem-1.pdf)
+<h3>Practice and Performing Venues</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/choice%20venue.png">
+</div>
+<h3></h3>
+<p></p>
