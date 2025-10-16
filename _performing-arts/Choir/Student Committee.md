@@ -3,8 +3,9 @@ title: Student Committee
 permalink: /choir/student-committee/
 description: ""
 third_nav_title: Choir
+variant: markdown
 ---
-The structure of the choir committee has never meant to be hierarchical. It is a collegial structure where every individual in the committee plays an equal role in visioning, planning, and executing all endeavours that the choir embarked on to serve, to care, and to excel.
+The structure of the choir committee is purposefully non-hierarchical, built on the belief that every voice matters. It is a collegial community where each member shares equally in shaping the vision, planning with purpose, and bringing to life the endeavours we undertake. United by our shared commitment to serve, to care, and to excel, we move forward not as individuals, but as one choir, one family.
 
 
 ![](/images/Performing%20Arts/Choir/choir%20exco%202022-2023.jpg)
