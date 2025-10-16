@@ -5,14 +5,44 @@ description: ""
 third_nav_title: Choir
 variant: tiptap
 ---
-#### The ACS (Independent) Choir has been blessed with many opportunities over the years to spread our love of music to our audiences:
-
-![](/images/choir1.png)
-
-![](/images/choir2.png)
-
-![](/images/choir3.png)
-
-![](/images/choir4.png)
-
-![](/images/choir5.png)
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Term 1</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
