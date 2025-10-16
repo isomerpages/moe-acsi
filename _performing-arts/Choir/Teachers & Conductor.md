@@ -1,10 +1,11 @@
 ---
-title: Teachers &amp; Conductor
+title: Teachers & Conductor
 permalink: /choir/teachers-conductor/
 description: ""
 third_nav_title: Choir
+variant: markdown
 ---
-The choir is honored to have capable teachers, several of whom have engaged in vocal training and choral singing in the past, as well as our distinguished conductor, Mr Low Xu Hao, to guide us.
+The choir is honoured to be guided by dedicated teachers, as well as our distinguished conductor, Mr Low Xu Hao.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -22,7 +23,7 @@ The choir is honored to have capable teachers, several of whom have engaged in v
 <th class="tg-cly1">Choir Teacher-in-Charge (Admin)</th>
 </tr>
 <tr>
-<th class="tg-cly1">Ms Grace Wong Xue Ying</th>
+<th class="tg-cly1">Ms Yuan Peiying</th>
 <th class="tg-cly1">Choir Teacher-in-Charge (Music)</th>
 </tr>
 <tr>
