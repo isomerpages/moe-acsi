@@ -7,7 +7,14 @@ variant: tiptap
 <h3>EDUSAVE CHARACTER AWARD (ECHA) 2025 &amp; INTEGRITY AWARD 2025</h3>
 <p><strong><u>Introduction</u>&nbsp;</strong>
 </p>
-<p>The Edusave Character Award (ECHA) was introduced by the Ministry of Education in 2012 to enable schools to recognise students who demonstrate exemplary character and outstanding personal qualities through their behavior and actions. This is part of the larger goal to foster an inclusive and stronger Singapore as we broaden the qualities and achievements to be encouraged and applauded. The award also supports schools’ continuing efforts in nurturing students of character and values, who are active contributors and concerned citizens.<strong>&nbsp;</strong>
+<p>The Edusave Character Award (ECHA) was introduced by the Ministry of Education
+in 2012 to enable schools to recognise students who demonstrate exemplary
+character and outstanding personal qualities through their behavior and
+actions. This is part of the larger goal to foster an inclusive and stronger
+Singapore as we broaden the qualities and achievements to be encouraged
+and applauded. The award also supports schools’ continuing efforts in nurturing
+students of character and values, who are active contributors and concerned
+citizens.<strong>&nbsp;</strong>
 </p>
 <p><strong><u>Objectives and Guiding Principles </u></strong>&nbsp;</p>
 <p>The objectives of the ECHA are:&nbsp;</p>
@@ -46,7 +53,8 @@ Singaporean students in the school.&nbsp;</p>
 <p>Is committed to attending his / her CCA.</p>
 </li>
 <li>
-<p>Is involved in school-based or student-initiated Values-In-Action (VIA) activities.</p>
+<p>Is involved in school-based or student-initiated Values-In-Action (VIA)
+activities.</p>
 </li>
 <li>
 <p>Is a role model in his / her conduct and attitude.</p>
@@ -55,7 +63,8 @@ Singaporean students in the school.&nbsp;</p>
 <p>Upholds the core purpose, mission &amp; vision of the school.</p>
 </li>
 <li>
-<p>Demonstrates school values (SHIELD): Steadfastness, Humility, Integrity, Empathy, Loyalty, Diligence.<strong><u> <br></u></strong>
+<p>Demonstrates school values (SHIELD): Steadfastness, Humility, Integrity,
+Empathy, Loyalty, Diligence.<strong><u> <br></u></strong>
 </p>
 </li>
 </ul>
@@ -64,10 +73,10 @@ Singaporean students in the school.&nbsp;</p>
 </p>
 <ol>
 <li>
-<p>Nomination : A broad-based nomination process in place to accept
-nominations from students, parents, teachers and other key stakeholders
-who interact with students. As part of the school’s efforts to promote
-impartiality and transparency of the ECHA selection processes, <strong>parents are strongly encouraged not to nominate their own child.</strong>
+<p>Nomination : A broad-based nomination process in place to accept nominations
+from students, parents, teachers and other key stakeholders who interact
+with students. As part of the school’s efforts to promote impartiality
+and transparency of the ECHA selection processes, <strong>parents are strongly encouraged not to nominate their own child.</strong>
 </p>
 </li>
 </ol>
@@ -75,25 +84,32 @@ impartiality and transparency of the ECHA selection processes, <strong>parents a
 <li>
 <p>Shortlisting : A structured process is instituted to shortlist students
 from the pool of nominees.&nbsp; The shortlisting of nominees will be conducted
-by the ECHA committee, which comprises members of the school’s Deans
-and Directors.&nbsp; The panel will solicit feedback from different key
-stakeholders.</p>
+by the ECHA committee, which comprises members of the school’s Deans and
+Directors.&nbsp; The panel will solicit feedback from different key stakeholders.</p>
 </li>
 </ol>
 <ol start="3">
 <li>
-<p>Endorsement : The validation and endorsement of the ECHA awardees is the final stage of the selection process&nbsp;and is independent of the shortlisting panel.&nbsp;&nbsp;<strong> <br></strong>
+<p>Endorsement : The validation and endorsement of the ECHA awardees is the
+final stage of the selection process&nbsp;and is independent of the shortlisting
+panel.&nbsp;&nbsp;<strong> <br></strong>
 </p>
 </li>
 </ol>
 <p><strong><u>Receiving Multiple Edusave Awards</u></strong>&nbsp;</p>
-<p>Deserving students will be allowed to receive the ECHA in addition to an Edusave academic award (i.e., Edusave Scholarship, the Edusave Merit Bursary or the Good Progress Award) and / or the Edusave Awards for Achievement, Good Leadership &amp; Service (EAGLES). This means that a student can receive a maximum of three Edusave awards.</p>
+<p>Deserving students will be allowed to receive the ECHA in addition to
+an Edusave academic award (i.e., Edusave Scholarship, the Edusave Merit
+Bursary or the Good Progress Award) and / or the Edusave Awards for Achievement,
+Good Leadership &amp; Service (EAGLES). This means that a student can receive
+a maximum of three Edusave awards.</p>
 <p><strong><u>Form of Award</u></strong>&nbsp;</p>
-<p>Similar to the practice for other Edusave awards, the ECHA awardees will receive a certificate and an award voucher. The ECHA quantum for Secondary 1 to 5 and Pre-U 1 to 3 students is $500.</p>
+<p>Similar to the practice for other Edusave awards, the ECHA awardees will
+receive a certificate and an award voucher. The ECHA quantum for Secondary
+1 to 5 and Pre-U 1 to 3 students is $500.</p>
 <p>&nbsp;<strong><u>Presentation of Award</u>&nbsp;</strong>
 </p>
-<p>ECHA will be given out at the community level, together with EAGLES and the Edusave
-academic awards.</p>
+<p>ECHA will be given out at the community level, together with EAGLES and
+the Edusave academic awards.</p>
 <p><strong><u>Integrity Award – In memory of Tan Sri (Dr) Tan Chin Tuan</u></strong>
 </p>
 <p>The Integrity Award was set up in 2021 by the Anglo-Chinese School Foundation
@@ -108,32 +124,4 @@ noted philanthropist, and an Old Boy of ACS.&nbsp;</p>
 Deserving non-Singaporeans who are not eligible for ECHA, will be separately
 nominated by the school.&nbsp; The selection process is similar to that
 of ECHA, and will comprise the nomination, selection and endorsement stages.&nbsp;</p>
-<p>Nominations for both the ECHA &amp; Integrity Award 2025 are now open.  The closing date for nominations is <strong><u>Monday, 28 July 2025 (5 pm).</u></strong> Late submissions will not be accepted.&nbsp;</p>
-<p>Please use the following links to nominate deserving students&nbsp;:</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>ECHA</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://for.edu.sg/acs-echa2025" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/acs-echa2025</a>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Integrity Awards </strong>(Use this form to nominate only non-Singaporeans
-who are not eligible for ECHA) &nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://for.edu.sg/acs-integrity2025" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/acs-integrity2025</a>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+<p>Nominations for both the ECHA &amp; Integrity Award 2025 are now closed.</p>
