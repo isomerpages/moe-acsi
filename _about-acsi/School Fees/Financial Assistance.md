@@ -124,7 +124,7 @@ or School Secretary, Ms Eunice Seah (<a rel="noopener noreferrer nofollow" targe
 <p><strong>UPLIFT Scholarship</strong>
 </p>
 <p>The UPLIFT scholarship for Independent Schools provides a monetary award
-of $1,000 per year for Singapore citizens who</p>
+of $1,200 per year for Singapore citizens who</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>are admitted through the Direct School Admission, and/or</p>
