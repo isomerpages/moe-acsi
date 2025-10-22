@@ -13,34 +13,10 @@ Mr Patrick Soo (<a href="mailto:patrick@acsindep.edu.sg" rel="noopener noreferre
 or School Secretary, Ms Eunice Seah (<a href="mailto:eunice@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eunice@acsindep.edu.sg</a>).</p>
 <p><strong>MOE INDEPENDENT SCHOOLS BURSARY</strong>
 </p>
-<p>Singapore Citizens in independent schools may apply for assistance under
-the MOE ISB scheme. For ISB recipients who qualify for 100% fee subsidy
-and subsidy such that they pay the same fees as students studying in government
-and government aided schools, they will qualify for the UPLIFT scholarship,
-which consists of a cash award of $1,000 per annum, to help offset the
-out-of-pocket expenses for students from lower-income households.</p>
-<p><a href="/files/MOE_ISB_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">Application for MOE ISB</a>
-</p>
-<p>Application forms are also available from the Front Office and the&nbsp;
-<a href="https://lms.acsindep.edu.sg/ACSIndep/login.aspx?type=parents" rel="noopener noreferrer nofollow" target="_blank">Parents’ Portal</a>. Please ensure that the ISB application is accompanied
-by all relevant documents required by MOE.</p>
-<p>Omission may result in a delay in the processing of the application, and
-in turn, a delay in the awarding of the ISB.</p>
-<p>Students should pay the full amount of school and miscellaneous fees until
-their application for the ISB has been processed and they have received
-written advice from the school.</p>
-<p>Applications may be made throughout the year as exigencies of each family’s
-financial situation demand. However, each MOE ISB award is effective from
-the month the application is approved and may not be backdated. Approved
-ISBs are valid till December of the year. Fresh applications will have
-to be submitted for each subsequent academic year as the ISB is tenable
-for that year only.</p>
-<p><strong>Income Limits &amp; Benefits</strong>
-</p>
-<p>The student needs to only satisfy either the Gross Household Income (GHI)
-or the Per Capita Income (PCI) criterion. PCI is computed based on the
-GHI divided by the number of members in the household.</p>
-<p>Once approved, the ISB will provide the benefits shown in the table below:</p>
+<p>Singapore citizens may apply for the <strong>Ministry of Education Independent School</strong>  <strong>Bursary (MOE ISB)</strong> which
+provides up to 100% school and miscellaneous fees subsidy.&nbsp; The income
+limits and types of benefits given to students in Independent Schools under
+the <strong>MOE ISB</strong> scheme are shown in the table below.&nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -50,23 +26,21 @@ GHI divided by the number of members in the household.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Income Limits</strong>
-<br>
-<br><strong>(Meet one of the following criteria)</strong>
+<p><strong>Income Criteria</strong>
 </p>
+<p>(Meet one of the following criteria)</p>
 </td>
 <td rowspan="2" colspan="1">
-<p><strong>Benefits with effect from 1 January 2024</strong>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Benefits with effect from 1 January 2026</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Monthly Gross</strong>
-<br>
-<br><strong>Household Income (GHI)</strong>
+<p><strong>Monthly Gross Household Income (GHI)</strong>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Per Capita Income (PCI)</strong>
@@ -75,54 +49,54 @@ GHI divided by the number of members in the household.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Not exceeding $3,000</p>
+<p>Not exceeding $4,000</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Not exceeding $750</p>
+<p>Not exceeding $1,000</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>● 100% subsidy of school and miscellaneous fees
-<br>
-<br>● Free textbooks and school attire at Secondary level; annual bursary
-of $1,200 at Pre-University level
-<br>
-<br>● Full subsidy of exam fees&nbsp;<a href="https://www.acsindep.moe.edu.sg/about-acs-independent/fee/financial-assistance/#_edn1" rel="noopener noreferrer nofollow" target="_blank">[i]</a>
-<br>
-<br>● Transport subsidy: $17 per month from the month of approval, up to $204
-per annum* (for students taking public transport)
-<br>
-<br>● School meal subsidies for 10 meals per school week for secondary level</p>
+<p>▪100% fee subsidies</p>
+<p>▪ Free textbooks and uniforms for</p>
+<p>&nbsp; secondary level</p>
+<p>▪ Cash bursary of $1,600 per annum for</p>
+<p>&nbsp;&nbsp; pre-university level only (including public</p>
+<p>&nbsp; &nbsp;transport subsidy)</p>
+<p>▪ Full subsidy of exam fees[i]</p>
+<p>▪ Monthly public transport subsidies of $21</p>
+<p>&nbsp;&nbsp; for secondary level*</p>
+<p>▪ Meal subsidies that pay for at least</p>
+<p>&nbsp;&nbsp; 10 meals per week for secondary level</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>$3,001 – $4,400</p>
+<p>$4,001 - $5,500</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$751 – $1,100</p>
+<p>$1,001 - $1,375</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subsidy such that student pays the same fee as student studying in government
+<p>Subsidy such that student pays the same fee** as student studying in government
 and government-aided schools (GGAS)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>$4,401 – $7,500</p>
+<p>$5,501 - $9,000</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,101 – $1,875</p>
+<p>$1,376 - $2,250</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subsidy such that student pays 1.5x GGAS fee~</p>
+<p>Subsidy such that student pays 1.5x GGAS fee**</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>$7,501 – $10,000</p>
+<p>$9,001 - $12,000</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,876 – $2,500</p>
+<p>$2,251 - $3,000</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>33% subsidy of school and miscellaneous fees</p>
@@ -130,21 +104,23 @@ and government-aided schools (GGAS)</p>
 </tr>
 </tbody>
 </table>
-<p><a href="https://www.acsindep.moe.edu.sg/about-acs-independent/fee/financial-assistance/#_ednref1" rel="noopener noreferrer nofollow" target="_blank">[i]</a>&nbsp;Applicable
-only to Singapore Citizen students enrolled in the International Baccalaureate
-Diploma Programme (IBDP) in government-funded schools. Exam fees for GCE
-O- and A-Levels have been waived for all Singapore Citizens in government-funded
-schools.</p>
-<p>* The public transport subsidy will only be provided from the effective
-month of the MOE ISB till December of the year.</p>
-<p>~ GGAS fee comprises school fees, standard miscellaneous fees and maximum
-2nd tier miscellaneous fees payable by Singapore Citizen students in a
-government school or government-aided school.</p>
-<p>Should there be a requirement for any further subsidy for any other school
-activity / programme, parents should write directly to our Deputy Principal,
-Mr Patrick Soo (<a href="mailto:patrick@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">patrick@acsindep.edu.sg</a>)
-and complete the relevant application forms. Full disclosure is necessary
-for applications to be processed.</p>
+<p>&nbsp;[i] Applicable only to Singapore Citizen students enrolled in the
+International Baccalaureate Diploma Programme (IBDP) in Government-funded
+schools.&nbsp; Exam fees for GCE ‘O’ and ‘A’ levels are waived for all
+Singapore Citizens in Government-funded schools.</p>
+<p>&nbsp;* The public transport subsidy will only be provided from the effective
+month of the MOE ISB till December of the year.&nbsp;</p>
+<p>** GGAS fee comprises school fee and miscellaneous fee payable by Singapore
+Citizen students in a GGAS.&nbsp;</p>
+<p>Approved ISBs are valid till December of the year.&nbsp; Fresh applications
+will have to be submitted for each subsequent academic year.&nbsp;</p>
+<p>Students who wish to apply for the MOE ISB Scheme for Year 2026 may now
+submit their applications online using this link: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasis</a>
+</p>
+<p>Apart from the MOE ISB, our school has various financial assistance programmes
+in place.&nbsp; Should you require assistance with school fees, please
+approach our Deputy Principal, Mr Patrick Soo (<a rel="noopener noreferrer nofollow" target="_blank">patrick@acsindep.edu.sg</a>)
+or School Secretary, Ms Eunice Seah (<a rel="noopener noreferrer nofollow" target="_blank">eunice@acsindep.edu.sg</a>).</p>
 <p><strong>UPLIFT Scholarship</strong>
 </p>
 <p>The UPLIFT scholarship for Independent Schools provides a monetary award
