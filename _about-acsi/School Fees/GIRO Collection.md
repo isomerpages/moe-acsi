@@ -50,8 +50,8 @@ fees are indicated below:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>July, August &amp; September 2026 plus medical screening fee and CCA annual
-fee</p>
+<p>July, August &amp; September 2026
+<br>plus medical screening fee and CCA annual fee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 Months</p>
