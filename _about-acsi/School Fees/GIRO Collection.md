@@ -28,46 +28,47 @@ fees are indicated below:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>January, February &amp; March 2025</p>
+<p>January, February &amp; March 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 Months</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>21/03/2025 (Friday)</p>
+<p>20/03/2026 (Friday)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>April, May &amp; June 2025 plus Yearly Printing Fee</p>
+<p>April, May &amp; June 2026 plus Yearly Printing Fee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 Months</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>09/05/2025 (Friday)</p>
+<p>22/05/2026 (Friday)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>July, August &amp; September 2025</p>
+<p>July, August &amp; September 2026 plus medical screening fee and CCA annual
+fee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 Months</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>01/08/2025 (Friday)</p>
+<p>14/08/2026 (Friday)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>October, November &amp; December 2025</p>
+<p>October, November &amp; December 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 Months</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>03/10/2025 (Friday)</p>
+<p>09/10/2026 (Friday)</p>
 </td>
 </tr>
 </tbody>
