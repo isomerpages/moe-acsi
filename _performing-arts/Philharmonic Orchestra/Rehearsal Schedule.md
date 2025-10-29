@@ -11,12 +11,12 @@ variant: markdown
 
 **HOLIDAY REHEARSALS:**
 
-Attendance at rehearsals is **compulsory (to bold)**. Kindly avoid making travel plans during March and Nov.
+Attendance at rehearsals is **compulsory**. Kindly avoid making travel plans during March and Nov.
 
 *   March: intensive rehearsals throughout the week
 *   June: No rehearsals
 *   September: No rehearsals
-*   November: Until Week 10 (15 November 2024)
+*   November: Until Week 10 (please refer to MOE’s calendar: [https://www.moe.gov.sg/news/press-releases/20250730-school-terms-and-holidays-for-2026)](https://www.moe.gov.sg/news/press-releases/20250730-school-terms-and-holidays-for-2026))
 
 There will be additional rehearsals leading up to events.
 
@@ -24,13 +24,12 @@ Venues for sectionals and combined rehearsals will be announced to students.
 
 * * *
 
-**Absence/ Late-Coming / Early-Dismissal Notification Protocol for 2025**
+**Absence/ Late-Coming / Early-Dismissal Notification Protocol for 2026**
 
-Hi orchestra! Kindly inform and seek approval to be excused from your respective level teachers and Ms Poh should you be unable to attend any rehearsals (or part thereof).
+Hi orchestra! If you cannot attend a rehearsal or need to leave early, you must notify and get permission from the teacher on duty. 
 
-*   Student / Parent to email level teacher and CC Ms Poh Ning
+*   Student / Parent to email level teacher on duty (refer to rehearsal schedule on Orchestra TEAMS channel) and cc Mrs Serilyn Goh.
 
-![](/images/schedule%202.png)
 
 *   All emails to be sent at least 1 day in advance
 *   Failure to inform teachers promptly may result in being marked absent
