@@ -2,7 +2,7 @@
 title: Textbook Matters
 permalink: /for-students/textbook/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <p>Pacific Bookstores will oversee textbook sales.&nbsp;Please note the options
 provided by our vendor and their respective dates in the attached file.</p>
