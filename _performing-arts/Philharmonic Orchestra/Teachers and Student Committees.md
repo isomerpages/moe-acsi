@@ -29,24 +29,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Poh Ning (Overall Teacher-In-Charge)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>pohning@acsindep.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6870 0611</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Serilyn Goh (Year 1 to 2 teacher IC)</p>
+<p>Mrs Serilyn Goh (Overall Teacher-In-Charge)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>serilyn@acsindep.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6870 0664</p>
+<p>6870 0344</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Rebecca Ng (Year 1 to 2 teacher IC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>rebeccangcy@acsindep.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6870 0666</p>
 </td>
 </tr>
 <tr>
