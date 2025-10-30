@@ -13,7 +13,7 @@ provided by our vendor and their respective dates in the attached file.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/ACSI_2026_Booklist_Y1_to_Y4.pdf.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 1 to Year 4 Booklists</a>
+<p><a href="/files/ACSI_2026_Booklist_Y1_to_Y4.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 1 to Year 4 Booklists</a>
 </p>
 </li>
 <li>
