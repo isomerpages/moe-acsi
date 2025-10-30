@@ -55,6 +55,6 @@ The open house is a yearly event where interested students and parents may visit
 
 #### Outreach
 
-The orchestra students have a huge heart of service and find numerous ways to serve the wider community. Since 2017, the IB Orchestra has done a music outreach assembly programme at Kuo Chuan Presbyterian Primary School. Students from the orchestra also volunteer to perform for elderly guests from the Dover community during the Chinese New Year lunch hosted by the school. 2023 marked the start of our VIA partnership with Rainbow Centre.
+The orchestra students have a huge heart of service and find numerous ways to serve the wider community. Since 2017, the IB Orchestra has done a music outreach assembly programme at Kuo Chuan Presbyterian Primary School. Students from the orchestra also volunteer to perform for elderly guests from the Dover community during the Chinese New Year lunch hosted by the school. 2023 marked the start of our VIA partnership with Rainbow Centre. 2024 marked the start of our partnership with Kwong Wai Shiu hospital.
 
 Students who wish to plan adhoc music outreach projects and events are given guidance and support.
