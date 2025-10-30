@@ -74,9 +74,113 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+<h4><strong>2025/2026 Student Executive Committee</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Secondary</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>IB</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>President</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jaazanias Yeo (4.12)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Joshua Chong (6.16)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Vice-President</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nathanael Sun (4.15)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Emma Kirsten Lim (6.16)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>General Manager</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Axel Chan (4.12)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gao Zichuan (5.12),Jayden Tey (Yr 5)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Librarian</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Darius Lee (3.10)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yim Hor-Yau (6.12)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Publicity Managers</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Joel Chung (6.06), Nathan Baey (Yr 5)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level Coordinators</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Josh Ong (2.13), Nishan S (4.02)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Student Conductor</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cao Junwei (4.15)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Capture8656.jpg">
-</div>
 <p>&nbsp;</p>
 <p></p>
