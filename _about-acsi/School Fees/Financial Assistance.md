@@ -115,7 +115,8 @@ Citizen students in a GGAS.&nbsp;</p>
 <p>Approved ISBs are valid till December of the year.&nbsp; Fresh applications
 will have to be submitted for each subsequent academic year.&nbsp;</p>
 <p>Students who wish to apply for the MOE ISB Scheme for Year 2026 may now
-submit their applications online using this link: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasis</a>
+submit their applications online using this link: <a href="https://go.gov.sg/moe-efasis" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasis</a>
+
 </p>
 <p>Apart from the MOE ISB, our school has various financial assistance programmes
 in place.&nbsp; Should you require assistance with school fees, please
