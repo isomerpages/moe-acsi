@@ -120,8 +120,8 @@ submit their applications online using this link: <a href="https://go.gov.sg/moe
 </p>
 <p>Apart from the MOE ISB, our school has various financial assistance programmes
 in place.&nbsp; Should you require assistance with school fees, please
-approach our Deputy Principal, Mr Patrick Soo (<a rel="noopener noreferrer nofollow" target="_blank">patrick@acsindep.edu.sg</a>)
-or School Secretary, Ms Eunice Seah (<a rel="noopener noreferrer nofollow" target="_blank">eunice@acsindep.edu.sg</a>).</p>
+approach our Deputy Principal, Mr Patrick Soo (<a href="mailto:patrick@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">patrick@acsindep.edu.sg</a>)
+or School Secretary, Ms Eunice Seah (<a href="mailto:eunice@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eunice@acsindep.edu.sg</a>).</p>
 <p><strong>UPLIFT Scholarship</strong>
 </p>
 <p>The UPLIFT scholarship for Independent Schools provides a monetary award
