@@ -18,6 +18,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>B Division (2025)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>League One (Group Stage)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Division (2025)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>League One (Quarter Finalist)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>B Division (2024):</p>
 </td>
 <td rowspan="1" colspan="1">
