@@ -3,7 +3,26 @@ title: Awards
 permalink: /astroclub/awards/
 description: ""
 third_nav_title: Astronomy Club
+variant: markdown
 ---
+2025
+
+*   British Astronomy and Astrophysics Olympiad (BAOO) Astro Challenge – 1 distinction, 1 merit and 4 commendation
+
+2024
+
+*   British Astronomy and Astrophysics Olympiad (BAOO) Astro Challenge – 1 distinction, 1 merit and 1 commendation
+*   Singapore Astronomy Olympiad – 1 gold, 1 silver and 1 bronze
+*   Astrigue Competition – Third  Runners-up
+*   NUS NTU Astrochallenge – 2nd runners up for senior team
+
+2023
+
+*   Astrigue Competition – First Runners-up
+*   NUS NTU Astrochallenge - Second Runners-up for both Junior and Senior Categories,
+*   NUS NTU Astrochallenge - Best in Practical Observation
+*   Singapore Astronomy Olympiad – Silver and Bronze
+
 2021
 
 *   Astrigue Competition – Champion
