@@ -11,6 +11,5 @@ Currently there are five schools who offer the RSP and up to 100 scholarships wi
 
 RSP curriculum will include overseas immersion programmes and structured enrichment programmes spread out during the course.
 
-[RSP and MSP FAQ 2025](/files/RSP_and_MSP_FAQ_2025.pdf)   
-[RSP briefing 2025](/files/RSP_briefing_2025.pdf)<br>
-[RSP application form 2025](/files/RSP_applicationform_2025.pdf)
+[RSP and MSP FAQ](/files/FAQ_on_RSP_and_MSP.pdf)   
+[RSP briefing](/files/RSP_parents_briefing_slides.pdf)
