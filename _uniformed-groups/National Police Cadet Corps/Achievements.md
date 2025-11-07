@@ -11,7 +11,10 @@ variant: markdown
 
 **_NPCC Unit Overall Proficiency Award_**
 
-* 2023 - Distinction award
+
+*  2025 - Distinction award
+*   2024 - Distinction award
+*  2023 - Distinction award
 *   2022 - Distinction award
 *   2020 and 2021 – No award due to Covid-19
 *   2019 – Gold Award
