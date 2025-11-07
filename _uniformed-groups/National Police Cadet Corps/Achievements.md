@@ -11,7 +11,10 @@ variant: markdown
 
 **_NPCC Unit Overall Proficiency Award_**
 
-* 2023 - Distinction award
+
+*  2025 - Distinction award
+*   2024 - Distinction award
+*  2023 - Distinction award
 *   2022 - Distinction award
 *   2020 and 2021 – No award due to Covid-19
 *   2019 – Gold Award
@@ -38,6 +41,7 @@ variant: markdown
 
 **NPCC Inter-Unit Competitions (Finals)**
 
+* 2025 - Champion in Crime Scene Investigation  Competition
 *   2024 – Champion in Revolver Shoot Competition
 *   2023 - 2nd and 7th position in Revolver Shoot Competition
 *   2023 - Top in Individual Cadet Inspector Shooter Category in Revolver Shoot Competition, CI (NPCC) Colin Koh
