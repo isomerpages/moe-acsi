@@ -41,6 +41,7 @@ variant: markdown
 
 **NPCC Inter-Unit Competitions (Finals)**
 
+* 2025 - Champion in Crime Scene Investigation  Competition
 *   2024 – Champion in Revolver Shoot Competition
 *   2023 - 2nd and 7th position in Revolver Shoot Competition
 *   2023 - Top in Individual Cadet Inspector Shooter Category in Revolver Shoot Competition, CI (NPCC) Colin Koh
