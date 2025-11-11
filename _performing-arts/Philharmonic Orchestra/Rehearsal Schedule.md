@@ -10,7 +10,7 @@ variant: markdown
 | SECONDARY ORCHESTRA: | IB ORCHESTRA: |
 | -------- | -------- |
 | Wednesday 1530-1830 (Music Centre) | Monday 1630-1830 (Music Centre) |
-| Friday 1430-1730 (Music Centre) | Wednesday 1530-1730 (Music Centre) |
+| Friday 1430-1730 (Music Centre) | Wednesday 1530-1730 (Music Room 1) |
 
 
 
