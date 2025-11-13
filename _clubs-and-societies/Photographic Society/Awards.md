@@ -5,7 +5,28 @@ description: ""
 third_nav_title: Photographic Society
 variant: markdown
 ---
+          
+AWARDS 2025
 
+**20th Ngee Ann Photography Exhibition 2025**
+
+Bathed in the soft pastels of dusk, the photograph titled “Solitary Shore” captures a lone figure standing at the edge of the ocean, framed by a sky gently fading into stillness. Taken by Josh Chia Renjie (4.16), the image’s minimalist composition and reflective sands evoke quiet introspection, where solitude transforms into serenity.
+
+Solitary Shore has been officially shortlisted for the Ngee Ann Photography Exhibition 2025 and has earned a place at LASALLE College of the Arts, where it was presented alongside a stunning collection of photographs.
+
+**SG60 Heartland Stories Photography Competition 2025**
+
+
+
+Jayden Gabriel Lee Mun Yew (1.02) has won First Prize in the Junior Category of the SG60 Heartland Stories Photography Competition 2025, jointly organised by the Housing & Development Board (HDB) and the Photographic Society of Singapore.
+
+Jayden’s winning photo, _Smiles Stocked Daily_, features a traditional Indian 'mama shop', where shelves of nostalgic snacks and canned goods are juxtaposed with modern delivery parcels, highlighting the blend of old and new. At the heart of the image is a warm and welcoming Indian uncle, smiling at the entrance and greeting every visitor.
+
+The First National Photography Art Exhibition
+
+
+
+This is also another photo by Jayden entitled _Reflections Of A City That Never Stills_. It was accepted for The First National Photography Art Exhibition, which features works depicting Singapore’s development in areas such as lifestyle, landscape, and nature.
 
 ### AWARDS 2024
 
