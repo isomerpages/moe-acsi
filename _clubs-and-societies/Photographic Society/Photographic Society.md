@@ -22,28 +22,6 @@ developing skills, we place an especially high emphasis on community and
 collaboration, with frequent bonding activities, through which members
 build connections, exchange ideas, and form the kind of friendships that
 extend far beyond the years in school.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture117.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture27.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p><em>A Sneak Peek into our Bonding Sessions</em>
-</p>
 <p><strong>Highlights and Experiences of Photog</strong>
 </p>
 <p>Our learning also extends far beyond the classroom walls. This year, our
@@ -53,30 +31,6 @@ landscapes. Complementing these real-world shoots are sessions with guest
 speakers who share valuable insights and inspiration brought about through
 their real-world experiences in the professional photography scene, bringing
 the art and industry of photography to life.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture37.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture47.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p><em>ACPhotog’s recent excursion to the Central Business District</em>
-</p>
 <p><strong>Gear up for your journey</strong>
 </p>
 <p>Members have access to an extensive range of Canon DSLR and mirrorless
@@ -84,30 +38,6 @@ cameras, lenses, tripods, and other essential gear for event coverage and
 creative shoots.
 <br>&nbsp;As their skills and passion deepen, many members choose to invest
 in their own equipment, taking their craft to new heights.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture57.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture67.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p><em>Photog members in action</em>
-</p>
 <p><strong>Join us!</strong>
 </p>
 <ul data-tight="true" class="tight">
