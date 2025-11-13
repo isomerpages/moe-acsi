@@ -54,3 +54,61 @@ no need to go through challenges alone.</p>
 <p>Email:&nbsp;<a href="mailto:samuellummj@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samuellummj@acsindep.edu.sg</a>
 </p>
 <p>Telephone: 6773 9513</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/WayneLim.jpg">
+</div>
+<p><strong>Wayne Lim</strong>
+</p>
+<p>Wayne Lim holds a Master of Counselling from Flinders University and is
+dedicated to advancing the holistic development and well-being of students,
+in line with the school’s mission to nurture leaders of character grounded
+in faith and integrity. Trained in Choice Theory Reality Therapy, he combines
+an integrative and compassionate counselling approach with roots in business
+management from his previous career.</p>
+<p>Wayne believes that every student possesses the potential for growth and
+resilience and seeks to empower students to navigate life’s challenges
+with confidence, purpose, and humility by providing a safe and empathetic
+environment where self-awareness and purpose may be cultivated in the ACS
+tradition of service and excellence.</p>
+<p>Email:&nbsp;<a href="waynelimew@acsindep.edu.sg" rel="noopener nofollow" target="_blank">waynelimew@acsindep.edu.sg</a>
+</p>
+<p>Telephone: 6776 8559</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Wint_Photo.jpg">
+</div>
+<p><strong>Ms. Wint Wah Kyaw</strong>
+</p>
+<p>Wint has been working with youth and adolescents both locally and overseas
+for mental health and wellbeing since graduating with Masters in Counselling
+from Monash University (Australia) in 2016. She is a Registered Clinical
+Member of Singapore Association for Counselling (SAC). With empathetic
+nature and passion for psychoeducation,</p>
+<p>Wint believes that everyone can grow and heal at their own pace in a safe
+and supportive space through openness, self-compassion and committed action.
+Guided by Person-Centered approach, Wint accompanies students on their
+personal journeys, believing that no one should face life’s challenges
+alone, and growth begins with human connection.</p>
+<p>Email:&nbsp;<a href="wintwahkyaw@acsindep.edu.sg" rel="noopener nofollow" target="_blank">wintwahkyaw@acsindep.edu.sg</a>
+</p>
+<p>Telephone: 6773 9512</p>
+<p></p>
+<p><strong>Mr. Yap Ching Keong</strong>
+</p>
+<p>Mr. Yap Ching Keong is a Clinical Member of the Singapore Association
+for Counselling (SAC) with over two decades of professional experience
+in counselling, pastoral care, and youth development. Deeply committed
+to the holistic wellbeing of students, he integrates emotional, social,
+and moral support in his practice, aligning with the Ministry of Education’s
+priorities on social-emotional learning and early intervention. Trained
+in trauma-informed and evidence-based modalities such as AF-EMDR, CBT,
+and Schema Therapy, Mr. Yap works collaboratively with educators, parents,
+and community partners to provide comprehensive guidance and care.</p>
+<p>At Anglo-Chinese School (Independent), he upholds the school’s Christian
+ethos of faith, service, and integrity, nurturing students to develop resilience,
+character, and a deep sense of purpose in living out the ACS mission of
+being “for God and humanity.”</p>
+<p>Email:&nbsp;<a href="yapchingkeong@acsindep.edu.sg" rel="noopener nofollow" target="_blank">yapchingkeong@acsindep.edu.sg</a>
+</p>
+<p>Telephone: 6776 9522</p>
