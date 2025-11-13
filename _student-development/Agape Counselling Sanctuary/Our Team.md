@@ -94,6 +94,9 @@ alone, and growth begins with human connection.</p>
 </p>
 <p>Telephone: 6773 9512</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/ESS__41__MR_YAP_CHING_KEONG.jpg">
+</div>
 <p><strong>Mr. Yap Ching Keong</strong>
 </p>
 <p>Mr. Yap Ching Keong is a Clinical Member of the Singapore Association
