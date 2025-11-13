@@ -5,25 +5,23 @@ description: ""
 third_nav_title: Photographic Society
 variant: tiptap
 ---
-<p><strong>Welcome!</strong>
+<p>Step into a world where key moments are captured, stories are told, and
+the vibrant spirit of ACSI comes to life through a camera lens. Welcome
+to the Photographic Society, affectionately known as Photog, the home for
+passionate photography enthusiasts who seek to explore, create, and capture
+the stories that define life at ACSI.</p>
+<p><strong>What we do</strong>
 </p>
-<p>Welcome to the ACS (Independent) Photographic Society — fondly known as
-Photog! Our club is the home for passionate photography enthusiasts eager
-to explore and deepen their craft. As the visual chronicler of our school's
-most significant moments, we document the myriad of events and celebrations
-that define the heart and soul of ACS(I), turning fleeting moments into
-lasting memories.</p>
-<p><strong>What do we do during CCA meetings?</strong>
-</p>
-<p>At Photog, our journey is as much about learning as it is about creating.
-We offer a comprehensive array of training sessions, guided by seasoned
-professionals from the broader photographic community as well as skilled
-peers within the club. Whether you’re exploring the fundamentals of photography
-or delving into advanced techniques, there is always a place here for growth.</p>
-<p>Photog is more than just a haven for learning — it is a community built
-on strong bonds and shared passion. Our club thrives on camaraderie, with
-regular bonding sessions to strengthen friendships and encourage collaboration
-among members, creating lifelong friendships alongside unforgettable memories.</p>
+<p>At Photog, learning and creativity go hand in hand. Our sessions are a
+dynamic blend of technical training, creative explorations, and hands-on
+practice every week, led by our experienced student leaders and professionals
+from the greater photography community. Whether you are just learning the
+basics or solidifying your individualized style, you will find room for
+growth and a unique way to express your perspective through the lens. Beyond
+developing skills, we place an especially high emphasis on community and
+collaboration, with frequent bonding activities, through which members
+build connections, exchange ideas, and form the kind of friendships that
+extend far beyond the years in school.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -46,18 +44,15 @@ among members, creating lifelong friendships alongside unforgettable memories.</
 </table>
 <p><em>A Sneak Peek into our Bonding Sessions</em>
 </p>
-<p>Occasionally, we have the privilege of hosting esteemed guest speakers
-who offer a window into their world, inspiring us with their experiences
-and insights into the world of photography. A memorable example was our
-session with Mr. Russel Wong, whose humility and perseverance left an indelible
-impression on our CCA.</p>
-<p>Our adventures often extend beyond the familiar confines of the campus.
-From night photography at Merlion Park and Chinatown to architectural shoots
-at the Esplanade and the Central Business District, as well as street photography
-sessions, we offer a wide spectrum of opportunities to challenge and expand
-our skills.&nbsp; These authentic experiences bring theory to life, giving
-us the chance to experiment, push creative boundaries, and see the world
-anew through our lenses.</p>
+<p><strong>Highlights and Experiences of Photog</strong>
+</p>
+<p>Our learning also extends far beyond the classroom walls. This year, our
+members went for field shoots at Haji Lane, the Chinese Garden, shooting
+different genres ranging from the bustling scenes of the streets to serene
+landscapes. Complementing these real-world shoots are sessions with guest
+speakers who share valuable insights and inspiration brought about through
+their real-world experiences in the professional photography scene, bringing
+the art and industry of photography to life.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -82,11 +77,13 @@ anew through our lenses.</p>
 </table>
 <p><em>ACPhotog’s recent excursion to the Central Business District</em>
 </p>
-<p>Photog also boasts an impressive arsenal of equipment. When shooting for
-school events, members have access to an extensive collection of Canon
-DSLR, mirrorless camera bodies, lenses, tripods, and other essential gear.
-As their passion and expertise grow, many of our members have gone on to
-invest in their own gear, taking their craft to new heights.</p>
+<p><strong>Gear up for your journey</strong>
+</p>
+<p>Members have access to an extensive range of Canon DSLR and mirrorless
+cameras, lenses, tripods, and other essential gear for event coverage and
+creative shoots.
+<br>&nbsp;As their skills and passion deepen, many members choose to invest
+in their own equipment, taking their craft to new heights.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -111,14 +108,21 @@ invest in their own gear, taking their craft to new heights.</p>
 </table>
 <p><em>Photog members in action</em>
 </p>
-<p><strong>Schedule</strong>
+<p><strong>Join us!</strong>
 </p>
-<p>We meet every Wednesday from 3.30 to 5.30 pm, usually in classrooms B3-06,
-B3-07 and B3-08.</p>
-<p>If you are eager to learn more about photography — capturing stories that
-resonate, moments that inspire, and scenes that move hearts — and wish
-to contribute meaningfully to the school community, we welcome you to join
-us!</p>
-<p>Let the photoshoot begin!</p>
-<p>You can also find us at <a href="https://www.instagram.com/acphotogclub/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/acphotogclub/</a>
+<ul data-tight="true" class="tight">
+<li>
+<p>Day: Every Wednesday</p>
+</li>
+<li>
+<p>Time: 3:30 PM – 5:30 PM</p>
+</li>
+<li>
+<p>Venue: Classroom B3-06</p>
+</li>
+</ul>
+<p>If you are eager to capture stories that inspire, moments that move, and
+scenes that tell the school’s story in new ways, join our community of
+creative minds. Photog awaits!</p>
+<p>Follow us on Instagram: <a href="https://www.instagram.com/acphotogclub/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/acphotogclub/</a>
 </p>
