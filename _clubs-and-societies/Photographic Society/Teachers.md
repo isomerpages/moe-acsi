@@ -5,42 +5,52 @@ description: ""
 third_nav_title: Photographic Society
 variant: tiptap
 ---
-<table aria-rowcount="5" data-tablelook="1184" data-table="">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-<tr aria-rowindex="1">
-<td data-celllook="69905" colspan="2">
-<p><strong>Teachers in Charge</strong>&nbsp;</p>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Teachers in Charge</strong>
+</p>
 </td>
 </tr>
-<tr aria-rowindex="2">
-<td data-celllook="69905">
-<p>Ms. Chee Hwai Mei&nbsp;</p>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Chee Hwai Mei</p>
 </td>
-<td data-celllook="69905">
-<p><a href="mailto:hmchee@acsindep.edu.sg">hmchee@acsindep.edu.sg</a>&nbsp;</p>
-</td>
-</tr>
-<tr aria-rowindex="3">
-<td data-celllook="69905">
-</td>
-<td data-celllook="69905">
-<p>68700 607&nbsp;</p>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">hmchee@acsindep.edu.sg</a>
+</p>
 </td>
 </tr>
-<tr aria-rowindex="4">
-<td data-celllook="69905">
-<p>Ms Law Miew Fong&nbsp;</p>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
-<td data-celllook="69905">
-<p><a href="mailto:miewfong@acsindep.edu.sg">miewfong@acsindep.edu.sg</a>&nbsp;</p>
+<td rowspan="1" colspan="1">
+<p>68700604</p>
 </td>
 </tr>
-<tr aria-rowindex="5">
-<td data-celllook="69905">
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Law Miew Fong</p>
 </td>
-<td data-celllook="69905">
-<p>68700487&nbsp;</p>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">miewfong@acsindep.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>68700487</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
