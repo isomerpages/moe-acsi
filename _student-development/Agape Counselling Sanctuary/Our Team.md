@@ -15,9 +15,11 @@ variant: tiptap
 Corinthians 13: 8), by the grace of God.2020: received the Long Service
 Award for 25 years at Anglo-Chinese School (Independent) and various ACS(I)
 awards for contributions (2018, 2011, 2008, 2007)</p>
-<p>2018: The Caring Teacher Award (NIE)
-<br>2007: National Day Award Pingat Berkebolehan</p>
-<p>1995-present Taught GEP (O Levels, English Language, Literatrure), IP
+<p>2025: Long Service Awards (ACS, Independent and Methodist Church of Singapore)
+<br>2022: MLS (NIE)
+<br>2018: The Caring Teacher Award (NIE)
+<br>2007: National Day Award Pingat Berkebolehan
+<br>1995-present Taught GEP (O Levels, English Language, Literatrure), IP
 (Language Arts), IBDP (English A: Literature HL for HSP);TOK; currently
 teaching IBDP (English A: Language and Literature, SL)</p>
 <p>Member of IPPA (since 2019): International Positive Psychology Association</p>
