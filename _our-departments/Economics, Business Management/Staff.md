@@ -21,14 +21,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Angela Ong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Business Management</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Annie Tan</p>
 </td>
 <td rowspan="1" colspan="1">
