@@ -45,7 +45,7 @@ third_nav_title: Cricket
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Halim Susanto</p>
+<p>Ms Ivy Cheong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher-in-Charge</p>
