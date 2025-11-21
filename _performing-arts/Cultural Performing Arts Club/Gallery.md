@@ -6,6 +6,11 @@ third_nav_title: Cultural Performing Arts Club
 variant: markdown
 ---
 
+![](/images/Open_House___Opening.jpg)
+![](/images/MCCY_MDDI_Hari_Raya_Celebration_02.jpg)
+![](/images/Chinese_New_Year_Concert.jpg)
+![](/images/Y1_Discovery_Camp_Opening.jpg)
+![](/images/MCCY_MDDI_Hari_Raya_Celebration_01.jpg)
 ![](/images/Performing%20Arts/Cultural%20Performing%20Arts%20Club/CNY_concert_02.jpg)
 ![](/images/Performing%20Arts/Cultural%20Performing%20Arts%20Club/Esplanade001.png)
 ![](/images/Performing%20Arts/Cultural%20Performing%20Arts%20Club/Esplanade002.jpg)
