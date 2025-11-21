@@ -20,6 +20,7 @@ Honours Day celebration Opening (Multi-cultural Drums)
 
 **External Performance**
 
+MCCY-MDDI Hari Rayah Celebration<br>
 Methodist Get-together (Festive Drum)<br>
 Singa Drum Gaia Fiesta (all three sections)<br>
 Performances for community centres (Multi-cultural Drums)
