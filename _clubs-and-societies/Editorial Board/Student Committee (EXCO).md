@@ -5,16 +5,10 @@ description: ""
 third_nav_title: Editorial Board
 variant: markdown
 ---
-**2025 Editorial Board Student Committee (EXCO)**
+**2026 Editorial Board Student Committee (EXCO)**
 
-President – Ryan Ethan Yeo (6.12)
-
-Vice President – Tan Qi (6.01)
-
-Director (HR) – Lucas Tan (6.13)
-
-Director (Graphic Design) – Chloe Lee (6.06)
-
-Director (Videography) – Chen Shengxu (6.04)
-
-Director (Photography) – Janav Nagapatla (Year 5)
+President - Janav Nagapatla, 5.05  
+Vice-President - Samantha Kunafi, 5.06  
+Vice-President - Amir Liu, 5.17  
+Director of Graphic Design - Celia Chen, 5.11  
+Director of Videography - Elizabeth Lim, 5.11
