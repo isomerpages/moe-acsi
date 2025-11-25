@@ -5,7 +5,7 @@ date: 2025-11-25
 layout: post
 description: ""
 image: ""
-variant: tiptap
+variant: markdown
 ---
 <p><strong>Incoming 2026 Secondary 1 (S1) students DO NOT need to report to school on release of school posting day.</strong>&nbsp;</p>
 <p>Instead, <strong>registration for</strong>  <strong><u>ALL</u></strong>&nbsp;students, <strong>including DSA students</strong>,
