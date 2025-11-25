@@ -42,9 +42,6 @@ variant: markdown
 <p>Not only is canoeing an area to achieve excellence, but also a community where we are able to forge strong, lasting bonds. The ACanoe team is my second family; I am deeply appreciative of the holistic and warm culture we inculcate in one other. We bear each other’s burdens, journey through our ups and downs together, and celebrate even each of our smallest achievements as a team.</p>
 <p>ACanoe holds a special place in my heart. The warmth and love within the family, the joy that each of us brings to every training, the encouragement and effort that we give each other; it is irreplaceable.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%" height="auto" width="100%" alt="" src="/images/Matthew_Loo.jpg">
-</div>
 <hr>
 <h4>Prakhar (2.11 – 2025)</h4>
 <p>In primary school, I was quite unfit and also rather chubby. My CCA also did not particularly encourage exercise as it was mostly indoors. However, I always enjoyed outdoor activities and new experiences. I liked staying active, even though I hadn’t yet discovered a sport that suited me.</p>
@@ -62,9 +59,6 @@ variant: markdown
 <p>At first, I was nervous about fitting in with the team. My seniors were welcoming and kind,they patiently taught me how to paddle and made me feel like part of the team. They also served as great role models to look up to.</p>
 <p>Through CCA sessions, my fitness gradually improved and I gained many close friends from the CCA. Most importantly, I developed values and skills that affect the rest of my student life. Under the coaches’ guidance, I have become more disciplined, and learnt to manage my time well, which helped me improve in both my academics and my sport. Through leadership roles, I learnt to be more responsible and become a better leader.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%" height="auto" width="100%" alt="" src="/images/Matthew_Loo.jpg">
-</div>
 <hr>
 <h4>Isaac Choi (3.14 – 2025 / 2.05 – 2024)</h4>
 <p>When I was at primary school, I was in the basketball team and even the captain. I loved playing and belonging to the team, but I wasn't very athletic. I was a bit fat and wasn't too good at running. Basketball taught me lots of things — such as how to cooperate with others, remain positive, and persevere no matter if things didn't turn out the way I expected them.</p>
