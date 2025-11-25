@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Year 1 Registration Exercises
 ---
 <p><strong>Year 1 Registration Exercise</strong></p>
-<p><strong>Information for 2025 Year 1 students</strong></p>
+<p><strong>Information for </strong><strong>2026 Year 1 students</strong></p>
 <p>As communicated by MOE, the S1 Posting Results will be released between Thursday, 18 December 2025 and Friday, 19 December 2025.&nbsp;</p>
 <p>Incoming 2026 Year 1 students, please complete <strong>ALL</strong> <strong>three</strong> <strong>steps</strong>&nbsp;below, in the order as shown, to ensure you do not miss out on any important administrative procedure and are well prepared for the new school year.&nbsp;</p>
 <p>The ACS(I) online registration portal will only be opened from <strong>1.00 pm onwards on the day of the release of posting results. Registration will run for three days, closing at 10.00 am on the third day. The link will be provided here on the day of the release of the posting result.</strong>&nbsp;</p>
