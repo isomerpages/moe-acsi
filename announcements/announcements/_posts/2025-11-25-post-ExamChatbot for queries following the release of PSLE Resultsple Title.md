@@ -7,15 +7,8 @@ description: ""
 image: ""
 variant: markdown
 ---
-<section class="bp-section">
-<div class="bp-container content padding--top--lg padding--bottom--xl">
-<div class="col is-offset-1-desktop is-12-touch print-content page-content-body">
-<div class="content">
+
 <p>With the release of the PSLE results, we understand you may have questions about your child's academic journey with us as well as queries about the Year 1 registration process. To streamline this process, we are pleased to introduce our Chatbot accessible via the link below:&nbsp;</p>
 <p><a rel="noopener" target="_blank" href="https://sites.acsindep.edu.sg/FAQ/index.php%20">https://sites.acsindep.edu.sg/FAQ/index.php&nbsp;</a></p>
 <p>This tool is designed to promptly address your queries, providing information about our school, and assisting with concerns you may have with a list of frequently asked questions.&nbsp;</p>
 <p>We look forward to continuing our partnership in fostering a supportive and enriching learning environment.</p>
-</div>
-</div>
-</div>
-</section>
