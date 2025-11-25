@@ -73,7 +73,7 @@ variant: markdown
 <p>Canoeing transformed me in more ways than one. I became fitter, stronger, and more assertive. It also taught me patience and persistence. I gained some wonderful friends who went through the tough and the entertaining times with me. In hindsight, my friend was really lucky in asking me along, since canoeing was one of the highlights of my school career.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%" height="auto" width="100%" alt="" src="/images/Matthew_Loo.jpg">
+<img style="width: 50%" height="auto" width="100%" alt="" src="/images/Isaac_2.jpg">
 </div>
 <hr>
 <h4>Kieran Ong (4.10 – 2025)</h4>
@@ -84,7 +84,7 @@ variant: markdown
 <p>Overall, I have enjoyed canoeing, forged many precious friendships, improved my time management skills and learnt that consistency and effort is key to improving ourselves.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%" height="auto" width="100%" alt="" src="/images/Matthew_Loo.jpg">
+<img style="width: 80%" height="auto" width="100%" alt="" src="/images/Kieran_2.jpg">
 </div>
 <hr>
 <h4>Matthew Loo (1.10 – 2022)</h4>
