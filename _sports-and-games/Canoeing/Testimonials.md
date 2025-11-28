@@ -10,9 +10,7 @@ variant: markdown
 </div>
 <p><strong>Watch the Youtube video for more insights on Canoeing as a CCA in ACS(I).</strong>
 </p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5Av1XamNSIM?si=lf9fNOVa9G0CK13a"></iframe>
-</div>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/5Av1XamNSIM?si=tRsDH1dm5hZmLXQV" height="315" width="560"></iframe>
 <p><a href="https://tinyurl.com/acanoe" rel="noopener noreferrer nofollow" target="_blank">Photo Gallery</a>
 </p>
 <hr>
