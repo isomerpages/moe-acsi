@@ -6,6 +6,14 @@ third_nav_title: Symphonic Band
 variant: markdown
 ---
 
+![](/images/Symphonic%20Band/fd2de0a1_fc57_4f76_bd38_141c6d037190.jpg)
+![](/images/Symphonic%20Band/d5634d03_9250_4125_8572_45b078a2599c.jpg)
+![](/images/Symphonic%20Band/21e321d0_b7d8_45a3_99a3_23914eb7828b.jpg)
+![](/images/Symphonic%20Band/7e7b9b93_a66b_4e38_89f0_ffc5754c75af.jpg)
+![](/images/Symphonic%20Band/04ed3ee4_fb93_4409_8a9a_a90ca1bbb7df.jpg)
+![](/images/Symphonic%20Band/2.jpg)
+2025 Exchange with Kanagawa University Symphonic Band
+
 ![](/images/Symphonic%20Band/jnagapatla_bandnight_23_may_2025_0226_54544312933_o.jpg)
 ![](/images/Symphonic%20Band/jnagapatla_bandnight_23_may_2025_0223_54543196717_o.jpg)
 ![](/images/Symphonic%20Band/jnagapatla_bandnight_23_may_2025_0206_54544313283_o.jpg)
