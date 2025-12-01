@@ -6,9 +6,10 @@ third_nav_title: Symphonic Band
 variant: markdown
 ---
 
+
 ![](/images/Symphonic%20Band/54479862306_a5ad1f4dc1_k.jpg)
 ![](/images/Symphonic%20Band/54479018347_caa6c22108_k.jpg)
-Performing Arts Night Festival
+2025 Performing Arts Night Festival
 
 ![](/images/Symphonic%20Band/6__End_of_Performance.jpg)
 ![](/images/Symphonic%20Band/5__Performing_on_SCH_Stage.jpg)
