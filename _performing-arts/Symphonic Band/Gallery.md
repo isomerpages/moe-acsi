@@ -6,6 +6,14 @@ third_nav_title: Symphonic Band
 variant: markdown
 ---
 
+![](/images/Symphonic%20Band/6__End_of_Performance.jpg)
+![](/images/Symphonic%20Band/5__Performing_on_SCH_Stage.jpg)
+![](/images/Symphonic%20Band/4__Prayer_before_Performance.jpg)
+![](/images/Symphonic%20Band/3__Back_in_School.jpg)
+![](/images/Symphonic%20Band/2__Post_Performance.jpg)
+![](/images/Symphonic%20Band/1__Post_Performance.jpg)
+ 2025 SYF Arts Presentation
+
 ![](/images/Symphonic%20Band/54356381133_327d5d9ea3_k.jpg)
 139th Founder's Day
 
