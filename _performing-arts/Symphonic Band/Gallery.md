@@ -5,6 +5,13 @@ description: ""
 third_nav_title: Symphonic Band
 variant: markdown
 ---
+
+![](/images/Symphonic%20Band/20250106_104445.jpg)
+![](/images/Symphonic%20Band/20250106_103706.jpg)
+![](/images/Symphonic%20Band/20250106_103632.jpg)
+2025 Discovery Camp
+
+
 ![](/images/1O2A0039.jpg)
 
 2024 Discovery Camp
