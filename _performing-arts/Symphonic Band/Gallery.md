@@ -6,6 +6,9 @@ third_nav_title: Symphonic Band
 variant: markdown
 ---
 
+![](/images/Symphonic%20Band/54356381133_327d5d9ea3_k.jpg)
+139th Founder's Day
+
 ![](/images/Symphonic%20Band/20250106_104445.jpg)
 ![](/images/Symphonic%20Band/20250106_103706.jpg)
 ![](/images/Symphonic%20Band/20250106_103632.jpg)
