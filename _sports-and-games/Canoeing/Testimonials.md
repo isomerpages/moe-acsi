@@ -57,6 +57,12 @@ variant: markdown
 <p>At first, I was nervous about fitting in with the team. My seniors were welcoming and kind,they patiently taught me how to paddle and made me feel like part of the team. They also served as great role models to look up to.</p>
 <p>Through CCA sessions, my fitness gradually improved and I gained many close friends from the CCA. Most importantly, I developed values and skills that affect the rest of my student life. Under the coaches’ guidance, I have become more disciplined, and learnt to manage my time well, which helped me improve in both my academics and my sport. Through leadership roles, I learnt to be more responsible and become a better leader.</p>
 <p></p>
+
+| ![](/images/Hakki.jpg) | ![](/images/Hakki1.jpg) | 
+| -------- | -------- | 
+| 2023     | 2025     | 
+
+
 <hr>
 <h4>Isaac Choi (3.14 – 2025 / 2.05 – 2024)</h4>
 <p>When I was at primary school, I was in the basketball team and even the captain. I loved playing and belonging to the team, but I wasn't very athletic. I was a bit fat and wasn't too good at running. Basketball taught me lots of things — such as how to cooperate with others, remain positive, and persevere no matter if things didn't turn out the way I expected them.</p>
@@ -64,9 +70,11 @@ variant: markdown
 <p>At first, school and training were hard to balance. Canoeing training was very tiring, and after coming back from training, all I wanted to do was take a nap. But later, after some time, I got used and organized my routine more effectively. What was weird was that the discipline gained from training also helped me listen more in class.</p>
 <p>Canoeing transformed me in more ways than one. I became fitter, stronger, and more assertive. It also taught me patience and persistence. I gained some wonderful friends who went through the tough and the entertaining times with me. In hindsight, my friend was really lucky in asking me along, since canoeing was one of the highlights of my school career.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%" height="auto" width="100%" alt="" src="/images/Isaac_2.jpg">
-</div>
+
+| ![](/images/isaac.jpg) |![](/images/isaac1.jpg) | 
+| -------- | -------- | 
+| 2023     | 2025     | 
+
 <hr>
 <h4>Kieran Ong (4.10 – 2025)</h4>
 <p>In primary school, I wasn’t very strong and barely played any sports. Even though my CCA was track &amp; field, we could not train because of COVID and PSLE. Before I joined ACSI, I never canoed before and did not even know what it was about. During discovery camp, I was initially considering joining symphonic band because I could play the piano. However, the canoeing booth let me realise that canoeing is a full body sport, and requires much coordination throughout the body, which made canoeing stand out from the other CCAs. I thought canoeing was interesting and decided to go for a tryout.</p>
