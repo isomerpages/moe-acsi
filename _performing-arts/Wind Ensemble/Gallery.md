@@ -5,8 +5,14 @@ description: ""
 third_nav_title: Wind Ensemble
 variant: markdown
 ---
-![](/images/IMG_8247.jpg)
 
+![](/images/Wind%20Ensemble/54480134763_50a5b8a65f_k.jpg)
+![](/images/Wind%20Ensemble/54480061989_e02648429b_k.jpg)
+![](/images/Wind%20Ensemble/54480061104_a60e0d98ee_k.jpg)
+![](/images/Wind%20Ensemble/54479858081_6381d923bb_k.jpg)
+Performing Arts Night Festival
+
+![](/images/IMG_8247.jpg)
 Year 5 CCA Fair
 
 ![](/images/1K3A9683_DxO.jpg)
