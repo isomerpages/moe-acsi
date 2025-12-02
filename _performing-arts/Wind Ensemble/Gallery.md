@@ -6,6 +6,10 @@ third_nav_title: Wind Ensemble
 variant: markdown
 ---
 
+![](/images/Wind%20Ensemble/1.jpg)
+![](/images/Wind%20Ensemble/2.jpg)
+2025 IBWE Camp
+
 ![](/images/Wind%20Ensemble/IMG_1965.jpg)
 ![](/images/Wind%20Ensemble/IMG_2157.jpg)
 ![](/images/Wind%20Ensemble/IMG_1962.jpg)
