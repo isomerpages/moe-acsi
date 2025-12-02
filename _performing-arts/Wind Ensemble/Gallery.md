@@ -6,6 +6,14 @@ third_nav_title: Wind Ensemble
 variant: markdown
 ---
 
+![](/images/Wind%20Ensemble/ead57818_8d85_4487_a8a9_5af27e22d4b7.jpg)
+![](/images/Wind%20Ensemble/a698a547_d214_4db0_9d1d_a8773c1f142a.jpg)
+![](/images/Wind%20Ensemble/18b9de4b_e522_4d4b_ba58_f003dc7ce59c.jpg)
+![](/images/Wind%20Ensemble/6adced93_e9e4_47a2_9c1c_6c4d87461e46.jpg)
+![](/images/Wind%20Ensemble/0fc5e6c3_36da_474a_b83c_7901aa6f09ea.jpg)
+![](/images/Wind%20Ensemble/54566700419_55452b48c8_o.jpg)
+Exchange with Kanagawa University Symphonic Band
+
 ![](/images/Wind%20Ensemble/54541777301_79cd1b1dac_o.jpg)
 ![](/images/Wind%20Ensemble/54566700419_55452b48c8_o.jpg)
 ![](/images/Wind%20Ensemble/54541777471_f4b2b1d5e5_o.jpg)
