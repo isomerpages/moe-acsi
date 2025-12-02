@@ -21,7 +21,7 @@ variant: markdown
 <p>I have benefited in terms of fitness, discipline and teamwork. Working and canoeing with my friends was really enjoyable.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%" height="auto" width="100%" alt="" src="/images/Joshua_1.jpg">
+<img style="width: 20%" height="auto" width="100%" alt="" src="/images/Joshua_1.jpg">
 </div>
 <hr>
 <h4>Tyler Loe (1.09 – 2025)</h4>
@@ -31,7 +31,7 @@ variant: markdown
 <p>My time in the canoeing team has not been easy, but it has been a learning process for me, one which has certainly made me more mature and tolerant.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%" height="auto" width="100%" alt="" src="/images/Tyler.jpg">
+<img style="width: 20%" height="auto" width="100%" alt="" src="/images/Tyler.jpg">
 </div>
 <hr>
 <h4>Jacob Wee (2.09 – 2025)</h4>
@@ -40,6 +40,9 @@ variant: markdown
 <p>Not only is canoeing an area to achieve excellence, but also a community where we are able to forge strong, lasting bonds. The ACanoe team is my second family; I am deeply appreciative of the holistic and warm culture we inculcate in one other. We bear each other’s burdens, journey through our ups and downs together, and celebrate even each of our smallest achievements as a team.</p>
 <p>ACanoe holds a special place in my heart. The warmth and love within the family, the joy that each of us brings to every training, the encouragement and effort that we give each other; it is irreplaceable.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%" height="auto" width="100%" alt="" src="/images/Jacob_wee.png">
+</div>
 <hr>
 <h4>Prakhar (2.11 – 2025)</h4>
 <p>In primary school, I was quite unfit and also rather chubby. My CCA also did not particularly encourage exercise as it was mostly indoors. However, I always enjoyed outdoor activities and new experiences. I liked staying active, even though I hadn’t yet discovered a sport that suited me.</p>
@@ -58,10 +61,9 @@ variant: markdown
 <p>Through CCA sessions, my fitness gradually improved and I gained many close friends from the CCA. Most importantly, I developed values and skills that affect the rest of my student life. Under the coaches’ guidance, I have become more disciplined, and learnt to manage my time well, which helped me improve in both my academics and my sport. Through leadership roles, I learnt to be more responsible and become a better leader.</p>
 <p></p>
 
-| ![](/images/Hakki.jpg) | ![](/images/Hakki1.jpg) | 
-| -------- | -------- | 
-| 2023     | 2025     | 
-
+<div class="isomer-image-wrapper">
+<img style="width: 45%" height="auto" width="100%" alt="" src="/images/hakki_2.jpg">
+</div>
 
 <hr>
 <h4>Isaac Choi (3.14 – 2025 / 2.05 – 2024)</h4>
@@ -71,10 +73,9 @@ variant: markdown
 <p>Canoeing transformed me in more ways than one. I became fitter, stronger, and more assertive. It also taught me patience and persistence. I gained some wonderful friends who went through the tough and the entertaining times with me. In hindsight, my friend was really lucky in asking me along, since canoeing was one of the highlights of my school career.</p>
 <p></p>
 
-| ![](/images/isaac.jpg) |![](/images/isaac1.jpg) | 
-| -------- | -------- | 
-| 2023     | 2025     | 
-
+<div class="isomer-image-wrapper">
+<img style="width: 45%" height="auto" width="100%" alt="" src="/images/isaac_3.png">
+</div>
 <hr>
 <h4>Kieran Ong (4.10 – 2025)</h4>
 <p>In primary school, I wasn’t very strong and barely played any sports. Even though my CCA was track &amp; field, we could not train because of COVID and PSLE. Before I joined ACSI, I never canoed before and did not even know what it was about. During discovery camp, I was initially considering joining symphonic band because I could play the piano. However, the canoeing booth let me realise that canoeing is a full body sport, and requires much coordination throughout the body, which made canoeing stand out from the other CCAs. I thought canoeing was interesting and decided to go for a tryout.</p>
@@ -84,7 +85,7 @@ variant: markdown
 <p>Overall, I have enjoyed canoeing, forged many precious friendships, improved my time management skills and learnt that consistency and effort is key to improving ourselves.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%" height="auto" width="100%" alt="" src="/images/Kieran_2.jpg">
+<img style="width: 50%" height="auto" width="100%" alt="" src="/images/Kieran_2.jpg">
 </div>
 <hr>
 <h4>Matthew Loo (1.10 – 2022)</h4>
