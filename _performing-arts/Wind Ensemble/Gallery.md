@@ -5,6 +5,14 @@ description: ""
 third_nav_title: Wind Ensemble
 variant: markdown
 ---
+
+![](/images/Wind%20Ensemble/5__Post_Performance.jpg)
+![](/images/Wind%20Ensemble/4__On_Stage.jpg)
+![](/images/Wind%20Ensemble/3__Post_SYF_3.jpg)
+![](/images/Wind%20Ensemble/2__Post_SYF_2.jpg)
+![](/images/Wind%20Ensemble/1__Post_SYF.jpg)
+2025 SYF Arts Presentation
+
 ![](/images/Wind%20Ensemble/54480134763_50a5b8a65f_k.jpg)
 ![](/images/Wind%20Ensemble/54480061989_e02648429b_k.jpg)
 ![](/images/Wind%20Ensemble/54480061104_a60e0d98ee_k.jpg)
