@@ -6,6 +6,14 @@ third_nav_title: Wind Ensemble
 variant: markdown
 ---
 
+![](/images/Wind%20Ensemble/54925021915_d275746c41_o.jpg)
+![](/images/Wind%20Ensemble/54924838380_648ba33031_o.jpg)
+![](/images/Wind%20Ensemble/54923973240_d71da118f6_o.jpg)
+![](/images/Wind%20Ensemble/54923866693_6c1af1e0d8_o.jpg)
+![](/images/Wind%20Ensemble/54923847302_620b254cce_o.jpg)
+![](/images/Wind%20Ensemble/54923667461_25456d381d_o.jpg)
+2025 Thanksgiving Concert
+
 ![](/images/Wind%20Ensemble/1.jpg)
 ![](/images/Wind%20Ensemble/2.jpg)
 2025 IBWE Camp
