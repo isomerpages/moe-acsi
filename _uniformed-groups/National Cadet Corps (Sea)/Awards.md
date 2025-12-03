@@ -174,14 +174,6 @@ variant: markdown
 </td>
 <td width="566">
 <p>Unit Recognition Distinction Award</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table cellpadding="0" cellspacing="0" border="0">
-<tbody>
-<tr>
-<td width="632" colspan="2">
 <p>District Champions for NCC Sports Championship Captains Ball Overall 2nd Runner up for NCC Sports Championship Captains Ball District Champions for NCC Sports Championship Football</p>
 <p>Overall 1st Runner up for NCC Sports Championship Football 1st Runner up for Bends and Hitches Competition</p>
 </td>
@@ -197,10 +189,8 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td width="66">
-<p>2025</p>
-</td>
-<td width="566">
+<td width="66">&nbsp;2025</td>
+<td width="566">&nbsp;
 <p>Unit Recognition Distinction Award</p>
 <p>Overall Champion for Dragonboat Competition Overall Champion for Sea Challenge</p>
 </td>
