@@ -5,7 +5,7 @@ description: ""
 third_nav_title: National Cadet Corps (Sea)
 variant: markdown
 ---
- Training
+Training
 ---------
 
 The training schedule below serves as a guide. It is tentative and may be adjusted to suit school and competition requirements.
@@ -15,3 +15,7 @@ Our NCC sea activities are usually conducted on Friday from 1400hrs to 1700hrs i
 **A**  **ctivities**
 
 The activities below serve as a guide. The following are tentative and may be adjusted to suit the requirements of the school / HQ.
+
+![](/images/Updates__to_the_NCC_SEA__School_Website__2___002__Page_09.png)
+![](/images/Updates__to_the_NCC_SEA__School_Website__2___002__Page_10.png)
+![](/images/Updates__to_the_NCC_SEA__School_Website__2___002__Page_11.png)
