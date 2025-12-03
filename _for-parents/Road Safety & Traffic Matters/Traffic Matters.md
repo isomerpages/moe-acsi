@@ -48,11 +48,9 @@ for students will be at the round-about during peak hours.</p>
 are reminded not to park or wait for their children at the round-about,
 as it is a one-lane road. Instead, please wait to pick your child up until
 after dismissal time to ensure he/she is already waiting at the round-about.</p>
-<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The round-about is
-closed outside of peak hours. Pick-up and drop-off can only be done in
-front of Boarding School Hall 2.</p>
+<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The round-about is closed outside of peak hours. Pick-up and drop-off can only be done under the ramp before the zebra crossing.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Road%20Safety%20&amp;%20Traffic%20matters/Picture5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Road%20Safety%20&amp;%20Traffic%20matters/Picture_5A.jpg">
 </div>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cars leaving the school
 outside of peak hours will exit via the Main Gate.</p>
@@ -141,14 +139,10 @@ our staff will inform security of your car plate number to reserve a parking
 spot in front of the Boarding School.</p>
 <p><strong>VISITOR IDENTIFICATION</strong>
 </p>
-<p>21.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All visitors must be cleared by
-security before they are allowed into the school. They will be given a
-sticker that needs to be adhered visibly on their clothing while in the
-school premises. Example:</p>
+<p>21.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All visitors must be cleared by security before they are allowed into the school. They will be given a wrist band that needs to be worn while in the school premises.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%" height="auto" width="50%" alt="" src="/images/Road Safety &amp; Traffic matters/Picture12.png">
-</div>
+
+
 <p>22.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For visitors with no prior appointment
 made with the school, they can park at the visitors’ carpark (if there
 are available lots).</p>
