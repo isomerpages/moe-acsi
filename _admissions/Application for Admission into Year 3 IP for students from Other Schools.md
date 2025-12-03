@@ -4,8 +4,8 @@ permalink: /admissions/application-for-admission-into-year-3-ip-for-students-fro
 description: ""
 variant: markdown
 ---
+**2025 APPLICATION FOR ADMISSION INTO YEAR 3 INTEGRATED PROGRAMME (IP) FOR ACADEMIC YEAR (AY) 2026 FOR STUDENTS FROM OTHER SCHOOLS**
 
+Application to participate in our 2025 for admission into Year 3 IP for AY2026 has closed.
 
-**2025 APPLICATION FOR INTEGRATED PROGRAMME ADMISSION EXERCISE FOR 2026 YEAR 3  (SEC 3) INTAKE**
-
-Application to participate in our 2025 Integrated Programme admission exercise has closed. Kindly visit the school website in late February 2026 if you are interested in participating in the 2026 Integrated Programme admission exercise for enrolment in Academic Year 2027 Year 3 (Sec 3).  Thank you.
+Kindly visit the school website in mid-May 2026 if you are interested in participating in the 2026 IP admission exercise for enrolment in AY2027 Year 3 (Secondary 3).  Thank you.
