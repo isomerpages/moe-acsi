@@ -3,13 +3,15 @@ title: Schedule
 permalink: /nccsea/schedule/
 description: ""
 third_nav_title: National Cadet Corps (Sea)
+variant: markdown
 ---
-The training schedule below serves as a guide. This may be adjusted to suit school and competition requirements.
+ Training
+---------
 
-Our NCC sea activities are usually conducted on Friday from 130pm to 530pm in school (Classroom 210 to 214).  However, certain activities are conducted at HQ level any day from Monday to Friday.
+The training schedule below serves as a guide. It is tentative and may be adjusted to suit school and competition requirements.
 
-Sec 1- Camp Forge. For Sec 1, a 1 star kayaking course will be conducted on two Saturdays .
+Our NCC sea activities are usually conducted on Friday from 1400hrs to 1700hrs in school (Classrooms #101 to #104 Old Block). However, certain activities can be conducted at HQ level any day from Monday to Friday.
 
-Sec 2- Camp Steel, IMT shooting
+**A**  **ctivities**
 
-Sec 3- RSN Sea Module, Land Module, IMT shooting, Live Shoot.
+The activities below serve as a guide. The following are tentative and may be adjusted to suit the requirements of the school / HQ.
