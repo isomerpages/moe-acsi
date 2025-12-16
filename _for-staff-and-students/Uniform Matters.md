@@ -17,13 +17,12 @@ variant: markdown
 <p><strong>Online Order Link:&nbsp;</strong><a rel="noopener noreferrer nofollow" target="_blank" href="https://www.schooluniforms.sg/acs-independent-11">https://www.schooluniforms.sg/acs-independent-11</a></p>
 <p>The operating hours for their retail shop and factory are as follows:</p>
 <p><strong><u>YEAR-END SALES IN SCHOOL PREMISES</u></strong></p>
-<p>18 Dec – 9 am to 3 pm</p>
-<p>19 Dec –9am to 3pm</p>
-<p>22 Dec –9am to 3pm</p>
-<p>23 Dec –9am to 2pm</p>
-<p>26 Dec- 9am to 2pm</p>
-<p>29 Dec –9am to 2pm</p>
-<p>30 Dec - 9am to 2pm</p>
+<p>19 Dec - 11am to 3 pm</p>
+<p>22 Dec –9am to 3 pm</p>
+<p>23 Dec –9am to 3 pm</p>
+<p>26 Dec- 9am to 2 pm</p>
+<p>29 Dec –9am to 2 pm</p>
+<p>30 Dec - 9am to 2 pm</p>
 <p>Venue: Ground Floor</p>
 <p><strong>Bibi &amp; Baba Shop Orchard </strong></p>
 <p>Daily Opening Hours</p>
