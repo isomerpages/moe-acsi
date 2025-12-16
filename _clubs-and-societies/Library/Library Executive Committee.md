@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Library
 variant: tiptap
 ---
-<p><strong>Library Executive Committee 24-25</strong>
+<p></p>
+<p><strong>Library Executive Committee 25-26</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -34,11 +35,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>President (Secondary)</p>
-<p>&nbsp;</p>
+<p>President (Secondary)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tay Tze Ern</p>
+<p>Joshua Goh Jun Yi</p>
 </td>
 </tr>
 <tr>
@@ -47,11 +47,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-President (Secondary)</p>
-<p>&nbsp;</p>
+<p>Vice-President (Secondary)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Joshua Goh Jun Yi</p>
+<p>Yu Yan Feng Isaiah Paul</p>
 </td>
 </tr>
 <tr>
@@ -60,11 +59,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-President (IB)</p>
-<p>&nbsp;</p>
+<p>Vice-President (IB)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ho Wei Jin Danyl</p>
+<p>Ryan Choo Zee Chai</p>
 </td>
 </tr>
 <tr>
@@ -73,11 +71,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Director (Y5)</p>
-<p>&nbsp;</p>
+<p>Publicity Coordinator</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Kai Jie, Caleb</p>
+<p>Ines Ng Yi Jia</p>
 </td>
 </tr>
 <tr>
@@ -85,12 +82,11 @@ variant: tiptap
 <p><strong>5</strong>
 </p>
 </td>
-<td rowspan="2" colspan="1">
-<p>Events Coordinators (Y3)</p>
-<p>&nbsp;</p>
+<td rowspan="1" colspan="1">
+<p>Facilities Coordinator &nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kng Yi Kai, Jayk</p>
+<p>Varish Ramesh</p>
 </td>
 </tr>
 <tr>
@@ -99,67 +95,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lucas Ong Ti Lok</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>7</strong>
-</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Publicity Coordinators (Y3)</p>
-<p>&nbsp;</p>
+<p>Events Coordinator&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Benjamin Loh Jeung Yi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>8</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Xavier Ong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>9</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Facilities Coordinator (Y5)</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Yoon Sae Young</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>10</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Facilities Coordinator 2IC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ryan Choy J-En</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>11</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Facilities Officer (Y3)</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gavin Tsai Kai Feng</p>
+<p>Nguyen Tuong Phat</p>
 </td>
 </tr>
 </tbody>
