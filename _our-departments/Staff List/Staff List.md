@@ -35,7 +35,7 @@ view the Staff List under Parent’s Resources tab.</p>
 <p>Principal/Boarding School Warden</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Arene Koh</p>
+<p>Mr Kevin Pang’</p>
 </td>
 </tr>
 <tr>
