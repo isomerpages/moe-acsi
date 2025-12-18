@@ -19,7 +19,7 @@ third_nav_title: Year 1 Registration Exercises
 <li><strong>Click on the registration link: [to be updated] [IT DEPT TO UPDATE AND ADVISE]</strong></li>
 </ul>
 <p><strong>Step 2: Downloading of Year 1 Orientation Package 2026</strong></p>
-<p>The Orientation Package contains crucial information and details for school. Please download and read through the package using this link which will be available only from 1.00 pm onwards on Friday, 19 December 2025: <strong>[to be updated] [IT DEPT TO UPDATE AND ADVISE]</strong></p>
+<p>The Orientation Package contains crucial information and details for school. Please download and read through the package using this link which will be available only from 1.00 pm onwards on Friday, 19 December 2025: <a href="https://sites.acsindep.edu.sg/Year%201%20Registration/Year%201.zip">https://sites.acsindep.edu.sg/Year 1 Registration/Year 1.zip</a></p>
 <p><strong>Step 3: Purchase of items for school</strong>&nbsp;</p>
 <table>
 <tbody>
