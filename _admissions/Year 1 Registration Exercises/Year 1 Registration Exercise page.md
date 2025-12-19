@@ -12,7 +12,7 @@ third_nav_title: Year 1 Registration Exercises
 <p>The ACS(I) online registration portal will only be opened from <strong>1.00 pm onwards on Friday, 19 December. Registration will close at 10.00 am on Monday, 22 December 2025. The link will be provided here on the day of the release of the posting result.</strong></p>
 <p><strong>Step 1: Registration for 2026 Year 1 cohort – ONLINE ONLY </strong></p>
 <p>Students posted to ACS(I) need not report to the school after the release of school posting results. However, <strong><u>ALL</u></strong> incoming 2026 Year 1 students, including DSA students, <strong><u>MUST</u></strong> <strong><u>REGISTER ONLINE</u></strong> using the school’s online registration portal. Registration will be done online only from 1.00 pm on the day of the release of posting results.&nbsp;</p>
-<p>Parents with no Internet access may register using the laptop in our front office, which will be available from 8.00 am to 4.00 pm on Friday, 19 December and Monday, 22 December (we are closed on Saturday 22 December). To register, please follow these steps:</p>
+<p>Parents with no Internet access may register using the laptop in our front office, which will be available from 8.00 am to 4.00 pm on Friday, 19 December and Monday, 22 December (we are closed on Saturday 20 December). To register, please follow these steps:</p>
 <ul>
 <li>Clear the browser cache</li>
 <li>Enable the Windows pop-up</li>
