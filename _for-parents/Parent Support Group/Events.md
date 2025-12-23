@@ -5,4 +5,4 @@ description: ""
 third_nav_title: Parent Support Group
 variant: markdown
 ---
-![](/images/GetImage.png)
+![](/images/GetImage_1_.jpg)
