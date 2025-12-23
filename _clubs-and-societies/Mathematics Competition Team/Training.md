@@ -6,7 +6,6 @@ third_nav_title: Mathematics Competition Team
 variant: markdown
 ---
 <p><strong>Training Schedule</strong></p>
-<p><strong>&nbsp;</strong></p>
 <p>Our weekly trainings are on Mondays and Tuesdays at the Math Lab.</p>
 <table>
 <tbody>
