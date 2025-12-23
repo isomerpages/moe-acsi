@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### **Message From Our Chairman**
 
-9 January 2025
+9 January 2026
 
 Welcome, parents, to the ACS (Independent) family!
 

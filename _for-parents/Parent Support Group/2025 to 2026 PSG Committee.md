@@ -1,5 +1,5 @@
 ---
-title: 2024 to 2025 PSG Committee
+title: 2025 to 2026 PSG Committee
 permalink: /for-parents/acsi-parent-support-group/about-us/2021-2022-psg-committee-2/
 description: ""
 third_nav_title: Parent Support Group
@@ -11,8 +11,14 @@ variant: tiptap
 <tr></tr>
 </tbody>
 </table>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GetImage_2_.png">
 </div>
 <table style="width: 0px">
 <colgroup></colgroup>
@@ -26,6 +32,7 @@ variant: tiptap
 <tr></tr>
 </tbody>
 </table>
+<p><strong>2025-2026 Executive Committee</strong>&nbsp;&nbsp;&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -37,20 +44,20 @@ variant: tiptap
 <p>Chairperson&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Choo Choon Teck&nbsp;</p>
+<p>Aaron Goh&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice Chairperson</p>
+<p>First Vice Chairperson&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Aaron Goh</p>
+<p>Dana Magnus&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secretary&nbsp;</p>
+<p>Second Vice Chairperson&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Grace Chew&nbsp;</p>
@@ -62,6 +69,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Sherman Tan&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secretary&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Geraldine Lim&nbsp;</p>
 </td>
 </tr>
 </tbody>
@@ -78,7 +93,7 @@ variant: tiptap
 <p>Parents’ Prayer Group&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Winnie Tan&nbsp;</p>
+<p>Eunice Lam, Stephanie Ng&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -86,7 +101,7 @@ variant: tiptap
 <p>Fathers’ Prayer Group&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kirindeep Singh, Derek Yeo&nbsp;</p>
+<p>Derek Yeo, Joshua Duan&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -94,7 +109,7 @@ variant: tiptap
 <p>Gratitude and Blessing&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dana Magnus&nbsp;</p>
+<p>Dana Magnus, Belle Chua&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -102,7 +117,7 @@ variant: tiptap
 <p>Membership &amp; Outreach&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Geraldine Lim&nbsp;</p>
+<p>Isabel Ng, Dorothy Peck&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -115,10 +130,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Merchandise</p>
+<p>Merchandise and Marketing&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tammy Gan / Belle Chua</p>
+<p>Tammy Gan&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -139,15 +154,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Marketing &amp; Branding&nbsp;</p>
+<p>(To remove) Marketing &amp; Branding&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Choo Choon Teck, Aaron Goh</p>
+<p>Choo Choon Teck, Aaron Goh&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;&nbsp;<strong>School Advisory</strong>&nbsp;</p>
+<p>&nbsp;<strong>School Advisory</strong>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -159,7 +174,7 @@ variant: tiptap
 <p>Principal&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Arene Koh&nbsp;</p>
+<p>Mr Kevin Pang&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -167,9 +182,9 @@ variant: tiptap
 <p>Deputy Principal&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Judy Ho</p>
+<p>Mrs Judy Ho&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>&nbsp;</p>
