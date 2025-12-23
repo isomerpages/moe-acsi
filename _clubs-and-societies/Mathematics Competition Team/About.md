@@ -3,76 +3,12 @@ title: About
 permalink: /mathcompetition/about-mct/
 description: ""
 third_nav_title: Mathematics Competition Team
+variant: markdown
 ---
-Mathematics Competition Team is a CCA that trains students for more than 20 mathematics competitions annually.  Our members have obtained top awards in Singapore Science and Engineering Fair, Singapore Mathematical Olympiads, Australian Mathematics Competitions, American Mathematics Contests, British Mathematics Olympiads and hundreds of awards in other international competitions. Capable and committed members are groomed for leadership positions within the Executive Committee. Executive Committee members will have opportunities to train others and design the ACS(I) Inter-Class Mathematics Challenge. Based on their sterling performances in competitions, our alumni members have gained entry into Ivy League Universities across the globe.
+**Teachers-in-charge**&nbsp;
 
-Our trainings (twice per week, usually Monday and Tuesday, 1.5 to 2 hours per session) comprise of:
+<table width="86%"><tbody><tr><td width="42%"><p><strong>Teacher</strong></p></td><td width="57%"><p><strong>Email</strong></p></td></tr><tr><td width="42%"><p>Mr Jonas Chow (IC)</p></td><td width="57%"><p>jonaschowjl@acsindep.edu.sg</p></td></tr><tr><td width="42%"><p>Mdm Zhang Qing</p></td><td width="57%"><p>zhangqing@acsindep.edu.sg</p></td></tr><tr><td width="42%"><p>Dr Archana Vijaykumar Kusurkar</p></td><td width="57%"><p>archanavijaykumar@acsindep.edu.sg</p></td></tr></tbody></table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-cly1">1.</th>
-    <th class="tg-cly1">Alpha Training</th>
-    <th class="tg-cly1">(Previously known as Category 1 and 2. Introductory to Intermediate Level.)</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-cly1">2.</td>
-    <td class="tg-cly1">Omega Training</td>
-    <td class="tg-cly1">(Previously known as Category 3. Advanced Level.)</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">3.</td>
-    <td class="tg-cly1">Online e-Training</td>
-    <td class="tg-cly1">(Access to members only. Training videos, documents, past paper solutions and quizzes for all levels.)</td>
-  </tr>
-</tbody>
-</table>
+**Student Leaders**
 
-Students are trained in topics such as COMBINATORICS, NUMBER THEORY, GEOMETRY, TRIGONOMETRY, FUNCTIONS etc., beyond the secondary and IBDP syllabus.
-
-**Teachers-in-charge**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-cly1">Teacher</th>
-    <th class="tg-cly1">Extension Number</th>
-    <th class="tg-cly1">Email (please add @acsindep.edu.sg behind)</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-cly1">Mr. Hong Lee Kiat (IC)</td>
-    <td class="tg-cly1">529</td>
-    <td class="tg-cly1">hongleekiat</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Mrs. Chua Chia Pei</td>
-    <td class="tg-cly1">203</td>
-    <td class="tg-cly1">chiapei</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Mr. Jonas Chow</td>
-    <td class="tg-cly1">489</td>
-    <td class="tg-cly1">jonaschowjl</td>
-  </tr>
-</tbody>
-</table>
+<table width="425"><tbody><tr><td width="188"><p><strong>Name</strong></p></td><td width="64"><p><strong>Class</strong></p></td><td width="173"><p><strong>Role</strong></p></td></tr><tr><td width="188"><p>Michael Lim</p></td><td width="64"><p>6.02</p></td><td width="173"><p>President</p></td></tr><tr><td width="188"><p>Rafael Shiva Gupta</p></td><td width="64"><p>Year 5</p></td><td width="173"><p>Vice-President (Y1-4)</p></td></tr><tr><td width="188"><p>Ishaan Johri</p></td><td width="64"><p>6.08</p></td><td width="173"><p>Vice-President (Y5-6)</p></td></tr><tr><td width="188"><p>Tan Shayne-E</p></td><td width="64"><p>6.15</p></td><td width="173"><p>Vice-President (Training)</p></td></tr><tr><td width="188"><p>Kendrick Kwok</p></td><td width="64"><p>6.15</p></td><td width="173"><p>Vice-President (Outreach)</p></td></tr><tr><td width="188"><p>Aidan Ding Jian Xiang</p></td><td width="64"><p>4.16</p></td><td width="173"><p>General Secretary</p></td></tr><tr><td width="188">&nbsp;</td><td width="64">&nbsp;</td><td width="173">&nbsp;</td></tr><tr><td width="188"><p>Kevin Hendrikson Wu</p></td><td width="64"><p>4.05</p></td><td width="173"><p>Year 1-4 Activities (2IC)</p></td></tr><tr><td width="188"><p>Zachary Nicholas Tan Teon Mo</p></td><td width="64"><p>4.01</p></td><td width="173"><p>Year 1-4 Activities (2IC)</p></td></tr><tr><td width="188"><p>Tran Trung Anh</p></td><td width="64"><p>4.05</p></td><td width="173"><p>Year 1-4 Activities</p></td></tr><tr><td width="188"><p>Tristan Teodore Pranoto</p></td><td width="64"><p>4.08</p></td><td width="173"><p>Year 1-4 Activities</p></td></tr><tr><td width="188"><p>Neilson Gunawan</p></td><td width="64"><p>Year 3</p></td><td width="173"><p>Year 1-4 Activities</p></td></tr><tr><td width="188"><p>Jude Wang</p></td><td width="64"><p>2.09</p></td><td width="173"><p>Year 1-4 Activities</p></td></tr><tr><td width="188"><p>Hans Wang Junhan</p></td><td width="64"><p>2.09</p></td><td width="173"><p>Year 1-4 Activities</p></td></tr><tr><td width="188">&nbsp;</td><td width="64">&nbsp;</td><td width="173">&nbsp;</td></tr><tr><td width="188"><p>Maximus Ong</p></td><td width="64"><p>Year 5</p></td><td width="173"><p>Year 5-6 Activities (2IC)</p></td></tr><tr><td width="188"><p>Ganesh Krishna Kumar</p></td><td width="64"><p>Year 5</p></td><td width="173"><p>Year 5-6 Activities</p></td></tr><tr><td width="188"><p>Tan Ee Cheong</p></td><td width="64"><p>6.13</p></td><td width="173"><p>Year 5-6 Activities</p></td></tr><tr><td width="188">&nbsp;</td><td width="64">&nbsp;</td><td width="173">&nbsp;</td></tr><tr><td width="188"><p>Jiang Tongze</p></td><td width="64"><p>6.15</p></td><td width="173"><p>Training (2IC)</p></td></tr><tr><td width="188"><p>Arun Prasad Dhanurithvik</p></td><td width="64"><p>Year 4</p></td><td width="173"><p>Training</p></td></tr><tr><td width="188"><p>Luke Wang</p></td><td width="64"><p>4.11</p></td><td width="173"><p>Training</p></td></tr><tr><td width="188"><p>Russell Ang</p></td><td width="64"><p>4.09</p></td><td width="173"><p>Training</p></td></tr><tr><td width="188">&nbsp;</td><td width="64">&nbsp;</td><td width="173">&nbsp;</td></tr><tr><td width="188"><p>John Benjamin Raharjo</p></td><td width="64"><p>Year 5</p></td><td width="173"><p>Outreach (2IC)</p></td></tr><tr><td width="188"><p>Lew Cheng En</p></td><td width="64"><p>6.01</p></td><td width="173"><p>Outreach</p></td></tr><tr><td width="188"><p>Leong Ze Meng Noel</p></td><td width="64"><p>4.10</p></td><td width="173"><p>Outreach</p></td></tr><tr><td width="188"><p>Jayden Goh Ee Hong</p></td><td width="64"><p>Year 3</p></td><td width="173"><p>Outreach</p></td></tr><tr><td width="188"><p>Peh Zhen Le</p></td><td width="64"><p>2.09</p></td><td width="173"><p>Outreach</p></td></tr><tr><td width="188">&nbsp;</td><td width="64">&nbsp;</td><td width="173">&nbsp;</td></tr><tr><td width="188"><p>Caysson Arsenius Yahya</p></td><td width="64"><p>6.13</p></td><td width="173"><p>Administration (2IC)</p></td></tr><tr><td width="188"><p>Jonathan Edward Nusaputra</p></td><td width="64"><p>4.05</p></td><td width="173"><p>Administration</p></td></tr><tr><td width="188"><p>Joe Florann Timothy</p></td><td width="64"><p>4.15</p></td><td width="173"><p>Administration</p></td></tr></tbody></table>
