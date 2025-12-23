@@ -5,57 +5,78 @@ description: ""
 third_nav_title: Parent Support Group
 variant: markdown
 ---
-Anglo-Chinese School (Independent)  <br>
-Attention: Parent Support Group  <br>
-121 Dover Road  <br>
-Singapore 139650  <br>
-E-mail:&nbsp;[psg@as.acsi.edu.sg](mailto:psg@as.acsi.edu.sg)
-
-<a href="https://www.facebook.com/ACSIPSG/">
-<img src="/images/Facebook-128px.png" alt="facebook" style="width:10%" align="left">
-</a>
-<br><br><br>
-<a href="https://t.me/ACSIPSG">
-<img src="/images/Telegram-128px.png" alt="telegram" style="width:10%" align="left">
-</a>
-<br><br><br>
-
-### PSG Sub-Committee Contact Persons
-
-**Parents’ Prayer Group**
-
-Winnie Tan [winnie.acsiprayerparents@gmail.com](mailto:winnie.acsiprayerparents@gmail.com)&nbsp;
-
-**Fathers’ Prayer Group**&nbsp;
-
-Kirindeep Singh [kirindeepsingh@gmail.com](mailto:kirindeepsingh@gmail.com)&nbsp;
-
-**Gratitude &amp; Blessings (Teachers’ Day Lunch etc)**
-
-Dana Magnus [acsigratitudenblessing@gmail.com](mailto:acsigratitudenblessing@gmail.com)&nbsp;
-
-**Membership &amp; Outreach**
-
-Geraldine Lim [psg@as.acsi.edu.sg](mailto:psg@as.acsi.edu.sg)&nbsp;
-
-**Hospitality &amp; Integration (HI!) Programme**
-
-Rebecca Vagenende [psg@as.acsi.edu.sg](mailto:psg@as.acsi.edu.sg)&nbsp;
-
-**Merchandise**&nbsp;
-
-Tammy Gan / Belle Chua [psg@as.acsi.edu.sg](mailto:psg@as.acsi.edu.sg)&nbsp;
-
-**Talks, Seminars &amp; Workshops**&nbsp;
-
-Eunice Tay [psg@as.acsi.edu.sg](mailto:psg@as.acsi.edu.sg)&nbsp;
-
-**IT Infrastructure &amp; Support&nbsp;**
-
-Joshua Duan [psg@as.acsi.edu.sg](mailto:psg@as.acsi.edu.sg)&nbsp;
-
-**Marketing &amp; Branding (Social Media, Publicity &amp; Content)**
-
-Choo Choon Teck [psg@as.acsi.edu.sg](mailto:psg@as.acsi.edu.sg)&nbsp;
-
-Aaron Goh [psg@as.acsi.edu.sg](mailto:psg@as.acsi.edu.sg)
+<p>Anglo-Chinese School (Independent)&nbsp;&nbsp;<br>
+Attention: Parent Support Group&nbsp;&nbsp;<br>
+121 Dover Road&nbsp;&nbsp;<br>
+Singapore 139650&nbsp;&nbsp;<br>
+E-mail: <a href="mailto:psg@as.acsi.edu.sg">psg@as.acsi.edu.sg</a>&nbsp;</p>
+<p> </p>
+<p aria-level="3">PSG Sub-Committee Contact Persons </p>
+<table>
+<tbody>
+<tr>
+<td>
+<p>Parents’ Prayer Group&nbsp;</p>
+</td>
+<td>
+<p>Eunice Lam, Stephanie Ng&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Fathers’ Prayer Group&nbsp;</p>
+</td>
+<td>
+<p>Derek Yeo, Joshua Duan&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gratitude and Blessing&nbsp;</p>
+</td>
+<td>
+<p>Dana Magnus, Belle Chua&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Membership &amp; Outreach&nbsp;</p>
+</td>
+<td>
+<p>Isabel Ng, Dorothy Peck&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hospitality &amp; Integration (Hi!) Programme&nbsp;</p>
+</td>
+<td>
+<p>Rebecca Vagenende&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Merchandise and Marketing&nbsp;</p>
+</td>
+<td>
+<p>Tammy Gan&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Talks, Seminars &amp; Workshops&nbsp;</p>
+</td>
+<td>
+<p>Eunice Tay&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Information Technology &amp; Infrastructure&nbsp;</p>
+</td>
+<td>
+<p>Joshua Duan&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
