@@ -6,9 +6,7 @@ third_nav_title: Staff List
 variant: tiptap
 ---
 <p>Please note that only the names and details of key-points-of-contact are
-reflected in the staff Directory. For the&nbsp;<strong>full contact list</strong>&nbsp;of
-teachers and staff, Parents&nbsp;<strong>may log in to the</strong>&nbsp;<strong><a href="http://lms.acsindep.edu.sg/ACSIndep/logon_new.aspx?type=parents" rel="noopener noreferrer nofollow" target="_blank">Parents’ Portal</a></strong>&nbsp;and
-view the Staff List under Parent’s Resources tab.</p>
+reflected in the staff Directory.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
