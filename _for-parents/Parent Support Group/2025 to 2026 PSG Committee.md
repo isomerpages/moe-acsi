@@ -154,7 +154,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>(To remove) Marketing &amp; Branding&nbsp;</p>
+<p>Marketing &amp; Branding&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Choo Choon Teck, Aaron Goh&nbsp;</p>
