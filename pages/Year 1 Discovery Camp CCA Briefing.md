@@ -4,5 +4,7 @@ permalink: /year-1-disovery-camp-cca-briefing/
 variant: tiptap
 description: ""
 ---
-<p><a href="https://youtu.be/jnrCaGeQJ9s?si=jRG9SUc6tOgr60TO" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/jnrCaGeQJ9s?si=jRG9SUc6tOgr60TO</a>
-</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jnrCaGeQJ9s?si=jRG9SUc6tOgr60TO"></iframe>
+</div>
+<p></p>
