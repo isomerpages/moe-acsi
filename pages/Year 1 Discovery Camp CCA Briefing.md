@@ -1,7 +1,10 @@
 ---
 title: Year 1 Discovery Camp CCA Briefing
 permalink: /year-1-disovery-camp-cca-briefing/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/nYTVY2ln4ew" height="415" width="660"></iframe>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jnrCaGeQJ9s?si=jRG9SUc6tOgr60TO"></iframe>
+</div>
+<p></p>
