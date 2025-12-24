@@ -5,4 +5,4 @@ description: ""
 third_nav_title: Parent Support Group
 variant: markdown
 ---
-Click [here]([here](https://forms.office.com/r/LJKB736UdR)) to access our PSG Registration Form
+Click [here](https://forms.office.com/r/LJKB736UdR) to access our PSG Registration Form
