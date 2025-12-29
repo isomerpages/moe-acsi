@@ -3,49 +3,156 @@ title: Gallery
 permalink: /mathcompetition/gallery-mct/
 description: ""
 third_nav_title: Mathematics Competition Team
+variant: tiptap
 ---
-<table>
-<thead>
-  <tr>
-    <th style="width:200px"></th>
-    <th style="width:200px"></th>
-    <th style="width:200px"></th>
-		<th style="width:200px"></th>
-  </tr>
-</thead>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td style ="text-align:center"><a href="/images/mathcomp%201.jpeg"> <img src="/images/mathcomp%201.jpeg" style="width:200px"></a></td>
-    <td style ="text-align:center"><a href="/images/mathcomp%202.jpeg"> <img src="/images/mathcomp%202.jpeg" style="width:200px"></a></td>
-    <td style ="text-align:center"><a href="/images/mathcomp%203.jpeg"> <img src="/images/mathcomp%203.jpeg" style="width:200px; height: 130px"></a></td>
-    <td style ="text-align:center"><a href="/images/mathcomp%204.jpeg"> <img src="/images/mathcomp%204.jpeg" style="width:200px"></a></td>
-  </tr>
-   <tr>
-    <td style ="text-align:center"><a href="/images/mathcomp%205.jpeg"> <img src="/images/mathcomp%205.jpeg" style="width:200px; height: 130px"></a></td>
-    <td style ="text-align:center"><a href="/images/mathcomp%206.jpeg"> <img src="/images/mathcomp%206.jpeg" style="width:200px"></a></td>
-    <td style ="text-align:center"><a href="/images/mathcomp%207.jpeg"> <img src="/images/mathcomp%207.jpeg" style="width:200px"></a></td>
-    <td style ="text-align:center"><a href="/images/mathcomp%208.jpeg"> <img src="/images/mathcomp%208.jpeg" style="width:200px"></a></td>
-  </tr>
-	<tr>
-    <td style ="text-align:center"><a href="/images/mathcomp%209.jpeg"> <img src="/images/mathcomp%209.jpeg" style="width:200px; height: 130px"></a></td>
-    <td style ="text-align:center"><a href="/images/mathcomp%2010.jpeg"> <img src="/images/mathcomp%2010.jpeg" style="width:200px"></a></td>
-    <td style ="text-align:center"><a href="/images/mathcomp%2011.jpeg"> <img src="/images/mathcomp%2011.jpeg" style="width:200px"></a></td>
-		<td style ="text-align:center"><a href="/images/mathcomp%2012.jpeg"> <img src="/images/mathcomp%2012.jpeg" style="width:200px"></a></td>
-  </tr>
-	<tr>
-    <td style ="text-align:center"><a href="/images/mathcomp%2013.jpeg"> <img src="/images/mathcomp%2013.jpeg" style="width:200px; height: 130px"></a></td>
-		<td style ="text-align:center"><a href="/images/mathcomp%2014.jpeg"> <img src="/images/mathcomp%2014.jpeg" style="width:200px; height: 130px"></a></td>
-		<td style ="text-align:center"><a href="/images/mathcomp%2015.jpeg"> <img src="/images/mathcomp%2015.jpeg" style="width:200px; height: 130px"></a></td>
-		<td style ="text-align:center"><a href="/images/mathcomp%2016.jpeg"> <img src="/images/mathcomp%2016.jpeg" style="width:200px; height: 130px"></a></td>
-  </tr>
-	<tr>
-    <td style ="text-align:center"><a href="/images/mathcomp%2017.jpeg"> <img src="/images/mathcomp%2017.jpeg" style="width:200px; height: 130px"></a></td>
-		<td style ="text-align:center"><a href="/images/mathcomp%2018.jpeg"> <img src="/images/mathcomp%2018.jpeg" style="width:200px; height: 130px"></a></td>
-		<td style ="text-align:center"><a href="/images/mathcomp%2019.jpeg"> <img src="/images/mathcomp%2019.jpeg" style="width:200px; height: 130px"></a></td>
-		<td style ="text-align:center"><a href="/images/mathcomp%2020.jpeg"> <img src="/images/mathcomp%2020.jpeg" style="width:200px; height: 130px"></a></td>
-  </tr>
-	<tr>
-    <td style ="text-align:center"><a href="/images/mathcomp%2021.jpeg"> <img src="/images/mathcomp%2021.jpeg" style="width:200px; height: 130px"></a></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:200px" height="auto" width="100%" src="/images/mathcomp%201.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:200px" height="auto" width="100%" src="/images/mathcomp%202.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:200px; height: 130px" height="auto" width="100%" src="/images/mathcomp%203.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:200px" height="auto" width="100%" src="/images/mathcomp%204.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:200px; height: 130px" height="auto" width="100%" src="/images/mathcomp%205.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:200px" height="auto" width="100%" src="/images/mathcomp%206.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:200px" height="auto" width="100%" src="/images/mathcomp%207.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:200px" height="auto" width="100%" src="/images/mathcomp%208.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:200px; height: 130px" height="auto" width="100%" src="/images/mathcomp%209.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:200px" height="auto" width="100%" src="/images/mathcomp%2010.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:200px" height="auto" width="100%" src="/images/mathcomp%2011.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:200px" height="auto" width="100%" src="/images/mathcomp%2012.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:200px; height: 130px" height="auto" width="100%" src="/images/mathcomp%2013.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:200px; height: 130px" height="auto" width="100%" src="/images/mathcomp%2014.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:200px; height: 130px" height="auto" width="100%" src="/images/mathcomp%2015.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:200px; height: 130px" height="auto" width="100%" src="/images/mathcomp%2016.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:200px; height: 130px" height="auto" width="100%" src="/images/mathcomp%2017.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:200px; height: 130px" height="auto" width="100%" src="/images/mathcomp%2018.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:200px; height: 130px" height="auto" width="100%" src="/images/mathcomp%2019.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:200px; height: 130px" height="auto" width="100%" src="/images/mathcomp%2020.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:200px; height: 130px" height="auto" width="100%" src="/images/mathcomp%2021.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
