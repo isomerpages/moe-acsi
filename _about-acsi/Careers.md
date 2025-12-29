@@ -2,7 +2,7 @@
 title: Careers
 permalink: /about-acs-independent/careers/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <p>ACS (Independent) invites highly motivated, committed and qualified candidates
 with a strong passion for teaching and pastoral care to be part of our
@@ -51,49 +51,38 @@ and innovative teaching team.</p>
 </li>
 </ul>
 </li>
-<li>
-<p><strong>English Language &amp; Literature</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Secondary Levels</strong>
-</p>
-</li>
-</ul>
-</li>
-<li>
-<p><strong>Mathematics</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Secondary Levels</strong>
-</p>
-</li>
-</ul>
-</li>
-<li>
-<p><strong>Physics</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Secondary Levels</strong>
-</p>
-</li>
-</ul>
-</li>
 </ul>
 <p>In addition, we are also looking for the following Executive &amp; Support
 Staff positions:</p>
 <ul data-tight="true" class="tight">
 <li>
+<p><strong>Custodians</strong>
+</p>
+</li>
+<li>
+<p><strong>Deputy Estate Development Manager (Project Management)</strong>
+</p>
+</li>
+<li>
 <p><strong>Educational Technologist</strong>
 </p>
 </li>
 <li>
-<p><strong>Estate Development Officer (Project Management)</strong>
+<p><strong>Estate Development Officer</strong>
+</p>
+</li>
+<li>
+<p><strong>IT Solutions Developer</strong>
+</p>
+</li>
+<li>
+<p><strong>Laboratory Technical Officer</strong>
+</p>
+</li>
+<li>
+<p><strong>Procurement Officer</strong>
 </p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>Interested applicants, please email your resume to&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">lilliantan@acsindep.edu.sg</a>
 </p>
