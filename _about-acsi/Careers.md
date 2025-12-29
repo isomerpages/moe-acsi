@@ -84,6 +84,5 @@ Staff positions:</p>
 </p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>Interested applicants, please email your resume to&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">lilliantan@acsindep.edu.sg</a>
 </p>
