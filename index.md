@@ -22,9 +22,9 @@ sections:
       subtitle: Announcements
       button: more
   - infopic:
-      title: Theme Verse 2025
+      title: Theme Verse 2026
       id: infopic
-      image: /images/Theme Verse Infopic/Theme_2025_For_Webpage_Banner_copy.jpg
+      image: /images/Theme_2026_For_Webpage_Banner__1_.jpg
       alt: Theme Verse 2025
   - infopic:
       title: Athlete Friendly Education Centre
