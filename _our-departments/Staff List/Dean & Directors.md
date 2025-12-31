@@ -85,7 +85,7 @@ reflected in the staff Directory.</p>
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dean, Mathematics</p>
+<p>Dean, Mathematics (Secondary Level)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Gina Ong</p>
@@ -129,10 +129,10 @@ reflected in the staff Directory.</p>
 <p>Science / Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dean, Science (Chemistry)</p>
+<p>Dean, Science (Chemistry)(Acting)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Dennis Sim Heng Hock</p>
+<p>Mdm Jess Wong Shu Yee</p>
 </td>
 </tr>
 <tr>
@@ -281,10 +281,21 @@ Committee)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Director Year 3 (Acting)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Davin Tan Shun Chong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>English/Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Director Year 3</p>
+<p>Director Year 4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Andrew Wong Toh Hong</p>
@@ -317,10 +328,10 @@ Committee)</p>
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Director Year 6</p>
+<p>Director Year 6 (Acting)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Shaun Choo</p>
+<p>Ms Audrey Tay Shengyi</p>
 </td>
 </tr>
 <tr>
@@ -350,7 +361,7 @@ Committee)</p>
 <p>English/Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Director, Partnerships &amp; Talent Development (Acting)</p>
+<p>Director, Partnerships &amp; Talent Development</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Benjamin Wong Zi Ming</p>
