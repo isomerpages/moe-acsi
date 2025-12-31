@@ -129,10 +129,10 @@ reflected in the staff Directory.</p>
 <p>Science / Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dean, Science (Chemistry)</p>
+<p>Dean, Science (Chemistry)(Acting)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Dennis Sim Heng Hock</p>
+<p>Mdm Jess Wong Shu Yee</p>
 </td>
 </tr>
 <tr>
