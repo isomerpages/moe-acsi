@@ -350,7 +350,7 @@ Committee)</p>
 <p>English/Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Director, Partnerships &amp; Talent Development (Acting)</p>
+<p>Director, Partnerships &amp; Talent Development</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Benjamin Wong Zi Ming</p>
