@@ -281,13 +281,13 @@ Committee)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>English/Literature</p>
+<p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Director Year 3</p>
+<p>Director Year 3 (Acting)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Andrew Wong Toh Hong</p>
+<p>Mr Davin Tan Shun Chong</p>
 </td>
 </tr>
 <tr>
@@ -298,7 +298,7 @@ Committee)</p>
 <p>Director Year 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Karen Liau</p>
+<p>Mr Andrew Wong Toh Hong</p>
 </td>
 </tr>
 <tr>
