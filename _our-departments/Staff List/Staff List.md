@@ -103,17 +103,6 @@ reflected in the staff Directory.</p>
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Departments</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Appointment</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Econs / B&amp;M</p>
 </td>
