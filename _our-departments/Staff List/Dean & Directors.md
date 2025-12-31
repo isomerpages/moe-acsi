@@ -85,7 +85,7 @@ reflected in the staff Directory.</p>
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dean, Mathematics</p>
+<p>Dean, Mathematics (Secondary Level)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Gina Ong</p>
@@ -317,10 +317,10 @@ Committee)</p>
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Director Year 6</p>
+<p>Director Year 6 (Acting)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Shaun Choo</p>
+<p>Ms Audrey Tay Shengyi</p>
 </td>
 </tr>
 <tr>
