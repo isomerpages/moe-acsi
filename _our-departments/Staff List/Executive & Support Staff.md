@@ -143,7 +143,7 @@ reflected in the staff Directory.</p>
 <p>Procurement Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chia Zhen Wei</p>
+<p>Mr Masnawi bin Isnin</p>
 </td>
 </tr>
 <tr>
