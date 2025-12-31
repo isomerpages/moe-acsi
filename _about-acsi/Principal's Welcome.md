@@ -9,7 +9,6 @@ description: ""
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Principal's Welcome/Picture1.jpg">
 </div>
 <p style="text-align: center;"><strong>Principal’s Welcome</strong></p>
-<p>&nbsp;</p>
 <p>Welcome to Anglo-Chinese School (Independent)!&nbsp;</p>
 <p style="text-align: justify;">It is my honour to serve this community as Principal, especially in a milestone season where the ACS family marks 140 years of heritage and God’s faithfulness. ACS (Independent) stands firmly on foundations shaped by faith, character, and excellence, while remaining deeply committed to preparing our students for the challenges and opportunities of a rapidly changing world.&nbsp;</p>
 <p style="text-align: justify;">Our shared theme verse across the ACS family captures both our purpose and our calling:&nbsp;</p>
