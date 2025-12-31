@@ -85,7 +85,7 @@ reflected in the staff Directory.</p>
 <p>Senior Administration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deputy Principal (Year 3 and 4)</p>
+<p>Deputy Principal (Year 3 and 4) / Boarding School Deputy Warden</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Alice Tan</p>
