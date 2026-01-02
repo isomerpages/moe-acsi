@@ -5,25 +5,34 @@ description: ""
 third_nav_title: Parent Support Group
 variant: tiptap
 ---
+<h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width:25%" height="auto" width="100%" src="/images/Prayer.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GetImage_4_.png">
 </div>
-<h3><strong><em>“Be joyful always; pray continually; give thanks in all circumstances, for this is God’s will for you in Christ Jesus.”</em></strong></h3>
-<p><strong><em>1 Thessalonians 5:16-18</em></strong>
-</p>
-<p>We are a group of mums and dads with children from Years 1 to 6 who come
-together to pray for the school, senior admin, teachers, students, Christian
-ministry, and families in need. We start with worship, a word of encouragement,
-prayer and fellowship.</p>
-<p>When you join the prayer group, you become a part of ACS (Independent)
-Parent Community, and get connected with parents from the other ACS schools
-at combined fellowships. You will get encouragement, support and build
-lasting friendships too.</p>
-<p>We look forward to having you join us!</p>
 <hr>
-<p><strong>Parents’ Prayer Group</strong>&nbsp;(During Term Time)</p>
-<p><strong>Timings &amp; Venue</strong>
-</p>
+<p>“Be joyful always; pray continually; give thanks in all circumstances,
+for this is God’s will for&nbsp;</p>
+<p>you in Christ Jesus.”&nbsp;</p>
+<p>1 Thessalonians 5:16-18&nbsp;</p>
+<p>&nbsp;</p>
+<p>We are a group of parents who come together weekly during the school term
+to pray for our school and families. Our gatherings start with worship,
+followed by a word of encouragement, prayer and then fellowship.&nbsp;</p>
+<p>We also connect with parents from the other ACS schools at quarterly combined
+prayer meetings. We hope you will receive Spirit-led encouragement, support
+and build lasting friendships in our community.&nbsp;</p>
+<p>Join us to&nbsp;</p>
+<p>Become part of the wider ACS (Independent) Parent Community and stand
+in the gap for the school in a meaningful, practical way.&nbsp;&nbsp;</p>
+<p>Get to know like‑hearted parents who understand the journey and can pray,
+listen, and walk with you.&nbsp;&nbsp;</p>
+<p>Receive encouragement, support, and build genuine, lasting friendships
+that often continue well beyond your child’s school years.&nbsp;&nbsp;</p>
+<p>Hear testimonies of what God is doing in the lives of students, staff
+and families and be part of that story through prayer.&nbsp;&nbsp;</p>
+<p>We look forward to praying alongside with you for our school and families!&nbsp;</p>
+<p><strong>Parents’ Prayer Group</strong> (During the school term)&nbsp;</p>
+<p><strong>Timing &amp; Venue</strong>&nbsp;&nbsp;</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -33,54 +42,38 @@ lasting friendships too.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Day</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Date</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Mode of the meeting</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Monday</p>
+<p><strong>Day</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Every week</p>
+<p><strong>Frequency</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8:15am – 9:15am</p>
+<p><strong>Time</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>via ZOOM</p>
+<p><strong>Mode of the meeting</strong>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thursday</p>
+<p>Thursday&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Every week</p>
+<p>Every week&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7:30am – 9:00am</p>
+<p>7:45am – 9am&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Group meeting (in person) at ACS(Independent) Boarding School Staff Lounge</p>
+<p>In person at ACS(I)&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>To join by ZOOM, email to: Winnie Tan at&nbsp;<strong><a href="mailto:winnie.acsiprayerparents@gmail.com" rel="noopener noreferrer nofollow" target="_blank">winnie.acsiprayerparents@gmail.com</a></strong>
-</p>
-<p><strong>Fathers’ Prayer Group</strong>&nbsp;(During Term Time)</p>
-<p><strong>Timings &amp; Venue</strong>
-</p>
+<p>For more information, please email Eunice Lam at <a href="mailto:acsiprayerparents@gmail.com" rel="noopener noreferrer nofollow" target="_blank">acsiprayerparents@gmail.com</a>&nbsp; &nbsp;</p>
+<p><strong>Fathers’ Prayer Group</strong> (During the school term)&nbsp;</p>
+<p><strong>Timing &amp; Venue</strong>&nbsp;&nbsp;</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -90,42 +83,74 @@ lasting friendships too.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Day</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Date</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Mode of the meeting</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Day</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Frequency</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mode of the meeting</strong>&nbsp;</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Saturday</p>
+<p>Thursday&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>First Saturday of every month</p>
+<p>Every Thursday&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8:00am – 9:30am</p>
+<p>1-2pm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Group meeting (in person) at ACS(Independent) Boarding School Staff Lounge</p>
+<p>&nbsp;Zoom&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Saturday&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>First Saturday of every month&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8am – 9:30am&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In person at ACS(I)&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>To join by ZOOM, email to: Kirindeep Singh/Derek Yeo at&nbsp;<strong><a href="mailto:kirindeepsingh@gmail.com" rel="noopener noreferrer nofollow" target="_blank">kirindeepsingh@gmail.com</a></strong>
-</p>
-<hr>
+<p>For more information, please email Derek <a href="mailto:acsiprayerparents@gmail.com" rel="noopener noreferrer nofollow" target="_blank">derekyeo@gmail.com</a> and Joshua
+<a href="mailto:acsiprayerparents@gmail.com" rel="noopener noreferrer nofollow" target="_blank">Joshua.duan@gmail.com</a>&nbsp;&nbsp;</p>
+<p><strong>Parents’ Prayer Group</strong>&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents-Prayer-Group.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GetImage_2_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GetImage_3_.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fathers-Prayer-Group-2022.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GetImage_4_.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GetImage_5_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GetImage_6_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GetImage_7_.jpg">
+</div>
+<p><strong>Fathers’ Prayer Group</strong>&nbsp;</p>
 <p></p>
