@@ -7,28 +7,34 @@ variant: markdown
 ---
 ### **Message From Our Chairman**
 
-9 January 2026
+9 January 2026 
 
-Welcome, parents, to the ACS (Independent) family!
+Dear Parents, 
 
-I am glad that you are actively supporting your children in their journey.
+Welcome to the ACS (Independent) family! 
 
-I’m reminded of the excitement and anticipation I felt when my son first joined ACS(I). It’s a journey that has not only shaped him academically, but has also instilled in him the values that make our school a caring and vibrant community. I am most appreciative that ACS(I) is founded on Christian principles, as embodied in the life and teachings of Jesus Christ. With these values, it produces generations of fine ladies and gentlemen who serve and lead in the family, nation, and the global community. The school’s motto, “The Best is Yet to Be,” encourages students to strive for greater heights by reminding them that their best achievements are yet to come. I believe that understanding the school’s values and motto enables us to parent our children better on this journey.
+I am glad that you are actively supporting your children in their ACS (Independent) journey. Like many of you, I am a parent walking alongside my children through these important years. I am thankful that ACS (Independent) is founded on Christian principles, as embodied in the life, death and teachings of Jesus Christ. These values guide the school in nurturing excellence, strong character, and a heart for service. 
 
-The purpose of ACS(I)’s Parent Support Group (PSG) is to promote a collaborative relationship between the school and parents. To this end, we, as parents, volunteer our time and talent in helping each other in our parenting journey and in our children’s ACS(I) adventure.
+The Parents’ Support Group (PSG) exists to strengthen the partnership between parents and the school. Through our involvement, we support one another in parenting and contribute meaningfully to our children’s school experience. Whether through events, practical help, or prayer and encouragement behind the scenes, every contribution makes a difference. 
 
-I invite you to be part of our PSG community, to join our events, prayer groups, and support worthy causes. The PSG has a team of dedicated parents serving on the Executive Committee. We are fellow parents who are fun-loving, creative, but most of all, have a heart to serve the school.
+Our involvement also sends a powerful message to our children. When they see parents giving time and energy in service to the school, they learn the importance of commitment, generosity, and serving others. In this way, we are not only supporting school programmes, but also modelling values that we hope our children will carry with them beyond their years at ACS (Independent). 
 
-Your involvement in your children’s learning journey is pivotal to their growth. This is a gift to the school and your children. It will be my delight to see every one of you coming on board to help our children grow into scholars, officers, ladies, and gentlemen.
+The PSG’s work is centred on two key areas.  
 
-I am excited by the opportunity to get to know each one of you. I am confident that your sons and daughters will have a wonderful ACS(I) journey ahead.
+The first is prayer, which undergirds the life of the school, as we pray for and support its leadership, staff, students and families.  
 
-To God be the Glory. The Best is Yet to Be!
+The second is service in action, expressed through events and initiatives that reflect Christ’s love in practical ways. In all that we do, we seek to serve with sincerity and purpose. 
 
-Sincerely,
+I warmly invite you to be part of the PSG community — to join our activities, prayer groups, and connect with fellow parents as we journey together in supporting our children. 
 
-<img src="/images/Picture9.png" style="width:15%" align="left"><br>
-		 
-Choo Choon Teck  <br>
-Chairman of Parent Support Group  <br>
+I look forward to getting to know you and serving together in the years ahead. 
+
+To God be the glory. The Best Is Yet to Be. 
+
+Sincerely, 
+
+Aaron Goh 
+
+Chairman of the Parent Support Group 
+
 Anglo-Chinese School (Independent)
