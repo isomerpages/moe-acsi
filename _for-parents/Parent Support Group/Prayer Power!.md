@@ -11,10 +11,8 @@ variant: tiptap
 </div>
 <hr>
 <p>“Be joyful always; pray continually; give thanks in all circumstances,
-for this is God’s will for&nbsp;</p>
-<p>you in Christ Jesus.”&nbsp;</p>
-<p>1 Thessalonians 5:16-18&nbsp;</p>
-<p>&nbsp;</p>
+for this is God’s will for&nbsp;you in Christ Jesus.”&nbsp;</p>
+<p>1 Thessalonians 5:16-18&nbsp;&nbsp;</p>
 <p>We are a group of parents who come together weekly during the school term
 to pray for our school and families. Our gatherings start with worship,
 followed by a word of encouragement, prayer and then fellowship.&nbsp;</p>
