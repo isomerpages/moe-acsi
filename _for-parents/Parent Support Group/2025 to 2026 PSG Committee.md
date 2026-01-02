@@ -17,8 +17,14 @@ variant: tiptap
 <tr></tr>
 </tbody>
 </table>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GetImage_2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GetImage_3_.png">
 </div>
 <table style="width: 0px">
 <colgroup></colgroup>
