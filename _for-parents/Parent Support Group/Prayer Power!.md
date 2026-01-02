@@ -154,3 +154,15 @@ and families and be part of that story through prayer.&nbsp;&nbsp;</p>
 </div>
 <p><strong>Fathers’ Prayer Group</strong>&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GetImage_8_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GetImage_9_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GetImage_10_.jpg">
+</div>
+<p></p>
