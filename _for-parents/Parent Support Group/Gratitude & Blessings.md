@@ -9,7 +9,7 @@ The Gratitude & Blessings Sub-Committee organises several exciting events during
 
 ### **Teachers’ Day Lunch**
 
-Teachers are the pillars of the school and role models for our children. To celebrate our teachers and staff, and to bless their tireless hard work. The PSG supports the school in their planning of the Annual Teachers’ Day Lunch.
+Teachers are the pillars of the school and role models for our children. To celebrate our teachers and staff, and to bless their tireless hard work PSG supports the school in their planning of the Annual Teachers’ Day Lunch.
 
 ![](/images/psg1.jpg)
 
