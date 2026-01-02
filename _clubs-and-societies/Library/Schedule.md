@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Library
 variant: markdown
 ---
-<p><strong>Schedule:</strong></p>
+<p><strong>CCA Schedule:</strong></p>
 <p><strong>Meeting day</strong>:</p>
 <p>Mondays – 3:15 – 4:45pm (Y1 – Y4) | 4 – 5:30pm (Y5 &amp; Y6)</p>
 <p><strong>Duty roster</strong>:</p>
