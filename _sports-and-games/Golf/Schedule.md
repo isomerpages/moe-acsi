@@ -7,94 +7,72 @@ variant: tiptap
 ---
 <p><strong>The schedule below serves as a guide to the training schedule. Throughout the season, teachers may adjust the schedule&nbsp;to suit competition and school commitments.</strong>
 </p>
-<p><strong>Students who are interested in joining Golf as CCA are required to e-mail directly to the teacher in charge to indicate their interest at&nbsp;&nbsp;<a href="mailto:jaxleongcw@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jaxleongcw@acsindep.edu.sg</a></strong>&nbsp; <strong>at the start of the academic year.</strong>
-</p>
+<p></p>
 <p><strong>Recreational group:</strong>
 </p>
-<table style="minWidth: 50px">
+<h3>Training Schedule 2026:</h3>
+<table style="minWidth: 75px">
 <colgroup>
 <col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Training Venue</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>SingaGolf Pte Ltd
-<br>
-<br>Sembawang Country Club
-<br>249 Sembawang Road
-<br>Singapore 758352</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wednesday</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Time</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4.00 pm to 5.30 pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Meeting place</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wednesday 3.15 pm at ACS (Independent) space frame</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dismissal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6.15 pm ACS (I) space frame</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Training and transportation fees</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To be confirmed</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3>Training Schedule 2025:</h3>
-<table style="minWidth: 50px">
-<colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>February</strong>
+<p><strong>Month</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>19th, 26th</strong>
+<p><strong>Date, Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Training</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>March</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>5th, 12th</strong>
+<p><strong>4th, Wed</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Range</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>11th, Wed</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Range</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>25th, Wed</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Range</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>30th, Mon</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Course</strong>
 </p>
 </td>
 </tr>
@@ -104,47 +82,66 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>9th, 23rd</strong>
+<p><strong>6th, Mon</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Course</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>May</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>14th, 28th</strong>
+<p><strong>6th, Wed</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Range</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>11th, Mon</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Course</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p><strong>July</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2nd, 9th, 23rd, 30th</strong>
+<p><strong>22nd, Wed</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Range</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>August</strong>
+<p><strong>27th, Mon</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>6th</strong>
+<p><strong>Course</strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Recreational group                  </strong>
-</p>
 <p><strong>Competitive group</strong>
 </p>
 <p>Course Management&nbsp;</p>
-<p>Date : 20<sup>th</sup>&nbsp;January, 3<sup>rd</sup>&nbsp;and 17<sup>th</sup>&nbsp;February,
-3<sup>rd</sup>&nbsp;and 24<sup>th</sup>&nbsp;March.</p>
+<p>Date : 26th January, 9th and 23rd February, 9th and 23rd March.</p>
 <p>&nbsp;</p>
