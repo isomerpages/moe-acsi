@@ -79,7 +79,7 @@ variant: tiptap
 <p>Vice-Captain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SEAH SHANG -TZE IAN</p>
+<p>Seah Shang Tze Ian</p>
 </td>
 </tr>
 </tbody>
