@@ -22,7 +22,7 @@ variant: tiptap
 <p>Captain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yeo Jian En, Jenevieve</p>
+<p>Li Zonglin</p>
 </td>
 </tr>
 <tr>
@@ -41,7 +41,7 @@ variant: tiptap
 <p>Captain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Troy Tian Storm</p>
+<p>Lim Yong Rui Dylan</p>
 </td>
 </tr>
 <tr>
@@ -49,7 +49,7 @@ variant: tiptap
 <p>Vice-Captain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Yong Rui Dylan</p>
+<p>Dylan Uziel Chan Chua</p>
 </td>
 </tr>
 <tr>
@@ -60,7 +60,7 @@ variant: tiptap
 <p>Captain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dylan Uziel Chan Chua</p>
+<p>Lee Seunghan</p>
 </td>
 </tr>
 <tr>
@@ -71,7 +71,7 @@ variant: tiptap
 <p>Captain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chuang Eng Teck Ethan</p>
+<p>Yu Bohan</p>
 </td>
 </tr>
 <tr>
@@ -79,7 +79,7 @@ variant: tiptap
 <p>Vice-Captain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chia T-Ren</p>
+<p>SEAH SHANG -TZE IAN</p>
 </td>
 </tr>
 </tbody>
