@@ -23,7 +23,7 @@ variant: tiptap
 <p>Company Segeant Major</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SGT/4 Enoch See Kai Yong</p>
+<p>SGT/4 Toh Jie Le Caleb</p>
 </td>
 </tr>
 <tr>
@@ -31,7 +31,15 @@ variant: tiptap
 <p>Deputy Company Segeant Major</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SGT/4 Duan Zehao</p>
+<p>SGT/4 Abdiel Cheong Qi Le</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Deputy Company Sergeant Major&nbsp;/ Company Quartermaster Sergeant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGT/4 Jason Elijah Wong En Shuo</p>
 </td>
 </tr>
 <tr>
@@ -39,7 +47,7 @@ variant: tiptap
 <p>Deputy Company Sergeant Major</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SGT/4 Chan Yi Xuan</p>
+<p>SGT/4 Noah Seow Yuan Ming</p>
 </td>
 </tr>
 <tr>
@@ -47,39 +55,15 @@ variant: tiptap
 <p>Band Major</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SGT/4 Isaac Low Kye</p>
+<p>SGT/4 Pattiselanno Eli Lee</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Deputy Company Sergeant Major / Company Quartermaster Sergeant</p>
+<p>Christian Education Sergeant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SGT/4 Ian Lai Kai’En</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wing Sergeant Major</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SGT/4 Zachary Lim-Soosay</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Projects Sergeant</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SGT/4 Seah Ek Hiang Ryan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Publicity &amp; Media Sergeant</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SGT/4 Matthias Jovan Leow</p>
+<p>SGT/4 Caleb Png Li Ren</p>
 </td>
 </tr>
 <tr>
@@ -87,15 +71,23 @@ variant: tiptap
 <p>Training Sergeant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SGT/4 Lee Poh Rong, Marcus</p>
+<p>SGT/4 Wong Jun Wei</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Logistics Sergeant</p>
+<p>Wing Sergeant Major</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SGT/4 Marco Hong-Zhen Pavanello</p>
+<p>SGT/4 Jayden John Yong Yi-En&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Publicity &amp; Media&nbsp;Sergeant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGT/4 Isaac Choi Kai Ze&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -103,7 +95,15 @@ variant: tiptap
 <p>Admin Sergeant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SGT/4 Ho Jia Le Timothy</p>
+<p>SGT/4 Jerrell Tan Eu-Jin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Logistics Sergeant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGT/4 Perry Tan Ho</p>
 </td>
 </tr>
 <tr>
@@ -111,7 +111,7 @@ variant: tiptap
 <p>Juniors Sergeant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SGT/4 Evans Emmanuel Yeo Qing Ern</p>
+<p>SGT/4 Qian Yue</p>
 </td>
 </tr>
 <tr>
@@ -133,7 +133,7 @@ variant: tiptap
 <p>Head Primer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CLT/6 See Hwee Benaiah</p>
+<p>CLT/6 Joel Chang Le Xin (Zhang Lexin)</p>
 </td>
 </tr>
 <tr>
@@ -141,7 +141,7 @@ variant: tiptap
 <p>Deputy Head Primer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CLT/6 Matthew Samuel Chacko</p>
+<p>CLT/6 Ian Hoong En Siong</p>
 </td>
 </tr>
 <tr>
@@ -149,7 +149,7 @@ variant: tiptap
 <p>Deputy Head Primer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CLT/6 Sahni Aarya</p>
+<p>CLT/6 Charis Ang Jia-En</p>
 </td>
 </tr>
 <tr>
@@ -157,7 +157,7 @@ variant: tiptap
 <p>General Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CLT/6 Jonathan Ng Wei Zheng</p>
+<p>CLT/6 Raphael Luke Tan Yi Yang</p>
 </td>
 </tr>
 <tr>
@@ -165,23 +165,23 @@ variant: tiptap
 <p>Christian Education Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CLT/6 Chow Yu Fei, Faith</p>
+<p>CLT/6 Ariel Cheong Qi Xuan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Training Head</p>
+<p>Service &amp; Relations&nbsp;Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CLT/6 Celeste Koh Hwee Shing</p>
+<p>CLT/6 Cayden Lim Tze Wei</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Service &amp; Relations Head</p>
+<p>Training&nbsp;Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CLT/6 Lai Shi-En, Ashlee</p>
+<p>CLT/6 Xander Quah Jinn Kye</p>
 </td>
 </tr>
 </tbody>
