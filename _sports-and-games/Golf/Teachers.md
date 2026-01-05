@@ -3,6 +3,7 @@ title: Teachers
 permalink: /golf/teachers/
 description: ""
 third_nav_title: Golf
+variant: markdown
 ---
 ### Teachers in-charge
 
@@ -17,10 +18,10 @@ third_nav_title: Golf
 </thead>
 <tbody>
   <tr>
-    <td>Mr Jax Leong Chee Wai</td>
+    <td>Ms Sabita Samy</td>
     <td>Teacher-in-charge</td>
-    <td>jaxleongcw@acsindep.edu.sg</td>
-    <td>67769527</td>
+    <td>sabitasamy@acsindep.edu.sg</td>
+    <td>68700384</td>
   </tr>
 </tbody>
 </table>
