@@ -5,6 +5,12 @@ description: ""
 third_nav_title: Student Leadership
 variant: markdown
 ---
+#### Teachers
+<p>Mr Halim Susanto<br>
+Deputy Director, Student Leadership</p>
+
+<p>Mr Jax Leong Chee Wai<br>
+Teacher Advisor</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
