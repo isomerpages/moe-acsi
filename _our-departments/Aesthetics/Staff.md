@@ -49,18 +49,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Poh Ning</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deputy Dean (Music Elective Programme)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:pohning@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pohning@acsindep.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Derek Lim</p>
 </td>
 <td rowspan="1" colspan="1">
