@@ -3,22 +3,24 @@ title: Prefectorial Board Structure
 permalink: /prefects/structure/
 description: ""
 third_nav_title: Student Leadership
-variant: tiptap
+variant: markdown
 ---
-<h3><strong><u>Teachers</u></strong></h3>
-<p>Mdm Lee Chia Hui Teacher Advisor
-<br>Deputy Director, Student Leadership</p>
-<p>Mrs Beatrice Leong
-<br>Teacher Advisor</p>
-<p>Mdm Tan Hui Ming
-<br>Teacher Advisor</p>
-<p></p>
-<p></p>
-<table>
+#### Teachers
+<p>Mr Halim Susanto<br>
+Deputy Director, Student Leadership</p>
+
+<p>Mr Jax Leong Chee Wai<br>
+Teacher Advisor</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>EXCO</strong>
+<p><strong><u>EXCO</u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -30,386 +32,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Name&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Class&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Position</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LOW YING XIANG, JOSHUA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4.14</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head Prefect</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ELISHA PANG QI YE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4.09</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice Head Prefect</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ZHANG ZHIHE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4.10</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice Head Prefect</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>JEROME ONG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4.16</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice Head Prefect</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>PRANIT BHAT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4.10</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Prefect Councillor&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>TIMOTHY JOSEPH CHIA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4.13</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Prefect Councillor&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CHIN PIN JIE DAX</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4.13</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Prefect Councillor&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Senior Prefects&nbsp;</strong>
+<p><strong>Name&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Name&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Class&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SEAN GERARD YOO TZE YOU</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4.01</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>JONATHAN LAU JIA SHEN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4.09</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EPHRAIM WU I-HNG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4.10</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>REYES LEE YUI HOU</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4.10</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>RAJEV RAJAKANTH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4.11</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>DARSHAN MOORTHY</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4.13</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ANAND SURESH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4.15</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CHUA RONG ZHENG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4.15</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Prefects&nbsp;</strong>
+<p><strong>Class</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Name&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Class&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ZACHARY LIM-SOOSAY</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.02</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>FONG SOONG CHUN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.05</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>RYAN WILLIAM MACKAY</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.09</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ASHER ONG YULE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.09</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>PRANAV NARAYAN RAJKUMAR</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.10</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EVAN RILEY GILL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.10</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LIAM ZACHARIAH GOH CHANG KAI (WU CHANGKAI)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.11</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>TAY ALEXANDER MATTHEW</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.11</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NG TEI REI, JAVIER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.12</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MUTHUSARAVANAKUMAR SAMRISH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.12</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>YEOW KAI SHENG, CALLUM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.13</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ZEPHAN YEONG JUN KAI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.14</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>BENJAMIN KHOO TENG WOON</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.16</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HANNES VAGENENDE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.16</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>AIDEN PNG JUN QUAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.16</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CHEN SHENG SHOU</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4.01</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NANDA KUMAR SHREE BHALA RAJ</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4.09</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>TENG YU KIT, JAYDEN (DING YUJIE)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4.11</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Assistant Prefects&nbsp;</strong>
+<p><strong>Position</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Name&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Class&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CADEL YEOH SZE HOCK</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.01</p>
 </td>
 </tr>
 <tr>
@@ -417,7 +49,21 @@ variant: tiptap
 <p>TREVOR KOH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.09</p>
+<p>4.16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head Prefect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ABDIEL CHEONG QI LE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.02</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Head Prefect</p>
 </td>
 </tr>
 <tr>
@@ -425,39 +71,65 @@ variant: tiptap
 <p>BRYAN SIM YONG RUI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.09</p>
+<p>4.10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Head Prefect</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MATTHIAS JOVAN LEOW</p>
+<p>DANIEL BEH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.01</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CHAW KAI JUN, BRANDON</p>
+<p>4.10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.11</p>
+<p>Vice Head Prefect</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>JOEL ELLIOT GUSDIANTO</p>
+<p>YAU SHENG TOU, CAYDEN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.12</p>
+<p>4.07</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prefect Councillor</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SEAN ANG SHAO XUAN</p>
+<p>CHUA YAN JIE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4.12</p>
+<p>4.09</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prefect Councillor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NAMAN CHAPLOT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prefect Councillor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CADEL YEOH SZE HOCK</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prefect Councillor</p>
 </td>
 </tr>
 <tr>
@@ -467,10 +139,29 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Prefect Nominees</strong>
+<p><strong><u>Senior Prefects</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -479,74 +170,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Name&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Class&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>JUSTIN LIM YONG EN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.01</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>ZACHARY HO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.02</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CONNOR CHEW SZE YUAN</p>
+<p>4.04</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.03</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ABDIEL CHEONG QI LE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.07</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>JAI ZEJIE AFZULPURKAR</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.09</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>DANIEL BEH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.09</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>RUSSELL ANG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.09</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HAN SOMYUNG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.09</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -554,7 +184,32 @@ variant: tiptap
 <p>JASON ELIJAH WONG EN SHUO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.10</p>
+<p>4.10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PREMANAND GUKHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SCOTT LER HUI YI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -562,7 +217,10 @@ variant: tiptap
 <p>NOAH MAH DONG YI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.10</p>
+<p>4.11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -570,15 +228,43 @@ variant: tiptap
 <p>TAN HONG JUN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.10</p>
+<p>4.11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CHUA YAN JIE</p>
+<p>CONNOR CHEW SZE YUAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.11</p>
+<p>4.12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JONAH FOO ZI YI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JUSTIN LIM YONG EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -586,7 +272,32 @@ variant: tiptap
 <p>SHAH KIAAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.12</p>
+<p>4.12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RAE LIU KAI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JAI ZEJIE AFZULPURKAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -594,49 +305,439 @@ variant: tiptap
 <p>LONG DENGKAI, SAMUEL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.12</p>
+<p>4.16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NAMAN CHAPLOT</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.13</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>EVANS EMMANUEL YEO QING ERN</p>
+<p><strong><u>Prefects</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NG YONG RUI, BRANSON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.01</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IMMANUEL GABRIEL LIM JZE-ERN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.06</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JAYDEN EE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.09</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHAN CHING HEI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.10</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YAP KUAN YI, JOHN</p>
+<p>WEI JIA JUN, MATTHEW</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.10</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MATTHEW DECLAN LOO CHENG YU</p>
+<p>YAP SHUEN ASHER</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.10</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>DUAN ZEHAO</p>
+<p>HO SONG EN GABRIEL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JUDE RAPHAEL LEUNG TZE LONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DYLAN WONG WEN KANG</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.16</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SIOW KAI XI, AIDAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TANG ZHI JIE, JAYDEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Prefect Nominees</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHUA RONG JUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.06</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SUBHASH AMIRTHARAJAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.08</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JAYDEN GOH EE HONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHANG SWEE SHENN, SAMUEL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LUKE EMMANUEL HO KAI EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LENNON BOH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.01</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YAU SHENG FUNG, JASPER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.01</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NG TEI ERN, JERIEL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.02</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN JIAHUI AADEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.02</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHIANG LOONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.04</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JOASH KOK JIT YIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.04</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RAHUL RAJAKANTH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.04</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN HO ZEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.04</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHAN SHAWN YI ALEXANDER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.05</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HAYDEN TJAHJADI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.05</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN ENZE JOSHUA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.08</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>THIA MING-RUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.09</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CAYDEN, WOO JEUN TAHNG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NATHANIEL TAN YING-REN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SAATVIK KUSUMWAL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIM YIN YAN, JENSON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<p>&nbsp;</p>
 <p></p>
