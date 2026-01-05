@@ -61,17 +61,6 @@ variant: markdown
 <p>MR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shaun Choo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Director Year 6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MR</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Jonas Chow</p>
 </td>
 <td rowspan="1" colspan="1">
