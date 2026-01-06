@@ -61,17 +61,6 @@ variant: markdown
 <p>MR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shaun Choo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Director Year 6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MR</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Jonas Chow</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -403,6 +392,61 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Jess Wong Pih Yuen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Archana Vijaykumar Kusurkar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Eunice Koh Geok Puay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Daniel Koh Liang Cheung</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tay Chong Guan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mabel Tong Mei Fong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
