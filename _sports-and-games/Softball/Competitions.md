@@ -7,7 +7,7 @@ variant: markdown
 ---
 **Nationals**:
 
-Every year, all the three divisions take part in the annual National Softball Competitions, whereby the school competes against the other schools in Singapore, through different group stages, semi-finals, and in the end, the finals. Many rival schools such as Raffles Institution and Catholic High School indulge in this series of matches. The winner is awarded the trophy of the year, alongside a challengers’ trophy.
+Every year, all the three divisions take part in the annual National Softball Competitions, whereby the school competes against the other schools in Singapore, through different group stages, semi-finals, and in the end, the finals. The winner is awarded the trophy of the year, alongside a challengers’ trophy.
 
 **SRC (Singapore Recreation Club):**
 
