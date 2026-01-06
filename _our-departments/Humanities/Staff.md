@@ -353,6 +353,17 @@ variant: tiptap
 <p>Mr Lim Wee Kian</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Humanities / History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Si Wei</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
