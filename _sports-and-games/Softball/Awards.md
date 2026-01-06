@@ -7,8 +7,9 @@ variant: tiptap
 ---
 <p><strong>National Softball Championship</strong>
 </p>
-<p>2025&nbsp;&nbsp;&nbsp; B Div 3rd
-<br>2024&nbsp;&nbsp;&nbsp; B Div 2nd, C Div 1st
+<p>2025&nbsp;&nbsp;&nbsp; B Div 3<sup>rd</sup>, C Div 4<sup>th</sup>, A Div
+Boys 3<sup>rd</sup>, A Div Girls 1<sup>st</sup> 
+<br>2024&nbsp;&nbsp;&nbsp; B Div 2nd, C Div 1<sup>st</sup>, A Div Girls 1st
 <br>2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B Div 3rd, C Div 2nd
 <br>2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B Div 4th, C Div 3rd
 <br>2018&nbsp; &nbsp; &nbsp;A Div 3rd, B Div 4th
@@ -26,3 +27,4 @@ variant: tiptap
 <br>2006&nbsp;&nbsp;&nbsp;&nbsp; B Div 1st, C Div 3rd
 <br>2005&nbsp;&nbsp;&nbsp;&nbsp; B Div 3rd, C Div 5th
 <br>2004&nbsp;&nbsp;&nbsp;&nbsp; C Div 2nd</p>
+<p>&nbsp;</p>
