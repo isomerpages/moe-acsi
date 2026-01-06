@@ -9,10 +9,10 @@ Mdm Clarice Tan ([claricetaneq@acsindep.edu.sg](mailto:claricetaneq@acsindep.edu
 
 Mr Brian Chirnside ([brian@acsindep.edu.sg](mailto:brian@acsindep.edu.sg))
 
-Mr Bobby Chew ([bobbychewtt@acsindep.edu.sg](mailto:bobbychewtt@acsindep.edu.sg))
-
 Ms Quek Siew Ling ([queksiewling@acsindep.edu.sg](mailto:queksiewling@acsindep.edu.sg))
 
-Mdm Vanessa Seah ([vanessaseahkh@acsindep.edu.sg](mailto:vanessaseahkh@acsindep.edu.sg))
+Mdm Kwoh Siew Lay ([siewlay@acsindep.edu.sg](mailto:siewlay@acsindep.edu.sg))
 
-Mdm Kwoh Siew Lay ([siewlay@acsindep.edu.sg](mailto:siewlay@acsindep.edu.sg)
+Mdm Chong Choon Lee ([chongchoonlee@acsindep.edu.sg](mailto:chongchoonlee@acsindep.edu.sg))
+
+Mdm Eunice Koh ([eunicekohgp@acsindep.edu.sg](mailto:eunicekohgp@acsindep.edu.sg))
