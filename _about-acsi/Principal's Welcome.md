@@ -21,6 +21,6 @@ description: ""
 <p style="text-align: justify;">Our motto, “The Best Is Yet To Be,” reflects a spirit of hope and continual growth. It is not a guarantee of automatic success, but a statement of faith — a confidence that God is at work in our human selves and in ACS. With trust, humility, and shared purpose, our God promises great goodness ahead.&nbsp;</p>
 <p style="text-align: justify;">As Principal, I am committed to leading with integrity, clarity, and care, and to working closely with students, staff, parents, alumni, and partners. Together, may we continue to shape an ACS (Independent) community where young people are called not only to excel, but to shine as Catalysts for Change — for God and for Humanity.&nbsp;</p>
 
- For my Chapel message to all students on the first day of school 2026, please refer to [2026 Vision Chapel - LET YOUR LIGHT SHINE](/files/Welcome/2026_Vision_Chapel___LET_YOUR_LIGHT_SHINE.pdf) 
+<p style="text-align: justify;">For my Chapel message to all students on the first day of school 2026, please refer to <a href="/files/Welcome/2026_Vision_Chapel___LET_YOUR_LIGHT_SHINE.pdf">2026 Vision Chapel - LET YOUR LIGHT SHINE</a></p>
 <p>To God be the Glory!&nbsp; <br>The Best Is Yet To Be!&nbsp;</p>
 <p>Mr Kevin Pang <br>Principal, ACS (Independent)</p>
