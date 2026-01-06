@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Mathematics
 variant: tiptap
 ---
+<p><strong>IBDP Stafflist</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -12,17 +14,6 @@ variant: tiptap
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>MRS</p>
@@ -36,24 +27,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MRS</p>
+<p>MS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gina Ong</p>
+<p>Audrey Tay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dean Mathematics (O Levels/IP)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MR</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gabriel Phee Tang Nam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Director Year 2</p>
+<p>Director Year 6 (Acting)</p>
 </td>
 </tr>
 <tr>
@@ -65,127 +45,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Deputy Dean Mathematics (IBDP)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MR</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Desmond Yap Sik Hsun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deputy Dean Mathematics (IP)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MRS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chua Chia Pei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deputy Dean Mathematics (O Level)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MR</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Keith Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deputy Director Student Leadership (Uniformed Groups)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Alice Pang Heng Hoon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deputy Director Year 1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MRS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Megan Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deputy Director Year 2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MDM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lee Chia Hui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deputy Director Student Leadership</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Audrey Tay Shengyi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deputy Director Year 6</p>
-</td>
-</tr>
-	<tr>
-<td rowspan="1" colspan="1">
-<p>MS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Janet Tay Cher Hoon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deputy Director Year 4</p>
-</td>
-</tr>
-	<tr>
-<td rowspan="1" colspan="1">
-<p>MS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Clarice Tan En Qi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deputy Director, Student Engagement &amp; Empowerment (VIA) (Acting)</p>
-</td>
-</tr>
-	<tr>
-<td rowspan="1" colspan="1">
-<p>MR</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Davin Tan Shun Chong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deputy Director, Year 3 (Acting)</p>
-</td>
-</tr>
-	<tr>
-<td rowspan="1" colspan="1">
-<p>MS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Jaime Ong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher&nbsp;(Holistic Development of Students)</p>
 </td>
 </tr>
 <tr>
@@ -221,17 +80,16 @@ variant: tiptap
 <p>Senior Teacher</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MR</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lawrence Yong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
-</td>
-</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>MR</p>
@@ -245,32 +103,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MS</p>
+<p>DR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dalwinther Kaur</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MR</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Elisha Asilvatham</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Florence Chiang Siu Sia</p>
+<p>Archana Vijaykumar Kursukar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -281,29 +117,7 @@ variant: tiptap
 <p>MR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jax Leong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lee Ooi Lian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MDM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teo Chin Wen</p>
+<p>Koh Liang Cheung Daniel</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -314,29 +128,7 @@ variant: tiptap
 <p>MR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teo Hui Koon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mazlind Bte Ali</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MRS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Muralitharan Mohana</p>
+<p>Lai Yong Chieng Marvin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -369,7 +161,7 @@ variant: tiptap
 <p>MR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vincent Lee Chee Hong</p>
+<p>Teo Hui Koon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -386,12 +178,144 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 </tr>
+</tbody>
+</table>
+<p><strong>SEC Stafflist</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
+<p>MRS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jess Wong Pih Yuen</p>
+<p>Gina Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dean Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MRS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chua Chia Pei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Dean Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Florence Chiang Siu Sia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Dean Mathematics (Acting)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gabriel Phee Tang Nam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Director Year 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Davin Tan Shun Chong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Director Year 3 (Acting)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Alice Pang Heng Hoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Director Year 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MRS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Megan Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Director Year 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Janet Tay Cher Hoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Director Year 4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jaime Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lawrence Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Clarice Tan En Qi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -399,10 +323,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dr</p>
+<p>MDM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Archana Vijaykumar Kusurkar</p>
+<p>Dalwinther Kaur</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -410,7 +334,29 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
+<p>MR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desmond Yap Sik Hsun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Elisha Asilvatham</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MS</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Eunice Koh Geok Puay</p>
@@ -421,10 +367,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
+<p>MR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Daniel Koh Liang Cheung</p>
+<p>Jax Leong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -432,7 +378,62 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
+<p>MS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jess Wong Pih Yuen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mabel Tong Mei Fong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MDM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mazlind Bte Ali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MDM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muralitharan Mohana</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vincent Lee Chee Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MR</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tay Chong Guan</p>
@@ -443,10 +444,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
+<p>MDM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mabel Tong Mei Fong</p>
+<p>Teo Chin Wen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -454,4 +455,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
