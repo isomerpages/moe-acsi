@@ -37,8 +37,8 @@ sections:
       alt: Performing Arts Night Festival
   - infopic:
       title: Sharpening the mind
-      description: "ACS(I) offers 2 academic tracks: 4-year Express programme leading
-        to GCE O-Level and 6-year Integrated programme leading to IB Diploma
+      description: "ACS(I) offers 2 academic tracks: 4-year SEC programme leading to
+        SEC examinations and 6-year Integrated programme leading to IB Diploma
         Programme (IBDP)"
       button: more
       url: /the-acs-independent-experience/approach/
