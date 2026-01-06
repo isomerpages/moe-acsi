@@ -213,7 +213,6 @@ run effective and engaging student-centric lessons for our&nbsp;students.</p>
 <p>Umay Khng</p>
 </td>
 </tr>
-
 <tr>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -223,6 +222,17 @@ run effective and engaging student-centric lessons for our&nbsp;students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nicole Tay Hui Fang</p>
+</td>
+</tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cheong Szu Chuang</p>
 </td>
 </tr>
 <tr>
