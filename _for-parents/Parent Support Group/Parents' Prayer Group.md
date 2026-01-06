@@ -1,5 +1,5 @@
 ---
-title: Prayer Power!
+title: Parents' Prayer Group
 permalink: /prayer-power/
 description: ""
 third_nav_title: Parent Support Group
@@ -7,12 +7,11 @@ variant: tiptap
 ---
 <h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GetImage_4_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GetImage_5_.png">
 </div>
 <hr>
-<p>“Be joyful always; pray continually; give thanks in all circumstances,
-for this is God’s will for&nbsp;you in Christ Jesus.”&nbsp;</p>
-<p>1 Thessalonians 5:16-18&nbsp;&nbsp;</p>
+<p><em>“Be joyful always; pray continually; give thanks in all circumstances, for this is God’s will for you in Christ Jesus.”</em>&nbsp;</p>
+<p><em>1 Thessalonians 5:16-18</em>&nbsp;&nbsp;</p>
 <p>We are a group of parents who come together weekly during the school term
 to pray for our school and families. Our gatherings start with worship,
 followed by a word of encouragement, prayer and then fellowship.&nbsp;</p>
@@ -20,14 +19,24 @@ followed by a word of encouragement, prayer and then fellowship.&nbsp;</p>
 prayer meetings. We hope you will receive Spirit-led encouragement, support
 and build lasting friendships in our community.&nbsp;</p>
 <p>Join us to&nbsp;</p>
+<ul>
+<li>
 <p>Become part of the wider ACS (Independent) Parent Community and stand
-in the gap for the school in a meaningful, practical way.&nbsp;&nbsp;</p>
+in the gap for the school in a meaningful, practical way.&nbsp;</p>
+</li>
+<li>
 <p>Get to know like‑hearted parents who understand the journey and can pray,
-listen, and walk with you.&nbsp;&nbsp;</p>
+listen, and walk with you.&nbsp;</p>
+</li>
+<li>
 <p>Receive encouragement, support, and build genuine, lasting friendships
-that often continue well beyond your child’s school years.&nbsp;&nbsp;</p>
+that often continue well beyond your child’s school years.&nbsp;</p>
+</li>
+<li>
 <p>Hear testimonies of what God is doing in the lives of students, staff
 and families and be part of that story through prayer.&nbsp;&nbsp;</p>
+</li>
+</ul>
 <p>We look forward to praying alongside with you for our school and families!&nbsp;</p>
 <p><strong>Parents’ Prayer Group</strong> (During the school term)&nbsp;</p>
 <p><strong>Timing &amp; Venue</strong>&nbsp;&nbsp;</p>
@@ -69,7 +78,8 @@ and families and be part of that story through prayer.&nbsp;&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p>For more information, please email Eunice Lam at <a href="mailto:acsiprayerparents@gmail.com" rel="noopener noreferrer nofollow" target="_blank">acsiprayerparents@gmail.com</a>&nbsp; &nbsp;</p>
+<p>For more information, please email Eunice Lam at <a href="mailto:acsiprayerparents@gmail.com" rel="noopener noreferrer nofollow" target="_blank">acsiprayerparents@gmail.com</a>&nbsp;</p>
+<p> &nbsp;</p>
 <p><strong>Fathers’ Prayer Group</strong> (During the school term)&nbsp;</p>
 <p><strong>Timing &amp; Venue</strong>&nbsp;&nbsp;</p>
 <table style="minWidth: 100px">
@@ -125,7 +135,7 @@ and families and be part of that story through prayer.&nbsp;&nbsp;</p>
 </tbody>
 </table>
 <p>For more information, please email Derek <a href="mailto:acsiprayerparents@gmail.com" rel="noopener noreferrer nofollow" target="_blank">derekyeo@gmail.com</a> and Joshua
-<a href="mailto:acsiprayerparents@gmail.com" rel="noopener noreferrer nofollow" target="_blank">Joshua.duan@gmail.com</a>&nbsp;&nbsp;</p>
+<a href="mailto:acsiprayerparents@gmail.com" rel="noopener noreferrer nofollow" target="_blank">Joshua.duan@gmail.com</a>&nbsp;</p>
 <p><strong>Parents’ Prayer Group</strong>&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
