@@ -23,17 +23,16 @@ and build lasting friendships in our community.&nbsp;</p>
 <li>
 <p>Become part of the wider ACS (Independent) Parent Community and stand
 in the gap for the school in a meaningful, practical way.&nbsp;
-<br>&nbsp;</p>
+</p>
 </li>
 <li>
 <p>Get to know like‑hearted parents who understand the journey and can pray,
 listen, and walk with you.&nbsp;
-<br>&nbsp;</p>
+</p>
 </li>
 <li>
 <p>Receive encouragement, support, and build genuine, lasting friendships
-that often continue well beyond your child’s school years.</p>
-<p>&nbsp;</p>
+that often continue well beyond your child’s school years.&nbsp;</p>
 </li>
 <li>
 <p>Hear testimonies of what God is doing in the lives of students, staff
