@@ -24,8 +24,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Diana <strong>CHNG</strong>
-</p>
+<p>Mdm Chan Yu Mun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher in-charge</p>
@@ -33,7 +32,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm <strong>XU</strong> ZhiWei</p>
+<p>Mdm Tay Lingxin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher in-charge</p>
@@ -41,7 +40,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms <strong>Chan </strong>Yu Mun</p>
+<p>Mdm Veena Bharwarni</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher in-charge</p>
