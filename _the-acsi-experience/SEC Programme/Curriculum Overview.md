@@ -2,7 +2,7 @@
 title: Curriculum Overview
 permalink: /the-acs-independent-experience/express-programme/curriculum-overview/
 description: ""
-third_nav_title: Secondary Programme
+third_nav_title: SEC Programme
 variant: markdown
 ---
 <p>The curriculum places emphasis on broad and balanced study across a wide range of subjects. The curriculum also develops learners’ skills in creative thinking, inquiry and problem-solving and is structured so that learners attain both theoretical and practical skills.</p>
