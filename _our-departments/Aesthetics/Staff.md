@@ -55,6 +55,8 @@ variant: tiptap
 <p>Deputy Dean, Aesthetics (Music)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:dereklimhk@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dereklimhk@acsindep.edu.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
