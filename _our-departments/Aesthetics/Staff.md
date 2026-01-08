@@ -52,7 +52,7 @@ variant: tiptap
 <p>Mr Derek Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MEP / Music IBDP / Lower Sec Music Coordinator</p>
+<p>Deputy Dean, Aesthetics (Music)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
