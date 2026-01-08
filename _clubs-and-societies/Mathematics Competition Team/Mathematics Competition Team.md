@@ -5,93 +5,22 @@ description: ""
 third_nav_title: Mathematics Competition Team
 variant: tiptap
 ---
-<h3>Major Competitions/Activities</h3>
-<p>Please check Mathematics Competition Team Calendar for the details, updates
-and latest information:</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Annual General Meeting (AGM) Online</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Math Competition Registration Phase 1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Feb</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>United Kingdom Intermediate Mathematics Challenge (UKIMC)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ACS(I) Inter-class Mathematics Challenge (ACMC)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Early Jun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Mathematics Olympiad (SMO), dates to be determined by organizers</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Early Aug</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Australian Mathematics Competition (AMC), date to be determined by organizers</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Early Nov</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>American Mathematics Contest (AMC10A, AMC10B, AMC12A, AMC12B)</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>The Mathematics Competition Team is a CCA for students who love mathematics
+and want to participate in mathematics competitions.&nbsp;</p>
+<p>In the past, our members have obtained top awards in the Singapore Mathematical
+Olympiad, Australian Mathematics Competition, American Mathematics Competition,
+British Mathematics Olympiads, and other international competitions.&nbsp;</p>
+<p>Capable and committed members can apply for leadership positions in the
+Executive Committee, where they get opportunities to conduct training sessions
+and design the ACS (I) Mathematics Challenge.&nbsp;</p>
+<p>Based on their sterling performances, our alumni members have been admitted
+to top universities all around the world.&nbsp;</p>
+<p><strong>Selection Criteria and Procedure for DSA Math Applicants</strong>
+</p>
+<p>Only APMOPS (Round 1)&nbsp;<strong>Platinum</strong>&nbsp;awardees will
+be considered. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>APMOPS is Asia-Pacific Mathematical Olympiad for Primary Schools organised
+by HCI. Previously known as SMOPS.&nbsp;</p>
+<p>Only shortlisted applicants will be notified and called up for face to
+face interview.</p>
 <p></p>
