@@ -23,10 +23,6 @@ variant: markdown
     <td style="text-align:center"><a href="/admissions/s1-posting-exercise/"> <i>Year 1 Registration Exercises</i></a></td>
     <td style="text-align:center"><a href="/about-acs-independent/fee/"> <i>School Fees</i></a></td>
   </tr>
-  <tr>
-    <td style="text-align:center"><a href="/admissions/explore-acsi/">  <i>Explore ACS(I)</i></a></td>
-    <td style="text-align:center"></td>
-    <td style="text-align:center"></td>
-  </tr>
+  
 </tbody>
 </table>
