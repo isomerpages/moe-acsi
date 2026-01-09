@@ -9,8 +9,8 @@ variant: markdown
 <thead>
   <tr>
     <th style="width:200px"><a href="/images/11.png"> <img src="/images/11.png" style="width:200px"></a></th>
-    <th style="width:200px"></th>
-    <th style="width:200px"></th>
+    <th style="width:200px"><a href="/images/NSI_2025_RY_017.jpg"> <img src="/images/NSI_2025_RY_017.jpg" style="width:200px"></a></th>
+    <th style="width:200px"><a href="/images/NSI_2025_RY_016.jpg"> <img src="/images/NSI_2025_RY_016.jpg" style="width:200px"></a></th>
 		<th style="width:200px"><a href="/images/12.png"> <img src="/images/12.png" style="width:200px"></a></th>
   </tr>
 </thead>
@@ -31,6 +31,14 @@ variant: markdown
     <td style="text-align:center"><a href="/images/90.jpg"> <img src="/images/90.jpg" style="width:200px; height: 130px"></a></td>
     <td style="text-align:center"><a href="/images/91.jpg"> <img src="/images/91.jpg" style="width:200px"></a></td>
     <td style="text-align:center"><a href="/images/92.jpg"> <img src="/images/92.jpg" style="width:200px"></a></td>
+		 <td style="text-align:center"><a href="/images/Image__1_.jpg"> <img src="/images/Image__1_.jpg" style="width:200px"></a></td>
+    
+  </tr>
+		<tr>
+    <td style="text-align:center"><a href="/images/20250914_185548.jpg"> <img src="/images/20250914_185548.jpg" style="width:200px; height: 130px"></a></td>
+    <td style="text-align:center"><a href="/images/20250109_110352.jpg"> <img src="/images/20250109_110352.jpg" style="width:200px"></a></td>
+    <td style="text-align:center"><a href="/images/20250109_104736.jpg"> <img src="/images/20250109_104736.jpg" style="width:200px"></a></td>
+			 <td style="text-align:center"><a href="/images/20250109_104724.jpg"> <img src="/images/20250109_104724.jpg" style="width:200px"></a></td>
     
   </tr>
 </tbody>

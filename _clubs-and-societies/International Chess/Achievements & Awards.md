@@ -5,6 +5,8 @@ description: ""
 third_nav_title: International Chess
 variant: tiptap
 ---
+<p><strong>&nbsp;</strong>
+</p>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -20,7 +22,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2024</strong>
+<p><strong>2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -46,19 +48,19 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Open U14</strong>
+<p><strong>U14 Open</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Elliot Wong Yen-Hsiu</strong>
+<p><strong>Lee, Tsuen Jin Aiesec</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1.11</strong>
+<p><strong>1.12 Titus</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2</strong>
+<p><strong>1</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -72,45 +74,19 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Open U14</strong>
+<p><strong>U14 Open</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ray Tan Yi Rui</strong>
+<p><strong>Wang, Yuchen</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1.13</strong>
+<p><strong>1.12 Titus</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>8</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>3</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>3</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Sec Open</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Kapoor Satvik</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>4.12</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>6</strong>
+<p><strong>2</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -120,19 +96,97 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>U14 Open</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Wong, Yen-Hsiu Elliot</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2.11 Asher</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>3</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>4</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Open U20</strong>
+<p><strong>U14 South</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Rahul Lakshmi Narasimhan</strong>
+<p><strong>Ng, Yong Rui Benjamin</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>5.16</strong>
+<p><strong>2.09 Benjamin</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>na</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>7</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>5</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>U14 South</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Teo, Hong Kai Javier</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1.06 Philip</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>na</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>8</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>U16 Open</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Chan, Daniel Yun Jie</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>4.01 Joshua</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -146,38 +200,87 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>7</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>U20 Girls South</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Chia, Kay Yee Rachel</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>5.05 Deuteronomy</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>na</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>7</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>8</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>U20 South</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lakshminarasimhan, Rahul</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>6.16 Macedonia</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>na</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>5</strong>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Open U20 [W]</strong>
+<p><strong>9</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Dharanipragada Mahima</strong>
+<p><strong>U20 South</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>6.16</strong>
+<p><strong>Kapoor, Satvik</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>5.15 Galatians</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>na</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>8</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>6</strong>
-</p>
-</td>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
 <p>&nbsp;</p>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -186,622 +289,355 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
+<p><strong>2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2024 National Inter-Schools Team Chess Championship&nbsp;</strong>
+<p><strong>National Inter-Schools Team Chess Championship</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
+<p><strong>Prize</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
+<p><strong>South</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>A Div</strong>
+<p><strong>C Div Team 1</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>ELLIOT WONG YEN-HSIU (captain)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1st</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1st</strong>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>AIESEC LEE TSUEN JIN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1st</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1st</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>RAY TAN YI RUI</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1st</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1st</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>WANG YUCHEN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1st</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1st</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>C Div team 2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>JAVIER TEO HONG KAI</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>5th</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>3rd</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>&nbsp;</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>1ST TEAM</strong>
+<p><strong>RISHIKESH SIDDHARTH</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Full Name as appears in NRIC</strong>
+<p><strong>5th</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Open</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>South Zone</strong>
+<p><strong>3rd</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Board 1</strong>
+<p><strong>&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Tang Yiheng</strong>
+<p><strong>CALEB NG QUAN ZHU</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>602</strong>
+<p><strong>5th</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2nd</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2nd</strong>
+<p><strong>3rd</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Board 2</strong>
+<p><strong>&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Punjabi Shiven Rajesh</strong>
+<p><strong>TEE CHEN RUI BRIAN</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>514</strong>
+<p><strong>5th</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2nd</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2nd</strong>
+<p><strong>3rd</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Board 3</strong>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>B Div team 1</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Rahul Lakshmi Narasimhan</strong>
+<p><strong>DANIEL CHAN YUN JIE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>516</strong>
+<p><strong>7th</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2nd</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2nd</strong>
+<p><strong>3rd</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Board 4</strong>
+<p><strong>&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Teo Jun Kai Ethan</strong>
+<p><strong>BENJAMIN NG YONG RUI</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>601</strong>
+<p><strong>7th</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2nd</strong>
+<p><strong>3rd</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2nd</strong>
+<p><strong>GIDEON YEN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>7th</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>3rd</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>KAU YANN XIANG JOSHUA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>7th</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>3rd</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>A Div team 1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>KAPOOR SATVIK</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1st</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1st</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>RAHUL LAKSHMI NARASIMHAN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1st</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1st</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>PUNJABI SHIVEN RAJESH</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1st</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1st</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>HO RAY EE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1st</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1st</strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>B Div</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>1ST TEAM</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Full Name as appears in NRIC</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Open</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>South Zone</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Board 1</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Kapoor Satvik</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>412</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>5th</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>3rd</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Board 2</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Wai Shang Bin, Jayden</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>309</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>5th</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>3rd</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Board 3</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ho Ray Ee</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>413</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>5th</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>3rd</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Board 4</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Daniel Chan Yun Jie</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>301</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>5th</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>3rd</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p>&nbsp;</p>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>C Div</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>1ST TEAM</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Full Name as appears in NRIC</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Open</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>South Zone</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Board 1</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ray Tan Yi Rui</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>113</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>1st</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>1st</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Board 2</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Elliot Wong Yen-Hsiu</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>111</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>1st</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>1st</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Board 3</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Gideon Yen</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>212</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>1st</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>1st</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Board 4</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Rishikesh Siddharth [non member]</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>102</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>1st</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>1st</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>C Div</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2ND TEAM</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Full Name as appears in NRIC</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Open</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>South Zone</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Board 1</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Isaac Tong Yaocong</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>111</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>4th</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>3rd</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Board 2</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Benjamin Ng Yong Rui</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>109</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>4th</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>3rd</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Board 3</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Alexander Tan Jun De</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>202</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>4th</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>3rd</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Board 4</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Siyath Atapattu</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>108</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>4th</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>3rd</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>&nbsp;</p>
 <p></p>
