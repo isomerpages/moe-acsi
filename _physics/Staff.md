@@ -14,7 +14,6 @@ run effective and engaging student-centric lessons for our&nbsp;students.</p>
 <col>
 </colgroup>
 <tbody>
-
 <tr>
 <td rowspan="1" colspan="1">
 <p>Dean Science / Physics</p>
@@ -26,15 +25,26 @@ run effective and engaging student-centric lessons for our&nbsp;students.</p>
 <p>Colleen Ng Shing Ling</p>
 </td>
 </tr>
-	<tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Deputy Dean Science / Physics (Acting)</p>
+<p>Deputy Dean Science / Physics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Quek Siew Ling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Deputy Director, Student Leadership (Acting)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Halim Susanto</p>
 </td>
 </tr>
 <tr>
@@ -122,17 +132,6 @@ run effective and engaging student-centric lessons for our&nbsp;students.</p>
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gabriel Kam Mao Quan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Eric Wee Chye Heng</p>
 </td>
 </tr>
@@ -202,7 +201,7 @@ run effective and engaging student-centric lessons for our&nbsp;students.</p>
 <p>Sharmila Manoj Saralkar</p>
 </td>
 </tr>
-	<tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
@@ -215,7 +214,7 @@ run effective and engaging student-centric lessons for our&nbsp;students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>Deputy Director, Affective Education (Acting)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms</p>
@@ -224,7 +223,7 @@ run effective and engaging student-centric lessons for our&nbsp;students.</p>
 <p>Nicole Tay Hui Fang</p>
 </td>
 </tr>
-	<tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
