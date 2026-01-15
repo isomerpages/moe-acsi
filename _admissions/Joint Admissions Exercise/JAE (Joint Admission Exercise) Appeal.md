@@ -17,4 +17,5 @@ as they will not be considered for transfer unless there are extenuating
 circumstances.&nbsp;</p>
 <p>Students who wish to appeal for a place must meet the L1R5 cut-off point
 to be considered.&nbsp;</p>
+<p></p>
 <p>To submit your appeal, please click <strong><a href="https://site1.acsindep.edu.sg/Appls/Y5AdmissionAppeal/AppealForm.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>.</p>
