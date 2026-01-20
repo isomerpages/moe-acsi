@@ -3,6 +3,7 @@ title: Related External Links
 permalink: /departments/economics/related-external-links/
 description: ""
 third_nav_title: Economics, Business Management
+variant: markdown
 ---
 Related External Links
 ----------------------
@@ -16,6 +17,12 @@ Related External Links
 [The Ministry of Trade and Industry, Singapore](http://www.mti.gov.sg/)
 
 [The Monetary Authority of Singapore (MAS)](http://www.mas.gov.sg/)
+
+[Micro Govt Intervention](https://g.co/gemini/share/a7fa89095664)
+
+[Market Power](https://g.co/gemini/share/206f720bd479)
+
+[International Trade](https://g.co/gemini/share/3842f080514b)
 
 **Other Related External Links**
 --------------------------------
