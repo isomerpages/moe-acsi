@@ -18,11 +18,11 @@ Related External Links
 
 [The Monetary Authority of Singapore (MAS)](http://www.mas.gov.sg/)
 
-[Micro Govt Intervention](https://g.co/gemini/share/a7fa89095664)
+[Unit 2: Microeconomics: Govt Intervention](https://g.co/gemini/share/a7fa89095664)
 
-[Market Power](https://g.co/gemini/share/206f720bd479)
+[Unit 2: Market Power](https://g.co/gemini/share/206f720bd479)
 
-[International Trade](https://g.co/gemini/share/3842f080514b)
+[Unit 4: International Trade](https://g.co/gemini/share/3842f080514b)
 
 **Other Related External Links**
 --------------------------------
