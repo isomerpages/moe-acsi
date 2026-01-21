@@ -17,12 +17,7 @@ Related External Links
 [The Ministry of Trade and Industry, Singapore](http://www.mti.gov.sg/)
 
 [The Monetary Authority of Singapore (MAS)](http://www.mas.gov.sg/)
-
-[Unit 2: Microeconomics: Govt Intervention](https://g.co/gemini/share/a7fa89095664)
-
-[Unit 2: Market Power](https://g.co/gemini/share/206f720bd479)
-
-[Unit 4: International Trade](https://g.co/gemini/share/3842f080514b)
+ 
 
 **Other Related External Links**
 --------------------------------
