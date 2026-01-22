@@ -3,6 +3,7 @@ title: Chinese Chess
 permalink: /chinese-chess/
 description: ""
 third_nav_title: Chinese Chess
+variant: markdown
 ---
 History
 
@@ -21,3 +22,17 @@ The pieces are simple disks with Chinese characters on them to differentiate and
 In Xiang Qi, the concept of Stalemate does not exist. If a player cannot move, that player has lost which serves to remove one of the more tedious aspects found in the European game.
 
 It is often quoted that Xiang Qi is the most popular game in the world which is true but this is, of course, largely due to China’s great population (European Chess is more ubiquitous but Europeans should not be smug about this either since it has little to do with the qualities of the game and everything to do with European military and political dominance during the latter half of the second millennium AD).
+
+<p>The Anglo-Chinese School (Independent) Chinese Chess Club's mission is to provide a platform for our young talents to improve their skills at Chinese Chess. We also hope to foster a stronger appreciation for traditional Chinese culture, as well as encouraging empowered leadership through the Committee.</p>
+<p>Allocation of Year 1 to the Chinese Chess Club:</p>
+<p>There is no selection trial or try-outs for Chinese Chess.</p>
+<p>Members of the Chess Club will be given a link in the Chess Club TEAMS and other instructions concerning registration for these competitions.</p>
+<p>The Chinese Chess team usually participates in the following competitions: &nbsp;</p>
+<p>Competitions and events for the year 2026</p>
+<p>1、Char Yong Cup Chinese Chess Competition</p>
+<p>2、Discovery Camp CCA Exhibition</p>
+<p>3、Hwa Chong Cup Chinese Chess Competition</p>
+<p>4、Hwa Chong Mindsports Championships</p>
+<p>5、Raffles Cup Chinese Chess Competition</p>
+<p>6、Singapore Polytechnic Speed Xiangqi invitation</p>
+<p>7、Singapore Polytechnic Xiangqi Battle of Wits</p>
