@@ -3,7 +3,14 @@ title: Achievements
 permalink: /chinese-chess/achievements/
 description: ""
 third_nav_title: Chinese Chess
+variant: markdown
 ---
+Lim Zhan Xu Hayden: 2025 Char Yong Cup U16 5th Place
+
+Lim Yew Chung, Aaron: 2024 Char Yong Cup U16 Good Result
+
+Chow Junn Wing Ryan: SPMS Xiangqi Speed Chess 2025 3rd Place
+
 In 2018, Shawn Jin (4.01), and Ma Ze Xuan (4.01) achieved 4th in the Pioneer Junior College Cup (JC Category).
 
 In 2019, 4 members of the club made it to the finals of the 24th Char Yong Cup. Out of hundreds of competitors, Du Hongyi (2.06) achieved 8th in the U14 category whilst Ma Ze Xuan (6.01) achieved 14th, with Fang Jia Wei (5.11) and Jonathan Thumboo (5.10) both coming in top 32 in the U18 category. Our secondary team consisting of Du Hongyi, Julius Goh (2.06), Winson Ng (4.15), Wang Bo Qian (4.12) and Lim Juin Feng (4.16) also came in 4th in the 1st annual Jurong Pioneer JC Cup.
