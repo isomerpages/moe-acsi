@@ -16,14 +16,6 @@ variant: markdown
 <p><strong>1. BIBI &amp; BABA</strong></p>
 <p><strong>Online Order Link:&nbsp;</strong><a rel="noopener noreferrer nofollow" target="_blank" href="https://www.schooluniforms.sg/acs-independent-11">https://www.schooluniforms.sg/acs-independent-11</a></p>
 <p>The operating hours for their retail shop and factory are as follows:</p>
-<p><strong><u>YEAR-END SALES IN SCHOOL PREMISES</u></strong></p>
-<p>19 Dec - 11am to 3 pm</p>
-<p>22 Dec –9am to 3 pm</p>
-<p>23 Dec –9am to 3 pm</p>
-<p>26 Dec- 9am to 2 pm</p>
-<p>29 Dec –9am to 2 pm</p>
-<p>30 Dec - 9am to 2 pm</p>
-<p>Venue: Ground Floor</p>
 <p><strong>Bibi &amp; Baba Shop Orchard </strong></p>
 <p>Daily Opening Hours</p>
 <p>545 Orchard Road #02-28</p>
@@ -55,11 +47,6 @@ variant: markdown
 <p><strong>2. FINEST FASHION PTE LTD</strong></p>
 <p><strong>Online Order Link:</strong>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank" href="https://finestuniform.com/collections/anglo-chinese-secondary-school">https://finestuniform.com/collections/anglo-chinese-secondary-school</a></p>
 <p>You may purchase your uniforms from both outlets with made-to-measure orders available at both locations. The operating hours for their retail shop and factory are as follows:</p>
-<p><strong><u>YEAR-END SALES IN SCHOOL PREMISES</u></strong></p>
-<p>Dec 3,4,5,9, 11,12,15,18,19,20,22,23,26</p>
-<p>Jan 2026 – 2,5,6,7</p>
-<p>Timing: 9 am till 3 pm</p>
-<p>Venue: Roundabout</p>
 <p><strong>Retail Shop:</strong></p>
 <p>144 Upper Bukit Timah Road</p>
 <p>Beauty World Centre, B1-03</p>
