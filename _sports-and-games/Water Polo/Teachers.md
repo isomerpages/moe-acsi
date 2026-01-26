@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Water Polo
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -38,17 +43,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher cum Coach</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Jess Wong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>jesswong@acsindep.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher (administrator and A div)</p>
 </td>
 </tr>
 <tr>
