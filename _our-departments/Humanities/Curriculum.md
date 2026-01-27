@@ -15,7 +15,7 @@ variant: markdown
 8.  [History Upper Sec IP](/files/Our%20Departments/Humanities/history-upper-sec-ip.pdf)
 9.  [International Studies Upper Sec IP](/files/Our%20Departments/Humanities/ISY3-Subject-Brochure-v2023.pdf)
 10.  [Geography IB HL and SL](/files/Our%20Departments/Humanities/ib-geography-brochure-2022-1.pdf)
-11.  [History IB HL and SL](/files/Our%20Departments/Humanities/IB-History-Brochure-2022-1.pdf)
+11.  [History IB HL and SL](/files/History_2026_Brochure.pdf)
 12.  [Humanities (Social Studies, Geography)](/files/2025_Humanities__SS__Geog__SEC.pdf)
 13.  [Humanities (Social Studies, History)](/files/2025_Humanities__SS__Hist__SEC.pdf)
 14.  [Humanities (Social Studies, Literature in English)](/files/2025_Humanities__SS__Literature_in_English__SEC.pdf)
