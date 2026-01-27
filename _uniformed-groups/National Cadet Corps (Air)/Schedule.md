@@ -41,5 +41,5 @@ variant: tiptap
 <br>Cadet Leaders (Year 4):</p>
 <p>Outstanding Cadet Award
 <br>Cadet Officer Course (for nominated cadets)</p>
-<p>*Schedule is subjected to changes by NCC Headquarters</p>
+<p></p>
 <p></p>
