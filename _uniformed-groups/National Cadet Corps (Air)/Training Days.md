@@ -5,8 +5,10 @@ description: ""
 third_nav_title: National Cadet Corps (Air)
 variant: markdown
 ---
-<p><strong>2024 Training Day</strong><br>
-<strong>School Training Day (Weekly)</strong><br>
-<strong>Date: Every Friday afternoons</strong><br>
-<strong>Time: 2.30pm to 6.00 pm.</strong><br>
-<strong>HQ activities (Please refer to Schedule)</strong></p>
+School Trainings (Weekly)
+
+Date: Every Friday afternoon
+
+Time: 2.00pm to 5.00pm
+
+Note: HQ activities may take place outside of Fridays, with the schedules determined by HQ NCC
