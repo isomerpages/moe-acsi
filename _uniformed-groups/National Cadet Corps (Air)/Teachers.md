@@ -16,23 +16,19 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>S/No.</strong>
-</p>
+<p>S/N</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Teachers</strong>
-</p>
+<p>Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Appointment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Email</strong>
-</p>
+<p>Email</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Level</strong>
-</p>
+<p>Levels</p>
 </td>
 </tr>
 <tr>
@@ -40,17 +36,17 @@ variant: tiptap
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NG SHING LING COLLEEN</p>
+<p>CHIA KAH MUN ANDREW</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">colleenn@acsindep.edu.sg</a>
+<p><a href="mailto:andrewchiakm@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">andrewchiakm@acsindep.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year 5 &amp; 6 IC</p>
+<p>Years 5 &amp; 6 IC</p>
 </td>
 </tr>
 <tr>
@@ -58,13 +54,13 @@ variant: tiptap
 <p>2.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ANDREW CHIA KAH MUN</p>
+<p>CINDY SEE TOH</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">andrewchiakm@acsindep.edu.sg</a>
+<p><a href="mailto:cindyseetoh@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cindyseetoh@acsindep.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -82,7 +78,7 @@ variant: tiptap
 <p>TEACHER-OFFICER</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tasrifah@acsindep.edu.sg</a>
+<p><a href="mailto:tasrifah@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tasrifah@acsindep.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -100,8 +96,7 @@ variant: tiptap
 <p>TEACHER-OFFICER</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ongshuiying@acsindep.edu.sg</a>
-<a href="mailto:ongshuiying@acsindep.edu.sg@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">@</a><a rel="noopener noreferrer nofollow" target="_blank">acsindep.edu.sg</a>
+<p><a href="mailto:ongshuiying@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ongshuiying@acsindep.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -119,7 +114,7 @@ variant: tiptap
 <p>TEACHER-OFFICER</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">vinclee@acsindep.edu.sg</a>
+<p><a href="mailto:vinclee@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vinclee@acsindep.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
