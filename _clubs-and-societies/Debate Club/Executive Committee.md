@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Debate Club
 variant: tiptap
 ---
-<p><strong>2024/2025</strong>
+<p><strong>2025/2026</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -28,7 +28,7 @@ variant: tiptap
 <p>President</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gabriel Wong Kiat En (6.19)</p>
+<p>Jerome Ong (6.17)</p>
 </td>
 </tr>
 <tr>
@@ -36,7 +36,7 @@ variant: tiptap
 <p>IB Team Captain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Caden Wong Jing Xi (6.09)</p>
+<p>Nathaniel Cheng Rong En (6.12)</p>
 </td>
 </tr>
 <tr>
@@ -44,7 +44,7 @@ variant: tiptap
 <p>Vice-President</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yang Zhenglin (6.09)</p>
+<p>Jerome Chan Yeak Yern (6.17)</p>
 </td>
 </tr>
 <tr>
@@ -52,24 +52,9 @@ variant: tiptap
 <p>General Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Xu Wanxin (6.19)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secretaries of Publicity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Yuvaraja Sunitha Nandhini (6.11)</p>
-<p>Macy Amelie Sin Rei Soong (6.18)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secretary of Materials</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Heng Si Yun Adelle (6.04)</p>
+<p>Zhang Zhihe (6.06)</p>
+<p>Ang Sen Zhe, Micah (6.18)</p>
+<p>Lo Eleanor Wen-Ye (6.17)</p>
 </td>
 </tr>
 <tr>
@@ -85,7 +70,7 @@ variant: tiptap
 <p>Sec/IP Team Captain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Heng Jie Feng Ayden (4.10)</p>
+<p>Gilbert Wei Ziqi (4.16)</p>
 </td>
 </tr>
 <tr>
@@ -93,8 +78,8 @@ variant: tiptap
 <p>Sec/IP Team Vice-Captains</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lau Cedric Dreyzen Uy (4.10)</p>
-<p>Tan Wei-Xin Timothy (4.16)</p>
+<p>Chow Blake Raiden Zhen (4.16)</p>
+<p>Treidan Chan Zhi Kai (4.16)</p>
 </td>
 </tr>
 <tr>
@@ -102,13 +87,13 @@ variant: tiptap
 <p>Sec/IP Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ng Tei Rei, Javier (4.12)</p>
+<p>Leong Ze Meng, Noel (4.10)</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p><strong>2025/2026</strong>
+<p><strong>2026/2027</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -131,7 +116,7 @@ variant: tiptap
 <p>President-Designate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jerome Ong (5.17)</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -139,7 +124,7 @@ variant: tiptap
 <p>IB Team Captain-Designate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nathaniel Cheng Rong En (512)</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -147,7 +132,7 @@ variant: tiptap
 <p>Vice-President-Designate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jerome Chan Yeak Yern (5.17)</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -155,9 +140,7 @@ variant: tiptap
 <p>General Secretary-Designate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zhang Zhihe (5.06)</p>
-<p>Ang Sen Zhe, Micah (5.18)</p>
-<p>Lo Eleanor Wen-Ye (5.17)</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -165,7 +148,7 @@ variant: tiptap
 <p>--</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>--</p>
 </td>
 </tr>
 <tr>
@@ -173,7 +156,7 @@ variant: tiptap
 <p>Sec/IP Team Captain-Designate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gilbert Wei Ziqi (3.16)</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -181,8 +164,7 @@ variant: tiptap
 <p>Sec/IP Team Vice-Captain-Designate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chow Blake Raiden Zhen (3.16)</p>
-<p>Treidan Chan Zhi Kai (3.16)</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -190,11 +172,9 @@ variant: tiptap
 <p>Sec/IP Secretary-Designate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Leong Ze Meng, Noel (3.10</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p></p>
