@@ -20,4 +20,3 @@ variant: markdown
 13.  [Humanities (Social Studies, History)](/files/2025_Humanities__SS__Hist__SEC.pdf)
 14.  [Humanities (Social Studies, Literature in English)](/files/2025_Humanities__SS__Literature_in_English__SEC.pdf)
 
-[](/files/History_2026_Brochure.pdf)
