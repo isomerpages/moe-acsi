@@ -15,22 +15,14 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Our%20Departments/ELL/HL_SL_Lit_Brochure_2025_26.pdf">English A: Literature 2025-2026</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Our%20Departments/ELL/HL_SL_Lit_Brochure_2025_26.pdf">English A: Literature</a></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Our%20Departments/ELL/HL_SL_LangLit_Brochure_2025_26.pdf">English A: Language &amp; Literature 2025-2026</a></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/HL_Lit_Brochure_2024.pdf">English A: Literature 2024-2025</a></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/LangLit_Brochure_HLSL_2024.pdf">English A: Language &amp; Literature 2024-2025</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Our%20Departments/ELL/HL_SL_LangLit_Brochure_2025_26.pdf">English A: Language &amp; Literature</a></p>
 </td>
 </tr>
-	<tr>
-<td rowspan="1" colspan="1">
+
+<tr><td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Booklist_for_Website_SL_and_HL_Lit_2025_26.pdf">English A: Literature Booklist 2025-2026</a></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -38,5 +30,14 @@ variant: markdown
 
 </td>
 </tr>
-</tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/English_A_Literature_Booklist_2026_27.pdf">English A: Literature 2026-2027</a></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/English_A_Langauge_and_Literature_Booklist_2026_27.pdf">English A: Language &amp; Literature 2026-2027</a></p>
+</td>
+</tr>
+	<tr>
+</tr></tbody>
 </table>
