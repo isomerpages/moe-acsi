@@ -51,14 +51,6 @@ third_nav_title: Cricket
 <p>Teacher-in-Charge</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Cheong Szu Chuang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher-in-Charge</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
