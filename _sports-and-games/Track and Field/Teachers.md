@@ -25,10 +25,6 @@ Position: Teacher IC (B Division)
 Contact Number: 67769531  
 Email: [katewangfang@acsindep.edu.sg](mailto:katewangfang@acsindep.edu.sg)
 
-**Mr Goh Wee Kiat**  
-Position: Teacher IC (C Division)  
-Contact Number: 6870 0643  
-Email: [gohweekiat@acsindep.edu.sg](mailto:gohweekiat@acsindep.edu.sg)
 
 **Ms Lai Chien Siew**  
 Position: Teacher IC  
