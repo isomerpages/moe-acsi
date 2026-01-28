@@ -1,5 +1,5 @@
 ---
-title: 2025 VA Recruitment
+title: VA Recruitment
 permalink: /vocal-accord/auditions/
 description: ""
 third_nav_title: Vocal ACcord
