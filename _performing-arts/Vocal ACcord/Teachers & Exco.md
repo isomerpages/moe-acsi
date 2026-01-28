@@ -52,11 +52,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>2024/25 EXCO</strong>
-</p>
-<table style="minWidth: 75px">
+<p><strong>2025/26 EXCO</strong>&nbsp;</p>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -66,39 +64,84 @@ variant: tiptap
 <p>President</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Evan Choo Qi Jie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">20evan.choo.qi.jie@acsians.acsi.edu.sg</a>
-</p>
+<p>Ng Sze Yao</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Music Team Head</p>
+<p>Vice-President (Music, Welfare)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chong Xiu Qi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">20chong.xiu.qi@acsians.acsi.edu.sg</a>
-</p>
+<p>Ian Goh</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Welfare &amp; Logistics I/C</p>
+<p>Vice-President (Logistics, Publicity)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kong Kaien Victoria</p>
+<p>Chitra Arumugam</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Conductor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">20victoria.kong@acsians.acsi.edu.sg</a>
-</p>
+<p>Sophia Kate Tan Xin-En</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Music 2IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zhang Ruizhe</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Welfare IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Benjamin Yeo Seng Oon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Logistics 1IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cameron Lim Ren Yi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Logistics 2IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Evan Putera Tjandra</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Publicity 1IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Elizabeth Anne Sofyan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Publicity 2IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shannyn Caroline Wee</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/honours-day-768x1024.jpg">
 </div>
