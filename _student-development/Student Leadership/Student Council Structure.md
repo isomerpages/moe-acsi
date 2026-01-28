@@ -5,30 +5,37 @@ description: ""
 third_nav_title: Student Leadership
 variant: tiptap
 ---
-<h3>Teachers</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td rowspan="2" colspan="1">
-<p>Mdm Lee Chia Hui</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Deputy Director, Student Leadership</p>
-<p>Prefectorial Board Teacher IC</p>
-</td>
-</tr>
-<tr></tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Beatrice Leong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher Advisor</p>
+<td rowspan="1" colspan="2">
+<p><strong>Teachers</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Hui Ming</p>
+<p>Mr Koh Tiang Peng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Director, Student Leadership</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nicole Tay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher IC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Celeste Teo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher Advisor</p>
@@ -36,27 +43,26 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<p>&nbsp;</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p><strong>Executive Committee</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Raynen Ngoh Zhe Yu</p>
+<p>LOW YING XIANG, JOSHUA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6.09</p>
+<p>6.16</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>President</p>
@@ -64,86 +70,88 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nyeo Zi Xin Kieran</p>
+<p>ZHANG ZHIHE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6.01</p>
+<p>6.06</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice President</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ong Yuan Jing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6.03</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice President</p>
+<p>Vice-President</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sophie Khoo Tze Yun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6.09</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice President</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dylan Teo Jing Yi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6.05</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Human Resource Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Phang Zhi Xuan Belle</p>
+<p>GOH KAISI, ASHLEY</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.13</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Human Resource Manager</p>
+<p>Vice-President</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Clarabelle Tan Shih Jieh</p>
+<p>EVAN ANG JING HAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6.18</p>
+<p>6.17</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Student Relations Officer</p>
+<p>Vice-President</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN YI LYNN, JOVENE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.02</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ExCo Member (Welfare)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LOH YANYI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.03</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ExCo Member (Outreach)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JANAV NAGAPATLA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.05</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ExCo Member (Human Resources)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<table>
+<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>Student Councillors</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ansel Edison Lim</p>
+<p>CHEW YI REN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.01</p>
@@ -151,23 +159,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kathryn Lilley</p>
+<p>TAN YI LYNN, JOVENE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6.01</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mohamed Iskandar Riswan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6.01</p>
+<p>6.02</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Xin Ying Ashley</p>
+<p>LOH LUI-EN, ABIGAIL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.03</p>
@@ -175,7 +175,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thanong Virabhak</p>
+<p>OW KY-ANN FAITH</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.03</p>
@@ -183,7 +183,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chung Qian Xia, Chinatsu</p>
+<p>NATALIE MAH HUI SHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.04</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN LI TSE, NATALIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.04</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHIA KAY YEE RACHEL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.05</p>
@@ -191,23 +207,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Joel Lam Koi Kee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6.05</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Laura Jane Koh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6.05</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Loi Qi Xin</p>
+<p>PARITH AVASADANOND</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.06</p>
@@ -215,7 +215,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Riyana Kelin</p>
+<p>ZANDER TEO ZIHENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AMELIA DAVIES</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.07</p>
@@ -223,7 +231,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wilson Lourdu Xavier Garrison Joshua</p>
+<p>SHAUNA CHING LYNN SHYUAN (ZHUANG RENXUAN)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.07</p>
@@ -231,7 +239,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tiana Cheong Yi-Lin</p>
+<p>JANELLE RUTH TAN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.08</p>
@@ -239,23 +247,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Timothy Lawrence Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6.08</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Kimberly Kaela Lum Le En</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6.09</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Caitlin Lau Yi Lin</p>
+<p>DARSHAN MOORTHY</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.10</p>
@@ -263,15 +255,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>John Heng Kai En</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6.10</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chow Rae Howe Isaac</p>
+<p>CHARIS JX CHUA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.11</p>
@@ -279,7 +263,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Justin Yoon Tzen Tiam</p>
+<p>GOH XIWEN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.11</p>
@@ -287,7 +271,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ethan Tam Qi Wei</p>
+<p>CHNG WEI CHONG, DARREN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.12</p>
@@ -295,7 +279,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Claire Lim Yi Hui</p>
+<p>EPHRAIM WU I-HNG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.12</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CAYDEN LIM TZE WEI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.13</p>
@@ -303,15 +295,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gracia Chua Rui En</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6.13</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mahir Goel</p>
+<p>CARA YEW KAY LEE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.14</p>
@@ -319,7 +303,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ryan Joshua Ong Sheng-En</p>
+<p>HIYA VIKAS DESAI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.14</p>
@@ -327,7 +311,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tenessa Chua Jie Xin</p>
+<p>ALFREDO ANGKASA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.15</p>
@@ -335,7 +319,31 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Michele Chan Li Wen</p>
+<p>CALEB THAM KAI LE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.15</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CLARA MAE KOK XIU-QI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.15</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PENG SHITAO, JERRY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.15</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHOW YEN YU</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.16</p>
@@ -343,7 +351,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ee Su-Ann</p>
+<p>JEROME ONG</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.17</p>
@@ -351,7 +359,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ethan Chng Xue Heng</p>
+<p>ARIELLE TAN XUAN LEI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.18</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHNG MIN MARISSA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.18</p>
