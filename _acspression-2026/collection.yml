@@ -1,4 +1,5 @@
 collections:
   acspression-2026:
     output: true
-    order: []
+    order:
+      - Term 1/.keep
