@@ -2,6 +2,11 @@ collections:
   acspression-2026:
     output: true
     order:
+      - Term 1/Haiku for a heart.md
+      - Term 1/Tracks We Share.md
+      - Term 1/Three haikus on youth.md
+      - Term 1/The Motion Picture of Youth.md
+      - Term 1/The Girl in the mirror finally smiles back.md
       - Term 1/Even Mondays End.md
       - Term 1/.keep
       - Term 2/.keep
