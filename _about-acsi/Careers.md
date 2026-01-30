@@ -42,14 +42,20 @@ for teaching of the following subjects to be part of the dynamic, creative
 and innovative teaching team.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Art and Design</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Secondary Levels</strong>
+<p><strong>Art &amp; Design - Secondary levels</strong>
 </p>
 </li>
-</ul>
+<li>
+<p><strong>English Language &amp; Literature - Secondary levels</strong>
+</p>
+</li>
+<li>
+<p><strong>Geography - Secondary/Junior College levels</strong>
+</p>
+</li>
+<li>
+<p><strong>Physical Education (with experience in Waterpolo) - Secondary/Junior College levels</strong>
+</p>
 </li>
 </ul>
 <p>In addition, we are also looking for the following Executive &amp; Support
@@ -57,10 +63,6 @@ Staff positions:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Custodians</strong>
-</p>
-</li>
-<li>
-<p><strong>Deputy Estate Development Manager (Project Management)</strong>
 </p>
 </li>
 <li>
@@ -79,10 +81,6 @@ Staff positions:</p>
 <p><strong>Laboratory Technical Officer</strong>
 </p>
 </li>
-<li>
-<p><strong>Procurement Officer</strong>
-</p>
-</li>
 </ul>
-<p>Interested applicants, please email your resume to&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">lilliantan@acsindep.edu.sg</a>
+<p>Interested applicants, please email your resume to&nbsp;<a href="mailto:lilliantan@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lilliantan@acsindep.edu.sg</a>
 </p>
