@@ -6,13 +6,13 @@ third_nav_title: Debate Club
 variant: markdown
 ---
 ACS (I) Debate Club Information for New Students/Parents
--------------------------------------------------------
+--------------------------------------------------------
 
 **For Year 1 Students Interested in Joining**
 
 There are no official auditions to join the Debate Club. Year 1 students who are interested in joining the Debate Club should indicate their desire to do so during the mass Co-Curricular Activity (CCA) selection/preference-indication/assignment exercise that should take place sometime during Year 1 orientation.
 
-_After_ the mass CCA selection/preference-indication/assignment exercise, Year 1 students who have been assigned to the Debate Club as their non-Uniformed Group (UG) CCA will have to report for weekly club training sessions on Mondays, 1500 to 1730 hours. (Once the club receives the list of assigned Year 1 club members from the school administration, a further announcement about these club training sessions will be both made during morning assembly and posted on the Debate Club notice board.)
+_After_ the mass CCA selection/preference-indication/assignment exercise, Year 1 students who have been assigned to the Debate Club as their non-Uniformed Group (UG) CCA will have to report for weekly club training sessions on Mondays, 1500 to 1730 hours. (Once the club receives the list of assigned Year 1 club members from the school administration, these students will be added to the relevant Microsoft Team and will be informed of the first and subsequent club training sessions there.)
 
 Year 1 students who are _not_ assigned to the Debate Club as their non-UG CCA but who nevertheless have an interest in joining us should attend the first club training session for Year 1s to further discuss the matter with the tutors-in-charge. Usually, such students have the option of either joining debate as their third CCA, or requesting for a transfer from their assigned non-UG to the Debate Club (subject to the other CCA tutor's approval and the ability of the former CCA to release assigned members).
 
