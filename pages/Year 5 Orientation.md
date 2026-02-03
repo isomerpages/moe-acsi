@@ -59,11 +59,7 @@ variant: markdown
 <p>Physics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_4_Physics_Course_Outline_2025.pdf">Physics Course Outline</a></p>
-	
-	
-	
-	
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/Group_4_Physics_Course_Outline_2026.pdf">Physics Course Outline</a></p>
 </td>
 </tr>
 <tr>
@@ -71,7 +67,7 @@ variant: markdown
 <p>Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_4_Chemistry_Course_Outline_2025.pdf">Chemistry Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/Group_4_Chemistry_Course_Outline_2026.pdf">Chemistry Course Outline</a></p>
 </td>
 </tr>
 <tr>
@@ -79,7 +75,7 @@ variant: markdown
 <p>Biology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_4_Biology_Course_Outline_2025.pdf">Biology Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/Group_4_Biology_Course_Outline_2026.pdf">Biology Course Outline</a></p>
 </td>
 </tr>
 <tr>
@@ -87,7 +83,7 @@ variant: markdown
 <p>Computer Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_4_Computer_Science_Course_Outline_2025.pdf">Computer Science Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/Group_4_Computer_Science_Course_Outline_2026.pdf">Computer Science Course Outline</a></p>
 </td>
 </tr>
 <tr>
@@ -95,7 +91,7 @@ variant: markdown
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_5_Mathematics_Course_Outline_2025.pdf">Mathematics Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/Group_5_Mathematics_Course_Outline_2026.pdf">Mathematics Course Outline</a></p>
 </td>
 </tr>
 <tr>
