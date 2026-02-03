@@ -144,7 +144,7 @@ variant: markdown
 <p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/2026_Term_1_Principal_s_Circular_for_Y5_Parents.pdf">Term 1 Principal’s Circular</a></p>
 <p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/Y5_School___Misc_Fees.pdf">Y5 School &amp; Misc Fees</a></p>
 <p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/2026_Orientation_Programme.pdf">Year 5 Orientation &amp; Programme</a></p>
-	<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/AY2025_MOE_Pre_U_Scholarships__IP_.pdf">MOE Pre University Scholarship Application </a></p>
+	<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/MOE_Pre_University_Scholarships_Application_for_O_Level___IP_Students.pdf">MOE Pre University Scholarship Application </a></p>
 <p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/Invitation_letter_to_IB_Evening_2026.pdf">IB Evening Invitation Letter</a></p>
 	<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/Layout_of_Subject_Booths_IB_Evening_2026_Audi_2.pdf">Layout of Subject Booths for IB Evening 2026</a></p>
 </td>
