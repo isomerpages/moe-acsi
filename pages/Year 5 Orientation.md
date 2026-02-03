@@ -139,17 +139,12 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 	<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/ECG_Letter_2026.pdf">ECG Screening</a></p>
-
-	<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Giro_Application_Form.pdf">GIRO Application Form</a></p>
-	
-	
-	<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2025_Year_5_Quarterly_GIRO_Collection_Schedule.pdf">Quarterly GIRO Collection Schedule</a></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2025_Term_1_Principal_s_Circular_for_Y5_Parents.pdf">Term 1 Principal’s Circular</a></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2025_Year_5_School_and_Misc_Fees.pdf">Y5 School &amp; Misc Fees</a></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Orientation___Lecture_Schedule_2025.pdf">Year 5 Orientation &amp; Lecture Schedule</a></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/AY2025_MOE_Independent_School_Bursary.pdf">MOE Independent School Bursary</a></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/AY2025_MOE_Pre_U_Scholarships__Non_IP_.pdf">MOE Pre University Scholarship Application for O Level Students 2025</a></p>
-	<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/AY2025_MOE_Pre_U_Scholarships__IP_.pdf">MOE Pre University Scholarship Application for IP Students 2025</a></p>
+	<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/Giro_Application_Form__for_all_levels_.pdf">GIRO Application Form</a></p>	
+	<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/Y2026_Quarterly_GIRO_collection_schedule.pdf">Quarterly GIRO Collection Schedule</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/2026_Term_1_Principal_s_Circular_for_Y5_Parents.pdf">Term 1 Principal’s Circular</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/Y5_School___Misc_Fees.pdf">Y5 School &amp; Misc Fees</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/2026_Orientation_Programme.pdf">Year 5 Orientation &amp; Programme</a></p>
+	<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/AY2025_MOE_Pre_U_Scholarships__IP_.pdf">MOE Pre University Scholarship Application </a></p>
 <p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Invitation_letter_to_IB_Evening_2025.pdf">IB Evening Invitation Letter</a></p>
 </td>
 </tr>
