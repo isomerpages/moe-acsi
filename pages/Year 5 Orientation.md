@@ -20,8 +20,8 @@ variant: markdown
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_1_Language_and_Literature_Course_Outline_2025.pdf">English Language &amp; Literature Course Outline&nbsp;</a></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_1_Literature_Course_Outline_2025.pdf">English Literature HL Course Outline</a>&nbsp;</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/Group_1_Language_and_Literature_Course_Outline_2026.pdf">English Language &amp; Literature Course Outline&nbsp;</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/Group_1_Literature_Course_Outline_2026.pdf">English Literature HL Course Outline</a>&nbsp;</p>
 	
 </td>
 </tr>
@@ -30,9 +30,10 @@ variant: markdown
 <p>Chinese B, Tamil B, Malay B, Hindi B, Spanish Ab Initio &amp; French Ab Initio</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_2_Language_Ab_Initio_Course_Outline_2025.pdf">Language Ab Course Outline</a></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_2_Language_B_Course_Outline_2025.pdf">&nbsp;Language B Course Outline</a></p>
+<p><a href="/files/Year%205%20orientation/2026/Group_2_Language_Ab_Initio_Course_Outline_2026.pdf">Language Ab Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/Group_2_Language_B_Course_Outline_2026.pdf">&nbsp;Language B Course Outline</a></p>
 
+	
 </td>
 </tr>
 <tr>
@@ -40,9 +41,8 @@ variant: markdown
 <p>History &amp; Geography</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_3_Geography_Course_Outline_2025.pdf">Geography Course Outline</a></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_3_History_Course_Outline_2025.pdf">History Course Outline</a></p>
-	
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/Group_3_Geography_Course_Outline_2026.pdf">Geography Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/Group_3_History_Course_Outline_2026.pdf">History Course Outline</a></p>
 </td>
 </tr>
 <tr>
@@ -50,8 +50,8 @@ variant: markdown
 <p>Economics &amp; Business Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_3_Business_Management_Course_Outline_2025.pdf">Business Management Course Outline</a></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_3_Economics_Brochure_2025.pdf">Economics Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/Group_3_Business_Management_Course_Outline_2026.pdf">Business Management Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/Group_3_Economics_Course_Outline_2026.pdf">Economics Course Outline</a></p>
 </td>
 </tr>
 <tr>
@@ -59,7 +59,7 @@ variant: markdown
 <p>Physics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_4_Physics_Course_Outline_2025.pdf">Physics Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/Group_4_Physics_Course_Outline_2026.pdf">Physics Course Outline</a></p>
 </td>
 </tr>
 <tr>
@@ -67,7 +67,7 @@ variant: markdown
 <p>Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_4_Chemistry_Course_Outline_2025.pdf">Chemistry Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/Group_4_Chemistry_Course_Outline_2026.pdf">Chemistry Course Outline</a></p>
 </td>
 </tr>
 <tr>
@@ -75,7 +75,7 @@ variant: markdown
 <p>Biology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_4_Biology_Course_Outline_2025.pdf">Biology Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/Group_4_Biology_Course_Outline_2026.pdf">Biology Course Outline</a></p>
 </td>
 </tr>
 <tr>
@@ -83,7 +83,7 @@ variant: markdown
 <p>Computer Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_4_Computer_Science_Course_Outline_2025.pdf">Computer Science Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/Group_4_Computer_Science_Course_Outline_2026.pdf">Computer Science Course Outline</a></p>
 </td>
 </tr>
 <tr>
@@ -91,7 +91,7 @@ variant: markdown
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_5_Mathematics_Course_Outline_2025.pdf">Mathematics Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/Group_5_Mathematics_Course_Outline_2026.pdf">Mathematics Course Outline</a></p>
 </td>
 </tr>
 <tr>
@@ -99,7 +99,8 @@ variant: markdown
 <p>Music &amp; Visual Arts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_6_Music_and_Visual_Art_Course_Outline_2025.pdf">Music and Visual Art Course Outline</a>&nbsp;</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/Group_6_Music_and_Visual_Arts_Course_Outline_2026.pdf">Music and Visual Art Course Outline</a>&nbsp;</p>
+	
 </td>
 </tr>
 <tr>
@@ -107,9 +108,7 @@ variant: markdown
 <p>Creativity, Activity &amp; Service (CAS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/IB_Core_CAS_Course_Outline_2025.pdf">Creativity, Activity &amp; Service (CAS) Course Outline</a></p>
-
-	
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/IB_Core_CAS_Course_Outline_2026.pdf">Creativity, Activity &amp; Service (CAS) Course Outline</a></p>
 </td>
 </tr>
 <tr>
@@ -117,7 +116,7 @@ variant: markdown
 <p>Extended Essay (EE) &amp; Theory of Knowledge (TOK)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/IB_Core_TOK_Course_Outline_2025.pdf">Theory of Knowledge (TOK) Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/IB_Core_TOK_Course_Outline_2026.pdf">Theory of Knowledge (TOK) Course Outline</a></p>
 </td>
 </tr>
 <tr>
@@ -125,7 +124,7 @@ variant: markdown
 <p>Accelerated Class for Integrative Studies (ACis) and Humanities Scholarship Programme (HSP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/ACis_and_HSP_Brochure_2025.pdf">ACis and HSP Brochure</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/ACis_and_HSP_Course_Outline_2026.pdf">ACis and HSP Brochure</a></p>
 </td>
 </tr>
 </tbody>
@@ -139,16 +138,15 @@ variant: markdown
 <p>Circulars and Forms</p>
 </td>
 <td rowspan="1" colspan="1">
-	<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/ECG_Letter_2025.pdf">ECG Screening</a></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Giro_Application_Form.pdf">GIRO Application Form</a></p>
-	<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2025_Year_5_Quarterly_GIRO_Collection_Schedule.pdf">Quarterly GIRO Collection Schedule</a></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2025_Term_1_Principal_s_Circular_for_Y5_Parents.pdf">Term 1 Principal’s Circular</a></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2025_Year_5_School_and_Misc_Fees.pdf">Y5 School &amp; Misc Fees</a></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Orientation___Lecture_Schedule_2025.pdf">Year 5 Orientation &amp; Lecture Schedule</a></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/AY2025_MOE_Independent_School_Bursary.pdf">MOE Independent School Bursary</a></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/AY2025_MOE_Pre_U_Scholarships__Non_IP_.pdf">MOE Pre University Scholarship Application for O Level Students 2025</a></p>
-	<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/AY2025_MOE_Pre_U_Scholarships__IP_.pdf">MOE Pre University Scholarship Application for IP Students 2025</a></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Invitation_letter_to_IB_Evening_2025.pdf">IB Evening Invitation Letter</a></p>
+	<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/ECG_Letter_2026.pdf">ECG Screening</a></p>
+	<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/Giro_Application_Form__for_all_levels_.pdf">GIRO Application Form</a></p>	
+	<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/Y2026_Quarterly_GIRO_collection_schedule.pdf">Quarterly GIRO Collection Schedule</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/2026_Term_1_Principal_s_Circular_for_Y5_Parents.pdf">Term 1 Principal’s Circular</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/Y5_School___Misc_Fees.pdf">Y5 School &amp; Misc Fees</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/2026_Orientation_Programme.pdf">Year 5 Orientation &amp; Programme</a></p>
+	<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/MOE_Pre_University_Scholarships_Application_for_O_Level___IP_Students.pdf">MOE Pre University Scholarship Application </a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/Invitation_letter_to_IB_Evening_2026.pdf">IB Evening Invitation Letter</a></p>
+	<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/Layout_of_Subject_Booths_IB_Evening_2026_Audi_2.pdf">Layout of Subject Booths for IB Evening 2026</a></p>
 </td>
 </tr>
 </tbody>
