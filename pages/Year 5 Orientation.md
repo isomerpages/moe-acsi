@@ -124,7 +124,7 @@ variant: markdown
 <p>Accelerated Class for Integrative Studies (ACis) and Humanities Scholarship Programme (HSP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/ACis_and_HSP_Brochure_2025.pdf">ACis and HSP Brochure</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/ACis_and_HSP_Course_Outline_2026.pdf">ACis and HSP Brochure</a></p>
 </td>
 </tr>
 </tbody>
