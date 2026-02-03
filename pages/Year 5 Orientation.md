@@ -41,9 +41,8 @@ variant: markdown
 <p>History &amp; Geography</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_3_Geography_Course_Outline_2025.pdf">Geography Course Outline</a></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_3_History_Course_Outline_2025.pdf">History Course Outline</a></p>
-	
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/Group_3_Geography_Course_Outline_2026.pdf">Geography Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/Group_3_History_Course_Outline_2026.pdf">History Course Outline</a></p>
 </td>
 </tr>
 <tr>
@@ -51,8 +50,8 @@ variant: markdown
 <p>Economics &amp; Business Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_3_Business_Management_Course_Outline_2025.pdf">Business Management Course Outline</a></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_3_Economics_Brochure_2025.pdf">Economics Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/Group_3_Business_Management_Course_Outline_2026.pdf">Business Management Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/Group_3_Economics_Course_Outline_2026.pdf">Economics Course Outline</a></p>
 </td>
 </tr>
 <tr>
@@ -61,6 +60,10 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Group_4_Physics_Course_Outline_2025.pdf">Physics Course Outline</a></p>
+	
+	
+	
+	
 </td>
 </tr>
 <tr>
