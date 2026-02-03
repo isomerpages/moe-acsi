@@ -138,8 +138,11 @@ variant: markdown
 <p>Circulars and Forms</p>
 </td>
 <td rowspan="1" colspan="1">
-	<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/ECG_Letter_2025.pdf">ECG Screening</a></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Giro_Application_Form.pdf">GIRO Application Form</a></p>
+	<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/ECG_Letter_2026.pdf">ECG Screening</a></p>
+
+	<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/Giro_Application_Form.pdf">GIRO Application Form</a></p>
+	
+	
 	<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2025_Year_5_Quarterly_GIRO_Collection_Schedule.pdf">Quarterly GIRO Collection Schedule</a></p>
 <p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2025_Term_1_Principal_s_Circular_for_Y5_Parents.pdf">Term 1 Principal’s Circular</a></p>
 <p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2025_Year_5_School_and_Misc_Fees.pdf">Y5 School &amp; Misc Fees</a></p>
