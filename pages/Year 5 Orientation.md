@@ -108,9 +108,7 @@ variant: markdown
 <p>Creativity, Activity &amp; Service (CAS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/IB_Core_CAS_Course_Outline_2025.pdf">Creativity, Activity &amp; Service (CAS) Course Outline</a></p>
-
-	
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/IB_Core_CAS_Course_Outline_2026.pdf">Creativity, Activity &amp; Service (CAS) Course Outline</a></p>
 </td>
 </tr>
 <tr>
@@ -118,7 +116,7 @@ variant: markdown
 <p>Extended Essay (EE) &amp; Theory of Knowledge (TOK)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/IB_Core_TOK_Course_Outline_2025.pdf">Theory of Knowledge (TOK) Course Outline</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Year%205%20orientation/2026/IB_Core_TOK_Course_Outline_2026.pdf">Theory of Knowledge (TOK) Course Outline</a></p>
 </td>
 </tr>
 <tr>
