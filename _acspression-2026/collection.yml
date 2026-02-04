@@ -2,6 +2,7 @@ collections:
   acspression-2026:
     output: true
     order:
+      - Term 1/lessons in being.md
       - Term 1/specks of a dot.md
       - Term 1/Day 0.md
       - Term 1/The Comedown.md
