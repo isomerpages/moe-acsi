@@ -37,7 +37,6 @@ the holistic development of our students.</p>
 <p><a href="https://www.acsindep.moe.edu.sg/about-acs-independent/school-profile/#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a>&nbsp;
 <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=482c8450-367a-4107-809d-99737c2f13c6" rel="noopener noreferrer nofollow" target="_blank">https://www.nlb.gov.sg/main/article-detail?cmsuuid=482c8450-367a-4107-809d-99737c2f13c6</a>
 </p>
-<p><a href="/files/School%20Profile/2025_school_profile_17_sept.pdf" rel="noopener nofollow" target="_blank">To download our School Profile, click here.</a>
+<p><a href="/files/School%20Profile/2025_school_profile_4_feb_2026.pdf" rel="noopener nofollow" target="_blank">To download our School Profile, click here.</a>
 </p>
 <p></p>
-
