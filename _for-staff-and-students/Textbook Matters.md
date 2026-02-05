@@ -17,7 +17,7 @@ provided by our vendor and their respective dates in the attached file.</p>
 </p>
 </li>
 <li>
-<p>Year 5 Booklist</p>
+<p><a href="/files/ACSI_2026_YEAR_5.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 5 Booklist</a></p>
 </li>
 </ol>
 <p>Website for Online Sales:&nbsp;<a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a>
