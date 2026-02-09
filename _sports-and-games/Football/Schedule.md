@@ -29,10 +29,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thursdays</p>
+<p>Fridays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5:00 pm – 7:00 pm</p>
+<p>3:00 pm – 5:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Astroturf</p>
@@ -91,7 +91,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>3:30 pm – 5:00 pm</strong>
+<p><strong>3:00 pm – 5:00 pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -104,7 +104,7 @@ variant: tiptap
 <p>Thursdays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:30 pm – 5:00 pm</p>
+<p>3:00 pm – 5:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Astroturf</p>
@@ -127,7 +127,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>3:00 pm – 4:30 pm</strong>
+<p><strong>3:00 pm – 5:00 pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -140,7 +140,7 @@ variant: tiptap
 <p>Thursdays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00 pm – 4:30 pm</p>
+<p>3:00 pm – 5:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Astroturf</p>
