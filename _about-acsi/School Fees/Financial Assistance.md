@@ -136,7 +136,7 @@ of $1,200 per year for Singapore citizens who</p>
 </ul>
 <p>The UPLIFT scholarship is automatically awarded to eligible students and
 no separate application is needed.</p>
-<p>For more information please refer to <a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships" rel="noopener noreferrer nofollow" target="_blank">this website</a>.</p>
+<p>For more information please refer to <a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarship" rel="noopener noreferrer nofollow" target="_blank">this website</a>.</p>
 <p><strong>Apart from the MOE ISB, our school has following scholarships, bursaries and assistance scheme in place:</strong>&nbsp;</p>
 <p>a) School-based scholarships:</p>
 <ul data-tight="true" class="tight">
