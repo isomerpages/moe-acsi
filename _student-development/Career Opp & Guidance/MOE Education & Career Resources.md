@@ -43,7 +43,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.pdf</a>
+<p><a href="/files/COG/ParentGuideBooklet.pdf" rel="noopener nofollow" target="_blank">Parent Guide Booklet</a>
 </p>
 </td>
 </tr>
