@@ -7,7 +7,7 @@ variant: markdown
 ---
 #### Our Teachers
 
-**Mr. Mohamed Shariff**   
+**Dr. Mohamed Shariff**   
 Deputy Dean (Malay &amp; Tamil Languages)  
 Coordinator IBDP Hindi Language
 
