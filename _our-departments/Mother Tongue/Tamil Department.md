@@ -20,6 +20,6 @@ to excel in all aspects of life. Our students are the living examples of
 the Tamil Language Department’s success, showing their bright colours in
 various fields around the nation. We are also doing our part in spreading
 the Tamil language and culture among the Singaporean community.</p>
-<p>Mr Mohamed Shariff
+<p>Dr Mohamed Shariff
 <br>Deputy Dean (Malay and Tamil Languages)
 <br>Coordinator, IBDP Hindi Language</p>

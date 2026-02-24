@@ -29,7 +29,7 @@ third_nav_title: Cricket
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Shariff</p>
+<p>Dr Mohamed Shariff</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher in-charge</p>
