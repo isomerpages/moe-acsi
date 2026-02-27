@@ -107,10 +107,10 @@ at weekly fees depending on the duration of stay.</p>
 <p>All registered ACS (International) students either Local or Foreign will
 be allowed to apply for residence. Boarding School fees are charged yearly
 (2 semesters). New applicants will be charged a non-refundable application
-fee of $200, along with registration and miscellaneous fees $500.</p>
+fee of $300, along with registration and miscellaneous fees $500.</p>
 <p>Additional fees for vacation stay during the school holidays will be charged
 at weekly fees depending on the duration of stay.</p>
-<p>A deposit of $3,000 will be collected and refunded only after the completion
+<p>A deposit of $4,000 will be collected and refunded only after the completion
 of stay and upon full compliance of Terms and Conditions.</p>
 <table style="minWidth: 75px">
 <colgroup>
