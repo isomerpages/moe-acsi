@@ -2,6 +2,7 @@
 title: Physics
 permalink: /departments/science/physics/
 description: ""
+variant: markdown
 ---
 <img src="/images/Our%20Departments/Picture2-1024x546-300x160.png" style="width:35%">
 
@@ -22,21 +23,31 @@ Classical Physics, encompassing areas of Physics such as Newtonian Mechanics, Th
 
 Previously, Physics, as it was taught in schools, used to be rather heavy on mathematics, focusing on a quantitative approach to the subject. Students were to solve problems based on simulated scenarios which were crafted to match concepts that were intended to be assessed.
 
-In recent years, there has been a shift towards a more qualitative approach. Students are required to understand concepts and apply them when solving authentic real-world problems. Command terms such as _Explain, Suggest,_ or _Predict_ require students to analyse the given contexts, dissect them, and make sense of them. There is a reduced focus on tedious mathematical manipulations. While the physics concepts that students are required to learn are clearly stipulated in the syllabus, no syllabus can limit the application of these concepts, hence students need to have a flexible and analytical mind in order to do well in the subject. Repetitive drill and practice serves little to help students improve, but the aim of practicing a wide range of problems is to expose students to the multitude of applications that physics concepts can be extended to. To quote from the SEAB syllabus write up,
+In recent years, there has been a shift towards a more qualitative approach. Students are required to understand concepts and apply them when solving authentic real-world problems. Command terms such as&nbsp;_Explain, Suggest,_&nbsp;or&nbsp;_Predict_&nbsp;require students to analyse the given contexts, dissect them, and make sense of them. There is a reduced focus on tedious mathematical manipulations. While the physics concepts that students are required to learn are clearly stipulated in the syllabus, no syllabus can limit the application of these concepts, hence students need to have a flexible and analytical mind in order to do well in the subject. Repetitive drill and practice serves little to help students improve, but the aim of practicing a wide range of problems is to expose students to the multitude of applications that physics concepts can be extended to. To quote from the SEAB syllabus write up,
 
 _These assessment objectives cannot be precisely specified in the subject content because questions testing such skills may be based on information which is unfamiliar to the candidate. In answering such questions, candidates are required to use principles and concepts that are within the syllabus and apply them in a logical, reasoned or deductive manner to a novel situation._
 
-### The Teaching of Physics at ACS (Independent)
+### The Teaching of Physics at ACS (Independent)        
 
-All students in Year 1 and 2 (both Express and IP) will take Physical Sciences, a subject which combines Physics and Chemistry topics. It aims to build an interest for science in our students, and develop in them an aptitude for critical thinking and learning by inquiry.
+**The Teaching of Physics at ACS (Independent)**
 
-In Year 3 and 4 (both Express and IP), students may opt to take Physics as one of their science subjects. Besides an increased breadth of content compared to Years 1 and 2, content previously taught is also further developed in depth.
+At ACS (Independent), the teaching of Physics is intentionally structured to nurture curiosity, deepen conceptual understanding, and build a strong foundation for STEM learning across all levels.
 
-In Year 5 and 6, students who have passed Physics in Years 3 and 4 may continue to take Physics either at the Higher Level (HL) or Standard Level (SL). This fulfils the criteria for students to offer at least one Group 4 subject. Students need to have obtained a Grade 6 or A2 in order to take the subject at the Higher Level.
+**_Years 1 and 2 (SEC &amp; IP)_**
 
-In Years 5 and 6, Physics HL students may also do an Extended Essay in Physics.
+All students take Physical Sciences, an integrated subject combining foundational Physics and Chemistry topics. The programme aims to spark interest in science, cultivate the joy of learning, and develop students’ aptitude for STEM education through conceptual understanding and real-life application.
 
-Please refer to the page on Curriculum for more details.
+**_Years 3 and 4 (SEC &amp; IP)_**
+
+Students may opt to take Physics as one of their science subjects. The curriculum expands in both breadth and depth, building on prior knowledge from Years 1 and 2 while strengthening conceptual application in STEM contexts. Emphasis is placed on developing Metacognitive, Adaptive Thinking, and Complex Problem-Solving skills.
+
+**_Years 5 and 6 (IB Diploma Programme)_**
+
+Students who have passed Physics in Years 3 and 4 may continue the subject at either Higher Level (HL) or Standard Level (SL), fulfilling the requirement of offering at least one Group 4 subject. To offer Physics at Higher Level, students must have obtained at least a Grade 6 or A2.
+
+Physics HL students may also undertake an Extended Essay (EE) in Physics, providing opportunities for independent research in an area of personal interest.
+
+Please refer to the Curriculum page for further details.
 
 ### Computer Science
 
