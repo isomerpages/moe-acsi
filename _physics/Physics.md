@@ -29,8 +29,6 @@ _These assessment objectives cannot be precisely specified in the subject conten
 
 ### The Teaching of Physics at ACS (Independent)        
 
-**The Teaching of Physics at ACS (Independent)**
-
 At ACS (Independent), the teaching of Physics is intentionally structured to nurture curiosity, deepen conceptual understanding, and build a strong foundation for STEM learning across all levels.
 
 **_Years 1 and 2 (SEC &amp; IP)_**
