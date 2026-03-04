@@ -35,7 +35,7 @@ remuneration and a recent photograph by post or email to:</p>
 </p>
 <p>We thank all applicants for your interest and would like to inform all
 applicants that only shortlisted candidates will be notified.</p>
-<p><strong><u>Academic Staff</u></strong>
+<p><strong>Academic Staff</strong>
 </p>
 <p>We welcome qualified and highly motivated individuals with a strong passion
 for teaching of the following subjects to be part of the dynamic, creative
@@ -50,7 +50,11 @@ and innovative teaching team.</p>
 </p>
 </li>
 <li>
-<p><strong>Geography - Secondary/Junior College levels</strong>
+<p><strong>Mathematics – Junior College Levels</strong>
+</p>
+</li>
+<li>
+<p><strong>Mother Tongue (Chinese Language) – Secondary levels</strong>
 </p>
 </li>
 <li>
@@ -75,10 +79,6 @@ Staff positions:</p>
 </li>
 <li>
 <p><strong>IT Solutions Developer</strong>
-</p>
-</li>
-<li>
-<p><strong>Laboratory Technical Officer</strong>
 </p>
 </li>
 </ul>
