@@ -40,6 +40,11 @@ applicants that only shortlisted candidates will be notified.</p>
 <p>We welcome qualified and highly motivated individuals with a strong passion
 for teaching of the following subjects to be part of the dynamic, creative
 and innovative teaching team.</p>
+<p><strong>Academic Staff</strong>
+</p>
+<p>We welcome qualified and highly motivated individuals with a strong passion
+for teaching of the following subjects to be part of the dynamic, creative
+and innovative teaching team.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Art &amp; Design - Secondary levels</strong>
@@ -84,3 +89,4 @@ Staff positions:</p>
 </ul>
 <p>Interested applicants, please email your resume to&nbsp;<a href="mailto:lilliantan@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lilliantan@acsindep.edu.sg</a>
 </p>
+<p></p>
