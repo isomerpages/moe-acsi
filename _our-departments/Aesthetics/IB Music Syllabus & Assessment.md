@@ -3,9 +3,9 @@ title: IB Music Syllabus & Assessment
 permalink: /departments/aesthetics/ib-music-programme/ib-music-programme-syllabus-assessment/
 description: ""
 third_nav_title: Aesthetics
+variant: markdown
 ---
-
-The IBDP HL Music course comprises both internal and external assessments with various components on exploring music in context, experimenting with music, and presenting music. Students will engage with settings of contemporary music-making that reflect the dynamic and mutual influence of music and technology at the heart of the contemporary musical experience.
+The IBDP Music HL course comprises both internal and external assessments with various components on exploring music in context, experimenting with music, and presenting music. Students will engage with settings of contemporary music-making that reflect the dynamic and mutual influence of music and technology at the heart of the contemporary musical experience.
 
 **First Assessment from 2022**
 
@@ -18,7 +18,7 @@ The IBDP HL Music course comprises both internal and external assessments with v
 |                 |               | 100% |
 
 
-**Assessment Objectives:**  Students will be expected to demonstrate and achieve the following assessment objectives:
+**Assessment Objectives:**&nbsp;&nbsp;Students will be expected to demonstrate and achieve the following assessment objectives:
 
 *   **Demonstrate knowledge and understanding of specified content, contexts and processes**
     *   Explore the relationship between music and its contexts

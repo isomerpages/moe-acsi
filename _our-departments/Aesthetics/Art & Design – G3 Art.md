@@ -1,17 +1,17 @@
 ---
-title: Art & Design – Years 3 & 4 Higher Art
+title: Art & Design – G3 Art
 permalink: /departments/aesthetics/art-design-years-3-4-higher-art/
 description: ""
 third_nav_title: Aesthetics
+variant: tiptap
 ---
-
-**Years 3 & 4 EXPRESS**
+**Years 3 &amp; 4 EXPRESS**
 
 **HIGHER ART (6124)**
 
 **INTRODUCTION**
 
- The Higher Art syllabus is designed to provide artistically talented and academically able students with the opportunity to give form and meaning to their ideas, thoughts and feelings through visual and tactile forms. The breadth and depth of study cater to a range of abilities and interests. The process of art making involving the use of a variety of media and technologies, as well as its role in the development of critical and creative thinking, continue to be maintained. Visual literacy skills such as perceiving and responding to visual images, and analysis of visual information in its many forms are further enhanced and developed in this syllabus. This document presents the aims, the framework, the learning outcomes, the content and the examination requirements of the Higher Art syllabus.
+&nbsp;The Higher Art syllabus is designed to provide artistically talented and academically able students with the opportunity to give form and meaning to their ideas, thoughts and feelings through visual and tactile forms. The breadth and depth of study cater to a range of abilities and interests. The process of art making involving the use of a variety of media and technologies, as well as its role in the development of critical and creative thinking, continue to be maintained. Visual literacy skills such as perceiving and responding to visual images, and analysis of visual information in its many forms are further enhanced and developed in this syllabus. This document presents the aims, the framework, the learning outcomes, the content and the examination requirements of the Higher Art syllabus.
 
 **AIMS**
 
@@ -25,17 +25,17 @@ The aims of the syllabus are to:
 
 **FRAMEWORK**
 
- The framework for the Art syllabus is structured under three behavioural domains of **Perceiving**, **Communicating** and **Appreciating**. These behavioural domains take into consideration the cognitive, psychomotor and affective dimensions that students are involved in when they are engaged in the visual arts. The three domains are interconnected and operate dynamically.
+&nbsp;The framework for the Art syllabus is structured under three behavioural domains of&nbsp;**Perceiving**,&nbsp;**Communicating**&nbsp;and&nbsp;**Appreciating**. These behavioural domains take into consideration the cognitive, psychomotor and affective dimensions that students are involved in when they are engaged in the visual arts. The three domains are interconnected and operate dynamically.
 
-Under the domain of **Perceiving**, students respond to and interpret visual images and objects sensitively and informatively. They learn to discriminate and make connections between different visual qualities and phenomena. Through observing and analysing visual stimuli in nature and the man-made environment as well as works of art, students develop visual awareness and sensitivities that encourage imagination and the generation of ideas.
+Under the domain of&nbsp;**Perceiving**, students respond to and interpret visual images and objects sensitively and informatively. They learn to discriminate and make connections between different visual qualities and phenomena. Through observing and analysing visual stimuli in nature and the man-made environment as well as works of art, students develop visual awareness and sensitivities that encourage imagination and the generation of ideas.
 
-Under the domain of **Communicating**, students express their thoughts, experiences and feelings in visual, tactile, oral or literary forms. This involves drawing on ideas, organising information, solving problems and expressing intent and purpose. Through research and exploration, students develop process skills to reinforce the effectiveness of communicating.
+Under the domain of&nbsp;**Communicating**, students express their thoughts, experiences and feelings in visual, tactile, oral or literary forms. This involves drawing on ideas, organising information, solving problems and expressing intent and purpose. Through research and exploration, students develop process skills to reinforce the effectiveness of communicating.
 
-Under the domain of **Appreciating**, students value the visual arts as a means of expression. Students learn to evaluate and appreciate artworks made by themselves and other artists. They are able to see the connection of the visual arts to their lives and better appreciate its significance in the wider context of culture and society. Students develop aesthetic and cultural awareness from which personal and cultural identities could be examined and built upon. Through this, students will continue their interest and participation in the visual arts beyond school.
+Under the domain of&nbsp;**Appreciating**, students value the visual arts as a means of expression. Students learn to evaluate and appreciate artworks made by themselves and other artists. They are able to see the connection of the visual arts to their lives and better appreciate its significance in the wider context of culture and society. Students develop aesthetic and cultural awareness from which personal and cultural identities could be examined and built upon. Through this, students will continue their interest and participation in the visual arts beyond school.
 
 **LEARNING OUTCOMES**
 
- The learning outcomes for the Art syllabus are organised under the domains of **PERCEIVING**, **COMMUNICATING** and **APPRECIATING**.
+&nbsp;The learning outcomes for the Art syllabus are organised under the domains of&nbsp;**PERCEIVING**,&nbsp;**COMMUNICATING**&nbsp;and&nbsp;**APPRECIATING**.
 
 By the end of secondary education, students will be able to:
 
@@ -65,7 +65,7 @@ The content for the Study of Visual Arts is organised along three broad themes. 
 
 **EXAMINATION REQUIREMENTS**
 
- Candidates taking the GCE ‘O’ level Higher Art Syllabus Examinations will be required to offer Paper 1: Coursework and Paper 4: Visual Arts Task, with _either_ Paper 2: Drawing and Painting, or Paper 3: Study of Visual Arts
+&nbsp;Candidates taking the GCE ‘O’ level Higher Art Syllabus Examinations will be required to offer Paper 1: Coursework and Paper 4: Visual Arts Task, with&nbsp;_either_&nbsp;Paper 2: Drawing and Painting, or Paper 3: Study of Visual Arts
  
  | Paper                     | Description          | Examination Duration | Weighting | Requirement                      |
 |-------|------------|----------|-----------|---------|
@@ -76,7 +76,7 @@ The content for the Study of Visual Arts is organised along three broad themes. 
 
 **Higher Art Grading**
 
- The grading system and rules of award for Higher Art are as follows:
+&nbsp;The grading system and rules of award for Higher Art are as follows:
 
 1\.  A candidate must achieve grade 1 or 2 in each of the three components to be awarded Distinction in Higher Art   
 2\.  A candidate must achieve grade 6 or higher in each of the three components to be awarded Merit in Higher Art   

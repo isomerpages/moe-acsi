@@ -1,10 +1,10 @@
 ---
-title: Art & Design – Years 1 & 2 Art
+title: Art & Design – Lower Sec Art
 permalink: /departments/aesthetics/art-design-years-1-2-art/
 description: ""
 third_nav_title: Aesthetics
+variant: tiptap
 ---
-
 <table border="1" width="100%">
 <tbody>
 <tr>
@@ -47,7 +47,7 @@ third_nav_title: Aesthetics
 <td width="167">LO1 Identify qualities in and interpret what they see and experience</td>
 <td colspan="2" width="167">LO4 Express experiences and ideas in art making
 </td>
-<td width="167">LO6 Reflect and share views on their own and others&rsquo; art making
+<td width="167">LO6 Reflect and share views on their own and others’ art making
 </td>
 <td width="167">CGC 1 Aware of community and national issues and plays a part to improve the community and nation</td>
 <td width="161">CIT 1 Explores possibilities and generates ideas</td>
