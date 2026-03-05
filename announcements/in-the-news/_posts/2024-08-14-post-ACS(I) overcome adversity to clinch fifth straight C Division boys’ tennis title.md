@@ -6,7 +6,7 @@ date: 2024-08-14
 layout: post
 description: ""
 image: ""
-variant: tiptap
+variant: markdown
 ---
 <p></p>
 <div class="isomer-image-wrapper">
