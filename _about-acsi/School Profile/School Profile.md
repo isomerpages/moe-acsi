@@ -17,12 +17,12 @@ subsequently the school was renamed ACS (Independent).</p>
 spiritual values, a tradition of excellence and a global perspective. It
 was authorised as an International Baccalaureate (IB) World School in 2005
 and is the pioneer national school to offer the IB Diploma Programme. Today
-the school offers two academic tracks:</p>
-<p>– the four-year Express programme leading to the GCE O-Level Examinations,
-and
-<br>– the six-year Integrated Programme (IP) leading to the IB Diploma programme.</p>
+the school offers two academic tracks:&nbsp;</p>
+<p>– the four-year Secondary Education Certificate (SEC) programme leading
+to the SEC Examinations, and
+<br>– the six-year Integrated Programme (IP) leading to the IB Diploma programme.&nbsp;</p>
 <p>The IP allows students to progress from secondary to pre-university education
-without the requirement to sit the GCE O-Level Examinations.</p>
+without the requirement to sit the SEC Examinations.</p>
 <p>The core purpose of our school remains to nurture ACSians to be catalysts
 for change with Godly values and robust character, equipped and willing
 to serve and lead in the family, nation and the global community. Our mission
