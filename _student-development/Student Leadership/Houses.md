@@ -3,49 +3,85 @@ title: Houses
 permalink: /student-development/houses/
 description: ""
 third_nav_title: Student Leadership
+variant: markdown
 ---
-![](/images/House/slide1.jpg)
+<style>
+  .acs-house-page { max-width: 1100px; margin: 0 auto; padding: 20px 0; background: #fff; font-family: system-ui, sans-serif; text-align: center; color: #0a2540; }
+  .hero h1 { font-family: 'Great Vibes', cursive; font-size: 8rem; line-height: 0.75; margin: 0; letter-spacing: -10px; }
+  .slogan { font-size: 2.6rem; margin: 10px 0 0; }
+  .heart { color: #c8102e; }
+  .emblem-cluster { font-size: 4.8rem; margin: 30px 0 50px; }
+  h2 { font-family: 'Great Vibes', cursive; font-size: 3.6rem; margin: 60px 0 20px; }
+  .purpose { font-size: 1.35rem; max-width: 780px; margin: 0 auto 60px; }
+  
+  .houses-grid, .events-grid, .memories-grid { display: grid; gap: 16px; margin: 40px 0; }
+  .houses-grid { grid-template-columns: repeat(4, 1fr); }
+  .events-grid { grid-template-columns: repeat(4, 1fr); }
+  .memories-grid { grid-template-columns: repeat(6, 1fr); }
+  
+  .houses-grid img, .events-grid img, .memories-grid img { width: 100%; height: auto; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.15); }
+  .memories-grid .wide { grid-column: span 3; }
+  .memories-grid .tall { grid-row: span 2; }
 
-<a href="/student-development/houses/thoburn-house/">
-<img src="/images/thoburn%20house.png" style="width:60%">
-</a>
-<br>
-<a href="/student-development/houses/oldham-house/">
-<img src="/images/oldham%20house.png" style="width:60%">
-</a>
-<br>
-<a href="/student-development/houses/cks-house/">
-<img src="/images/cks%20house.png" style="width:60%">
-</a>
-<br>
-<a href="/student-development/houses/tkk-house/">
-<img src="/images/tkk%20house.png" style="width:60%">
-</a>
-<br>
-<a href="/student-development/houses/ghk-house/">
-<img src="/images/ghk%20house.png" style="width:60%">
-</a>
-<br>
-<a href="/student-development/houses/lsg-house/">
-<img src="/images/lsg%20house.png" style="width:60%">
-</a>
-<br>
-<a href="/student-development/houses/svm-house/">
-<img src="/images/svm%20house.png" style="width:60%">
-</a>
-<br>
-<a href="/student-development/houses/tct-house/">
-<img src="/images/tct%20house.png" style="width:60%">
-</a>
-<br>
-<a href="/student-development/houses/annual-swimming-championships/">
-<img src="/images/asc.png" style="width:60%">
-</a>
-<br>
-<a href="/student-development/houses/track-field/">
-<img src="/images/track%20and%20field.png" style="width:60%">
-</a>
-<br>
-<a href="/student-development/houses/annual-cross-country-championships/">
-<img src="/images/annual%20cross%20country%20championships.png" style="width:60%">
-</a>
+  .leadership-img { width: 100%; max-width: 1050px; border-radius: 14px; box-shadow: 0 15px 40px rgba(0,0,0,0.2); }
+  
+  footer { margin-top: 80px; padding-top: 40px; border-top: 1px solid #eee; }
+  .footer-emblem { font-size: 4.2rem; margin-bottom: 20px; }
+</style>
+
+<div class="acs-house-page">
+
+  <div class="hero">
+     <img alt="Header" src="/images/ACS%20House/header.png">
+		
+  </div>
+
+ 
+  <p class="purpose">     <img alt="Header" src="/images/ACS%20House/Our_Purpose.png">
+		<img alt="Header" src="/images/ACS%20House/houses.png">
+</p>
+	
+	
+  <div class="houses-grid">
+   <a href="/student-development/houses/cks-house/"> <img alt="CKS" src="/images/ACS%20House/CKS_flag.jpg"></a>
+   <a href="/student-development/houses/ghk-house/"> <img alt="GHK" src="/images/ACS%20House/GHK_flag.jpg"></a>
+    <a href="/student-development/houses/lsg-house/"><img alt="LSG" src="/images/ACS%20House/LSG_flag.jpg"></a>
+   <a href="/student-development/houses/oldham-house/"> <img alt="OLDHAM" src="/images/ACS%20House/OLDHAM_flag.jpg"></a>
+  <a href="/student-development/houses/svm-house/">  <img alt="SVM" src="/images/ACS%20House/SVM_flag.jpg"></a>
+    <a href="/student-development/houses/tct-house/"><img alt="TCT" src="/images/ACS%20House/TCT_flag.jpg"></a>
+    <a href="/student-development/houses/thoburn-house/"><img alt="THOBURN" src="/images/ACS%20House/THOBURN_flag.jpg"></a>
+    <a href="/student-development/houses/tkk-house/"><img alt="TKK" src="/images/ACS%20House/TKK_flag.jpg"></a>
+  </div>
+	
+![](/images/ACS%20House/Events.png)
+	
+  <div class="events-grid">
+    <img alt="" src="/images/ACS%20House/Our_events_Pic_1.jpg">
+    <img alt="" src="/images/ACS%20House/Our_events_Pic_2.jpg">
+    <img alt="" src="/images/ACS%20House/Our_Events_Pic_3.jpg">
+    <img alt="" src="/images/ACS%20House/Our_Events_Pic_4.jpg">
+    <img alt="" src="/images/ACS%20House/Our_events_Pic_5.jpg">
+    <img alt="" src="/images/ACS%20House/Our_events_Pic_6.jpg">
+    <img alt="" src="/images/ACS%20House/Our_Events_Pic_7.jpg">
+    <img alt="" src="/images/ACS%20House/Our_Events_Pic_8.jpg">
+  </div>
+	
+
+  <img alt="Leadership" src="/images/ACS%20House/leadership.png">	
+	  <img alt="Leadership" src="/images/ACS%20House/Our_leadership_Pic_1.jpg">	
+		<img alt="Leadership" src="/images/ACS%20House/memories.png">
+	
+
+  <div class="houses-grid">
+    <img alt="" src="/images/ACS%20House/our_memories_pic_1.jpg">
+    <img alt="" src="/images/ACS%20House/Our_memories_Pic_2.jpg">
+    <img alt="" src="/images/ACS%20House/Our_Memories_Pic_3.jpg">
+    <img alt="" src="/images/ACS%20House/Our_Memories_Pic_4.jpg">
+    <img alt="" src="/images/ACS%20House/Our_Memories_Pic_5.jpg">
+  </div>
+
+  <footer>
+     <img alt="Header" src="/images/ACS%20House/Footer.png">
+
+  </footer>
+</div>
