@@ -81,37 +81,113 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Gabriel Ong&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.01</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Euan Quek&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.03</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Isaiah Yu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.03</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Isaiah Yu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.16</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Joshua Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.06</p>
+<p>4.02</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lucas Ong&nbsp;</p>
+<p>Tay Tze Ern</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4.15</p>
+<p>5.16</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ines Ng&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5.13</p>
+<p>6.13</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kayden Teng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Danyl Ho</p>
+<p>1.07</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nguyen Minh Duy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.08</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nguyen Tuong Phat&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.05</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>John Benjamin Raharjo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.02</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ryan Choo&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.09</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wong Ji Ren</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tiffany Seow</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ramesh Varish&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.13</p>
@@ -131,33 +207,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nguyen Tuong Phat&nbsp;</p>
+<p>Nguyen Hoang Minh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.05</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Xavier Ong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4.07</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ryan Choo&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5.09</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Caleb Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6.08</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>3.06</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -166,69 +219,16 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Jade Quak</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Matt Ong&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4.06</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ramesh Varish&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5.13</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Yoon Sae Young&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6.03</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tay Tze Ern</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4.15</p>
+<p>5.01</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tan Ee Cheong&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5.13</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ryan Choy&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6.08</p>
+<p>6.13</p>
 </td>
 </tr>
 <tr>
@@ -245,33 +245,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Dinh Huu Duc</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Benjamin Loh&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4.04</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Felix Zhu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6.02</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>3.05</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -286,22 +263,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Jayk Kng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4.05</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Zara Khan&nbsp;</p>
+<p>Nithyashree R</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.03</p>
@@ -327,26 +289,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gavin Tsai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4.04</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chow Guan Yu&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6.11</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -359,71 +301,14 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Kristen Kua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Peter Sam Chow</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6.18</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Jiang Yiyao&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6.19</p>
+<p>6.03</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/Slide6-1024x576.jpg">
