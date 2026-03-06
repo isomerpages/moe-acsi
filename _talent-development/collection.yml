@@ -2,7 +2,6 @@ collections:
   talent-development:
     output: true
     order:
-      - AC Modular Programme (ACMP).md
       - Talent Development.md
       - 3 Year Programme for Athletes/.keep
       - 3 Year Programme for Athletes/3 Year IB Diploma Programme for High
@@ -16,6 +15,7 @@ collections:
       - ACH/Subjects Offered.md
       - ACH/Programmes.md
       - ACH/Frequently Asked Questions.md
+      - AC Modular Programme (ACMP).md
       - "ACS: Accelerated Class for Science.md"
       - ACis/.keep
       - "ACis/ACis: Advanced Class for Integrative Studies.md"
