@@ -33,7 +33,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em><a href="/talent-development/acs-accelerated-class-for-science/" rel="noopener noreferrer nofollow" target="_blank">ACS: Accelerated Class for Science</a></em>
+<p><a href="/ac-modular-programme-acmp/" rel="noopener nofollow" target="_blank">AC Modular Programme (ACMP)</a>
 </p>
 </td>
 </tr>
@@ -43,15 +43,19 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/advanced-class-for-integrative-studies/" rel="noopener nofollow" target="_blank">Advanced Class for Integrative Studies</a>
+<p><em><a href="/talent-development/acs-accelerated-class-for-science/" rel="noopener noreferrer nofollow" target="_blank">ACS: Accelerated Class for Science</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;<em><a href="/talent-development/advanced-science-programmes/" rel="noopener noreferrer nofollow" target="_blank">Advanced Science Programme</a></em>
+<p>&nbsp;<a href="/advanced-class-for-integrative-studies/" rel="noopener nofollow" target="_blank">Advanced Class for Integrative Studies</a>
 </p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><em><a href="/talent-development/advanced-science-programmes/" rel="noopener noreferrer nofollow" target="_blank">Advanced Science Programme</a></em>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><em><a href="/events/hi-five-programme/" rel="noopener noreferrer nofollow" target="_blank">Hi F(IV)E Programme</a></em>
 </p>
@@ -60,12 +64,12 @@ variant: tiptap
 <p><em><a href="/talent-development/humanities-scholarship-programme/" rel="noopener noreferrer nofollow" target="_blank">Humanities Scholarship and Programme</a></em>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><em><a href="/talent-development/td-mep/" rel="noopener noreferrer nofollow" target="_blank">Music Elective Programme</a></em>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><em><a href="/talent-development/regional-studies-programme/" rel="noopener noreferrer nofollow" target="_blank">Regional Studies Programme</a></em>
 </p>
@@ -74,14 +78,11 @@ variant: tiptap
 <p><em><a href="/talent-development/trailblazer/" rel="noopener noreferrer nofollow" target="_blank">Trailblazer</a></em>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><em><a href="/talent-development/y3-ib-programme-for-athletes/y3ibathletes/" rel="noopener noreferrer nofollow" target="_blank">3-Year IB Diploma Programme for High-Performing Student-Athletes</a></em>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em><a href="/talent-development/y3-ib-programme-for-athletes/y3ibathletes/" rel="noopener noreferrer nofollow" target="_blank">3-Year IB Diploma Programme for High-Performing Student-Athletes</a></em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
