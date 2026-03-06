@@ -3,6 +3,7 @@ title: Teachers
 permalink: /robotics/teachers/
 description: ""
 third_nav_title: Robotics Technology Society
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -29,7 +30,7 @@ third_nav_title: Robotics Technology Society
     <td class="tg-0lax">Ms Sing Geok Qing (singgeokqing@acsindep.edu.sg) </td>
   </tr>
   <tr>
-    <td class="tg-0lax">Mr Gabriel Kam (gabrielkammq@acsindep.edu.sg)</td>
+    <td class="tg-0lax">Mr Benjamin Chan (benjaminchan@acsindep.edu.sg)</td>
   </tr>
 </tbody>
 </table>
