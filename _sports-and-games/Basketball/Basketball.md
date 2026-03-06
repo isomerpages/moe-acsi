@@ -9,6 +9,16 @@ variant: markdown
 
 Welcome to ACS(I) Basketball CCA, where we train hard and strive for excellence on and off the court, committing to growing in skill and teamwork as we foster a strong team spirit. Through the sport, we also develop positive values and character strengths; with a focus on steadfastness, humility, integrity, empathy, loyalty and diligence. Join us on this journey as we build a strong and lasting foundation for the future, leaving a legacy of consistently being a top national school team!
 
+Training sessions typically follow:
+
+Mondays 3.30-6.30pm - 'B' and 'C' Division
+
+Tuesdays 4.00-7.00pm - 'A' Division
+
+Wednesdays 3.30-6.30pm - 'B' and 'C' Division
+
+Fridays 1.30-4.30pm - 'A' Division, Competition Team and DSAs
+
 ![](/images/IMG_1382.jpg)
 ![](/images/IMG_0726.jpg)
 ![](/images/54539625863_249ece25b4_k.jpg)
