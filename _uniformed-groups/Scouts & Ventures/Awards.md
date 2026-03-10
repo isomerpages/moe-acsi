@@ -3,6 +3,7 @@ title: Awards
 permalink: /scouts/awards/
 description: ""
 third_nav_title: Scouts & Ventures
+variant: markdown
 ---
 ### 2008
 
@@ -74,3 +75,7 @@ third_nav_title: Scouts & Ventures
 *   Frank Cooper Sands Good Unit Award (Scouts): Gold
 *   Frank Cooper Sands Good Unit Award (Venture Scouts): Gold
 *   Chief Commissioner’s Awardee: 3 recipients
+
+### 2018- 2025
+
+*   Frank Cooper Sands Award
