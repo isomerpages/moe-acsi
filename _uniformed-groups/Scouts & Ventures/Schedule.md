@@ -17,8 +17,7 @@ variant: markdown
 <tbody>
   <tr>
     <td>Friday</td>
-    <td>1430 to 1730</td>
+    <td>1400 to 1730</td>
   </tr>
 </tbody>
 </table>
-
