@@ -3,7 +3,7 @@ title: Direct School Admission
 permalink: /crosscountry/dsa/
 description: ""
 third_nav_title: Cross Country
-variant: markdown
+variant: tiptap
 ---
 <h3><strong>2025 DIRECT SCHOOL ADMISSION EXERCISE</strong></h3>
 <table style="minwidth: 100px;"><colgroup> <col> <col> <col> <col> </colgroup>

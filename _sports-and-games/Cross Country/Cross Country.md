@@ -7,6 +7,7 @@ variant: markdown
 ---
 **What the Anglo-Chinese School (Independent) Cross-Country Team (ACX) is all about:**
 
+![](/images/ACX_Main_Photo_2026.jpg)
 ![](/images/CCA%20Sports/Cross%20Country/2024A.jpg)
 
 You can visit our Official Instagram Page@ [https://www.instagram.com/indepcross/](https://www.instagram.com/indepcross/ "https://www.instagram.com/indepcross/")
