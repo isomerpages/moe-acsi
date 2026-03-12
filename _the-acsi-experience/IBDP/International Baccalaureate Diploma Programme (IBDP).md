@@ -5,15 +5,6 @@ description: ""
 third_nav_title: IBDP
 variant: markdown
 ---
-
-
-
-
-<title>Untitled Document</title>
-
-
-
-
 <p><strong>What is the International Baccalaureate (IB) Diploma Programme?</strong>&nbsp;</p>
 <p>Established in 1968, the International Baccalaureate (IB) Diploma Programme was the first programme offered by IB and is taught to students aged 16 – 19. The Diploma Programme was established to provide students with a balanced education, facilitate geographic and cultural mobility and to promote international understanding.</p>
 <p>The IB Diploma Programme is an academically challenging and balanced programme of education, with final examinations, that prepares students for success at university and in life beyond. It has been designed to address the intellectual, social, emotional and physical well-being of students.&nbsp;</p>
@@ -29,5 +20,3 @@ variant: markdown
 <p><a href="https://www.straitstimes.com/sport/schools/school-sports-golfer-sean-lee-excels-in-ib-exams-%20despite-two-month-stint-in-us" title="https://www.straitstimes.com/sport/schools/school-sports-golfer-sean-lee-excels-in-ib-exams- despite-two-month-stint-in-us"><u>https://www.straitstimes.com/sport/schools/school-sports-golfer-sean-lee-excels-in-ib-exams-</u> <u>despite-two-month-stint-in-us</u></a></p>
 <p><a href="https://www.straitstimes.com/sport/swimming-perfect-ib-scorer-gan-heads-to-us-in-bid-to-ace-%202024-olympics-test" title="https://www.straitstimes.com/sport/swimming-perfect-ib-scorer-gan-heads-to-us-in-bid-to-ace- 2024-olympics-test"><u>https://www.straitstimes.com/sport/swimming-perfect-ib-scorer-gan-heads-to-us-in-bid-to-ace-</u> <u>2024-olympics-test</u></a></p>
 <p><a href="https://www.acsindep.moe.edu.sg/lp-news/a-levels-v-ib-diploma-which-suits-your-child-better/" title="https://www.acsindep.moe.edu.sg/lp-news/a-levels-v-ib-diploma-which-suits-your-child-better/"><u>https://www.acsindep.moe.edu.sg/lp-news/a-levels-v-ib-diploma-which-suits-your-child-better/</u></a></p>
-
-
