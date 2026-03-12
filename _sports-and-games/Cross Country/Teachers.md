@@ -37,14 +37,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Jason Lai</p>
+<p>Ms Seah Kui Hua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jasonlaijr@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jasonlaijr@acsindep.edu.sg</a>
+<p><a href="mailto:seahkuihua@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seahkuihua@acsindep.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>68700695</p>
+<p>67768550</p>
 </td>
 </tr>
 <tr>
