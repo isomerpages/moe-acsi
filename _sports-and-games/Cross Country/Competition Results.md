@@ -5,6 +5,24 @@ description: ""
 third_nav_title: Cross Country
 variant: tiptap
 ---
+<h3><strong>Achievements in 2025</strong></h3>
+<p><strong><u>National School Games: 2025 Cross-Country Championships</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>C Division Boys – CHAMPIONS</p>
+</li>
+<li>
+<p>B Division Boys - CHAMPIONS</p>
+</li>
+<li>
+<p>A Division Boys – 3<em>rd</em> RUNNERS-UP</p>
+</li>
+<li>
+<p>A Division Girls – 3<em>rd&nbsp;</em>RUNNERS-UP</p>
+</li>
+</ul>
+<p></p>
 <p><strong>2024 Pocari Sweat 2.4km Challenge</strong>
 </p>
 <p>Our runners have achieved stellar results at the 2024 Pocari Sweat Challenge.&nbsp;</p>
