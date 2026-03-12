@@ -27,7 +27,7 @@ academic world.&nbsp;&nbsp;</p>
 <p>Anglo-Chinese School (Independent) was authorised as an IB World School
 in 2005 and was the first national school in Singapore to offer the IB
 Diploma Programme.&nbsp; The first cohort of IB Diploma students graduated
-in 2007.&nbsp; Since then, 17 cohorts of Diploma Programme students have
+in 2007.&nbsp; Since then, 18 cohorts of Diploma Programme students have
 graduated from the school, consistently achieving excellent results and
 maintaining high standards of academic performance.</p>
 <p>&nbsp;For more information on the IB Diploma Programme, please refer to
