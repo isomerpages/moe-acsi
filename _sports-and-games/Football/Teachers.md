@@ -20,5 +20,3 @@ variant: markdown
 – Ms Jerine Lim Shu Ting (A Div Girls) ~ [jerinelimst@acsindep.edu.sg](mailto:jerinelimst@acsindep.edu.sg)
 
 – Ms Suliana J Franz (A Div Girls)~ [suliana@acsindep.edu.sg](mailto:suliana@acsindep.edu.sg)
-
-– Mr Lim Wee Kian~  [limweekian@acsindep.edu.sg](mailto:limweekian@acsindep.edu.sg)
