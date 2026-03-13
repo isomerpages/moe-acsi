@@ -5,6 +5,14 @@ description: ""
 third_nav_title: Cross Country
 variant: markdown
 ---
+# **Photos from 2025 Events**
+# 
+
+![](/images/ACX1.jpg)
+![](/images/ACX2.jpg)
+![](/images/ACX3.jpg)
+![](/images/ACX4.jpg)
+
 <h1 style="text-align: center;"><a rel="noopener" target="_blank" href="https://www.instagram.com/indepcross/"><strong><u>ACX Cross Country Official Instagram</u></strong></a></h1>
 
 <h3>2024 Pocari Sweat 2.4km Challenge</h3>
