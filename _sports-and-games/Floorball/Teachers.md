@@ -21,6 +21,11 @@ variant: tiptap
 <p>Mr Timothy Chee (<a rel="noopener noreferrer nofollow" target="_blank">chihyung@acsindep.edu.sg</a>)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Wee Kian (<a href="mailto:limweekian@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">limweekian@acsindep.edu.sg</a>)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
