@@ -5,6 +5,62 @@ description: ""
 third_nav_title: Cross Country
 variant: tiptap
 ---
+<h3><strong>Achievements in 2025</strong></h3>
+<p><strong><u>National School Games: 2025 Cross-Country Championships</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>C Division Boys – CHAMPIONS</p>
+</li>
+<li>
+<p>B Division Boys - CHAMPIONS</p>
+</li>
+<li>
+<p>A Division Boys – 3<em>rd</em> RUNNERS-UP</p>
+</li>
+<li>
+<p>A Division Girls – 3<em>rd&nbsp;</em>RUNNERS-UP</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NSG_2026_Result_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NSG_2025_Result_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NSG_2025_Result_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NSG_2025_Result_4.jpg">
+</div>
+<p><strong><u>National School Games: 2025 Track &amp; Field Championships</u></strong>
+<br>Our athletes also form part of the competitive group sent to the Track
+&amp; Field Championships, competing in various categories across the board.
+As a school team, the Track &amp; Field team achieved:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>C Division Boys – 1<em>st</em> RUNNERS-UP</p>
+</li>
+<li>
+<p>B Division Boys – 3<em>rd&nbsp;</em>RUNNERS-UP</p>
+</li>
+<li>
+<p>A Division Boys – 3<em>rd&nbsp;</em>RUNNERS-UP</p>
+</li>
+<li>
+<p>A Division Girls – 7<em>th&nbsp;</em>PLACE</p>
+<p></p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NSG_2025_Result_5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NSG_2025_Result_7.jpg">
+</div>
 <p><strong>2024 Pocari Sweat 2.4km Challenge</strong>
 </p>
 <p>Our runners have achieved stellar results at the 2024 Pocari Sweat Challenge.&nbsp;</p>
