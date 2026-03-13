@@ -31,10 +31,10 @@ variant: tiptap
 <p>Captain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jaidee Bin Mohamad Yazid</p>
+<p>Lee Shi Xuan Keagan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4.13</p>
+<p>4.03</p>
 </td>
 </tr>
 <tr>
@@ -42,21 +42,10 @@ variant: tiptap
 <p>Vice-Captain(s)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Shi Xuan Keagan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.03</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Nicholas Loo Rui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.04</p>
+<p>4.04</p>
 </td>
 </tr>
 </tbody>
