@@ -3,6 +3,7 @@ title: Sports and Games
 permalink: /student-development/cca/sports/
 description: ""
 third_nav_title: CCA and Interest Groups
+variant: markdown
 ---
 <a href="/badminton/">
 <img src="/images/badminton.png" style="width:70%">
@@ -42,6 +43,10 @@ third_nav_title: CCA and Interest Groups
 <br>
 <a href="/golf/">
 <img src="/images/golf.png" style="width:70%">
+</a>
+<br>
+<a href="/netball/">
+<img src="/images/Netball.png" style="width:70%">
 </a>
 <br>
 <a href="/rugby/">
