@@ -2,8 +2,6 @@ collections:
   sports-and-games:
     output: true
     order:
-      - Netball/Gallery.md
-      - Netball/.keep
       - Badminton/.keep
       - Badminton/Badminton.md
       - Badminton/Teachers.md
@@ -69,6 +67,11 @@ collections:
       - Golf/Schedule.md
       - Golf/Awards.md
       - Golf/Gallery.md
+      - Netball/.keep
+      - Netball/Netball.md
+      - Netball/Teachers & Coaches.md
+      - Netball/Schedule.md
+      - Netball/Gallery.md
       - Rugby/.keep
       - Rugby/Rugby.md
       - Rugby/Photo Gallery.md
