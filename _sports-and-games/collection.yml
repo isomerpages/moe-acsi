@@ -2,6 +2,7 @@ collections:
   sports-and-games:
     output: true
     order:
+      - Netball/Teachers & Coaches.md
       - Netball/Schedule.md
       - Netball/Gallery.md
       - Netball/.keep
