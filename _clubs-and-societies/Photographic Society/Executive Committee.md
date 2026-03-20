@@ -13,7 +13,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-President (Communications):</p>
+<p>President (Communications):</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lim Tze Xuan (5.04, 2025)</p>
