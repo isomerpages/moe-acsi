@@ -3,6 +3,7 @@ title: Teacher Advisors
 permalink: /interact/teacher-advisors/
 description: ""
 third_nav_title: Interact Club
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -30,12 +31,9 @@ third_nav_title: Interact Club
     <td class="tg-cly1">Teacher Advisor</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Ms Nilanjana Bose</td>
+    <td class="tg-cly1">         Mrs Annie Tan</td>
     <td class="tg-cly1">Teacher Advisor</td>
   </tr>
-  <tr>
-    <td class="tg-cly1">Ms Kate Wang Fang</td>
-    <td class="tg-cly1">Teacher Advisor</td>
-  </tr>
+
 </tbody>
 </table>
