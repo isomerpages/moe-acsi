@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Interact Club
 variant: markdown
 ---
- **62nd Interact Club Exco members**
+**62nd Interact Club Exco members**
  ![](/images/Picture1df.jpg)
  From left: Anumita Raja, Teo Han Ting Jazreel, Kwah Hui Min Andrea, Cheng Kai Ning Chloe, Daniel Ahmad Castaignede, Ng Wen Xuan, Esther Keziah Lim Rui Qi
 
