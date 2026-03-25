@@ -25,7 +25,16 @@ sections:
       title: Theme Verse 2026
       id: infopic
       image: /images/Theme_2026_For_Webpage_Banner__1_.jpg
-      alt: Theme Verse 2025
+      alt: Theme Verse 2026
+  - infopic:
+      title: ACS140 Anniversary
+      subtitle: 1886 - 2026
+      id: infopic
+      description: 140 Years of Truth and Light
+      button: More
+      url: /acs140/
+      image: /images/Open House/ACS_I__Website_Banner_2026_Gold.png
+      alt: ACS 140
   - infopic:
       title: Athlete Friendly Education Centre
       subtitle: World Academy of Sports
