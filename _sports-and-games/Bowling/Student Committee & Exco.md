@@ -5,53 +5,45 @@ description: ""
 third_nav_title: Bowling
 variant: markdown
 ---
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table width="803">
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>2025&nbsp;Appointment</strong>
-</p>
+<td>
+<p><strong>2026&nbsp;Appointment</strong></p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Name of Student</strong>
-</p>
+<td>
+<p><strong>Name of Student</strong></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>A Division</p>
+<td>
+<p><strong>A Division</strong></p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Captain –&nbsp;Mike Ong&nbsp;(Boys) /&nbsp;Emmelyn Chia&nbsp;(Girls)
-<br>Vice Captains –&nbsp;Ian Tay</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>B Division</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Captain –&nbsp;Izz Irfan
-<br>Vice Captain –&nbsp;Donovan Lim</p>
+<td>
+<p><strong>Captain – Gautier Tan <br> Vice Captain –&nbsp;Sean Gan</strong></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>C Division</p>
+<td>
+<p><strong>B Division</strong></p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Captain&nbsp;– Bennett Tay
-<br>Vice Captain –&nbsp;Leighton Kuah</p>
+<td>
+<p><strong>Captain –&nbsp;Girishvar Ramamoorthy<br> Vice Captains –&nbsp;Lebon Peh and Jeriah Wong</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>C Division</strong></p>
+</td>
+<td>
+<p><strong>Captain&nbsp;– Vallen Shin<br> Vice Captain –&nbsp;Jaden Foo</strong></p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
 <p></p>
+
 <div class="isomer-image-wrapper">
 <img style="width:25%" height="auto" width="100%" src="/images/WorldSchool.jpg">
 </div>
