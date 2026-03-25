@@ -4,6 +4,630 @@ permalink: /src/awards/
 description: ""
 variant: markdown
 ---
-<table style="border-collapse:
- collapse;width:822pt" width="1094" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:7021;width:144pt" width="192"> <col style="mso-width-source:userset;mso-width-alt:9581;width:197pt" width="262"> <col style="mso-width-source:userset;mso-width-alt:2011;width:41pt" width="55"> <col style="mso-width-source:userset;mso-width-alt:8338;width:171pt" width="228"> <col style="mso-width-source:userset;mso-width-alt:1792;width:37pt" width="49"> <col style="mso-width-source:userset;mso-width-alt:9435;width:194pt" width="258"> <col style="mso-width-source:userset;mso-width-alt:1828;width:38pt" width="50"></colgroup><tbody><tr style="height:15.0pt" height="20"><td style="height:15.0pt;width:144pt" width="192" class="xl96" height="20">Competition</td><td style="width:197pt" width="262" class="xl95">&nbsp;</td><td style="width:41pt" width="55" class="xl94">&nbsp;</td><td style="width:171pt" width="228" class="xl94">&nbsp;</td><td style="width:37pt" width="49" class="xl94">&nbsp;</td><td style="width:194pt" width="258" class="xl94">&nbsp;</td><td style="width:38pt" width="50" class="xl94">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl95" height="20">Award</td><td class="xl95"><span style="mso-highlight:yellow"><span style="mso-highlight:
-  yellow">Students</span></span></td><td class="xl94">&nbsp;</td><td class="xl94">&nbsp;</td><td class="xl94">&nbsp;</td><td class="xl94">&nbsp;</td><td class="xl94">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;width:144pt" width="192" class="xl74" height="20"></td><td class="xl75"></td><td style="width:41pt" width="55" class="xl74"></td><td class="xl63"></td><td class="xl63"></td><td class="xl63"></td><td class="xl63"></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;width:382pt" width="509" class="xl97" height="20" colspan="3">26th International Elementz Fair<span style="mso-spacerun:yes">&nbsp;</span></td><td class="xl68">&nbsp;</td><td class="xl68">&nbsp;</td><td class="xl68">&nbsp;</td><td class="xl68">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;width:144pt" width="192" class="xl71" height="20">Gold</td><td style="width:197pt" width="262" class="xl79">Joel Lee Jun Jie</td><td class="xl68">6.04</td><td class="xl72">Kwan Jun Yong David<span style="mso-spacerun:yes">&nbsp;</span></td><td style="width:37pt" width="49" class="xl71">6.13</td><td class="xl91">Tan Yong Le Timothy</td><td class="xl91">6.13</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;width:144pt" width="192" class="xl71" height="20">Bronze</td><td class="xl69">Vanessa Lai Ying'en</td><td class="xl68">6.12</td><td class="xl91">Thee Sim Ling</td><td class="xl91">6.13</td><td style="width:194pt" width="258" class="xl78">&nbsp;</td><td class="xl68">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;width:144pt" width="192" class="xl74" height="20"></td><td></td><td class="xl63"></td><td class="xl92"></td><td class="xl92"></td><td style="width:194pt" width="258" class="xl80"></td><td class="xl63"></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl73" height="20">CB Paul Science Quiz 2025</td><td class="xl70">&nbsp;</td><td class="xl84">&nbsp;</td><td class="xl68">&nbsp;</td><td style="width:37pt" width="49" class="xl79">&nbsp;</td><td style="width:194pt" width="258" class="xl78">&nbsp;</td><td class="xl68">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">Gold</td><td class="xl69">Leong Ze Meng, Noel</td><td class="xl67">3.10</td><td class="xl69">Russell Ang<span style="mso-spacerun:yes">&nbsp;</span></td><td class="xl67">3.10</td><td style="width:194pt" width="258" class="xl71">Emmanuel Ng</td><td class="xl68">4.10&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">&nbsp;</td><td class="xl69">Heng Jie Feng Ayden</td><td class="xl68">4.10&nbsp;</td><td class="xl69">Ian Tan<span style="mso-spacerun:yes">&nbsp;</span></td><td class="xl68">4.10&nbsp;</td><td style="width:194pt" width="258" class="xl71">Kieran Ong Shu Kai</td><td class="xl68">4.10&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">Silver</td><td class="xl69">Gong Wei Yi, Jeremiah</td><td class="xl67">3.10</td><td class="xl69">Ajit Singh Vaidyanath</td><td class="xl68">4.10&nbsp;</td><td style="width:194pt" width="258" class="xl71">Evan Riley Gill</td><td class="xl68">4.10&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">&nbsp;</td><td class="xl69">Tan Zheng Jie, Tyler</td><td class="xl68">4.10&nbsp;</td><td class="xl69">Zheng Rong Hui</td><td class="xl68">4.10&nbsp;</td><td style="width:194pt" width="258" class="xl71">Ong Rui Fan Maximus<span style="mso-spacerun:yes">&nbsp;</span></td><td class="xl68">4.15</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">Bronze</td><td style="width:197pt" width="262" class="xl71">Kuan Junheng, Jayden</td><td class="xl68">4.10&nbsp;</td><td style="width:171pt" width="228" class="xl71">Lau Cedric Dreyzen Uy</td><td class="xl68">4.10&nbsp;</td><td style="width:194pt" width="258" class="xl71">Tan Chuan Wey, Noah</td><td class="xl68">4.10&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl75" height="20"></td><td style="width:197pt" width="262" class="xl74"></td><td class="xl63"></td><td style="width:171pt" width="228" class="xl74"></td><td class="xl63"></td><td style="width:194pt" width="258" class="xl74"></td><td class="xl63"></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;mso-ignore:colspan" colspan="2" class="xl89" height="20">Engineering Innovation Challenge 2025</td><td class="xl68">&nbsp;</td><td style="width:171pt" width="228" class="xl71">&nbsp;</td><td class="xl68">&nbsp;</td><td style="width:194pt" width="258" class="xl71">&nbsp;</td><td class="xl68">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">Merit</td><td class="xl93">Shen Jia Rui</td><td class="xl76">5.06</td><td class="xl93">Low Wern Jae Zach</td><td class="xl76">6.01</td><td class="xl93">Yoon Sae Young</td><td class="xl76">6.01</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;width:144pt" width="192" class="xl71" height="20">&nbsp;</td><td class="xl93">Du Yuhan</td><td class="xl76">6.06</td><td class="xl68">&nbsp;</td><td class="xl68">&nbsp;</td><td class="xl68">&nbsp;</td><td class="xl68">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;width:144pt" width="192" class="xl74" height="20"></td><td></td><td class="xl63"></td><td class="xl92"></td><td class="xl92"></td><td style="width:194pt" width="258" class="xl80"></td><td class="xl63"></td></tr><tr style="mso-height-source:userset;height:18.6pt" height="24"><td style="height:18.6pt;width:341pt" width="454" class="xl97" height="24" colspan="2">Genetic Modification Advisory Committee (GMAC) Students Challenge</td><td class="xl68">&nbsp;</td><td class="xl91">&nbsp;</td><td class="xl91">&nbsp;</td><td style="width:194pt" width="258" class="xl78">&nbsp;</td><td class="xl68">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;width:144pt" width="192" class="xl71" height="20">Best Scientific Explanation</td><td class="xl69">Arkin Talukdar<span style="mso-spacerun:yes">&nbsp;</span></td><td class="xl68">4.09</td><td class="xl91">Carlos Goh Ka Fai</td><td class="xl91">4.09</td><td style="width:194pt" width="258" class="xl79">Jayden Tey</td><td class="xl68">4.09</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;width:144pt" width="192" class="xl71" height="20">&nbsp;</td><td class="xl69">Tang Yanxiang</td><td class="xl68">4.09</td><td class="xl91">&nbsp;</td><td class="xl91">&nbsp;</td><td style="width:194pt" width="258" class="xl78">&nbsp;</td><td class="xl68">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;width:144pt" width="192" class="xl74" height="20"></td><td class="xl63"></td><td style="width:41pt" width="55" class="xl74"></td><td class="xl63"></td><td class="xl63"></td><td class="xl63"></td><td class="xl63"></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;mso-ignore:colspan" colspan="2" class="xl73" height="20">LKCMedicine Anatomy Challenge 2025</td><td style="width:41pt" width="55" class="xl71">&nbsp;</td><td class="xl68">&nbsp;</td><td class="xl68">&nbsp;</td><td class="xl68">&nbsp;</td><td class="xl68">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;width:144pt" width="192" class="xl71" height="20">Merit</td><td style="width:197pt" width="262" class="xl79">Joel Lee Jun Jie</td><td class="xl68">6.04</td><td class="xl68">Chew An-yuan Christopher</td><td class="xl67">6.13</td><td class="xl68">&nbsp;</td><td class="xl68">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;width:144pt" width="192" class="xl74" height="20"></td><td class="xl63"></td><td style="width:41pt" width="55" class="xl74"></td><td class="xl63"></td><td class="xl63"></td><td class="xl63"></td><td class="xl63"></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;mso-ignore:colspan" colspan="2" class="xl73" height="20">Nanyang Research Programme (2024-25)</td><td class="xl84">&nbsp;</td><td class="xl68">&nbsp;</td><td style="width:37pt" width="49" class="xl79">&nbsp;</td><td style="width:194pt" width="258" class="xl78">&nbsp;</td><td class="xl68">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl90" height="20">Bronze</td><td class="xl90">Wong I-En</td><td class="xl84">6.01</td><td class="xl68">&nbsp;</td><td class="xl68">&nbsp;</td><td style="width:194pt" width="258" class="xl78">&nbsp;</td><td class="xl68">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl73" height="20">&nbsp;</td><td class="xl70">&nbsp;</td><td class="xl84">&nbsp;</td><td class="xl68">&nbsp;</td><td style="width:37pt" width="49" class="xl79">&nbsp;</td><td style="width:194pt" width="258" class="xl78">&nbsp;</td><td class="xl68">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;mso-ignore:colspan" colspan="2" class="xl73" height="20">Nanyang Research Programme (Junior Researcher) (2024-25)</td><td class="xl84">&nbsp;</td><td class="xl68">&nbsp;</td><td style="width:37pt" width="49" class="xl79">&nbsp;</td><td style="width:194pt" width="258" class="xl78">&nbsp;</td><td class="xl68">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl90" height="20">Gold</td><td class="xl90">Lew Cheng En</td><td class="xl84">5.01</td><td class="xl90">Chong E Hann</td><td class="xl84">5.06</td><td style="width:194pt" width="258" class="xl79">Zhang Zhihe</td><td class="xl68">5.06</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl90" height="20">&nbsp;</td><td class="xl90">Teo Zi Jian William</td><td class="xl84">5.13</td><td class="xl90">&nbsp;</td><td class="xl84">&nbsp;</td><td style="width:194pt" width="258" class="xl79">&nbsp;</td><td class="xl68">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl90" height="20">Silver</td><td class="xl90">Kavin Manimaran</td><td class="xl84">5.01</td><td class="xl90">Lukas Chew Jianhong</td><td class="xl84">5.07</td><td style="width:194pt" width="258" class="xl79">&nbsp;</td><td class="xl68">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl75" height="20"></td><td class="xl66"></td><td class="xl83"></td><td class="xl63"></td><td style="width:37pt" width="49" class="xl81"></td><td style="width:194pt" width="258" class="xl80"></td><td class="xl63"></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;mso-ignore:colspan" colspan="2" class="xl89" height="20">National STEM Championship (2024)</td><td class="xl84">&nbsp;</td><td class="xl68">&nbsp;</td><td style="width:37pt" width="49" class="xl79">&nbsp;</td><td style="width:194pt" width="258" class="xl78">&nbsp;</td><td class="xl68">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">1st Runner up</td><td style="width:197pt" width="262" class="xl79">Emmanuel Ng</td><td class="xl68">4.10&nbsp;</td><td class="xl69">Ian Lai Kaien</td><td class="xl68">4.10&nbsp;</td><td class="xl69">Ian Tan</td><td class="xl68">4.10&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">&nbsp;</td><td class="xl70">Zheng Rong Hui</td><td class="xl68">4.10&nbsp;</td><td class="xl68">&nbsp;</td><td class="xl68">&nbsp;</td><td style="width:194pt" width="258" class="xl78">&nbsp;</td><td class="xl68">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl75" height="20"></td><td class="xl66"></td><td class="xl63"></td><td class="xl63"></td><td class="xl63"></td><td style="width:194pt" width="258" class="xl80"></td><td class="xl63"></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl89" height="20">Science Castle</td><td class="xl70">&nbsp;</td><td class="xl68">&nbsp;</td><td class="xl68">&nbsp;</td><td class="xl68">&nbsp;</td><td style="width:194pt" width="258" class="xl78">&nbsp;</td><td class="xl68">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">Gold</td><td class="xl72">Kezmond Lee Jun Yaw</td><td class="xl67">6.09</td><td class="xl68">&nbsp;</td><td class="xl68">&nbsp;</td><td style="width:194pt" width="258" class="xl78">&nbsp;</td><td class="xl68">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl75" height="20"></td><td class="xl66"></td><td class="xl83"></td><td class="xl63"></td><td style="width:37pt" width="49" class="xl81"></td><td style="width:194pt" width="258" class="xl80"></td><td class="xl63"></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;mso-ignore:colspan" colspan="2" class="xl73" height="20">Singapore Junior Biology Olympiad<span style="mso-spacerun:yes">&nbsp;</span></td><td class="xl84">&nbsp;</td><td class="xl68">&nbsp;</td><td style="width:37pt" width="49" class="xl79">&nbsp;</td><td style="width:194pt" width="258" class="xl78">&nbsp;</td><td class="xl68">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">Gold</td><td class="xl70">Leong Ze Meng, Noel</td><td style="width:41pt" width="55" class="xl82">3.10</td><td class="xl68">Hector Kian Jia Xuan</td><td style="width:37pt" width="49" class="xl82">3.10</td><td class="xl87">Nathanael Emmanuel Wijaya</td><td class="xl68">4.01</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">&nbsp;</td><td class="xl70">Corey Tan Kang Rui</td><td style="width:41pt" width="55" class="xl82">4.10</td><td class="xl68">Emmanuel Ng</td><td style="width:37pt" width="49" class="xl82">4.10</td><td class="xl87">Heng Jie Feng Ayden</td><td style="width:38pt" width="50" class="xl82">4.10</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">&nbsp;</td><td style="width:197pt" width="262" class="xl79">Ian Lai Kai'en</td><td style="width:41pt" width="55" class="xl82">4.10</td><td class="xl68">Ian Tan</td><td style="width:37pt" width="49" class="xl82">4.10</td><td class="xl70">Kieran Ong Shu Kai</td><td style="width:38pt" width="50" class="xl82">4.10</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">&nbsp;</td><td style="width:197pt" width="262" class="xl79">Tan Chuan Wey, Noah</td><td style="width:41pt" width="55" class="xl82">4.10</td><td class="xl68">Tang Zee Meng (Chen Ziming)</td><td style="width:37pt" width="49" class="xl82">4.10</td><td class="xl70">&nbsp;</td><td class="xl68">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">Silver</td><td class="xl70">Ong U Heng, Azriel Nikkei</td><td style="width:41pt" width="55" class="xl82">3.01</td><td class="xl68">Felix Shen Xuyi</td><td style="width:37pt" width="49" class="xl82">3.09</td><td class="xl70">Trevor Tan Jin Tzun</td><td style="width:38pt" width="50" class="xl82">3.09</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">&nbsp;</td><td class="xl70">Gideon Yen</td><td style="width:41pt" width="55" class="xl82">3.10</td><td class="xl68">Russell Ang</td><td style="width:37pt" width="49" class="xl82">3.10</td><td class="xl70">Ying Yu-Liang Lucas</td><td style="width:38pt" width="50" class="xl82">3.10</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">&nbsp;</td><td class="xl70">Sabarimanickam Harshal</td><td class="xl68">3.13</td><td class="xl87">Kim Jun Siong Peter</td><td class="xl68">4.01</td><td class="xl70">Kai Ho</td><td class="xl68">4.06</td></tr><tr style="height:30.0pt" height="40"><td style="height:30.0pt" class="xl72" height="40">&nbsp;</td><td class="xl70">Jayden Teo Kai Jun (Zhang Kaijun)</td><td class="xl68">4.09</td><td style="width:171pt" width="228" class="xl82">Zechariah Chew Zheng Kai (Zhou Zhengkai)</td><td class="xl68">4.09</td><td class="xl70">Ethan Wong Yiren</td><td style="width:38pt" width="50" class="xl82">4.10</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">&nbsp;</td><td class="xl70">Evan Riley Gill</td><td style="width:41pt" width="55" class="xl82">4.10</td><td style="width:171pt" width="228" class="xl82">Evans Emmanuel Yeo Qing Ern</td><td style="width:37pt" width="49" class="xl82">4.10</td><td class="xl70">Pranav Narayan Rajkumar</td><td style="width:38pt" width="50" class="xl82">4.10</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">&nbsp;</td><td class="xl70">Tan Zheng Jie, Tyler</td><td style="width:41pt" width="55" class="xl82">4.10</td><td style="width:171pt" width="228" class="xl82">Yap Kuan Yi, John</td><td style="width:37pt" width="49" class="xl82">4.10</td><td class="xl70">Zheng Rong Hui</td><td style="width:38pt" width="50" class="xl82">4.10</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">&nbsp;</td><td class="xl70">Cheng Shihang</td><td style="width:41pt" width="55" class="xl82">4.13</td><td class="xl70">Gunalan Abhimanyu</td><td style="width:37pt" width="49" class="xl82">4.13</td><td class="xl70">Sean Lim Wei Ren</td><td style="width:38pt" width="50" class="xl82">4.13</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">Bronze</td><td class="xl70">Imran Tan Yi Jun</td><td style="width:41pt" width="55" class="xl82">3.01</td><td style="width:171pt" width="228" class="xl82">Yeo Rui Kai Joshua</td><td style="width:37pt" width="49" class="xl82">3.01</td><td style="width:194pt" width="258" class="xl82">Lim Yuan De Benjamin</td><td style="width:38pt" width="50" class="xl82">3.10</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">&nbsp;</td><td style="width:197pt" width="262" class="xl82">Hoon Wu, Karl</td><td style="width:41pt" width="55" class="xl82">3.10</td><td style="width:171pt" width="228" class="xl79">Joash Ong Zhuo En</td><td style="width:37pt" width="49" class="xl82">3.10</td><td style="width:194pt" width="258" class="xl79">Premanand Gukhan</td><td style="width:38pt" width="50" class="xl82">3.10</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">&nbsp;</td><td class="xl70">Chua E-Tong Curtis</td><td class="xl68">4.01</td><td style="width:171pt" width="228" class="xl82">Ryan Lim Jia De</td><td class="xl68">4.01</td><td style="width:194pt" width="258" class="xl79">Shmelev Zahar</td><td class="xl68">4.01</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">&nbsp;</td><td class="xl70">Hoe Yat Hon Jayden (He Yihan)</td><td class="xl68">4.04</td><td style="width:171pt" width="228" class="xl82">Denzell Goh Guanjin</td><td class="xl68">4.06</td><td style="width:194pt" width="258" class="xl79">Iain Colby Sim En Tze (Shen Enzhe)</td><td class="xl68">4.06</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">&nbsp;</td><td class="xl70">Kylle Gill</td><td class="xl68">4.06</td><td style="width:171pt" width="228" class="xl82">Liu Zhongyi</td><td class="xl68">4.06</td><td style="width:194pt" width="258" class="xl82">Maximus Mathias Tan</td><td class="xl68">4.06</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">&nbsp;</td><td class="xl70">Arkin Talukdar</td><td class="xl68">4.09</td><td style="width:171pt" width="228" class="xl82">Wai Shang Bin, Jayden</td><td class="xl68">4.09</td><td style="width:194pt" width="258" class="xl79">Kuan Junheng, Jayden</td><td style="width:38pt" width="50" class="xl82">4.10</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">&nbsp;</td><td class="xl70">Kanwar Siddharth Lather</td><td class="xl68">4.13</td><td style="width:171pt" width="228" class="xl82">Ong Rui Fan Maximus</td><td class="xl68">4.15</td><td style="width:194pt" width="258" class="xl79">&nbsp;</td><td class="xl68">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">Honourable Mention</td><td class="xl70">Bryan Sim Yong Rui</td><td style="width:41pt" width="55" class="xl82">3.10</td><td style="width:171pt" width="228" class="xl82">Daniel Beh</td><td style="width:37pt" width="49" class="xl82">3.10</td><td style="width:194pt" width="258" class="xl79">Kayden Lim Kai Jun</td><td style="width:38pt" width="50" class="xl82">3.10</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">&nbsp;</td><td class="xl70">Teo Zhi Kai Ethan</td><td style="width:41pt" width="55" class="xl82">3.10</td><td style="width:171pt" width="228" class="xl82">Joe Florann Timothy</td><td class="xl68">3.15</td><td style="width:194pt" width="258" class="xl79">Daniel Chan Yun Jie</td><td class="xl68">4.01</td></tr><tr style="height:30.0pt" height="40"><td style="height:30.0pt" class="xl72" height="40">&nbsp;</td><td class="xl70">Matthias Jovan Leow</td><td class="xl68">4.01</td><td style="width:171pt" width="228" class="xl82">Kayden Chia Cheng Kiat (Xie Zhengjie)</td><td class="xl68">4.06</td><td style="width:194pt" width="258" class="xl79">Aarav Agarwal</td><td class="xl68">4.09</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">&nbsp;</td><td class="xl70">Joshua Gabriel Low</td><td style="width:41pt" width="55" class="xl82">4.15</td><td style="width:171pt" width="228" class="xl82">&nbsp;</td><td class="xl68">&nbsp;</td><td style="width:194pt" width="258" class="xl79">&nbsp;</td><td class="xl68">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl75" height="20"></td><td class="xl66"></td><td class="xl63"></td><td style="width:171pt" width="228" class="xl86"></td><td class="xl63"></td><td style="width:194pt" width="258" class="xl81"></td><td class="xl63"></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;mso-ignore:colspan" colspan="2" class="xl73" height="20">Singapore Junior Chemistry Olympiad<span style="mso-spacerun:yes">&nbsp;</span></td><td class="xl68">&nbsp;</td><td style="width:171pt" width="228" class="xl82">&nbsp;</td><td class="xl68">&nbsp;</td><td style="width:194pt" width="258" class="xl79">&nbsp;</td><td class="xl68">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl70" height="20">Gold</td><td class="xl87">Leong Ze Meng, Noel<span style="mso-spacerun:yes">&nbsp;</span></td><td style="width:41pt" width="55" class="xl88">3.10</td><td class="xl87">Rong Haoyu</td><td class="xl68">4.09</td><td class="xl87">Emmanuel Ng</td><td class="xl85">4.10</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl70" height="20">&nbsp;</td><td class="xl87">Ian Lai Kai'En</td><td class="xl85">4.10</td><td class="xl87">Ian Tan<span style="mso-spacerun:yes">&nbsp;</span></td><td class="xl85">4.10</td><td class="xl87">Tang Zee Meng<span style="mso-spacerun:yes">&nbsp;</span></td><td class="xl85">4.10</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">Silver</td><td class="xl87">Le Viet Quang<span style="mso-spacerun:yes">&nbsp;</span></td><td class="xl68">4.03</td><td style="width:171pt" width="228" class="xl82">Arkin Talukdar<span style="mso-spacerun:yes">&nbsp;</span></td><td class="xl68">4.09</td><td style="width:194pt" width="258" class="xl79">&nbsp;</td><td class="xl68">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">Bronze</td><td class="xl87">Shen Xuyi<span style="mso-spacerun:yes">&nbsp;</span></td><td class="xl68">3.09</td><td class="xl87">Loo Enxin Timothy<span style="mso-spacerun:yes">&nbsp;</span></td><td style="width:37pt" width="49" class="xl88">3.10</td><td class="xl87">Joash Ong Zhuo En<span style="mso-spacerun:yes">&nbsp;</span></td><td style="width:38pt" width="50" class="xl88">3.10</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">&nbsp;</td><td class="xl87">Bui Dinh Loc<span style="mso-spacerun:yes">&nbsp;</span></td><td class="xl68">4.08</td><td class="xl87">To Hai Long<span style="mso-spacerun:yes">&nbsp;</span></td><td class="xl68">4.08</td><td class="xl87">Pranav Narayan Rajkumar<span style="mso-spacerun:yes">&nbsp;</span></td><td class="xl85">4.10</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">Merit</td><td class="xl87">Setiawan Dharma<span style="mso-spacerun:yes">&nbsp;</span></td><td class="xl68">4.03</td><td class="xl87">Gunalan Abhimanyu<span style="mso-spacerun:yes">&nbsp;</span></td><td class="xl68">4.13</td><td class="xl87">&nbsp;</td><td class="xl68">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl75" height="20"></td><td class="xl66"></td><td class="xl63"></td><td style="width:171pt" width="228" class="xl86"></td><td class="xl63"></td><td style="width:194pt" width="258" class="xl81"></td><td class="xl63"></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;mso-ignore:colspan" colspan="2" class="xl73" height="20">Singapore Junior Physics Olympiad (2024)</td><td class="xl68">&nbsp;</td><td style="width:171pt" width="228" class="xl82">&nbsp;</td><td class="xl68">&nbsp;</td><td style="width:194pt" width="258" class="xl79">&nbsp;</td><td class="xl68">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl70" height="20">Gold</td><td class="xl69">Lim Yong Cen Aiden</td><td class="xl85">4.10</td><td class="xl69">Reyes Lee Yui Hou</td><td class="xl85">4.10</td><td style="width:194pt" width="258" class="xl79">&nbsp;</td><td class="xl68">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">Silver</td><td class="xl69">Nathaniel Cheng Rong En</td><td class="xl85">4.09</td><td class="xl69">Cayden Lim Tze Wei</td><td class="xl85">4.10</td><td class="xl69">Emmanuel Soon Yi En</td><td class="xl85">4.10</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">&nbsp;</td><td class="xl69">Jerry Goh Peh Lim<span style="mso-spacerun:yes">&nbsp;</span></td><td class="xl85">4.10</td><td class="xl69">Lee Kum Ree, Cymru</td><td class="xl85">4.10</td><td class="xl69">Matthew Atticus Tan (Chen Yuheng)</td><td class="xl85">4.10</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">&nbsp;</td><td class="xl69">Caysson Arsenius Yahya</td><td class="xl85">4.11</td><td class="xl69">&nbsp;</td><td class="xl85">&nbsp;</td><td class="xl69">&nbsp;</td><td class="xl85">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">Bronze</td><td class="xl69">John Foo Hong Liang</td><td class="xl85">3.01</td><td class="xl69">Kieran Ong Shu Kai</td><td class="xl85">3.10</td><td class="xl69">Zheng Rong Hui</td><td class="xl85">3.10</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">&nbsp;</td><td class="xl69">Jayden Karl Gunawan</td><td class="xl85">4.01</td><td class="xl69">Dylan Tan Kai Wen</td><td class="xl85">4.09</td><td class="xl69">Gao Zichuan</td><td class="xl85">4.09</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">&nbsp;</td><td class="xl69">Joel Chan En Yiu<span style="mso-spacerun:yes">&nbsp;</span></td><td class="xl85">4.10</td><td class="xl69">Kavin Manimaran</td><td class="xl85">4.10</td><td class="xl69">Kunduru Aditya Sriram Reddy</td><td class="xl85">4.10</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">&nbsp;</td><td class="xl69">Lew Cheng En (Liu Cheng'en)</td><td class="xl85">4.10</td><td class="xl69">Zhang Zhihe</td><td class="xl85">4.10</td><td class="xl69">Kendrick Kwok Rui Tian<span style="mso-spacerun:yes">&nbsp;</span></td><td class="xl85">4.11</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">&nbsp;</td><td class="xl69">Lim Xiao Tang</td><td class="xl85">4.11</td><td class="xl69">&nbsp;</td><td class="xl85">&nbsp;</td><td class="xl69">&nbsp;</td><td class="xl85">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">Honourable Mention</td><td class="xl69">Daniel Chan Yun Jie</td><td class="xl85">3.01</td><td class="xl69">Ian Tan</td><td class="xl85">3.10</td><td class="xl69">Jiang Tongze</td><td class="xl85">4.09</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">&nbsp;</td><td class="xl69">Chong Ting Yuk Walter</td><td class="xl85">4.10</td><td class="xl69">Kandasami Rohith</td><td class="xl85">4.10</td><td class="xl69">&nbsp;</td><td class="xl84">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl75" height="20"></td><td class="xl66"></td><td class="xl83"></td><td></td><td class="xl83"></td><td></td><td class="xl83"></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;mso-ignore:colspan" colspan="2" class="xl73" height="20">Singapore Biology Olympiad (2024)</td><td class="xl68">&nbsp;</td><td class="xl68">&nbsp;</td><td class="xl68">&nbsp;</td><td class="xl68">&nbsp;</td><td class="xl68">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">Merit</td><td class="xl72">Chew An-Yuan, Christopher</td><td style="width:41pt" width="55" class="xl71">6.13</td><td class="xl68">Kwan Jun Yong David</td><td style="width:37pt" width="49" class="xl82">6.13</td><td style="width:194pt" width="258" class="xl79">Thee Sim Ling</td><td class="xl68">6.13</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;width:144pt" width="192" class="xl74" height="20"></td><td class="xl75"></td><td style="width:41pt" width="55" class="xl74"></td><td class="xl63"></td><td style="width:37pt" width="49" class="xl81"></td><td style="width:194pt" width="258" class="xl80"></td><td class="xl63"></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;mso-ignore:colspan" colspan="2" class="xl73" height="20">Singapore Chemistry Olympiad (2024)</td><td class="xl68">&nbsp;</td><td class="xl68">&nbsp;</td><td style="width:37pt" width="49" class="xl79">&nbsp;</td><td style="width:194pt" width="258" class="xl78">&nbsp;</td><td class="xl68">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl70" height="20">Silver</td><td class="xl72">Chew An-Yuan, Christopher</td><td style="width:41pt" width="55" class="xl71">6.13</td><td class="xl68">&nbsp;</td><td style="width:37pt" width="49" class="xl79">&nbsp;</td><td style="width:194pt" width="258" class="xl78">&nbsp;</td><td class="xl68">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">Bronze</td><td class="xl77">Joash Loh Ci-Yi</td><td style="width:41pt" width="55" class="xl71">6.02</td><td class="xl72">Joel Lee Jun Jie</td><td style="width:37pt" width="49" class="xl71">6.04</td><td class="xl77">Elliott Elijah Yeo Shao Ern</td><td class="xl68">6.06</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">&nbsp;</td><td class="xl72">Lai Yan Xuan Carene<span style="mso-spacerun:yes">&nbsp;</span></td><td style="width:41pt" width="55" class="xl71">6.16</td><td class="xl72">&nbsp;</td><td style="width:37pt" width="49" class="xl71">&nbsp;</td><td class="xl68">&nbsp;</td><td style="width:38pt" width="50" class="xl71">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">Merit</td><td class="xl72">Loh Yong Wei Bryan<span style="mso-spacerun:yes">&nbsp;</span></td><td style="width:41pt" width="55" class="xl71">6.06</td><td class="xl72">Kwan Jun Yong David<span style="mso-spacerun:yes">&nbsp;</span></td><td style="width:37pt" width="49" class="xl71">6.13</td><td class="xl68">&nbsp;</td><td style="width:38pt" width="50" class="xl71">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;width:144pt" width="192" class="xl74" height="20"></td><td class="xl75"></td><td style="width:41pt" width="55" class="xl74"></td><td class="xl63"></td><td class="xl63"></td><td class="xl63"></td><td class="xl63"></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;mso-ignore:colspan" colspan="2" class="xl73" height="20">Singapore Physics Olympiad (2024)</td><td style="width:41pt" width="55" class="xl71">&nbsp;</td><td class="xl68">&nbsp;</td><td class="xl68">&nbsp;</td><td class="xl68">&nbsp;</td><td class="xl68">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">Bronze</td><td class="xl77">Joash Loh Ci-Yi</td><td style="width:41pt" width="55" class="xl71">6.02</td><td class="xl77">Lester Lim Yew Suan</td><td class="xl76">6.02</td><td class="xl77">Elliott Elijah Yeo Shao Ern</td><td class="xl68">6.06</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">&nbsp;</td><td class="xl69">Sujen Ettikan Kandasamy</td><td style="width:41pt" width="55" class="xl71">6.12</td><td class="xl68">&nbsp;</td><td class="xl76">&nbsp;</td><td class="xl68">&nbsp;</td><td class="xl68">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl72" height="20">Honourable Mentions</td><td class="xl77">Evan Tan</td><td style="width:41pt" width="55" class="xl71">6.02</td><td class="xl77">Hamza Asim</td><td class="xl76">6.11</td><td class="xl77">Hemanya Chadha</td><td class="xl68">6.16</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl75" height="20"></td><td class="xl75"></td><td style="width:41pt" width="55" class="xl74"></td><td class="xl63"></td><td class="xl65"></td><td class="xl63"></td><td class="xl63"></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;mso-ignore:colspan" colspan="2" class="xl73" height="20">Singapore Science and Engineering Fair</td><td style="width:41pt" width="55" class="xl71">&nbsp;</td><td class="xl68">&nbsp;</td><td class="xl76">&nbsp;</td><td class="xl68">&nbsp;</td><td class="xl68">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl70" height="20">Silver</td><td class="xl68">Loh Yong Wei Bryan</td><td class="xl67">6.06</td><td class="xl72">Kezmond Lee Jun Yaw</td><td class="xl67">6.09</td><td class="xl68">Joseph Edwin Selvakumar Joy Merwin</td><td class="xl67">6.12</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl70" height="20">&nbsp;</td><td class="xl68">Chew An-yuan Christopher</td><td class="xl67">6.13</td><td class="xl72">&nbsp;</td><td class="xl67">&nbsp;</td><td class="xl68">&nbsp;</td><td class="xl67">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl70" height="20">Bronze</td><td class="xl68">Esther Keziah Lim Rui Qi</td><td class="xl67">5.13</td><td class="xl68">&nbsp;</td><td class="xl67">&nbsp;</td><td class="xl68">&nbsp;</td><td class="xl67">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl70" height="20">Merit</td><td class="xl68">Ee Kui Wei</td><td class="xl67">5.02</td><td class="xl72">Gan Junyi Sean</td><td class="xl67">5.04</td><td class="xl68">Nathaniel Cheng Rong En</td><td class="xl67">5.12</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;width:144pt" width="192" class="xl74" height="20"></td><td class="xl75"></td><td style="width:41pt" width="55" class="xl74"></td><td class="xl63"></td><td class="xl63"></td><td class="xl63"></td><td class="xl63"></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;mso-ignore:colspan" colspan="2" class="xl73" height="20">Singapore Youth Stem Fair 2025<span style="mso-spacerun:yes">&nbsp;</span></td><td style="width:41pt" width="55" class="xl71">&nbsp;</td><td class="xl68">&nbsp;</td><td class="xl68">&nbsp;</td><td class="xl68">&nbsp;</td><td class="xl68">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl70" height="20">Commendation</td><td class="xl69">Lim Rui Yang</td><td class="xl67">1.05</td><td class="xl68">Liang Chenjun</td><td class="xl67">1.07</td><td class="xl68">Kiran Yeo Zhekai</td><td class="xl67">2.03</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" class="xl70" height="20">&nbsp;</td><td class="xl69">Boggarapu Hridhaan</td><td class="xl67">2.11</td><td class="xl68">&nbsp;</td><td class="xl67">&nbsp;</td><td class="xl68">&nbsp;</td><td class="xl67">&nbsp;</td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0" width="1094" border="0"><colgroup><col width="192"> <col width="262"> <col width="55"> <col width="228"> <col width="49"> <col width="258"> <col width="50"></colgroup>
+<tbody>
+<tr>
+<td height="20" width="192">Competition</td>
+</tr>
+<tr>
+<td height="20">Award</td>
+<td>Students</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td height="20" width="509" colspan="3">26th International Elementz Fair&nbsp;</td>
+</tr>
+<tr>
+<td height="20" width="192">Gold</td>
+<td width="262">Joel Lee Jun Jie</td>
+<td>6.04</td>
+<td>Kwan Jun Yong David&nbsp;</td>
+<td width="49">6.13</td>
+<td>Tan Yong Le Timothy</td>
+<td>6.13</td>
+</tr>
+<tr>
+<td height="20" width="192">Bronze</td>
+<td>Vanessa Lai Ying'en</td>
+<td>6.12</td>
+<td>Thee Sim Ling</td>
+<td>6.13</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td height="20">CB Paul Science Quiz 2025</td>
+</tr>
+<tr>
+<td height="20">Gold</td>
+<td>Leong Ze Meng, Noel</td>
+<td>3.10</td>
+<td>Russell Ang&nbsp;</td>
+<td>3.10</td>
+<td width="258">Emmanuel Ng</td>
+<td>4.10&nbsp;</td>
+</tr>
+<tr>
+<td>Heng Jie Feng Ayden</td>
+<td>4.10&nbsp;</td>
+<td>Ian Tan&nbsp;</td>
+<td>4.10&nbsp;</td>
+<td width="258">Kieran Ong Shu Kai</td>
+<td>4.10&nbsp;</td>
+</tr>
+<tr>
+<td height="20">Silver</td>
+<td>Gong Wei Yi, Jeremiah</td>
+<td>3.10</td>
+<td>Ajit Singh Vaidyanath</td>
+<td>4.10&nbsp;</td>
+<td width="258">Evan Riley Gill</td>
+<td>4.10&nbsp;</td>
+</tr>
+<tr>
+<td>Tan Zheng Jie, Tyler</td>
+<td>4.10&nbsp;</td>
+<td>Zheng Rong Hui</td>
+<td>4.10&nbsp;</td>
+<td width="258">Ong Rui Fan Maximus&nbsp;</td>
+<td>4.15</td>
+</tr>
+<tr>
+<td height="20">Bronze</td>
+<td width="262">Kuan Junheng, Jayden</td>
+<td>4.10&nbsp;</td>
+<td width="228">Lau Cedric Dreyzen Uy</td>
+<td>4.10&nbsp;</td>
+<td width="258">Tan Chuan Wey, Noah</td>
+<td>4.10&nbsp;</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td height="20" colspan="2">Engineering Innovation Challenge 2025</td>
+</tr>
+<tr>
+<td height="20">Merit</td>
+<td>Shen Jia Rui</td>
+<td>5.06</td>
+<td>Low Wern Jae Zach</td>
+<td>6.01</td>
+<td>Yoon Sae Young</td>
+<td>6.01</td>
+</tr>
+<tr>
+<td>Du Yuhan</td>
+<td>6.06</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td height="24" width="454" colspan="2">Genetic Modification Advisory Committee (GMAC) Students Challenge</td>
+</tr>
+<tr>
+<td height="20" width="192">Best Scientific Explanation</td>
+<td>Arkin Talukdar&nbsp;</td>
+<td>4.09</td>
+<td>Carlos Goh Ka Fai</td>
+<td>4.09</td>
+<td width="258">Jayden Tey</td>
+<td>4.09</td>
+</tr>
+<tr>
+<td>Tang Yanxiang</td>
+<td>4.09</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td height="20" colspan="2">LKCMedicine Anatomy Challenge 2025</td>
+</tr>
+<tr>
+<td height="20" width="192">Merit</td>
+<td width="262">Joel Lee Jun Jie</td>
+<td>6.04</td>
+<td>Chew An-yuan Christopher</td>
+<td>6.13</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td height="20" colspan="2">Nanyang Research Programme (2024-25)</td>
+</tr>
+<tr>
+<td height="20">Bronze</td>
+<td>Wong I-En</td>
+<td>6.01</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td height="20" colspan="2">Nanyang Research Programme (Junior Researcher) (2024-25)</td>
+</tr>
+<tr>
+<td height="20">Gold</td>
+<td>Lew Cheng En</td>
+<td>5.01</td>
+<td>Chong E Hann</td>
+<td>5.06</td>
+<td width="258">Zhang Zhihe</td>
+<td>5.06</td>
+</tr>
+<tr>
+<td>Teo Zi Jian William</td>
+<td>5.13</td>
+</tr>
+<tr>
+<td height="20">Silver</td>
+<td>Kavin Manimaran</td>
+<td>5.01</td>
+<td>Lukas Chew Jianhong</td>
+<td>5.07</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td height="20" colspan="2">National STEM Championship (2024)</td>
+</tr>
+<tr>
+<td height="20">1st Runner up</td>
+<td width="262">Emmanuel Ng</td>
+<td>4.10&nbsp;</td>
+<td>Ian Lai Kaien</td>
+<td>4.10&nbsp;</td>
+<td>Ian Tan</td>
+<td>4.10&nbsp;</td>
+</tr>
+<tr>
+<td>Zheng Rong Hui</td>
+<td>4.10&nbsp;</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td height="20">Science Castle</td>
+</tr>
+<tr>
+<td height="20">Gold</td>
+<td>Kezmond Lee Jun Yaw</td>
+<td>6.09</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td height="20" colspan="2">Singapore Junior Biology Olympiad&nbsp;</td>
+</tr>
+<tr>
+<td height="20">Gold</td>
+<td>Leong Ze Meng, Noel</td>
+<td width="55">3.10</td>
+<td>Hector Kian Jia Xuan</td>
+<td width="49">3.10</td>
+<td>Nathanael Emmanuel Wijaya</td>
+<td>4.01</td>
+</tr>
+<tr>
+<td>Corey Tan Kang Rui</td>
+<td width="55">4.10</td>
+<td>Emmanuel Ng</td>
+<td width="49">4.10</td>
+<td>Heng Jie Feng Ayden</td>
+<td width="50">4.10</td>
+</tr>
+<tr>
+<td width="262">Ian Lai Kai'en</td>
+<td width="55">4.10</td>
+<td>Ian Tan</td>
+<td width="49">4.10</td>
+<td>Kieran Ong Shu Kai</td>
+<td width="50">4.10</td>
+</tr>
+<tr>
+<td width="262">Tan Chuan Wey, Noah</td>
+<td width="55">4.10</td>
+<td>Tang Zee Meng (Chen Ziming)</td>
+<td width="49">4.10</td>
+</tr>
+<tr>
+<td height="20">Silver</td>
+<td>Ong U Heng, Azriel Nikkei</td>
+<td width="55">3.01</td>
+<td>Felix Shen Xuyi</td>
+<td width="49">3.09</td>
+<td>Trevor Tan Jin Tzun</td>
+<td width="50">3.09</td>
+</tr>
+<tr>
+<td>Gideon Yen</td>
+<td width="55">3.10</td>
+<td>Russell Ang</td>
+<td width="49">3.10</td>
+<td>Ying Yu-Liang Lucas</td>
+<td width="50">3.10</td>
+</tr>
+<tr>
+<td>Sabarimanickam Harshal</td>
+<td>3.13</td>
+<td>Kim Jun Siong Peter</td>
+<td>4.01</td>
+<td>Kai Ho</td>
+<td>4.06</td>
+</tr>
+<tr>
+<td>Jayden Teo Kai Jun (Zhang Kaijun)</td>
+<td>4.09</td>
+<td width="228">Zechariah Chew Zheng Kai (Zhou Zhengkai)</td>
+<td>4.09</td>
+<td>Ethan Wong Yiren</td>
+<td width="50">4.10</td>
+</tr>
+<tr>
+<td>Evan Riley Gill</td>
+<td width="55">4.10</td>
+<td width="228">Evans Emmanuel Yeo Qing Ern</td>
+<td width="49">4.10</td>
+<td>Pranav Narayan Rajkumar</td>
+<td width="50">4.10</td>
+</tr>
+<tr>
+<td>Tan Zheng Jie, Tyler</td>
+<td width="55">4.10</td>
+<td width="228">Yap Kuan Yi, John</td>
+<td width="49">4.10</td>
+<td>Zheng Rong Hui</td>
+<td width="50">4.10</td>
+</tr>
+<tr>
+<td>Cheng Shihang</td>
+<td width="55">4.13</td>
+<td>Gunalan Abhimanyu</td>
+<td width="49">4.13</td>
+<td>Sean Lim Wei Ren</td>
+<td width="50">4.13</td>
+</tr>
+<tr>
+<td height="20">Bronze</td>
+<td>Imran Tan Yi Jun</td>
+<td width="55">3.01</td>
+<td width="228">Yeo Rui Kai Joshua</td>
+<td width="49">3.01</td>
+<td width="258">Lim Yuan De Benjamin</td>
+<td width="50">3.10</td>
+</tr>
+<tr>
+<td width="262">Hoon Wu, Karl</td>
+<td width="55">3.10</td>
+<td width="228">Joash Ong Zhuo En</td>
+<td width="49">3.10</td>
+<td width="258">Premanand Gukhan</td>
+<td width="50">3.10</td>
+</tr>
+<tr>
+<td>Chua E-Tong Curtis</td>
+<td>4.01</td>
+<td width="228">Ryan Lim Jia De</td>
+<td>4.01</td>
+<td width="258">Shmelev Zahar</td>
+<td>4.01</td>
+</tr>
+<tr>
+<td>Hoe Yat Hon Jayden (He Yihan)</td>
+<td>4.04</td>
+<td width="228">Denzell Goh Guanjin</td>
+<td>4.06</td>
+<td width="258">Iain Colby Sim En Tze (Shen Enzhe)</td>
+<td>4.06</td>
+</tr>
+<tr>
+<td>Kylle Gill</td>
+<td>4.06</td>
+<td width="228">Liu Zhongyi</td>
+<td>4.06</td>
+<td width="258">Maximus Mathias Tan</td>
+<td>4.06</td>
+</tr>
+<tr>
+<td>Arkin Talukdar</td>
+<td>4.09</td>
+<td width="228">Wai Shang Bin, Jayden</td>
+<td>4.09</td>
+<td width="258">Kuan Junheng, Jayden</td>
+<td width="50">4.10</td>
+</tr>
+<tr>
+<td>Kanwar Siddharth Lather</td>
+<td>4.13</td>
+<td width="228">Ong Rui Fan Maximus</td>
+<td>4.15</td>
+</tr>
+<tr>
+<td height="20">Honourable Mention</td>
+<td>Bryan Sim Yong Rui</td>
+<td width="55">3.10</td>
+<td width="228">Daniel Beh</td>
+<td width="49">3.10</td>
+<td width="258">Kayden Lim Kai Jun</td>
+<td width="50">3.10</td>
+</tr>
+<tr>
+<td>Teo Zhi Kai Ethan</td>
+<td width="55">3.10</td>
+<td width="228">Joe Florann Timothy</td>
+<td>3.15</td>
+<td width="258">Daniel Chan Yun Jie</td>
+<td>4.01</td>
+</tr>
+<tr>
+<td>Matthias Jovan Leow</td>
+<td>4.01</td>
+<td width="228">Kayden Chia Cheng Kiat (Xie Zhengjie)</td>
+<td>4.06</td>
+<td width="258">Aarav Agarwal</td>
+<td>4.09</td>
+</tr>
+<tr>
+<td>Joshua Gabriel Low</td>
+<td width="55">4.15</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td height="20" colspan="2">Singapore Junior Chemistry Olympiad&nbsp;</td>
+</tr>
+<tr>
+<td height="20">Gold</td>
+<td>Leong Ze Meng, Noel&nbsp;</td>
+<td width="55">3.10</td>
+<td>Rong Haoyu</td>
+<td>4.09</td>
+<td>Emmanuel Ng</td>
+<td>4.10</td>
+</tr>
+<tr>
+<td>Ian Lai Kai'En</td>
+<td>4.10</td>
+<td>Ian Tan&nbsp;</td>
+<td>4.10</td>
+<td>Tang Zee Meng&nbsp;</td>
+<td>4.10</td>
+</tr>
+<tr>
+<td height="20">Silver</td>
+<td>Le Viet Quang&nbsp;</td>
+<td>4.03</td>
+<td width="228">Arkin Talukdar&nbsp;</td>
+<td>4.09</td>
+</tr>
+<tr>
+<td height="20">Bronze</td>
+<td>Shen Xuyi&nbsp;</td>
+<td>3.09</td>
+<td>Loo Enxin Timothy&nbsp;</td>
+<td width="49">3.10</td>
+<td>Joash Ong Zhuo En&nbsp;</td>
+<td width="50">3.10</td>
+</tr>
+<tr>
+<td>Bui Dinh Loc&nbsp;</td>
+<td>4.08</td>
+<td>To Hai Long&nbsp;</td>
+<td>4.08</td>
+<td>Pranav Narayan Rajkumar&nbsp;</td>
+<td>4.10</td>
+</tr>
+<tr>
+<td height="20">Merit</td>
+<td>Setiawan Dharma&nbsp;</td>
+<td>4.03</td>
+<td>Gunalan Abhimanyu&nbsp;</td>
+<td>4.13</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td height="20" colspan="2">Singapore Junior Physics Olympiad (2024)</td>
+</tr>
+<tr>
+<td height="20">Gold</td>
+<td>Lim Yong Cen Aiden</td>
+<td>4.10</td>
+<td>Reyes Lee Yui Hou</td>
+<td>4.10</td>
+</tr>
+<tr>
+<td height="20">Silver</td>
+<td>Nathaniel Cheng Rong En</td>
+<td>4.09</td>
+<td>Cayden Lim Tze Wei</td>
+<td>4.10</td>
+<td>Emmanuel Soon Yi En</td>
+<td>4.10</td>
+</tr>
+<tr>
+<td>Jerry Goh Peh Lim&nbsp;</td>
+<td>4.10</td>
+<td>Lee Kum Ree, Cymru</td>
+<td>4.10</td>
+<td>Matthew Atticus Tan (Chen Yuheng)</td>
+<td>4.10</td>
+</tr>
+<tr>
+<td>Caysson Arsenius Yahya</td>
+<td>4.11</td>
+</tr>
+<tr>
+<td height="20">Bronze</td>
+<td>John Foo Hong Liang</td>
+<td>3.01</td>
+<td>Kieran Ong Shu Kai</td>
+<td>3.10</td>
+<td>Zheng Rong Hui</td>
+<td>3.10</td>
+</tr>
+<tr>
+<td>Jayden Karl Gunawan</td>
+<td>4.01</td>
+<td>Dylan Tan Kai Wen</td>
+<td>4.09</td>
+<td>Gao Zichuan</td>
+<td>4.09</td>
+</tr>
+<tr>
+<td>Joel Chan En Yiu&nbsp;</td>
+<td>4.10</td>
+<td>Kavin Manimaran</td>
+<td>4.10</td>
+<td>Kunduru Aditya Sriram Reddy</td>
+<td>4.10</td>
+</tr>
+<tr>
+<td>Lew Cheng En (Liu Cheng'en)</td>
+<td>4.10</td>
+<td>Zhang Zhihe</td>
+<td>4.10</td>
+<td>Kendrick Kwok Rui Tian&nbsp;</td>
+<td>4.11</td>
+</tr>
+<tr>
+<td>Lim Xiao Tang</td>
+<td>4.11</td>
+</tr>
+<tr>
+<td height="20">Honourable Mention</td>
+<td>Daniel Chan Yun Jie</td>
+<td>3.01</td>
+<td>Ian Tan</td>
+<td>3.10</td>
+<td>Jiang Tongze</td>
+<td>4.09</td>
+</tr>
+<tr>
+<td>Chong Ting Yuk Walter</td>
+<td>4.10</td>
+<td>Kandasami Rohith</td>
+<td>4.10</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td height="20" colspan="2">Singapore Biology Olympiad (2024)</td>
+</tr>
+<tr>
+<td height="20">Merit</td>
+<td>Chew An-Yuan, Christopher</td>
+<td width="55">6.13</td>
+<td>Kwan Jun Yong David</td>
+<td width="49">6.13</td>
+<td width="258">Thee Sim Ling</td>
+<td>6.13</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td height="20" colspan="2">Singapore Chemistry Olympiad (2024)</td>
+</tr>
+<tr>
+<td height="20">Silver</td>
+<td>Chew An-Yuan, Christopher</td>
+<td width="55">6.13</td>
+</tr>
+<tr>
+<td height="20">Bronze</td>
+<td>Joash Loh Ci-Yi</td>
+<td width="55">6.02</td>
+<td>Joel Lee Jun Jie</td>
+<td width="49">6.04</td>
+<td>Elliott Elijah Yeo Shao Ern</td>
+<td>6.06</td>
+</tr>
+<tr>
+<td>Lai Yan Xuan Carene&nbsp;</td>
+<td width="55">6.16</td>
+</tr>
+<tr>
+<td height="20">Merit</td>
+<td>Loh Yong Wei Bryan&nbsp;</td>
+<td width="55">6.06</td>
+<td>Kwan Jun Yong David&nbsp;</td>
+<td width="49">6.13</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td height="20" colspan="2">Singapore Physics Olympiad (2024)</td>
+</tr>
+<tr>
+<td height="20">Bronze</td>
+<td>Joash Loh Ci-Yi</td>
+<td width="55">6.02</td>
+<td>Lester Lim Yew Suan</td>
+<td>6.02</td>
+<td>Elliott Elijah Yeo Shao Ern</td>
+<td>6.06</td>
+</tr>
+<tr>
+<td>Sujen Ettikan Kandasamy</td>
+<td width="55">6.12</td>
+</tr>
+<tr>
+<td height="20">Honourable Mentions</td>
+<td>Evan Tan</td>
+<td width="55">6.02</td>
+<td>Hamza Asim</td>
+<td>6.11</td>
+<td>Hemanya Chadha</td>
+<td>6.16</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td height="20" colspan="2">Singapore Science and Engineering Fair</td>
+</tr>
+<tr>
+<td height="20">Silver</td>
+<td>Loh Yong Wei Bryan</td>
+<td>6.06</td>
+<td>Kezmond Lee Jun Yaw</td>
+<td>6.09</td>
+<td>Joseph Edwin Selvakumar Joy Merwin</td>
+<td>6.12</td>
+</tr>
+<tr>
+<td>Chew An-yuan Christopher</td>
+<td>6.13</td>
+</tr>
+<tr>
+<td height="20">Bronze</td>
+<td>Esther Keziah Lim Rui Qi</td>
+<td>5.13</td>
+</tr>
+<tr>
+<td height="20">Merit</td>
+<td>Ee Kui Wei</td>
+<td>5.02</td>
+<td>Gan Junyi Sean</td>
+<td>5.04</td>
+<td>Nathaniel Cheng Rong En</td>
+<td>5.12</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td height="20" colspan="2">Singapore Youth Stem Fair 2025&nbsp;</td>
+</tr>
+<tr>
+<td height="20">Commendation</td>
+<td>Lim Rui Yang</td>
+<td>1.05</td>
+<td>Liang Chenjun</td>
+<td>1.07</td>
+<td>Kiran Yeo Zhekai</td>
+<td>2.03</td>
+</tr>
+<tr>
+<td>Boggarapu Hridhaan</td>
+<td>2.11</td>
+</tr>
+</tbody>
+</table>
