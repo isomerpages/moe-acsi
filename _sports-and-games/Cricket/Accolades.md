@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Cricket
 variant: markdown
 ---
-![](/images/Cricket_Achievement_in_2024.jpg)
+
+![](/images/Cricket_Achievement_in_2025_for_Noticeboard.png)
 ![](/images/Cricket_Achievements_2013_to_2024.png)
 
 **Singapore Schools Sports Council – Sports Boy of the year 2024 – Cricket CCA**
