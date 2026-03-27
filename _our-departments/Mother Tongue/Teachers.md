@@ -11,7 +11,7 @@ variant: markdown
 Deputy Dean (Malay &amp; Tamil Languages)  
 Coordinator IBDP Hindi Language
 
-Mr Shariff has been teaching at ACS (Independent) for over two decades, and had the privilege of spearheading the launching of the ‘Tamil B’ subject&nbsp;in the IB Diploma Program. He has always been more than a teacher to his students- a guide, mentor and even a father figure at times. A cricket enthusiast for the past half a century, Mr Shariff is also the teacher-in-charge of the Cricket CCA, and has guided the school to championship on numerous occasions.
+Dr. Shariff has been teaching at ACS (Independent) for over two decades, and had the privilege of spearheading the launching of the ‘Tamil B’ subject&nbsp;in the IB Diploma Program. He has always been more than a teacher to his students- a guide, mentor and even a father figure at times. A cricket enthusiast for the past half a century, Dr. Shariff is also the teacher-in-charge of the Cricket CCA, and has guided the school to championship on numerous occasions.
 
 School Contact No.: 68700467/ 67731633
 
