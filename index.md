@@ -17,7 +17,7 @@ sections:
         - title: For Parents
           description: ""
           url: /for-parents/
-      background: /images/Homepage/2026_Website_Banner_Gif_Compressed.gif
+      background: /images/Homepage/2026_Website_Banner_Gif_Updated.gif
   - resources:
       subtitle: Announcements
       button: more
