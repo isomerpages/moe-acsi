@@ -114,6 +114,15 @@ month of the MOE ISB till December of the year.&nbsp;</p>
 Citizen students in a GGAS.&nbsp;</p>
 <p>Approved ISBs are valid till December of the year.&nbsp; Fresh applications
 will have to be submitted for each subsequent academic year.&nbsp;</p>
+
+     
+
+**Application Procedure**
+
+Students may apply for the Independent School Bursary at any time during the year. The assistance will take effect from the month the application is approved. Please note that there will be no backdating of the effective month.
+
+Students who received financial assistance in 2025, must re-apply if they require financial assistance in 2026.
+
 <p>Students who wish to apply for the MOE ISB Scheme for Year 2026 may now
 submit their applications online using this link: <a href="https://go.gov.sg/moe-efasis" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasis</a>
 
