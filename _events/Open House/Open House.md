@@ -10,7 +10,7 @@ variant: tiptap
 or Microsoft Edge at a screen resolution of 1024 x 768 or higher.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSI_Openhouse_2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House/2026_OPEN_HOUSE___FINAL.png">
 </div>
 <p><strong>This will be a walk-in event, with no registration required.</strong>&nbsp;As
 there is limited parking in the school, visitors are advised to park their
