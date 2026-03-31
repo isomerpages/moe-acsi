@@ -17,8 +17,8 @@ there is limited parking in the school, visitors are advised to park their
 vehicles at the multi-storey carparks nearby.</p>
 <p>Our Open House maps are available for download&nbsp;<a href="/files/2026_Open_House_CCA_Booths_Upload.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><strong>Key Locations For:</strong>
-<br><a href="#_Talks,_General_Enquiries" rel="noopener noreferrer nofollow" target="_blank">Talks, General Enquiries &amp; Campus Tours</a>&nbsp;|&nbsp;
-<a href="#_CCA_Booths" rel="noopener noreferrer nofollow" target="_blank">CCA Booths</a>|&nbsp;<a href="#_Distinctive_Programmes_&amp;" rel="noopener noreferrer nofollow" target="_blank">Distinctive Programmes &amp; Subject Booths</a>
+<br><a href="/talks-general-enquiries-campus-tours/" rel="noopener noreferrer nofollow" target="_blank">Talks, General Enquiries &amp; Campus Tours</a>&nbsp;|&nbsp;
+<a href="/cca-booths/" rel="noopener noreferrer nofollow" target="_blank">CCA Booths</a>|&nbsp;<a href="/distinctive-programmes-subject-booths/" rel="noopener noreferrer nofollow" target="_blank">Distinctive Programmes &amp; Subject Booths</a>
 </p>
 <p>We hope to see you then!</p>
 <p><strong>Learn more about ACS(I):</strong>
