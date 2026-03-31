@@ -12,6 +12,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSI_Openhouse_2026.png">
 </div>
-<p>Stay tuned! More information to come soon from this <a href="/events/openhouse/" rel="noopener nofollow" target="_blank">link</a>
+<p>Find out more about our 2026 Open House programme here!: <a href="/events/openhouse/" rel="noopener nofollow" target="_blank">link</a>
 </p>
 <p></p>
