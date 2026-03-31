@@ -12,5 +12,25 @@ or Microsoft Edge at a screen resolution of 1024 x 768 or higher.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSI_Openhouse_2026.png">
 </div>
-<p>Stay tuned! More information to come soon.</p>
+<p><strong>This will be a walk-in event, with no registration required.</strong>&nbsp;As
+there is limited parking in the school, visitors are advised to park their
+vehicles at the multi-storey carparks nearby.</p>
+<p>Our Open House maps are available for download&nbsp;<a href="https://anglochineseschooli-my.sharepoint.com/personal/wongyuifei_acsindep_edu_sg/Documents/Documents/1%20ANNUAL%20-%20OPEN%20HOUSE/2026/2026%20Open%20House%20CCA%20Booths_Upload.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> .</p>
+<p><strong>Key Locations For:</strong>
+<br><a href="#_Talks,_General_Enquiries" rel="noopener noreferrer nofollow" target="_blank">Talks, General Enquiries &amp; Campus Tours</a>&nbsp;|&nbsp;
+<a href="#_CCA_Booths" rel="noopener noreferrer nofollow" target="_blank">CCA Booths</a>|&nbsp;<a href="#_Distinctive_Programmes_&amp;" rel="noopener noreferrer nofollow" target="_blank">Distinctive Programmes &amp; Subject Booths</a>
+</p>
+<p>We hope to see you then!</p>
+<p><strong>Learn more about ACS(I):</strong>
+<br><a href="https://www.acsindep.moe.edu.sg/student-development/cca/" rel="noopener noreferrer nofollow" target="_blank">CCAs</a>&nbsp;|&nbsp;
+<a href="https://www.acsindep.moe.edu.sg/departments/" rel="noopener noreferrer nofollow" target="_blank">Departments</a>|&nbsp;<a href="https://www.acsindep.moe.edu.sg/talent-development/" rel="noopener noreferrer nofollow" target="_blank">Distinctive Programmes</a>&nbsp;|&nbsp;
+<a href="https://www.acsindep.moe.edu.sg/admissions/" rel="noopener noreferrer nofollow" target="_blank">Admissions &amp; DSA</a>
+</p>
+<p><strong>More Information on DSA Talent Domains and FAQs:</strong>
+</p>
+<p><a href="https://www.acsindep.moe.edu.sg/admissions/dsa-year-1/" rel="noopener noreferrer nofollow" target="_blank">DSA (Y1) Talent Domains</a> |
+<a href="https://anglochineseschooli-my.sharepoint.com/personal/wongyuifei_acsindep_edu_sg/Documents/Documents/1%20ANNUAL%20-%20OPEN%20HOUSE/2026/2026%20FAQ%20on%20DSA-Sec%20(Y1).pdf" rel="noopener noreferrer nofollow" target="_blank">DSA-SEC (Y1) FAQ</a>
+</p>
+<p>&nbsp;</p>
+<p>For any enquiries, you may contact us&nbsp;<a href="https://www.acsindep.moe.edu.sg/about-acs-independent/contact-us-main/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
