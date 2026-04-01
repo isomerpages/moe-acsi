@@ -27,11 +27,6 @@ sections:
       image: /images/2026_OPEN_HOUSE___FINAL.png
       alt: Image alt text
   - infopic:
-      title: Theme Verse 2026
-      id: infopic
-      image: /images/Theme_2026_For_Webpage_Banner__1_.jpg
-      alt: Theme Verse 2026
-  - infopic:
       title: ACS140 Anniversary
       subtitle: 1886 - 2026
       id: infopic
