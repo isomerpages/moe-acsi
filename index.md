@@ -17,7 +17,7 @@ sections:
         - title: For Parents
           description: ""
           url: /for-parents/
-      background: /images/Homepage/2026_Website_Banner_Gif_Updated.gif
+      background: /images/2026_Website_Banner_Gif_w_Open_House.gif
   - infopic:
       title: ACS(I) Open House 2026
       id: infopic
