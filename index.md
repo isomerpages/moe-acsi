@@ -17,15 +17,15 @@ sections:
         - title: For Parents
           description: ""
           url: /for-parents/
-      background: /images/Homepage/2026_Website_Banner_Gif_Updated.gif
-  - resources:
-      subtitle: Announcements
-      button: more
+      background: /images/2026_Website_Banner_Gif_w_Open_House.gif
   - infopic:
-      title: Theme Verse 2026
+      title: ACS(I) Open House 2026
       id: infopic
-      image: /images/Theme_2026_For_Webpage_Banner__1_.jpg
-      alt: Theme Verse 2026
+      description: 11 April 2026 | 8.30am – 12.30pm
+      button: Find Out More!
+      url: https://staging-lite.dn72z4jseu8cu.amplifyapp.com/events/openhouse/
+      image: /images/2026_OPEN_HOUSE___FINAL.png
+      alt: Image alt text
   - infopic:
       title: ACS140 Anniversary
       subtitle: 1886 - 2026
@@ -100,4 +100,7 @@ sections:
       title: School Calendar
       button: Click here
       url: /events/calendar/
+  - resources:
+      subtitle: Announcements
+      button: more
 ---
