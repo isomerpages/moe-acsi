@@ -23,12 +23,9 @@ sections:
       id: infopic
       description: 11 April 2026 | 8.30am – 12.30pm
       button: Find Out More!
-      url: https://www.acsindep.moe.edu.sg/events/openhouse/
+      url: https://staging-lite.dn72z4jseu8cu.amplifyapp.com/events/openhouse/
       image: /images/2026_OPEN_HOUSE___FINAL.png
       alt: Image alt text
-  - resources:
-      subtitle: Announcements
-      button: more
   - infopic:
       title: Theme Verse 2026
       id: infopic
@@ -108,4 +105,7 @@ sections:
       title: School Calendar
       button: Click here
       url: /events/calendar/
+  - resources:
+      subtitle: Announcements
+      button: more
 ---
