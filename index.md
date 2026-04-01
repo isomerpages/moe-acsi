@@ -18,6 +18,14 @@ sections:
           description: ""
           url: /for-parents/
       background: /images/Homepage/2026_Website_Banner_Gif_Updated.gif
+  - infopic:
+      title: ACS(I) Open House 2026
+      id: infopic
+      description: 11 April 2026 | 8.30am – 12.30pm
+      button: Find Out More!
+      url: https://www.acsindep.moe.edu.sg/events/openhouse/
+      image: /images/2026_OPEN_HOUSE___FINAL.png
+      alt: Image alt text
   - resources:
       subtitle: Announcements
       button: more
