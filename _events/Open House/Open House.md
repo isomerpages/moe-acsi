@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Open House
 variant: tiptap
 ---
-<h2><strong><em>Welcome to ACS(I) Open House 2026!</em></strong></h2>
-<p>*This site is best viewed using current versions of Firefox, Chrome, Safari
-or Microsoft Edge at a screen resolution of 1024 x 768 or higher.</p>
+<h2><strong><em>ACS(I) Open House 2026</em></strong></h2>
+<p><sub>*This site is best viewed using current versions of Firefox, Chrome, Safari or Microsoft Edge at a screen resolution of 1024 x 768 or higher.</sub>
+</p>
 <p>Learn more about the School (9 am @ CPA 2) and IBDP programme (11 am @
 CPA 1) from our Senior Admin.</p>
 <div class="isomer-image-wrapper">
