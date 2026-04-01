@@ -5,12 +5,21 @@ description: ""
 third_nav_title: Open House
 variant: tiptap
 ---
-<h2><strong><em>Welcome to Anglo-Chinese School (Independent)’s Open House 2026</em></strong></h2>
+<h2><strong><em>Welcome to ACS(I) Open House 2026!</em></strong></h2>
 <p>*This site is best viewed using current versions of Firefox, Chrome, Safari
 or Microsoft Edge at a screen resolution of 1024 x 768 or higher.</p>
-<p></p>
+<p>Learn more about the School (9 am @ CPA 2) and IBDP programme (11 am @
+CPA 1) from our Senior Admin.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House/2026_OPEN_HOUSE___FINAL.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Locations___Programmes.png">
+</div>
+<p>Explore the CCAs, Subjects and Programmes booths and experience what ACS(I)
+has to offer.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open_House_Overview.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Booth_Directory.png">
 </div>
 <p><strong>This will be a walk-in event, with no registration required.</strong>&nbsp;As
 there is limited parking in the school, visitors are advised to park their
