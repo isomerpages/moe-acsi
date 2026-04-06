@@ -26,6 +26,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N.A.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -545,6 +556,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>A Division</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion</p>
 </td>
 </tr>
 <tr>

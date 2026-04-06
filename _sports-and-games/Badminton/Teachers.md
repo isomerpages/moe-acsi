@@ -49,6 +49,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Ngo Yi Chye</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ngoyichye@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ngoyichye@acsindep.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;&nbsp; Teacher in Charge/Coach</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Chong Koi Choy</p>
 </td>
 <td rowspan="1" colspan="1">
