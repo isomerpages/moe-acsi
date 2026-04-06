@@ -18,15 +18,11 @@ A Div Boys
 
 Captain: Anand Suresh
 
-Vice Captains:
-
-Ethan Chan & Asher Ong
+Vice Captains: Ethan Chan & Asher Ong
 
 
 A Div Girls
 
 Captain: Faith Tay
 
-Vice Captains:
-
-Nadine Wong & Kayla Wong
+Vice Captains: Nadine Wong & Kayla Wong
