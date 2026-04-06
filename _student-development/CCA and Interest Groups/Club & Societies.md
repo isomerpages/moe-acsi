@@ -94,6 +94,7 @@ variant: markdown
 </a>
 <br>
 <a href="/young-innovators-society/">
-<img src="/images/young%20innovators'%20society.png" style="width:70%">
+<img src="/images/young_innovators_updated.png" style="width:70%">
 </a>
 <br>
+
