@@ -39,7 +39,7 @@ vehicles at the multi-storey carparks nearby.</p>
 <p><strong>More Information on DSA Talent Domains and FAQs:</strong>
 </p>
 <p><a href="https://www.acsindep.moe.edu.sg/admissions/dsa-year-1/" rel="noopener noreferrer nofollow" target="_blank">DSA (Y1) Talent Domains</a> |
-<a href="/files/2026_FAQ_on_DSA_Sec__Y1_.pdf" rel="noopener nofollow" target="_blank">DSA-SEC (Y1) FAQ</a>
+<a href="/files/2026_FAQ_on_DSA_Sec__Y1__update.pdf" rel="noopener nofollow" target="_blank">DSA-SEC (Y1) FAQ</a>
 </p>
 <p>&nbsp;</p>
 <p>For any enquiries, you may contact us&nbsp;<a href="https://www.acsindep.moe.edu.sg/about-acs-independent/contact-us-main/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
