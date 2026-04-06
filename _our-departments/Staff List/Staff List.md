@@ -625,7 +625,7 @@ Committee)</p>
 <p>Careers Counselling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>COG Counsellor</p>
+<p>Senior Education and Career Guidance Counsellor (SECGC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Leo Kim Choo</p>
