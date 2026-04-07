@@ -23,7 +23,7 @@ sections:
       id: infopic
       description: 11 April 2026 | 8.30am – 12.30pm
       button: Find Out More!
-      url: events/openhouse/
+      url: /events/openhouse/
       image: /images/2026_OPEN_HOUSE___FINAL.png
       alt: Image alt text
   - infopic:
