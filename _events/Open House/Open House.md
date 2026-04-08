@@ -16,7 +16,7 @@ CPA 1) from our Senior Admin.</p>
 <p>Explore the CCAs, Subjects and Programmes booths and experience what ACS(I)
 has to offer.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open_House_Overview.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Open_House_Overview.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -25,7 +25,7 @@ has to offer.</p>
 <p><strong>This will be a walk-in event, with no registration required.</strong>&nbsp;As
 there is limited parking in the school, visitors are advised to park their
 vehicles at the multi-storey carparks nearby.</p>
-<p>Our Open House maps are available for download&nbsp;<a href="/files/2026_Open_House_CCA_Booths_Upload_v2.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Our Open House maps are available for download&nbsp;<a href="/files/2026_Open_House_CCA_Booths_Upload_QR.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><strong>Key Locations For:</strong>
 <br><a href="/talks-general-enquiries-campus-tours/" rel="noopener noreferrer nofollow" target="_blank">Talks, General Enquiries &amp; Campus Tours</a>&nbsp;|&nbsp;
 <a href="/cca-booths/" rel="noopener noreferrer nofollow" target="_blank">CCA Booths</a>|&nbsp;<a href="/distinctive-programmes-subject-booths/" rel="noopener noreferrer nofollow" target="_blank">Distinctive Programmes &amp; Subject Booths</a>
