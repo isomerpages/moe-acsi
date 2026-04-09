@@ -9,10 +9,10 @@ Recognizing the immense value of artistic expression in fostering creativity, cr
 
 ![](/images/ACreatives%20/Picture1.png)
 
-![](/images/ACreatives%20/Picture2.png)
+![](/images/ACreatives%20/2026/Picture1.jpg)
 
-![](/images/ACreatives%20/Picture3.jpg)
+![](/images/ACreatives%20/2026/Picture2.jpg)
 
-![](/images/ACreatives%20/Picture4.jpg)
+![](/images/ACreatives%20/2026/Picture3.jpg)
 
-![](/images/ACreatives%20/Picture5.jpg)
+![](/images/ACreatives%20/2026/Picture4.jpg)
