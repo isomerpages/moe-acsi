@@ -45,7 +45,7 @@ third_nav_title: ACreatives
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zhangqing@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhangqing@acsindep.edu.sg</a>
+<p>zhangqing@acsindep.edu.sg
 </p>
 </td>
 </tr>
