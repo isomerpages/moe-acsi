@@ -4,7 +4,7 @@ permalink: /admissions/dsa-year-1/
 description: ""
 variant: markdown
 ---
-<h4 style="text-align: center;"><strong>2026 DIRECT SCHOOL ADMISSION INTO SECONDARY SCHOOLS FOR 2027 YEAR 1 INTAKE</strong></h4>
+<h4 style="text-align: center;"><strong>Direct School Admission into ACS(I) (Year 1)</strong></h4>
 <p>Direct School Admission-Sec (DSA-Sec) provides a pathway for students to gain direct entry into secondary schools based on their diverse talents and achievements, beyond their performance at the PSLE.&nbsp;</p>
 <p>Students successfully allocated a school via DSA-Sec will <u>not</u> be allowed to participate in the Secondary 1 Posting exercise as places have already been reserved for them in the DSA-Sec schools.&nbsp;They will also not be allowed to transfer to another secondary school after the release of the PSLE results and are expected to honour their commitment to the DSA-Sec schools.</p>
 <p>Boys who wish to participate in Anglo-Chinese School (Independent)’s DSA-Sec exercise are required to apply through the MOE Centralised DSA-Sec Portal.&nbsp; Applicants can opt for Singapore-Cambridge Secondary Education Certificate (SEC) Programme, Integrated Programme (IP) or No Preference (i.e., to be considered for IP and SEC Programme).</p>
@@ -38,10 +38,8 @@ variant: markdown
 </ul>
 <p>Participation in DSA-Sec is optional.&nbsp; Students not participating in DSA-Sec will participate in MOE Secondary 1 Centralised Posting exercise. They will be posted to secondary schools based on their PSLE results.</p>
 <p>Kindly visit our school website <a href="https://www.acsindep.moe.edu.sg/admissions/dsa-year-1/">https://www.acsindep.moe.edu.sg/admissions/dsa-year-1/</a> from early May 2026 for more details on the DSA-Sec and the application process of the 2026 DSA-Sec exercise.</p>
-<p>To learn more about the DSA-Sec exercise in our school, please view the <a href="https://www.acsindep.moe.edu.sg/files/2026_FAQ_on_DSA_Sec__Y1__update.pdf">downloadable FAQ here</a>.</p>
+<p> To learn&nbsp;more about the DSA-Sec exercise at our school, please view the <a href="/files/Open%20House/2026_FAQ_on_DSA_Sec__Y1__090426.pdf"> downloadable FAQ</a>   (based on the 2025 exercise); the FAQ and website will be updated with more information on the 2026 DSA-Sec exercise in May..</p>
 <p>We thank you for your interest in Anglo-Chinese School (Independent).</p>
 <p>To God Be The Glory!</p>
 <p>The Best Is Yet To Be!</p>
 <p>ACS (Independent)</p>
-
-[](/files/2026_FAQ_on_DSA_Sec__Y1__update.pdf)
