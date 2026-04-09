@@ -38,10 +38,9 @@ variant: markdown
 </ul>
 <p>Participation in DSA-Sec is optional.&nbsp; Students not participating in DSA-Sec will participate in MOE Secondary 1 Centralised Posting exercise. They will be posted to secondary schools based on their PSLE results.</p>
 <p>Kindly visit our school website <a href="https://www.acsindep.moe.edu.sg/admissions/dsa-year-1/">https://www.acsindep.moe.edu.sg/admissions/dsa-year-1/</a> from early May 2026 for more details on the DSA-Sec and the application process of the 2026 DSA-Sec exercise.</p>
-<p>To learn more about the DSA-Sec exercise in our school, please view the <a href="https://www.acsindep.moe.edu.sg/files/2026_FAQ_on_DSA_Sec__Y1__update.pdf">downloadable FAQ here</a>.</p>
+<p> To learn&nbsp;more about the DSA-Sec exercise at our school, please view the <a href="/files/Open%20House/2026_FAQ_on_DSA_Sec__Y1__090426.pdf"> downloadable FAQ</a>   (based on the 2025 exercise); the FAQ and website will be updated with more information on the 2026 DSA-Sec exercise in May..</p>
 <p>We thank you for your interest in Anglo-Chinese School (Independent).</p>
 <p>To God Be The Glory!</p>
 <p>The Best Is Yet To Be!</p>
 <p>ACS (Independent)</p>
 
-[](/files/2026_FAQ_on_DSA_Sec__Y1__update.pdf)
