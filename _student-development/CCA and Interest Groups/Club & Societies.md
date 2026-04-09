@@ -6,7 +6,7 @@ third_nav_title: CCA and Interest Groups
 variant: markdown
 ---
 <a href="/clubs-and-societies/acreatives/acreatives/">
-<img src="/images/ACreatives.jpg" style="width:70%">
+<img src="/images/ACreatives%20/2026/3R4Rl.jpg" style="width:70%">
 </a>
 <br>
 <a href="/acspress1/">
@@ -97,4 +97,3 @@ variant: markdown
 <img src="/images/young_innovators_updated.png" style="width:70%">
 </a>
 <br>
-
