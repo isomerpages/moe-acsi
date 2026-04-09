@@ -5,8 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: ACreatives
 ---
-         
-
 <table style="width:467.75pt;border-collapse:collapse;mso-yfti-tbllook:1184" width="624" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:.25in"><td style="width:127.8pt;border:solid windowtext 1.0pt;
   border-right:none;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;background:
