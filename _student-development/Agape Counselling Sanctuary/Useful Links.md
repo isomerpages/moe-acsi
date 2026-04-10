@@ -13,9 +13,6 @@ Bullying Prevention Hub:  Resources and tools for dealing with bullying behavio
 [https://www.imh.com.sg/Clinical-Services/Outpatient-Clinics/Pages/Child-Guidance-Clinic.aspx](https://www.imh.com.sg/Clinical-Services/Outpatient-Clinics/Pages/Child-Guidance-Clinic.aspx)  
 More information on Child Guidance Clinic.
 
-[https://www.youthinmind.sg/](https://www.youthinmind.sg/)  
-Cool and fun interactive website on youth and mental health.
-
 [http://www.ncld.org/](http://www.ncld.org/)  
 Information on various learning needs.
 
