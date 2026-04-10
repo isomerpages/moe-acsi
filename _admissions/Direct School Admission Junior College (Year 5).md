@@ -4,10 +4,18 @@ permalink: /admissions/dsa-year-5/
 description: ""
 variant: markdown
 ---
-<p align="center" style="margin-left: 36.0pt; text-align: center;" class="x_MsoNormal"><strong><span style="font-size: 12.0pt; color: #4472c4;">2025 DIRECT SCHOOL ADMISSION – JUNIOR COLLEGES</span></strong><br>
-<strong><span style="font-size: 12.0pt; color: #4472c4;">FOR 2026 YEAR 5 INTAKE</span></strong><br>
-<strong><span style="font-size: 12.0pt; color: #4472c4;">(INTERNATIONAL BACCALAUREATE DIPLOMA PROGRAMME)</span></strong></p>
+<h4 style="text-align: center;"><strong>Direct School Admission into ACS(I) (Year 5)</strong></h4>
 
 
 
-**Application to participate in the 2025 DSA-JC exercise has closed.&nbsp;&nbsp; Kindly visit the school website in early May 2026 if you are interested to participate in the 2026 DSA-JC exercise for enrolment in Academic Year 2027 Year 5 (IBDP). Thank you.**
+
+        
+
+1.  [2026 DSA-JC (Y5) talent domains.](/files/Admissions/2026/2026_DSA_JC__Y5__talent_domains.pdf)
+
+2.  [2026 IBDP Write-up and Subjects Offered](/files/Admissions/2026/2026_IBDP_Write_up_and_Subjects_Offered.pdf)
+3.  [10 reasons why IBDP is Ideal Preparation For University](/files/Admissions/2026/10_Reasons_Why_IBDP_Is_Ideal_Preparation_For_University.pdf)
+
+
+
+
