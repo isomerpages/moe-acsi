@@ -36,13 +36,16 @@ vehicles at the multi-storey carparks nearby.</p>
 <a href="https://www.acsindep.moe.edu.sg/departments/" rel="noopener noreferrer nofollow" target="_blank">Departments</a>|&nbsp;<a href="https://www.acsindep.moe.edu.sg/talent-development/" rel="noopener noreferrer nofollow" target="_blank">Distinctive Programmes</a>&nbsp;|&nbsp;
 <a href="https://www.acsindep.moe.edu.sg/admissions/" rel="noopener noreferrer nofollow" target="_blank">Admissions &amp; DSA</a>
 </p>
-<p><strong>More Information on DSA Talent Domains and FAQs:</strong>
-</p>
-<p><a href="https://www.acsindep.moe.edu.sg/admissions/dsa-year-1/" rel="noopener noreferrer nofollow" target="_blank">DSA (Y1) Talent Domains</a> |
-<a href="/files/Open%20House/2026_FAQ_on_DSA_Sec__Y1__090426.pdf" rel="noopener nofollow" target="_blank">DSA-SEC (Y1) FAQ</a>
-</p>
-<p>&nbsp;</p>
-<p>For any enquiries, you may contact us&nbsp;<a href="https://www.acsindep.moe.edu.sg/about-acs-independent/contact-us-main/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p><strong>More Information on DSA Talent Domains and FAQs:</strong></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="https://www.acsindep.moe.edu.sg/admissions/dsa-year-1/">DSA (Y1) Talent Domains</a> | <a rel="noopener nofollow" target="_blank" href="/files/Open%20House/2026_FAQ_on_DSA_Sec__Y1__090426.pdf">DSA-SEC (Y1) FAQ</a></p>
+<p><a href="https://www.acsindep.moe.edu.sg/admissions/dsa-year-5/">DSA (Y5) Talent Domains</a>&nbsp;| <a href="https://www.acsindep.moe.edu.sg/files/2026_FAQ_on_DSA_JC__Y5____10_Apr_Updated.pdf">DSA-JC (Y5) FAQ</a></p>
+
+[2026 IBDP Write-up and Subjects Offered](/files/Admissions/2026/2026_IBDP_Write_up_and_Subjects_Offered.pdf)
+
+[10 reasons why IBDP is Ideal Preparation For University](/files/Admissions/2026/10_Reasons_Why_IBDP_Is_Ideal_Preparation_For_University.pdf)
+
+<p>For any enquiries, you may contact us&nbsp;<a rel="noopener noreferrer nofollow" target="_blank" href="https://www.acsindep.moe.edu.sg/about-acs-independent/contact-us-main/">here</a>.</p>
+
 <p></p>
 <p></p>
 <p></p>
