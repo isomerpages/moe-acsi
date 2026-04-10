@@ -48,10 +48,9 @@ variant: markdown
 <p>Kindly visit our school website <a href="https://www.acsindep.moe.edu.sg/admissions/dsa-year-5/">https://www.acsindep.moe.edu.sg/admissions/dsa-year-5/</a>&nbsp;&nbsp;from early May 2026 for more details and application process of 2026 DSA-JC exercise.&nbsp;</p>
 <p>To learn&nbsp;more about the DSA-JC exercise at our school, please view the <a href="/files/2026_FAQ_on_DSA_JC__Y5____10_Apr_Updated.pdf">downloadable FAQ</a>&nbsp;(based on the 2025 exercise); the FAQ and website will be updated with more information on the 2026 DSA-Sec exercise in May.&nbsp;</p>
 <p>We thank you for your interest in Anglo-Chinese School (Independent).&nbsp;</p>
-<p>The Best Is Yet to Be!&nbsp;</p>
-<p>ACS (Independent)&nbsp;</p>
-<p><strong>Resources:</strong></p>   
+<p>The Best Is Yet to Be!&nbsp;<br>
+ACS (Independent)&nbsp;<br>
+</p><p><strong>Resources:</strong></p>   
 
 1.  [2026 IBDP Write-up and Subjects Offered](/files/Admissions/2026/2026_IBDP_Write_up_and_Subjects_Offered.pdf)
 2.  [10 reasons why IBDP is Ideal Preparation For University](/files/Admissions/2026/10_Reasons_Why_IBDP_Is_Ideal_Preparation_For_University.pdf)
-
