@@ -5,6 +5,7 @@ description: ""
 third_nav_title: English Language & Literature
 variant: tiptap
 ---
+<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -37,10 +38,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dr Saravanan Mani</p>
+<p>Mr. Brian Connor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deputy Dean (acting), IBDP</p>
+<p>Deputy Dean, IBDP</p>
 </td>
 </tr>
 <tr>
@@ -72,6 +73,7 @@ variant: tiptap
 <p>Ms. Carmen Wang</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Deputy Director, Partnerships &amp; Talent Development (Acting)</p>
 <p>Coordinator – Year 1, Literature</p>
 </td>
 </tr>
@@ -85,10 +87,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Veena Bharwani</p>
+<p>Mr Cheong Sihao Bennett</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher, Year 1 and 4</p>
+<p>Coordinator – Year 1, Language Arts</p>
+<p>Teacher, Year 2 Language Arts</p>
 </td>
 </tr>
 <tr>
@@ -97,6 +100,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Year 1, Director</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Seah Kui Hua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher, Year 1 and 2 English Language</p>
 </td>
 </tr>
 <tr>
@@ -112,15 +123,16 @@ variant: tiptap
 <p>Joshi Pranjal Samir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher, Year 2 and 3, TOK</p>
+<p>Coordinator – Year 2, Literature</p>
+<p>Teacher, Year 3 Language Arts</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Beatrice Leong</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Coordinator – Year 2, Literature</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -134,10 +146,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Cheong Sihao Bennett</p>
+<p>Ms Chan Hui Xin Alicia Anna</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher, Year 2</p>
+<p>Teacher, Year 2 Literature and Year 3 Language Arts</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mohamed Adri Bin Mohamed Rafik Alkhatib</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher, Year 2 English Language and Literature</p>
 </td>
 </tr>
 <tr>
@@ -170,6 +191,16 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Coordinator - Year 3, English Language</p>
+<p>Teacher, Year 1 Literature</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Veena Bharwani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coordinator - Year 3, English Language</p>
+<p>Teacher, Year 1 Language Arts and Year 2 Literature</p>
 </td>
 </tr>
 <tr>
@@ -177,7 +208,7 @@ variant: tiptap
 <p>Mr. Andrew Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year 3, Director</p>
+<p>Year 4, Director</p>
 </td>
 </tr>
 <tr>
@@ -185,20 +216,12 @@ variant: tiptap
 <p>Mr. Benjamin Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year 3, Director, Partnerships &amp; Talent Development (Acting)</p>
+<p>Year 4, Director, Partnerships &amp; Talent Development</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Brandon Chai Zhong Xun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher, Year 3 and 1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms. Chew Kah Wai</p>
+<p>Mrs Beatrice Leong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Coordinator – Year 4, English Language</p>
@@ -209,15 +232,16 @@ variant: tiptap
 <p>Ms. Sonia Marican</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Deputy Dean, Curriculum &amp; Assessment (Acting)</p>
 <p>Coordinator – Year 4, Language Arts</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Rajini</p>
+<p>Ms Shelia Ther</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Coordinator – Year 4, Literature</p>
+<p>Coordinator – Year 3 and 4 Literature</p>
 </td>
 </tr>
 <tr>
@@ -228,136 +252,6 @@ variant: tiptap
 <p>Year 4, Director</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dr. Doreen Ang&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher, Curriculum Leader, Year 6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs. Mervyln Goh</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Director Student, Support – Psychological &amp; Emotional Care, Curriculum
-Leader, Year 6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr. Goh Wee Kiat&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Curriculum Leader, Year 6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms. Jamilah Lajam&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Curriculum Leader, Year 6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dr. Angela Chew&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher, Curriculum Leader, Year 5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr. Brian Connor&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Curriculum Leader, Year 5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms. Fiona Ho&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Curriculum Leader, Year 5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs. Nilanjana Bose&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Curriculum Leader, Year 5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms. Tan Lee Jing&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Curriculum Leader, Year 5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms. Nirmala Silverajan&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Curriculum Leader, Year 6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs. Runima Tandon&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Curriculum Leader, Year 5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms. Cheryl Wong&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Curriculum Leader, Year 5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms. Alicia Anna Chan Hui Xin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms. Charis Liang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr. Mohamed Adri Bin Mohamed Rafik Alkhatib</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms. Seah Kui Hua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
