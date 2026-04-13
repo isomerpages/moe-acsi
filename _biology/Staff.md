@@ -237,10 +237,10 @@ variant: markdown
 <p>Laboratory Technical Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm.</p>
+<p>Mr.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Keh Siew Bee</p>
+<p> Lee Zhao Yan</p>
 </td>
 </tr>
 <tr>
