@@ -7,3 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Please click <a href="/admissions/dsa-year-1/" rel="noopener nofollow" target="_blank">here</a> to
+go to the admission page.</p>
