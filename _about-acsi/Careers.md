@@ -71,10 +71,6 @@ and innovative teaching team.</p>
 Staff positions:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Custodians</strong>
-</p>
-</li>
-<li>
 <p><strong>Educational Technologist</strong>
 </p>
 </li>
@@ -83,10 +79,9 @@ Staff positions:</p>
 </p>
 </li>
 <li>
-<p><strong>IT Solutions Developer</strong>
+<p><strong>Procurement Officer</strong>
 </p>
 </li>
 </ul>
 <p>Interested applicants, please email your resume to&nbsp;<a href="mailto:lilliantan@acsindep.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lilliantan@acsindep.edu.sg</a>
 </p>
-<p></p>
