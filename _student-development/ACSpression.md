@@ -13,7 +13,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/last-year-in-the-halls/" rel="noopener noreferrer nofollow" target="_blank">ACSpression 2026</a>
+<p><a href="/memories/" rel="noopener noreferrer nofollow" target="_blank">ACSpression 2026</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
