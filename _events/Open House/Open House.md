@@ -25,7 +25,7 @@ forward to welcoming you again.</p>
 <a href="/files/Open%20House/2026_FAQ_on_DSA_Sec__Y1__090426.pdf" rel="noopener nofollow" target="_blank">DSA-SEC (Y1) FAQ</a>
 </p>
 <p><a href="https://www.acsindep.moe.edu.sg/admissions/dsa-year-5/" rel="noopener noreferrer nofollow" target="_blank">DSA (Y5) Talent Domains</a>&nbsp;|
-<a href="https://www.acsindep.moe.edu.sg/files/2026_FAQ_on_DSA_JC__Y5____10_Apr_Updated.pdf" rel="noopener noreferrer nofollow" target="_blank">DSA-JC (Y5) FAQ</a>
+<a href="/files/5_May_2026_FAQ_on_DSA_JC__Y5_.pdf" rel="noopener noreferrer nofollow" target="_blank">DSA-JC (Y5) FAQ</a>
 </p>
 <p><a href="/files/Admissions/2026/2026_IBDP_Write_up_and_Subjects_Offered.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 IBDP Write-up and Subjects Offered</a>
 </p>
