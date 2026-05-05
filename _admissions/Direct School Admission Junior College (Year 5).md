@@ -54,4 +54,3 @@ ACS (Independent)&nbsp;<br>
 
 1.  [2026 IBDP Write-up and Subjects Offered](/files/Admissions/2026/2026_IBDP_Write_up_and_Subjects_Offered.pdf)
 2.  [10 reasons why IBDP is Ideal Preparation For University](/files/Admissions/2026/10_Reasons_Why_IBDP_Is_Ideal_Preparation_For_University.pdf)
-
