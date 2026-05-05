@@ -45,8 +45,8 @@ variant: markdown
 <li>Swimming</li>
 <li>Tennis</li>
 </ul>
-<p>Kindly visit our school website <a href="https://www.acsindep.moe.edu.sg/admissions/dsa-year-5/">https://www.acsindep.moe.edu.sg/admissions/dsa-year-5/</a>&nbsp;&nbsp;from early May 2026 for more details and application process of 2026 DSA-JC exercise.&nbsp;</p>
-<p>To learn&nbsp;more about the DSA-JC exercise at our school, please view the <a href="/files/2026_FAQ_on_DSA_JC__Y5____10_Apr_Updated.pdf">downloadable FAQ</a>&nbsp;(based on the 2025 exercise); the FAQ and website will be updated with more information on the 2026 DSA-Sec exercise in May.&nbsp;</p>
+<p></p><p>For 2026 DSA-JC for 2027 Year 5 Intake Write-up, Timeline &amp; Selection Process Information, please download them <a rel="noopener" target="_blank" href="/files/5_May_2026_DSA_JC__Y5__Write_up.pdf">here</a></p><p></p>
+<p>To learn&nbsp;more about the DSA-JC exercise at our school, please view the <a href="/files/5_May_2026_FAQ_on_DSA_JC__Y5_.pdf">downloadable FAQ</a>&nbsp;(based on the 2025 exercise); the FAQ and website will be updated with more information on the 2026 DSA-Sec exercise in May.&nbsp;</p>
 <p>We thank you for your interest in Anglo-Chinese School (Independent).&nbsp;</p>
 <p>The Best Is Yet to Be!&nbsp;<br>
 ACS (Independent)&nbsp;<br>
