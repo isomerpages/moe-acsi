@@ -1,7 +1,7 @@
 ---
 title: Direct School Admission into ACS(I) (Year 1)
 permalink: /direct-school-admission-into-acs-i-year-1/
-date: 2026-04-27
+date: 2026-05-01
 layout: post
 description: ""
 image: ""
