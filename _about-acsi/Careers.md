@@ -40,11 +40,6 @@ applicants that only shortlisted candidates will be notified.</p>
 <p>We welcome qualified and highly motivated individuals with a strong passion
 for teaching of the following subjects to be part of the dynamic, creative
 and innovative teaching team.</p>
-<p><strong>Academic Staff</strong>
-</p>
-<p>We welcome qualified and highly motivated individuals with a strong passion
-for teaching of the following subjects to be part of the dynamic, creative
-and innovative teaching team.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Art &amp; Design - Secondary levels</strong>
@@ -55,15 +50,11 @@ and innovative teaching team.</p>
 </p>
 </li>
 <li>
-<p><strong>Mathematics – Junior College Levels</strong>
+<p><strong>Mathematics – Secondary &amp; Junior College Levels</strong>
 </p>
 </li>
 <li>
 <p><strong>Mother Tongue (Chinese Language) – Secondary levels</strong>
-</p>
-</li>
-<li>
-<p><strong>Physical Education (with experience in Waterpolo) - Secondary/Junior College levels</strong>
 </p>
 </li>
 </ul>
@@ -76,10 +67,6 @@ Staff positions:</p>
 </li>
 <li>
 <p><strong>Estate Development Officer</strong>
-</p>
-</li>
-<li>
-<p><strong>Procurement Officer</strong>
 </p>
 </li>
 </ul>
