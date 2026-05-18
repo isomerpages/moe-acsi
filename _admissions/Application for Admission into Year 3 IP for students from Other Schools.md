@@ -4,7 +4,7 @@ permalink: /admissions/application-for-admission-into-year-3-ip-for-students-fro
 description: ""
 variant: markdown
 ---
-**2025 APPLICATION FOR ADMISSION INTO YEAR 3 INTEGRATED PROGRAMME (IP) FOR ACADEMIC YEAR (AY) 2026 FOR STUDENTS FROM OTHER SCHOOLS**
+**2026 APPLICATION FOR ADMISSION INTO YEAR 3 INTEGRATED PROGRAMME (IP) FOR ACADEMIC YEAR (AY) 2027 FOR STUDENTS FROM OTHER SCHOOLS**
 
 
 ACS (Independent)’s Year 3 (Secondary 3) Integrated Programme (IP) application exercise for Academic Year 2027 (AY2027) is open for application by current Secondary 2 students in the Secondary Education Certificate (SEC) programme.  
