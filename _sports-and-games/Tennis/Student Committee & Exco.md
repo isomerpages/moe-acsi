@@ -5,6 +5,14 @@ description: ""
 third_nav_title: Tennis
 variant: markdown
 ---
+
+
+**C Div Boys**
+
+Captain: Leon Ho
+
+Vice-Captains: Malcolm Foo and Noah Tsukakoshi
+
 **B Div Boys**
 
 Captain: Dylan Chan
