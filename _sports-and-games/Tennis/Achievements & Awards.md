@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Tennis
 variant: tiptap
 ---
-<h1>2026</h1>
-<p>B Division: First runner-up</p>
 <h4><strong>SINGAPORE SCHOOLS SPORTS COUNCIL SPORTSMANSHIP AWARD 2025</strong></h4>
 <p>
 <br>Erin Lee Min En 5.11
