@@ -3,14 +3,10 @@ title: Achievements & Awards
 permalink: /tennis/awards/
 description: ""
 third_nav_title: Tennis
-variant: markdown
+variant: tiptap
 ---
-# 2026 # 
-
-B Division: First runner-up
-
-
-
+<h1>2026</h1>
+<p>B Division: First runner-up</p>
 <h4><strong>SINGAPORE SCHOOLS SPORTS COUNCIL SPORTSMANSHIP AWARD 2025</strong></h4>
 <p>
 <br>Erin Lee Min En 5.11
@@ -101,6 +97,23 @@ B Division: First runner-up
 <th rowspan="1" colspan="1">
 <p>C Division</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>First runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>First runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
