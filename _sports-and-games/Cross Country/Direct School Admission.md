@@ -7,7 +7,57 @@ variant: markdown
 ---
 <h3><strong>2026 DIRECT SCHOOL ADMISSION EXERCISE</strong></h3>
 <p></p>
-<p>&nbsp;</p>
+<p>For Cross Country:</p>  
+  
+<table>  
+<thead>  
+<tr>  
+<th></th>  
+<th>Dates:</th>  
+<th>Time:</th>  
+<th>Location</th>  
+</tr>  
+</thead>  
+<tbody>  
+<tr>  
+<td>Cross Country DSA</td>  
+<td>Session 1 - <strong>11 July 2026</strong> (Sat)</td>  
+<td><strong>7.30am – 8.30am</strong></td>  
+<td>ACS(I) School Track</td>  
+</tr>  
+<tr>  
+<td>Session 2 - <strong>18 July 2026</strong> (Sat)</td>  
+<td>(Time may shift depending on weather conditions)</td>  
+</tr>  
+</tbody>  
+</table>  
+  
+<p>  
+For any queries regarding the Cross Country DSA, please contact Mr Gavin Ang @  
+<a>gavinang@acsindep.edu.sg</a>  
+or  
+<a>68700677</a>  
+</p>  
+  
+<p>  
+Direct School Admission-Sec (DSA-Sec) provides a pathway for students to gain direct entry into  
+secondary schools based on their diverse talents and achievements, beyond their performance at  
+the PSLE.  
+</p>  
+  
+<p>  
+Students successfully allocated a school via DSA-Sec will <u>not</u> be allowed to participate in  
+the Secondary 1 Posting exercise as places have already been reserved for them in the DSA-Sec  
+schools. They will also not be allowed to transfer to another secondary school after the release  
+of the PSLE results and are expected to honour their commitment to the DSA-Sec schools.  
+</p>  
+  
+<p>  
+Boys who wish to participate in Anglo-Chinese School (Independent)’s DSA-Sec exercise are  
+required to apply through the MOE Centralised DSA-Sec Portal. Applicants can opt for  
+Singapore-Cambridge Secondary Education Certificate (SEC) Programme, Integrated Programme (IP)  
+or No Preference (i.e., to be considered for IP and SEC Programme).  
+</p>  
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/DSA2025A.jpg">
 </div>
