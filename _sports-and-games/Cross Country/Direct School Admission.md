@@ -9,35 +9,33 @@ variant: markdown
 <p></p>
 <p>For Cross Country:</p>  
   
-<table>  
-<thead>  
-<tr>  
-<th></th>  
-<th>Dates:</th>  
-<th>Time:</th>  
-<th>Location</th>  
-</tr>  
-</thead>  
-<tbody>  
-<tr>  
-<td>Cross Country DSA</td>  
-<td>Session 1 - <strong>11 July 2026</strong> (Sat)</td>  
-<td><strong>7.30am – 8.30am</strong></td>  
-<td>ACS(I) School Track</td>  
-</tr>  
-<tr>  
-<td>Session 2 - <strong>18 July 2026</strong> (Sat)</td>  
-<td>(Time may shift depending on weather conditions)</td>  
-</tr>  
-</tbody>  
-</table>  
-  
-<p>  
+<table class="editorDemoTable">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+<td><strong>Dates:</strong></td>
+<td><strong>Time:</strong></td>
+<td><strong>Location</strong></td>
+</tr>
+<tr>
+<td>Cross Country DSA</td>
+<td>
+Session 1 - <strong>11 July 2026</strong> (Sat)<br><br>
+Session 2 - <strong>18 July 2026</strong> (Sat)
+</td>
+<td>
+<strong>7.30am – 8.30am</strong><br><br>
+(Time may shift depending on weather conditions)
+</td>
+<td>ACS(I) School Track</td>
+</tr>
+</tbody>
+</table>
 For any queries regarding the Cross Country DSA, please contact Mr Gavin Ang @  
 <a>gavinang@acsindep.edu.sg</a>  
 or  
 <a>68700677</a>  
-</p>  
+<p></p>  
   
 <p>  
 Direct School Admission-Sec (DSA-Sec) provides a pathway for students to gain direct entry into  
