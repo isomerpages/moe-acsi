@@ -6,12 +6,7 @@ third_nav_title: Cross Country
 variant: tiptap
 ---
 <h3><strong>2026 DIRECT SCHOOL ADMISSION EXERCISE</strong></h3>
-<p>&nbsp;Information regarding the Direct School Admission (DSA) Exercise
-for 2026 is currently not yet available.&nbsp;</p>
-<p>The page will be updated once the official details are released. Please
-check back at a later date for the latest information on application procedures,
-timelines, and eligibility criteria.&nbsp;</p>
-<p>We appreciate your patience and understanding.</p>
+<p></p>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/DSA2025A.jpg">
