@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Debate Club
 variant: tiptap
 ---
-<p><u>*This page is updated quarterly.</u>
+<p>&nbsp;<u>*This page is updated quarterly.</u>
 </p>
 <p><strong>Singapore Secondary Schools Debate Championship (SSSDC) History</strong>
 </p>
@@ -32,6 +32,21 @@ exceptionally and achieved admirable results.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Result</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gilbert Wei Ziqi</p>
+<p>Leong Ze Meng, Noel</p>
+<p>Treidan Chan Zhi Kai</p>
+<p>Chow Blake Raiden Zhen</p>
+<p>Xu Yaojia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participants</p>
 </td>
 </tr>
 <tr>
@@ -400,7 +415,55 @@ Soh–Individual 11<sup>th</sup>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>April 2025</p>
+<p>May 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Anglo-Chinese Debating Championship 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participants</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>May 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dunman High Debate Open 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions; Phan Duc Phong—Individual 1<sup>st</sup>; Dylan Wong Wen Kang—Individual
+12<sup>th</sup>; Xu Yaojia—Individual 15<sup>th</sup>; Lim Zhe Yuan—Individual
+26<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Apr 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Raffles Debate Academy U-14s Debating Championships 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participants</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nov 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore International Debate and Public Speaking Championship 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participants; Leong Ze Meng, Noel—Individual 9<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Apr 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Raffles Debate Academy U-14s Debating Championships 2025</p>
@@ -1155,7 +1218,82 @@ Goh—Individual 2<sup>nd</sup>; Arthur Lee—Individual 5<sup>th</sup>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>July 2025</p>
+<p>Jun 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOE-ACJC Intercollegiate Debating Championship 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participants; Jerome Ong—Individual 17<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>May 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Anglo-Chinese Debating Championship 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Semi-finalists; Zhang Zhihe—Individual 14<sup>th</sup>; Nathaniel Cheng
+Rong En—Individual 17<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mar 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NYJC Infernus Cup 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participants</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mar 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Borneo Asian Parliamentary Debate Championship 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participants; Jerome Chan Yeak Yern—Individual 13<sup>th</sup>; Nathaniel
+Cheng Rong En—Individual 17<sup>th</sup>; Heng Jie Feng Ayden—Individual
+21<sup>st</sup>; Tan Wei-Xin Timothy—Individual 24<sup>th</sup>; Ang Sen
+Zhe, Micah—Individual 25<sup>th</sup>; Lo Eleanor Wen-Ye—Individual 30<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mar 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Orator's Trophy 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participants</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Feb 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUSPA Debate Series 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quarter-finalists; Jerome Chan Yeak Yern—Individual 3<sup>rd</sup>; Nathaniel
+Cheng Rong En—Individual 6<sup>th</sup>; Jerome Ong—Individual 7<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jul 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Polytechnic Debate Open 2025</p>
@@ -1170,7 +1308,7 @@ Isabelle Koh Xi Wen—Individual 71<sup>st</sup>; Chew Yi Ren—Individual
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>July 2025</p>
+<p>Jul 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mid-Year Debate Invitationals 2025</p>
@@ -1911,6 +2049,7 @@ Lee—Individual 10<sup>th</sup>; Gavin Goh—Individual 17<sup>th</sup>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p></p>
