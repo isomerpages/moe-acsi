@@ -18,7 +18,7 @@ variant: markdown
 <li>Canoeing</li>
 <li>Cricket</li>
 <li>Golf (a Golf handicap of not more than 9)</li>
-<li>Leadership</li>
+<li>Leadership (school-wide leadership positions such as Student Council, Prefectorial Board, etc)</li>
 <li>Mathematics</li>
 <li>Music Elective Programme (required to offer Music Higher Level as 6th&nbsp;subject in Year 5 and Year 6; and take up a Performing Arts CCA)</li>
 <li>Robotics</li>
