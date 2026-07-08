@@ -2,7 +2,7 @@
 title: Contact Us
 permalink: /about-acs-independent/contact-us-main/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <table style="minWidth: 50px">
 <colgroup>
