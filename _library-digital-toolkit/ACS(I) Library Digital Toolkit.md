@@ -109,11 +109,11 @@ variant: markdown
 <h3><strong><a rel="noopener noreferrer" href="/library-digital-toolkit/library-facility/library-facility/">Library Facility</a></strong></h3>
 &nbsp;</td>
 <td>
-<h3><a href="https://schoolibrary.moe.edu.sg/anglochineseindependent/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME"><strong>ACS(I) Online</strong></a></h3>
-<h3><a href="https://schoolibrary.moe.edu.sg/anglochineseindependent/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME"><strong>Library Catalogue</strong></a></h3>
+<h3><a href="https://schoolibrary.moe.edu.sg/anglochineseindependent/cgi-bin/spydus.exe/MSGTRN/OPAC/HOME"><strong>ACS(I) Online</strong></a></h3>
+<h3><a href="https://schoolibrary.moe.edu.sg/anglochineseindependent/cgi-bin/spydus.exe/MSGTRN/OPAC/HOME"><strong>Library Catalogue</strong></a></h3>
 &nbsp;</td>
 <td>
-<h3><a href="https://schoolibrary.moe.edu.sg/anglochineseindependent/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME"><img height="150" width="150" alt="" src="/images/Library Digital Toolkit/OPAC-150x150.jpg"></a></h3>
+<h3><a href="https://schoolibrary.moe.edu.sg/anglochineseindependent/cgi-bin/spydus.exe/MSGTRN/OPAC/HOME"><img height="150" width="150" alt="" src="/images/Library Digital Toolkit/OPAC-150x150.jpg"></a></h3>
 </td>
 </tr>
 <tr>
