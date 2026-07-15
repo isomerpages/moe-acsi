@@ -69,7 +69,6 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <div class="isomer-image-wrapper"><img height="auto" width="100%" src="/images/About%20ACS(I)/Heritage/Acs-Magazine-1950.jpg" style="height: 150px; width: 600px;"></div>
 <p><em><a rel="noopener noreferrer nofollow" target="_blank" href="https://sites.acsindep.edu.sg/ACS%20Magazines/ACS%20Magazine%201950/">1950</a></em></p>
 </td>
