@@ -49,7 +49,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>General Secretary</p>
+<p>Secretaries</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Zhang Zhihe (6.06)</p>
@@ -116,7 +116,7 @@ variant: tiptap
 <p>President-Designate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Heng Jie Feng Ayden (5.09)</p>
 </td>
 </tr>
 <tr>
@@ -124,7 +124,7 @@ variant: tiptap
 <p>IB Team Captain-Designate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Tan Wei-Xin Timothy (5.17)</p>
 </td>
 </tr>
 <tr>
@@ -132,23 +132,25 @@ variant: tiptap
 <p>Vice-President-Designate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Lau Cedric Dreyzen Uy (5.01)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>General Secretary-Designate</p>
+<p>Secretaries-Designate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Chong Yunhan (5.11)</p>
+<p>G L Advaita (5.01)</p>
+<p>Tang Zee Meng (5.13)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>--</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>--</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -156,7 +158,7 @@ variant: tiptap
 <p>Sec/IP Team Captain-Designate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Dylan Wong Wen Kang (3.16)</p>
 </td>
 </tr>
 <tr>
@@ -164,7 +166,8 @@ variant: tiptap
 <p>Sec/IP Team Vice-Captain-Designate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Lim Zhe Yuan (3.14)</p>
+<p>Phan Duc Phong (3.01)</p>
 </td>
 </tr>
 <tr>
@@ -172,9 +175,9 @@ variant: tiptap
 <p>Sec/IP Secretary-Designate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Xu Yaojia (3.16)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>&nbsp;</p>
