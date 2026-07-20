@@ -4,7 +4,7 @@ permalink: /student-development/moe-echa/
 description: ""
 variant: tiptap
 ---
-<h3>EDUSAVE CHARACTER AWARD (ECHA) 2025 &amp; INTEGRITY AWARD 2025</h3>
+<h3><strong>EDUSAVE CHARACTER AWARD (ECHA) 2026 &amp; INTEGRITY AWARD 2026</strong></h3>
 <p><strong><u>Introduction</u>&nbsp;</strong>
 </p>
 <p>The Edusave Character Award (ECHA) was introduced by the Ministry of Education
@@ -124,4 +124,38 @@ noted philanthropist, and an Old Boy of ACS.&nbsp;</p>
 Deserving non-Singaporeans who are not eligible for ECHA, will be separately
 nominated by the school.&nbsp; The selection process is similar to that
 of ECHA, and will comprise the nomination, selection and endorsement stages.&nbsp;</p>
-<p>Nominations for both the ECHA &amp; Integrity Award 2025 are now closed.</p>
+<p>Nominations for both the ECHA &amp; Integrity Award 2026 are now open.&nbsp;
+The closing date for nominations is Monday, 3 August 2026 (5 pm). Late
+submissions will not be accepted.&nbsp;</p>
+<p>Please use the following links to nominate deserving students:&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ECHA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://for.edu.sg/acs-echa2026" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/acs-echa2026</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Integrity Awards</strong>
+</p>
+<p>(Use this form to nominate only non-Singaporeans who are not eligible
+for ECHA) &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://for.edu.sg/acs-integrity2026" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/acs-integrity2026</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
