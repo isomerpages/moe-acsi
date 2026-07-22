@@ -46,15 +46,11 @@ and innovative teaching team.</p>
 </p>
 </li>
 <li>
-<p><strong>English Language &amp; Literature - Secondary levels</strong>
-</p>
-</li>
-<li>
 <p><strong>Mathematics – Secondary &amp; Junior College Levels</strong>
 </p>
 </li>
 <li>
-<p><strong>Mother Tongue (Chinese Language) – Secondary levels</strong>
+<p><strong>Physics – Junior College Levels</strong>
 </p>
 </li>
 </ul>
@@ -67,6 +63,10 @@ Staff positions:</p>
 </li>
 <li>
 <p><strong>Estate Development Officer</strong>
+</p>
+</li>
+<li>
+<p><strong>Laboratory Technical Officer</strong>
 </p>
 </li>
 </ul>
