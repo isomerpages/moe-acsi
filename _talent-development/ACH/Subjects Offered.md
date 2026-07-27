@@ -3,6 +3,7 @@ title: Subjects Offered
 permalink: /talent-development/accelerated-class-for-humanities-ach/subjects-offered/
 description: ""
 third_nav_title: ACH
+variant: markdown
 ---
 **Subjects Offered**
 
@@ -13,8 +14,7 @@ third_nav_title: ACH
 5.  Core Mathematics
 6.  Advanced Mathematics
 7.  <a href="/files/Talent%20Development/ACH/ISY3-Subject-Brochure-v2023.pdf" target="_blank">International Studies (IS)</a>\*
-8.  <a href="/files/Talent%20Development/ACH/ACH-Brochure-for-History-2021.pdf" target="_blank">History</a> OR <a href="/files/Talent%20Development/ACH/ACH-Brochure-for-Geography-2022-1.pdf" target="_blank">Geography</a>\*
-9.  Disciplines of Thought (DoT)
-10.  Collaborative Study Options (CSO)
+8.  <a href="/files/Talent%20Development/ACH/ACH-Brochure-for-History-2021.pdf" target="_blank">History</a>&nbsp;OR&nbsp;<a href="/files/Talent%20Development/ACH/ACH-Brochure-for-Geography-2022-1.pdf" target="_blank">Geography</a>\*
+
 
 \*Click on the enriched subjects for more information
