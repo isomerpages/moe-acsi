@@ -2,7 +2,7 @@
 title: GIRO Collection
 permalink: /about-acs-independent/fee/giro-collection/
 description: ""
-third_nav_title: School Fees
+third_nav_title: Financial Matters
 variant: tiptap
 ---
 <p><strong>Collection of School Fees and Miscellaneous Fees</strong>
