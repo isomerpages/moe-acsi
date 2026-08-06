@@ -37,11 +37,8 @@ either Parent’s/Guardian’s Singpass.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Pictur_School_Fees_.png">
 </div>
-<p><em>SFS Infosheet</em>
+
+<p><a href="/files/SFS_Infosheet.pdf" rel="noopener nofollow" target="_blank">SFS Infosheet</a>
 </p>
-<p><em>Standing Order Step-by-Step Guide</em>
-</p>
-<p><a href="/files/SFS_Infosheet.pdf" rel="noopener nofollow" target="_blank">123456</a>
-</p>
-<p><a href="/files/Edusave_SO_Step_by_Step_Guide.pdf" rel="noopener nofollow" target="_blank">1234567</a>
+<p><a href="/files/Edusave_SO_Step_by_Step_Guide.pdf" rel="noopener nofollow" target="_blank">Standing Order Step-by-Step Guide</a>
 </p>
