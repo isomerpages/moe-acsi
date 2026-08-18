@@ -5,10 +5,6 @@ description: ""
 third_nav_title: Tennis
 variant: tiptap
 ---
-<h4><strong>SINGAPORE SCHOOLS SPORTS COUNCIL SPORTSMANSHIP AWARD 2025</strong></h4>
-<p>
-<br>Erin Lee Min En 5.11
-<br>Nigel Chen Guanrui 5.05</p>
 <h3>NATIONAL INTER-SCHOOL TENNIS CHAMPIONSHIPS RECORDS</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -57,6 +53,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20260813_WA0018.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -110,7 +109,7 @@ variant: tiptap
 <p>First runner-up</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Champion</p>
 </td>
 </tr>
 <tr>
