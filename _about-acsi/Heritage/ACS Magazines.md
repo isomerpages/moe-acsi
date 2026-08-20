@@ -82,11 +82,11 @@ variant: markdown
         </p>
       </td>
       <td style="padding: 12px; text-align: center; vertical-align: top;">
-        <a style="display: block; text-decoration: none;" href="https://sites.acsindep.edu.sg/ACS%20Magazines/ACS%20Magazine%20June%201934/" rel="noopener noreferrer nofollow" target="_blank">
+        <a style="display: block; text-decoration: none;" href="https://sites.acsindep.edu.sg/ACS%20Magazines/ACS%20Magaine%20June%201934/" rel="noopener noreferrer nofollow" target="_blank">
           <img style="width: 100%; height: 150px; object-fit: contain; display: block; margin: 0 auto; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: transform 0.2s ease;" alt="ACS Magazine June 1934" src="/images/June_34.png">
         </a>
         <p style="margin: 10px 0 0; font-size: 0.95rem; line-height: 1.3;">
-          <a style="color: #1a365d; text-decoration: none; font-weight: 500;" href="https://sites.acsindep.edu.sg/ACS%20Magazines/ACS%20Magazine%20June%201934/" rel="noopener noreferrer nofollow" target="_blank">June 1934</a>
+          <a style="color: #1a365d; text-decoration: none; font-weight: 500;" href="https://sites.acsindep.edu.sg/ACS%20Magazines/ACS%20Magaine%20June%201934/" rel="noopener noreferrer nofollow" target="_blank">June 1934</a>
         </p>
       </td>
     </tr>

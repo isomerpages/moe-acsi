@@ -24,7 +24,7 @@ We offer a variety of programmes for Physics and Computer Studies.
 
 ### _Notes on Programmes Offered_
 
-*   _**Express**.  The GCE ‘O’-Level Express programme, subject code Physics 6091.  The latest syllabus can be obtained from the SEAB website [here](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6091_y24_sy.pdf)._
+*   _**Express**.  The GCE ‘O’-Level Express programme, subject code Physics 6091.  The latest syllabus can be obtained from the SEAB website here._
 *   _**IP.**  Our Integrated Programme.  For Physics, the course is augmented from the Express syllabus for Physics.  For Computer Studies, the course is a preparatory programme for the IBDP Computer Science syllabus._
 *   _**IBDP.**  The International Baccalaureate Diploma Programme.  Information about the Physics course is found [here](http://www.ibo.org/programmes/diploma-programme/curriculum/sciences/physics/), and about the Computer Science course is found [here](https://www.ibo.org/programmes/diploma-programme/curriculum/sciences/computer-science/)._
 *   _**ACS / ASP.**  Our Accelerated Class for Science /_ _Advanced Science Programme.  This is our science talent development program, tailored for students with a strong aptitude for science.  Please refer [here](/departments/science/special-programmes/) for programme details._
