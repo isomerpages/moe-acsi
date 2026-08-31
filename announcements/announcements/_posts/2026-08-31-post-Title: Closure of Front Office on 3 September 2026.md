@@ -7,3 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Please be informed that the ACS(I) Front Office will be closed for a school
+function on Thursday, 3 September 2026, from 10.30 am onwards.</p>
+<p>The Front Office will resume operations on Friday, 4 September, 7.00 am.</p>
+<p>Thank you.</p>
