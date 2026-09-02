@@ -9,7 +9,7 @@ Anglo-Chinese  School  (Independent)  is  a  Music  Elective  Programme 
 
 The  department  runs  four  core  programmes:
 
-1. [Music Elective Programme (Year 1-4  Express & IP, SEC G3 Higher Music Examination))](https:///talent-development/td-mep/)
+1. [Music Elective Programme (Year 1-4  Express & IP, SEC G3 Higher Music Examination))](/talent-development/td-mep/)
 
 2. [International Baccalaureate Diploma Programme Music, Higher Level (Year 5-6)](/departments/aesthetics/ib-music-programme/)
 
