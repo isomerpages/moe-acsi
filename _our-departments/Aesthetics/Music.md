@@ -9,13 +9,13 @@ Anglo-Chinese  School  (Independent)  is  a  Music  Elective  Programme 
 
 The  department  runs  four  core  programmes:
 
-1. [Music Elective Programme (Year 1-4  Express & IP, SEC G3 Higher Music Examination))](/aesthetics/departments/music-elective-programme/)
+1. [Music Elective Programme (Year 1-4  Express & IP, SEC G3 Higher Music Examination))](https:///talent-development/td-mep/)
 
-2. [International Baccalaureate Diploma Programme Music, Higher Level (Year 5-6)](/aesthetics/departments/ib-music-programme/)
+2. [International Baccalaureate Diploma Programme Music, Higher Level (Year 5-6)](/departments/aesthetics/ib-music-programme/)
 
-3. [Lower Secondary Music Programme (Year 1-2, compulsory curriculum component)](/aesthetics/departments/general-music-programme-gmp/)
+3. [Lower Secondary Music Programme (Year 1-2, compulsory curriculum component)](/departments/aesthetics/general-music-programme-gmp/)
 
-4. [Music Elective Programme Centre (for external Sec 1-4  students.  Entry into this programme is strictly in Sec 1 only)](/aesthetics/departments/mep-centre-for-external-students/)
+4. [Music Elective Programme Centre (for external Sec 1-4  students.  Entry into this programme is strictly in Sec 1 only)](/departments/aesthetics/mep-centre-for-external-students/)
 
 The  MEP  provides  students  with  the  opportunity  to  engage  in  the  world  of  music  as  lifelong  participants.  The  school  holds  an  annual  concert  ‘ACSpressivo’  where  MEP  students  from  both  the  ‘O’  Level  Music  and  International  Baccalaureate  programme  put  up  solo  and  ensemble  performances.
 
