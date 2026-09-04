@@ -7,7 +7,6 @@ variant: markdown
 ---
 You may want to explore the following interesting sites related to mathematics competition
 
-[Mathematics competition resources](/mathcompetition/announcements/)    
 [speed app2](http://www.phy.ntnu.edu.tw/ntnujava/index.php?topic=2589.0)   
 [GeoGebra](http://www.geogebra.org/)   
 [Arcademic Skill Builders](http://www.arcademicskillbuilders.com/)   
